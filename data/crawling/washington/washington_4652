@@ -1,0 +1,185 @@
+Plan for Attacking Boston, 18–25 February 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Plan for Attacking Boston, 1825 February 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0237&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-02-18-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0236" title="General Orders, 18 February 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0238" title="To John Hancock, 1821 February 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; Plan for Attacking Boston, 1825 February 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0237&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0236" title="General Orders, 18 February 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0238" title="To John Hancock, 1821 February 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0332">332</span><div id="Rev03d216" class="doc">
+
+
+<h1>Plan for Attacking Boston</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[1825 February 1776]</td>
+	      </tr>
+      </table>
+</div>
+<p>In Obedience to Your Excellencys Orders, we have considered the Matters referred to Us, &amp; beg leave to recommend the following Signals to be given from Roxbury, in Case of any Movement of The Enemy to Distress our People at Dorchester Hill:</p>
+<p>Signal in Case the Enemy begin to Embarque, a Flagg on Roxbury meeting House; If they Actually Land at Dorchester Two Flaggs, One, over the Other; In case the Number of the Enemy Exceed Two Thousand Men; A Flagg at the East, &amp; another at the West End, of that Meeting House; in Case a reinforcement in Addittion to the Two Thousand are seen Embarqing a Flagg on the East, a Flagg on the West, &amp; a Flagg on the Middle of that Meeting House.</p>
+<p>In case the Enemy begin to Retreat; Three Flaggs one above the Other:</p>
+<p>In case the Enemy Carry the Works The Flaggs are to be Struck:</p>
+<p>We further beg leave to recommend to Yr Excellency That should it appear from the Signals at Roxbury or in any other way, that an Attack may be made upon Boston, with good probability of Success; We Recommend, that four Thousand Men Embark at the Mouth of Cambridge River.<a class="ptr" href="#GEWN-03-03-02-0237-fn-0001" id="GEWN-03-03-02-0237-fn-0001-ptr">1</a> Two Thousand of Them to be Furnishd from Cambridge, &amp; Two Thousand from Prospect, &amp; Winter Hill. One Thousand from each of those Hills; The Two Thousand from Cambridge to be Commanded By Brigadier Genl Sullivan &amp; The Other Two Thousand By Brigr Genl Greene, The whole to be Commanded By Major General Putnam.</p>
+<p>Signal for the Embarkation, A Pendant Hoisted on Prospect Hill.</p>
+<p>The First Division under Brigadier G. Sullivan to Land at the Powder House.</p>
+<p>The Second Division under Brigadier G: Greene to Land at Bartons Point, or rather to the South of it:</p>
+<p>Those who Land at the Powder House to Gain Possession of Beacon Hill, &amp; Mount Whoredom.</p>
+<p>Those who Land at Bartons Point, to Gain Possession of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0333">[333]</span>
+Copps Hill,<a class="ptr" href="#GEWN-03-03-02-0237-fn-0002" id="GEWN-03-03-02-0237-fn-0002-ptr">2</a> &amp; after securing that Post, proceed to Join The other Division, and Force the Enemys Works and Gates at the Neck, by which Means the Troops from Roxbury may be let in to Assist in the Reduction of The Town.</p>
+<p>The Two Divisions to Consist of Eight Regiments of Five Hundred Men each, The Men to be Chosen, their Arms well examind, &amp; the Officers to be the best, the most resolute &amp; experienced:</p>
+<p>The Three Floating Batteries here, to go in Front of The Other Boats, &amp; keep up a Heavy Fire on that part of The Town, where the Landings are to be made.</p>
+<div class="closer">
+<p class="signed">Israel Putnam</p>
+<p class="signed">Jno. Sullivan</p>
+<p class="signed">Nathanael Greene</p>
+<p class="signed">Horatio Gates</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0237-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document: a document (not a letter) neither in the author's handwriting nor signed by the author ]">D</abbr>, in Horatio Gatess writing and signed by each officer, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ A copy of what seems to be a revised version of this document, signed by Sullivan and Greene only and enclosed in a letter of 4 Mar. 1776 from Robert Hanson Harrison to Artemas Ward, was sold by Thomas Madigan, catalog 56, item 233, 1929, and by Sotheby Parke-Bernet, Inc., item 36, 11 June 1974. For significant differences between the plan abstracted in Madigans catalog and the one outlined in this document, see <a href="default.xqy?keys=GEWN-print-03-03-02-0237&amp;expandNote=GEWN-03-03-02-0237-fn-0001#GEWN-03-03-02-0237-fn-0001" class="document">notes 1</a> and <a href="default.xqy?keys=GEWN-print-03-03-02-0237&amp;expandNote=GEWN-03-03-02-0237-fn-0002#GEWN-03-03-02-0237-fn-0002" class="document">2</a>.</p>
+
+
+   <p>This undated document was written sometime after 16 Feb. when the council of war approved the occupation of Dorchester Heights and before 4 Mar. when the heights were taken. The speculative dates 1825 Feb. are taken from <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Richard K. Showman et al., eds. &lt;i&gt;The Papers of General Nathanael Greene&lt;/i&gt;. 13 vols. Chapel Hill, N.C., 19762005. ]">Showman, <span class="hi-italic" style="font-style: italic;">Greene Papers</span></span>, 1:19597.</p>
+
+
+   <p>Although there is no mention in the minutes of the council of war that met on 16 Feb. of a contingency plan for attacking Boston in connection with the occupation of Dorchester Heights, William Heath says in his <span class="hi-italic" style="font-style: italic;">Memoirs</span> that the plan was discussed generally by the council and approved over his strong objections. It was imagined, Heath writes, that so near an approach to the British [on Dorchester Heights] would induce them to make a sally, to dislodge the Americans. It was therefore deliberated in Council, that, in case the British should come forth, a strong detachment of Americans from the Cambridge camp, in <span class="hi-italic" style="font-style: italic;">boats</span>, should proceed down the river, and land at the bottom of the common in Boston. To this our General [Heath] made a most pointed opposition, alleging, that it would most assuredly produce only defeat and disgrace to the American army; that the British General must be supposed to be a master of his profession; that as such, he would first provide for the defence of the town, in every part, which was the great deposit of all his stores; that when this was done, if his troops would afford a redundancy, sufficient for a sally, he might attempt it; but it was to be remembered that, at any rate, the town would be defended; that it was impossible for troops, armed and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0334">[334]</span>
+disciplined as the Americans then were, to be pushed down in boats, at least one mile and a half, open to the fire of all the British batteries on the west side of the town, and to their whole park of artillery, which might be drawn to the bottom of the common long before the Americans could reach it, and be flanked also by the works on the [Boston] neck; that under such a tremendous fire, the troops could not effect a landing; and that he would never give his vote for it. It was, however, carried, that the attempt should be made (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Rufus Rockwell Wilson, ed. &lt;i&gt;Heaths Memoirs of the American War&lt;/i&gt;. 1798. Reprint. New York, 1904. ]">Wilson, <span class="hi-italic" style="font-style: italic;">Heaths Memoirs</span></span>, 47).</p>
+
+
+   <p>On 4 Mar. 1776 Robert Hanson Harrison wrote to Artemas Ward regarding this plan: As a mistake in the Signals which his Excellency gave you today might produce the most fatal consequences to the men who are to be Embarked from Litchmores Point &amp; Cambridge in case they shall be given in particular instances, It is his desire that you appoint one or two Judicious, sensible Officers to make them, in whom you can confidehis Excellency woud chuse em to be well acquainted with Numbers, that they may not be deceived as to the amount of the Ministerial Troops that may come outhe also desires that the Staffs on which the Signals are to be Hoisted, may be fixed to the meeting House, being apprehensive that If they are not, they might thro Inattention of those who heed em, or on the Enemies firing shot or Shells, be dropt which woud occasion confusion &amp; disorder (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers).</p>
+
+
+   <p>In a second letter of 4 Mar. to Ward, Harrison writes: His Excellency having only given you the Signals to be made, without a State of the measures to be adopted on this side on the happening of certain events, by his command I Inclose you the Signals &amp; the plan of Operations which will evince the necessity of your pursuing the directions in the Letter herewith sent, and the circumspection of the Officers appointed to make the Signals. He begs that you will provide them with the best Glasses you can procure that they may be enabled to discover the movements of the Enemy as clearly as possible. In a postscript Harrison added You will inform his Excellency of the names of the Officer or Officers &amp; who they are, if you can fix on em by the bearers return (Thomas Madigan, catalog 56, item 233, 1929). Harrison enclosed the copy of the revised plan signed by Greene and Sullivan (see above).</p>
+
+
+   <p>When the British failed to attack the American positions on Dorchester Heights on 5 or 6 Mar., this plan was not implemented. See <a href="default.xqy?keys=GEWN-print-03-03-02-0274&amp;expandNote=GEWN-03-03-02-0274-fn-0013#GEWN-03-03-02-0274-fn-0013" class="document">GW to Joseph Reed, 26 Feb.9 Mar., n. 13</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0309" class="document">GW to Hancock, 79 Mar. 1776.</a> For Heaths approval of this turn of events, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Rufus Rockwell Wilson, ed. &lt;i&gt;Heaths Memoirs of the American War&lt;/i&gt;. 1798. Reprint. New York, 1904. ]">Wilson, <span class="hi-italic" style="font-style: italic;">Heaths Memoirs</span></span>, 50.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0237-fn-0001-ptr" id="GEWN-03-03-02-0237-fn-0001">1</a>
+
+   <p>The abstract in Madigans catalog reads: We further beg leave to recommend to your Excellency, that if it should appear from the Signals at Roxbury, or in any other way that an attack may be made upon Boston with a probability of Success. We Recommend that Two Thousand men embark at the mouth of Cambridge River, Two Thousand more at Letchmores Point.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0237-fn-0002-ptr" id="GEWN-03-03-02-0237-fn-0002">2</a>
+
+   <p>The abstract in Madigans catalog reads: Signal for Embarkation, A Pendant hoisted on Prospect Hill. Those that embark from Letchmores Point to land at the Mill Pond and secure Cops Hill. The two thousand that embark from Cambridge to land near Hancocks house &amp; attack the works there. The Mill Pond was at the north end of Boston between Bartons Point and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0335">[335]</span>
+Copps Hill, where the British had an artillery battery overlooking the ferry to Charlestown. John Hancocks house and the powder house were in west Boston near Mount Whoredom, where the British had recently erected another battery to oppose the American position at Lechmeres Point.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0237 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0236" title="General Orders, 18 February 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0238" title="To John Hancock, 1821 February 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

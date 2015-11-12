@@ -1,0 +1,382 @@
+To John Hancock, 4–5 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To John Hancock, 45 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0150&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-04-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0149" title="To Nicholas Cooke, 4 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0151" title="To a Committee of the Massachusetts Council, 4 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; To John Hancock, 45 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0150&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0149" title="To Nicholas Cooke, 4 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0151" title="To a Committee of the Massachusetts Council, 4 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0223">223</span><div id="Rev01d141" class="doc">
+
+<h1>To John Hancock</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Camp at Cambridge August 4th[-5] 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>I am to acknowledge the Receipt of your Favour of the 24th July accompanied by 284 Commissions, which are yet much short of the necessary Number.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0001" id="GEWN-03-01-02-0150-fn-0001-ptr">1</a> I am much honoured by the Confidence reposed in me of appointing the several Officers recommended in mine of the 10th ult.; and shall endeavour to select such Persons, as are best qualified to fill those important Posts.</p>
+<p>General Thomas has accepted his Commission, &amp; I have heard nothing of his Retirement since, so that I suppose he is satisfied.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0002" id="GEWN-03-01-02-0150-fn-0002-ptr">2</a></p>
+<p>In the Renewal of these Commissions some Difficulties occur, in which I should be glad to know the Pleasure of the honbe Congress. The General Officers of the Massachusetts, have Regiments, those of Connecticut, have both Regiments, &amp; Companies, &amp; the other Field Officers have Companies each.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0003" id="GEWN-03-01-02-0150-fn-0003-ptr">3</a> From Rhode Island, the General Officer has no Regimt, but the Field Officers have Companies: But I do not find they have, or expect
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0224">[224]</span>
+Pay under more than one Commission. Should the Commissions now to be delivered pursue these different Establishments, there will be a Distinction between General &amp; Field Officers of the same RankIn Order to put New Hampshire, Massachusetts &amp; Rhode Island upon a Line with Connecticut, it would be necessary to dismiss a Number of Officers in Possession of Commissions, without any Fault of theirs; on the other Hand, to bring the Connecticut Generals, &amp; Field Officers to the same Scale with the others, will add to the Number of Officers, &amp; may be deemed inconsistent with the Terms on which they entered into the Service, altho. you add nothing to the Expence, except in the Article of Provisions. Upon the whole, it is a Case, which I would wish the Honbe Congress to consider &amp; determine.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0004" id="GEWN-03-01-02-0150-fn-0004-ptr">4</a></p>
+<p>Col: Gridley of this Province, who is at the Head of the Artillery has the Rank of Major Genl from the Provincial Congress. Will it be proper to renew his Commission here in the same Manner? It is proper here to remark, that in this Case he will take Rank of all the Brigadiers General, &amp; even the Majors General, whose Commissions are subsequent in Date, &amp; can answer no good Purpose, but may be productive of many bad Consequences.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0005" id="GEWN-03-01-02-0150-fn-0005-ptr">5</a></p>
+<p>These are Matters of some Importance, but I am embarrassed with a Difficulty of a superiour kind. The Estimate made in Congress, supposed all the Regiments to be formed upon one Establishment, but they are different in different Provinces; &amp; even vary in the same Province, in some Particulars. In Massachusetts, some Regiments have Ten Companies, others Eleven; The Establishment of the former is 590 Men Officers included, of the latter 649. The Establishment of Rhode Island, &amp; New Hampshire is 590 to a Regiment, Officers included. Connecticut has 1000 Men to a Regiment. Should the Massachusetts Regiments be completed; with the new Levies from Rhode Island &amp; Connecticut and the Riffle Men, the Number will exceed 22,000. If they should not be completed, as each Regiment is fully officerd, there will be a heavy Expence to the Publick without an adequate Service. The Reduction of some of them seems to be necessary &amp; yet is a Matter of much Delicacy, as we are situated. I most earnestly request it may be taken into immediate Consideration, &amp; the Time &amp; Mode of doing it,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0225">[225]</span>
+pointed out by the Honbe Congress.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0006" id="GEWN-03-01-02-0150-fn-0006-ptr">6</a> By an Estimate I have made, from the General Return, when the new Levies arrive, &amp; the Regiments are completed there will be 24,450 Men on the Pay &amp; Provision of the united Colonies. Some of the recruiting Officers who have been out on that Service, have returned with very little Success, so that we may safely conclude, the Number of 2064 now wanting to complete will rather increase than diminish[.]<a class="ptr" href="#GEWN-03-01-02-0150-fn-0007" id="GEWN-03-01-02-0150-fn-0007-ptr">7</a> There are the Regiment of Artillery consisting of 493 Men, &amp; one under Col: Sergeant who has not received any Commission; altho. he had Orders to raise a Regiment from the Provincial Congress here,<a class="ptr" href="#GEWN-03-01-02-0150-fn-0008" id="GEWN-03-01-02-0150-fn-0008-ptr">8</a> which are not included in the above Estimate. This last Regiment consists of 234 Men by the last Return, but a Company has since joinedBy adverting to the General Return, which I have the Honour of inclosing (No. 1.) it will be seen what Regiments are most deficient.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0009" id="GEWN-03-01-02-0150-fn-0009-ptr">9</a></p>
+<p>If the Congress does not chuse to point out the particular Regiments, but the Provinces in which the Reduction is to be made, the several Congresses &amp; Assemblies may be the proper Channell to conduct this Business: which I should also conceive the most adviseable, from their better Acquaintance with the Merits, Terms, &amp; Time of Service of the respective OfficersReducing some Regiments, &amp; with the Privates thereof, filling up others would certainly be the best Method of accomplishing this Work, if it were practicable; but the Experiment is dangerous, as the Massachusetts Men under the Priviledge of chusing their own Officers, do not conceive themselves bound if those Officers are disbanded.</p>
+<p>As General Gage is making Preparations for Winter, by contracting for Quantities of Coal; it will suggest to us the Propriety of extending our Views to that Season. I have directed that such Huts as have been lately made of Boards, should be done in such a Manner, that if necessary they may serve for covering during the Winter. but I need not enlarge upon the Variety of Necessities such as Cloathing, Fuel &amp;c.both exceedingly scarce &amp; difficult to be procured, which that Season must bring with it; if the Army, or any considerable Part of it is to remain embodied.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0010" id="GEWN-03-01-02-0150-fn-0010-ptr">10</a> From the Inactivity of the Enemy since the Arrival of their whole Reinforcement, their continual Addition to their Lines, &amp; many other Circumstances, I am inclined to think that finding us so well prepared to receive them, the Plan
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0226">[226]</span>
+of Operations is varied; &amp; they mean by regular Approaches to bombard us out of our present Line of Defence, or are waiting in Expectation that the Colonies must sink under the Weight of the Expence; or the Prospect of a Winters Campaign, so discourage the Troops as to break up our Army. If they have not some such Expectations, the Issue of which they are determined to wait; I cannot account for the Delay, when their Strength is lessened every Day by Sickness, Desertions, &amp; little Skirmishes.</p>
+<p>Of these last, we have had only two worthy of Notice: Having some Reason to suspect they were extending their Lines at Charles Town, I last Saturday Evening, ordered some of the Riffle Men down to make a Discovery, or bring off a PrisonerThey were accidentally discovered sooner than they expected; by the Guard coming to relieve, &amp; obliged to fire upon them: We have Reason to believe they killed several. They brought in two Prisoners whose Acct confirmed by some other Circumstances removed my Suspicions in part:<a class="ptr" href="#GEWN-03-01-02-0150-fn-0011" id="GEWN-03-01-02-0150-fn-0011-ptr">11</a> Since that Time we have on each Side drawn in our Centries, &amp; there have been scattering Fires along the Line. This Evening we have heard of three Captains who have been taken off by the Riffle Men &amp; one killed by a Cannon Shot from Roxbury besides severall Privates; but as the Intelligence is not direct, I only mention it as a Report which deserves Credit.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0012" id="GEWN-03-01-02-0150-fn-0012-ptr">12</a> The other happened at the Light House. A Number of Workmen having been sent down to repair it with a Guard of 22 Marines &amp; a Subaltern,<a class="ptr" href="#GEWN-03-01-02-0150-fn-0013" id="GEWN-03-01-02-0150-fn-0013-ptr">13</a> Major Tupper last Monday Morning about 2 oClock landed there with about 300 Men, attackd them killed the Officer, &amp; 4 Privates, but being detained by the Tide, in his Return he was attackd by several Boats, but he happily got through with the Loss of one Man killed &amp; another wounded. The Remainder of the ministerial Troops, 3 of which are badly wounded, he brought off Prisoners, with 10 Tories all of whom are on their Way to Springfield Gaol.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0014" id="GEWN-03-01-02-0150-fn-0014-ptr">14</a> The Riffle Men in these Skirmish lost one Man who we hear is a Prisoner in Boston GaolThe Enemy in Return endeavoured to surprize our Guard at Roxbury, but they being apprized of it by a Deserter, had Time to prepare for it; but by some Negligence or Misconduct in the Officer of the Guard, they burnt the George Tavern on the Neck;<a class="ptr" href="#GEWN-03-01-02-0150-fn-0015" id="GEWN-03-01-02-0150-fn-0015-ptr">15</a> &amp; have every Day since been cannonading us from their Lines both at Roxbury &amp; Charlestown, but with no other Effect than the Loss of two
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0227">[227]</span>
+MenOn our Part except straggling Fires from the small Arms about the Lines which we endeavour to restrain, we have made little or no Return.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0016" id="GEWN-03-01-02-0150-fn-0016-ptr">16</a> Our Situation in the Article of Powder is much more alarming than I had the most distant Idea of. Having desired a Return to be made out on my Arrival, of the Ammunition, I found 303 Bbbls of Powder mentioned as in the Store: But on ordering a new Supply of Cartridges yesterday, I was informed to my very great Astonishment, that there was no more than 36 Bbbls of the Massachusetts Store, which with the Stock of Rhode Island, New Hampshire &amp; Connecticut makes 9937 lb.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0017" id="GEWN-03-01-02-0150-fn-0017-ptr">17</a> not more than 9 Rounds a Man: As there had been no Consumption of Powder since, that could in any Degree account for such a Deficiency, I was very particular in my Inquiries, &amp; found that the Committee of Supplies, not being sufficiently acquainted with the Nature of a Return, or misapprehending my Request, sent in an Account of all the Ammunition, which had been collected by the Province so that the Report included not only what was in Hand, but what had been spent.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0018" id="GEWN-03-01-02-0150-fn-0018-ptr">18</a> Upon discovering this Mistake, I immediately went up to confer with the Speaker of the House of Representatives, upon some Measures to obtain a Supply from the neighbouring Townships, in such a Manner, as might prevent our Poverty being known as it is a Secret of too great Consequence to be divulged in the general Court, some Individual of which might perhaps indiscreetly suffer it to escape him, so as to find its Way to the Enemy the Consequences of which, are terrible even in Idea<a class="ptr" href="#GEWN-03-01-02-0150-fn-0019" id="GEWN-03-01-02-0150-fn-0019-ptr">19</a>I shall also write to the Governours of Rhode Island, &amp; Connecticut, &amp; the Committee of Safety in New Hampshire on this Subject, urging in the most forcible Terms, the Necessity of an immediate Supply if in their Power.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0020" id="GEWN-03-01-02-0150-fn-0020-ptr">20</a> I need not enlarge on our melancholy Situation; it is sufficient that the Existence of the Army, &amp; the Salvation of the Country, depends upon something being done for our Relief both speedy and effectual, &amp; that our Situation be kept a profound Secret.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0021" id="GEWN-03-01-02-0150-fn-0021-ptr">21</a></p>
+<p>In the Inclosures (No. 2 &amp; 3) I send the Allowance of Provisions &amp;c., made by the Provinces of Connecticut &amp; Massachusetts, the Mode &amp; Quantity are different from what has fallen within my Experience, &amp; I am confident must prove very wasteful, &amp; expensive. If any Alteration can be safely made, (which I much doubt) there might be a great Saving to the publick.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0022" id="GEWN-03-01-02-0150-fn-0022-ptr">22</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0228">[228]</span>
+<p>A Gentleman of my Family, assisted by a Deserter who has some Skill in Fortification, has by my Direction sketchd out two Draughts of our respective Lines, at Charles Town &amp; Roxbury, which with the Explanations will convey some Idea of our Situation, and I hope prove acceptable to the Members of the honourable Congress. They are the Inclosures (No. 4 &amp; 5).<a class="ptr" href="#GEWN-03-01-02-0150-fn-0023" id="GEWN-03-01-02-0150-fn-0023-ptr">23</a></p>
+<p>Since I had the Honour of addressing you last, I have been applied to, by a Committee of the General Court for a Detachment of the Army, to protect the Inhabitants of the Eastern Parts of this Province, from some apprehended Depredations on their CoastsI could have wishd to have complied with their Request but after due Consideration, &amp; consulting the General Officers, together with those Members of Congress, who are here, I thought it my Duty to excuse myself. The Application, &amp; my Answer are the Inclosures No. 6 &amp; 7 which I hope will be approved by the honourable Congress.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0024" id="GEWN-03-01-02-0150-fn-0024-ptr">24</a></p>
+<p>Since I began this Letter, the Original of which the Inclosure No. 8 is a Copy, fell into my Hands; as the Writer is a Person of some Note in Boston, &amp; it contains some Advices of Importance not mentioned by others, I thought proper to forward it as I received it. By comparing the Handwriting with another Letter, it appears the Writer is one Belcher Noyes, a Person probably known to some of the Gentlemen Delegates from this Province; who can determine from his Principles &amp; Character what Credit is due to him.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0025" id="GEWN-03-01-02-0150-fn-0025-ptr">25</a></p>
+<p>The Army is now formed into three grand Divisions, under the Command of the Generals Ward Lee &amp; Puttnam. Each Division into two Brigades, consisting of about 6 Regiments each, commanded by Generals Thomas, &amp; Spencer at Roxbury; Heath at Cambridge, Sullivan &amp; Green at Winter Hill.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0026" id="GEWN-03-01-02-0150-fn-0026-ptr">26</a> By this you will please to observe, there is a Deficiency of one Brigadier General, occasioned by Mr Pomroys not acting under his Commission, which I beg may be filled up as soon as possible.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0027" id="GEWN-03-01-02-0150-fn-0027-ptr">27</a> I observe the Honbe Congress have also favoured me with the Appointment of three Brigade Majors; I presume they have, or intend to appoint the rest soon, as, they cannot be unacquainted that one is necessary to each Brigade, &amp; in a new raised Army it will be an Office of great Duty &amp; Service.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0028" id="GEWN-03-01-02-0150-fn-0028-ptr">28</a></p>
+<p>General Gage has at length liberated the People of Boston, who land in Numbers at Chelsea every Day, the Terms on which
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0229">[229]</span>
+the Passes are granted as to Money Effects &amp; Provisions correspond with Mr Noyess Letter.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0029" id="GEWN-03-01-02-0150-fn-0029-ptr">29</a></p>
+<p>We have several Reports that General Gage is dismantling Castle William and bringing all the Cannon up to Town, but upon a very particular Inquiry, Accounts are so various that I cannot ascertain the Truth of it.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0030" id="GEWN-03-01-02-0150-fn-0030-ptr">30</a></p>
+<p>I am sorry to be under a Necessity of making such frequent Examples among the Officers where a Sense of Honour, &amp; the Interest of their Country might be expected to make Punishment unnecessary. Since my last, Capt. Parker of Massachusetts for Frauds both in Pay, &amp; Provisions, &amp; Capt. Gardiner of Rhode Island for Cowardice in running away from his Guard on an Alarm, have been broke.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0031" id="GEWN-03-01-02-0150-fn-0031-ptr">31</a> As nothing can be more fatal to an Army, than Crimes of this kind; I am determined by every Motive of Reward &amp; Punishment to prevent them in future.</p>
+<p>On the first Instt a Chief of the Cagnewaga Tribe, who lives about 6 Miles from Montreal, came in here, accompanied by a Col: Bayley of Cohoss. His Accounts of the Temper &amp; Disposition of the Indians, are very favourable. He says they have been strongly sollicited by Govr Carlton, to engage against us, but his Nation is totally averse: Threats, as well as Intreaties have been used without Effect. That the Canadians are well disposed to the English Colonies, and if any Expedition is meditated against Canada the Indians in that Quarter will give all their Assistance. I have endeavoured to cherish these favourable Dispositions, &amp; have recommended to him to cultivate them on his Return. What I have said, I enforced with a Present which I understood would be agreeable to him, and as he is represented to be a Man of Weight, &amp; Consequence in his own Tribe: I flatter myself his Visit will have a good Effect. His Accounts of Govr Carltons Force &amp; Situation at St Johns correspond with what we have already had from that Quarter.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0032" id="GEWN-03-01-02-0150-fn-0032-ptr">32</a></p>
+<p>The Accession of Georgia, to the Measures of the Congress is a happy Event &amp; must give a sincere Pleasure to every Friend of America.</p>
+<p>August 5th.</p>
+<p>We have Accounts this Morning of two Explosions at the Castle, so that its Destruction may now be supposed certain.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0033" id="GEWN-03-01-02-0150-fn-0033-ptr">33</a></p>
+<p>I have this Morning been alarmed with an Information that two Gentlemen from Philada [(]Mr Hitchbourn &amp; Capt. White)
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0230">[230]</span>
+with Letters for General Lee &amp; myself have been taken by Capt. Ayscough at Rhode Island, the Letters intercepted &amp; sent forward to Boston with the Bearers as Prisoners. That the Captain exulted much in the Discoveries he had made &amp; my Informer who was also in the Boat but released understood them to be the Letters of Consequence.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0034" id="GEWN-03-01-02-0150-fn-0034-ptr">34</a> I have therefore dispatchd the Express immediately back, tho I had before resolved to detain him till Fessendens Return.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0035" id="GEWN-03-01-02-0150-fn-0035-ptr">35</a> I shall be anxious till I am relieved from the Suspence I am in as to the Contents of those Letters.</p>
+<p>It is exceedingly unfortunate that Gentlemen should chuse to travel the only Road on which there is Danger. Let the Event of this be what it will I hope it will serve as a general Caution against trusting any Letters that Way in future.</p>
+<p>Nothing of Consequence has occurrd in the Camp these two Days. The Inhabitants of Boston continue coming out at Chelsea but under a new Restriction that no <span class="hi-italic" style="font-style: italic;">Men</span> shall come out without special Licence which is refused to all Mechanicks since the Tory Labourers were taken at the Light House.<a class="ptr" href="#GEWN-03-01-02-0150-fn-0036" id="GEWN-03-01-02-0150-fn-0036-ptr">36</a> I have the Honour to be Sir, Your most Obed. obliged &amp; very Hbble Servt</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0150-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, in Joseph Reeds writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Draft: a draft of a letter or document in the handwriting of someone other than the author ]">Df</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New-York Historical Society, New York ]">NHi</span>: Joseph Reed Papers;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 169;
+
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Morristown National Historical Park, Morristown, N.J. [[former abbreviation: NjMoHP]] ]">NjMoHP</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+The <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr> is endorsed Read before Congress Septr 13th (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:246). The draft is endorsed Sent by Alexander, and the letter-book copy includes the memorandum Sent by Alexandr the Express.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0001-ptr" id="GEWN-03-01-02-0150-fn-0001">1</a>
+
+   <p>Hancock sent GW 550 more blank commissions on 26 September.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0002-ptr" id="GEWN-03-01-02-0150-fn-0002">2</a>
+
+   <p>For a discussion of the controversy surrounding John Thomass commission as brigadier general, see <a href="default.xqy?keys=GEWN-print-03-01-02-0030&amp;expandNote=GEWN-03-01-02-0030-fn-0001#GEWN-03-01-02-0030-fn-0001" class="document">James Warren and Joseph Hawley to GW, 4 July 1775, n.1</a>. Thomas served as a brigade commander at Roxbury throughout the siege of Boston and led the troops that seized Dorchester Heights in March 1776. Promoted to major general on 6 Mar. 1776, Thomas took command of the American army at Quebec on 1 May and died of smallpox a month later at Sorel.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0003-ptr" id="GEWN-03-01-02-0150-fn-0003">3</a>
+
+   <p>The draft here includes the sentence In New Hampshire the General Officers have no Regiments, nor the Field Officers Companies. This sentence also appears in the letter-book copy and the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0004-ptr" id="GEWN-03-01-02-0150-fn-0004">4</a>
+
+   <p>Congress recommended in late September that no attempt be made to establish a uniform system of commissioning officers until the army was reorganized for the coming year (<a href="default.xqy?keys=GEWN-print-03-02-02-0044" class="document">Hancock to GW, 26 Sept. 1775</a>). Before receiving
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0231">[231]</span>
+that answer, however, GW acted on his own authority to end the practice of holding multiple commissions. See <a href="default.xqy?keys=GEWN-print-03-02-02-0025" class="document">GW to Hancock, 21 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0005-ptr" id="GEWN-03-01-02-0150-fn-0005">5</a>
+	
+   <p>Congress resolved on 20 Sept. that Richard Gridley be commissioned only as a colonel in the Continental army (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:256; <a href="default.xqy?keys=GEWN-print-03-02-02-0044" class="document">Hancock to GW, 26 Sept. 1775</a>). On 17 Nov. Gridley was replaced as commander of the artillery regiment by Henry Knox (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 3:35859).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0006-ptr" id="GEWN-03-01-02-0150-fn-0006">6</a>
+	
+   <p>No changes were made in the regiments until the army was rearranged for the next year (<a href="default.xqy?keys=GEWN-print-03-02-02-0044" class="document">Hancock to GW, 26 Sept. 1775</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0007-ptr" id="GEWN-03-01-02-0150-fn-0007">7</a>
+
+   <p>GW took this number from the general return of the army for 22 July 1775, which reports as wanting to complete the army: 131 sergeants, 102 drummers and fifers, and 2,064 privates. The general return for 29 July, enclosed in this letter, shows 124 sergeants, 105 drummers and fifers and 2,079 privates needed to bring the regiments to their authorized strengths. Both returns are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Revolutionary War Rolls, 177583.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0008-ptr" id="GEWN-03-01-02-0150-fn-0008">8</a>
+	
+   <p>The Massachusetts council formally approved Paul Dudley Sargents commission as colonel on 3 Oct. 1775 (<a href="default.xqy?keys=GEWN-print-03-01-02-0305" class="document">GW to the Massachusetts Council, 4 Sept. 1775</a>; <a href="default.xqy?keys=GEWN-print-03-02-02-0088" class="document">Massachusetts Council to GW, 3 Oct. 1775</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0009-ptr" id="GEWN-03-01-02-0150-fn-0009">9</a>
+
+   <p>A copy of the enclosed return, dated 29 July 1775 and signed by Horatio Gates as adjutant general, is in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Revolutionary War Rolls, 177583. An abstract of the return is in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 169. The most deficient Massachusetts regiments listed are those commanded by Jonathan Brewer, Ephraim Doolittle, Benjamin Ruggles Woodbridge, and William Prescott. The Connecticut, New Hampshire, and Rhode Island contingents are not broken down into regiments in the return. The total force reported present and fit for duty in the army around Boston, including both officers and enlisted men, is 13,899. With the sick and furloughed soldiers added, the total strength is 16,898.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0010-ptr" id="GEWN-03-01-02-0150-fn-0010">10</a>
+	
+   <p>For GWs order regarding the preparing of barracks for winter, see <a href="default.xqy?keys=GEWN-print-03-01-02-0105" class="document">General Orders, 26 July 1775</a>. In September Congress directed GW to Take the proper Steps to provide your Troops with necessary Cover and Fuel for the Winter (<a href="default.xqy?keys=GEWN-print-03-02-02-0044" class="document">Hancock to GW, 26 Sept. 1775</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0011-ptr" id="GEWN-03-01-02-0150-fn-0011">11</a>
+  
+   <p>This Morning, Joseph Reed wrote to Artemas Ward at 9:00 <span class="hi-small-caps" style="font-variant: small-caps;">a.m.</span> on 30 July 1775, a Detachmt of Riffle Men surprized the Enemies Guard . . . on Charles Town Neck&amp; brought off two Prisoners, but they give no particular Information but what we have had before: It is supposed that two of their Men were killed, not one on our Side was either killed or wounded (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers). See also Thomas Mifflin to Artemas Ward, 30 July 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers, and <a href="default.xqy?keys=GEWN-print-03-01-02-0123&amp;expandNote=GEWN-03-01-02-0123-fn-0003#GEWN-03-01-02-0123-fn-0003" class="document">GW to James Warren, 30 July 1775, n.3</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0012-ptr" id="GEWN-03-01-02-0150-fn-0012">12</a>
+
+   <p>Four Captains and a Subaltern, James Warren wrote to John Adams on 9 Aug. 1775, were killed the beginning of last week cheifly by the rifle men, and I am persuaded they will do great Execution (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:11416).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0013-ptr" id="GEWN-03-01-02-0150-fn-0013">13</a>
+
+   <p>Both the draft and letter-book copy read 32 Marines &amp; a Subaltern. On 22 July 1775 Vice Admiral Samuel Graves ordered an Officer of Marines and thirty Men from the <span class="hi-italic" style="font-style: italic;">Preston</span> and <span class="hi-italic" style="font-style: italic;">Boyne</span> to protect the laborers on the Lighthouse Island. With this Party, Graves wrote, the Engineers were of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0232">[232]</span>
+opinion the Light House might well be defended, until Succours arrived, against 1000 men, and the Admiral expected to have the Building soon repaired and a Light shewn as before (Gravess narrative, 22 July 1775, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 1:950).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0014-ptr" id="GEWN-03-01-02-0150-fn-0014">14</a>
+
+   <p>For a discussion of Maj. Benjamin Tuppers attack on Lighthouse Island on 31 July, see <a href="default.xqy?keys=GEWN-print-03-01-02-0134&amp;expandNote=GEWN-03-01-02-0134-fn-0001#GEWN-03-01-02-0134-fn-0001" class="document">General Orders, 1 Aug. 1775, n.1</a>. Tupper reported the casualties to Horatio Gates on 3 Aug.: I find by examination that we killed Six persons on the spot one of which was A Leiutt that we have 5 merines and one Torey in the Hospital that one Died of his wounds before he arrived to Roxbury that one women &amp; a Lad is still at Dorchester, so that ading the 15, above mentioned to the 38 which General [Artemas] Ward sent over to Cambridge makes 53 killd &amp; taken. Majr [John] Crane with his feildpeice which was planted on Nantasket Beach to cover our Retreat Sunk one of their Boats, and probably killd Sundry of their crews as the Enemy approchd within 200 yards. on our side we lost one man only, had two just graizd with Balls, we stove one of our Boats &amp; was oblidgd to leave it, we lost Seven small arms part of which were lost in Landing as the rocks were very steep some of the party Slipt in &amp; let go their guns to save themselves and we have 25 small arms and Accutriments brought off with us and concive there were more taken but have been secreted by some of the party (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0015-ptr" id="GEWN-03-01-02-0150-fn-0015">15</a>
+
+   <p>The George Tavern was burned on the night of 30 July. The officer of the guard was Capt. Christopher Gardner, Jr., of Rhode Island. See <a href="default.xqy?keys=GEWN-print-03-01-02-0124&amp;expandNote=GEWN-03-01-02-0124-fn-0002#GEWN-03-01-02-0124-fn-0002" class="document">General Orders, 31 July 1775, n.2.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0016-ptr" id="GEWN-03-01-02-0150-fn-0016">16</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-01-02-0124" class="document">General Orders, this date.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0017-ptr" id="GEWN-03-01-02-0150-fn-0017">17</a>
+
+   <p>The draft and letter-book copy read 9940 lb.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0018-ptr" id="GEWN-03-01-02-0150-fn-0018">18</a>
+	
+   <p>GW apparently is referring to the undated return in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> that begins Agreeable [to] your Excellencys desire the Committee of Supplies for the Colony of the Massachusetts BayOffer the following as a general state of the Ordinance &amp; Ordinance stores Provided by them for the use of the Forces raised by this Colony. There follows a detailed list of various artillery pieces, shells, musket balls, gunpowder, and other items of military equipment. The information that only thirty-six barrels of gunpowder remained in the Massachusetts supply is in <a href="default.xqy?keys=GEWN-print-03-01-02-0136" class="document">the letter that the committee of supplies wrote to GW on 1 August</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0019-ptr" id="GEWN-03-01-02-0150-fn-0019">19</a>
+	
+   <p>On 4 Aug. the Massachusetts General Court appointed a committee of nine men to collect gunpowder from various towns in the eastern part of the colony, leaving each town only a small quantity for its use. The committee was also empowered to take gunpowder from any other towns where it was available and to purchase it from any private person who had any for sale (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ In &lt;i&gt;Journals, Minutes, and Proceedings, State of Massachusetts Bay, 17751780&lt;/i&gt;. (Microfilm Collection of Early State Records.) ]">Mass. Council Journal, July 1775Feb. 1776 sess.</span>, 4546; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives of the Colony of the Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1775. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span>, JulyNov. 1775 sess</span>., 4243).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0020-ptr" id="GEWN-03-01-02-0150-fn-0020">20</a>
+	
+   <p>See GWs letters of this date to <a href="default.xqy?keys=GEWN-print-03-01-02-0149" class="document">Nicholas Cooke</a>, <a href="default.xqy?keys=GEWN-print-03-01-02-0155" class="document">Jonathan Trumbull, Sr.</a>, and the <a href="default.xqy?keys=GEWN-print-03-01-02-0153" class="document">New Hampshire Committee of Safety</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0021-ptr" id="GEWN-03-01-02-0150-fn-0021">21</a>
+
+   <p>On 18 Sept. Congress resolved that a (secret) Committee be appointed to contract and agree for the importation and delivery of any quantities of gunpowder, not exceeding, in the whole five hundred tons and that in case such a quantity of gunpowder cannot be obtained, then to contract for the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0233">[233]</span>
+importation of as much saltpetre with a proportionable quantity of sulphur, as with the powder they may procure will make up the quantity of five hundred tons (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:253).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0022-ptr" id="GEWN-03-01-02-0150-fn-0022">22</a>
+
+   <p>The rations for Massachusetts troops are specified in a resolution of the Massachusetts provincial congress dated 10 June 1775 (enclosure number 2), and those for Connecticut troops in an order of the Connecticut general assembly dated May 1775 (enclosure number 3). Both documents are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152. See also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Lincoln, ed. &lt;i&gt;The Journals of Each Provincial Congress of Massachusetts in 1774 and 1775, and of the Committee of Safety&lt;/i&gt;. Boston, 1838. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. Prov. Congress Journals</span></span>, 31718, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Royal R. Hinman, comp. &lt;i&gt;A Historical Collection, from Official Records, Files &amp;amp;c., of the Part Sustained by Connecticut, during the War of the Revolution&lt;/i&gt;. Hartford, 1842. ]">Hinman, <span class="hi-italic" style="font-style: italic;">Historical Collection</span></span>, 173. The daily ration for each Massachusetts soldier consisted of 1 pound of bread, pound each of beef and pork, 1 pint of milk or 1 gill of rice, 1 quart of spruce or malt beer, and 1 gill of peas or beans or other Sauce equivalent. If pork was unavailable, the meat ration was to be 1 pounds of beef, and once every week 1 pounds of salt fish were to be substituted for the meat. In addition, each man was allowed 6 ounces of butter and  pint of vinegar each week. One pound of common soap a week was allotted to six men. The Connecticut daily ration for each man was  of a pound of pork or 1 pound of beef, 1 pound of bread or flour, 3 pints of beer or Spruce Sufficient, and 1 pint of milk. Fish was to be substituted for the daily meat ration three times a week. Each man was also to receive every week  pint of rice or 1 pint of meal, 6 ounces of butter, and 3 pints of peas or beans. Each company had a weekly allowance of 9 gallons of molasses, 3 pounds of candles, 24 pounds or 4 shillings worth of soap, 2 gallons of vinegar, 6 pounds of chocolate, and 3 pounds of sugar. A gill of rum was allowed for each man on fatigue days. For the Continental rations, see <a href="default.xqy?keys=GEWN-print-03-01-02-0173" class="document">General Orders, 8 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0023-ptr" id="GEWN-03-01-02-0150-fn-0023">23</a>
+
+   <p>John Trumbull, who became an aide-de-camp to GW on 27 July, drew these maps. Enclosure number 4 is a Plan of Lines at Roxbury, and enclosure number 5 is a General Sketch of the Lines at Charlestown, Prospect Hill &amp; Roxbury. They are reproduced on pp. 23437. Trumbull says in his autobiography that he scouted the British fortifications on Boston Neck by creeping (under the concealment of high grass) so night that I could ascertain that the work consisted of a curtain crossing the entrance of the town, flanked by two bastions, one on the western and the other on the eastern side, and I had ascertained the number of guns mounted on the eastern, (their caliber was already known,) when my farther progress was rendered unnecessary by the desertion of one of the British artillerymen, who brought out with him a rude plan of the entire work (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Theodore Sizer, ed. &lt;i&gt;The Autobiography of Colonel John Trumbull: Patriot-Artist, 17561843&lt;/i&gt;. 1953. Reprint. New York, 1970. ]">Sizer, <span class="hi-italic" style="font-style: italic;">Trumbull Autobiography</span></span>, 22).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0024-ptr" id="GEWN-03-01-02-0150-fn-0024">24</a>
+
+   <p>Enclosure number 6 is a copy of the resolution on coastal defense that the Massachusetts General Court passed on 29 July. See <a href="default.xqy?keys=GEWN-print-03-01-02-0123&amp;expandNote=GEWN-03-01-02-0123-fn-0002#GEWN-03-01-02-0123-fn-0002" class="document">GW to James Warren, 30 July 1775, n.2</a>. Enclosure number 7 is a copy of <a href="default.xqy?keys=GEWN-print-03-01-02-0123" class="document">GWs letter to James Warren of 30 July 1775</a>, which is incorrectly dated 31 July. See <a href="default.xqy?keys=GEWN-print-03-01-02-0123" class="document">GW to Warren, 30 July 1775</a>, source note. Both enclosures are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0025-ptr" id="GEWN-03-01-02-0150-fn-0025">25</a>
+
+   <p>Belcher Noyess letter, dated at Boston on 1 Aug. 1775, was addressed to his son Nathaniel Noyes at Andover. Since the Battle at Charlestown, he wrote, some conjecture the Destruction of this Town is intended, for what purpose cant determine. We are now got to the Beginning of August and nothing turns up in favor of America. The General Talk now is that the English
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0234">[234]</span>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0235">[235]</span>
+  
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0236">[236]</span>
+  
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0237">[237]</span>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0238">[238]</span>
+Troops are going to leave this Town, this seems evident from several things that are taking place; Vizt General Gages family are going to England: Messrs [Robert] Auchmuty, [Jonathan] Sewall, &amp;c., &amp; others of that Stamp are going some to England and else whereI am pretty Confident the Army cant be Supported in this Town the ensuing WinterProvisions Scarce and bad, no fuel, nor Money. People are jealous they will plunder and demolish the Town when they go off. . . . The Dysentery has prevaild in this Town &amp; been very mortal especially among Children also among the Soldiers of whom near 30 are buried in a Week as the Sextons say. . . . No Bells are permitted to toll for any Funerals on Account of the Sickness and Mortality among the Soldiers. . . . Since April 19. there have died of the Army including what were Slain in Battle June 17. near 2500, so that what Troops have arrived will not make good their Loss (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152). GW received the original of this letter from Loammi Baldwin (<a href="default.xqy?keys=GEWN-print-03-01-02-0139" class="document">Baldwin to GW, 2 Aug. 1775</a>). Belcher Noyes (c.17081785) operated an apothecary shop in Boston for many years.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0026-ptr" id="GEWN-03-01-02-0150-fn-0026">26</a>
+
+   <p>For GWs reorganization of the Continental army around Boston, see <a href="default.xqy?keys=GEWN-print-03-01-02-0091" class="document">General Orders, 22 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0027-ptr" id="GEWN-03-01-02-0150-fn-0027">27</a>
+
+   <p>For GWs recommendations for this brigadier general, see his <a href="default.xqy?keys=GEWN-print-03-01-02-0285" class="document">letter to Hancock of 31 Aug. 1775</a>. Joseph Frye was chosen for the position by Congress on 10 Jan. 1775 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:47).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0028-ptr" id="GEWN-03-01-02-0150-fn-0028">28</a>
+
+   <p>For the appointments of the six brigade majors, see <a href="default.xqy?keys=GEWN-print-03-01-02-0209" class="document">General Orders, 15</a>, <a href="default.xqy?keys=GEWN-print-03-01-02-0216" class="document">17</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0274" class="document">30 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0029-ptr" id="GEWN-03-01-02-0150-fn-0029">29</a>
+	
+   <p>Last Week, Belcher Noyes wrote in his letter of 1 Aug. to his son Nathaniel, there was a Notification posted up, that all those who were desirous to leave the Town to give in their Names to James Urquhart Town Major, &amp; in two days time upwards of 2000 entered their Names, &amp; passes are now granted with this Adition to the former restrictionvizt No Plate of any kind, nor more money than 5SterlingThe rout is by way of Winnisimmett (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0030-ptr" id="GEWN-03-01-02-0150-fn-0030">30</a>
+
+   <p>Belcher Noyes informed his son: The Light House was burnt as it is Said by Order of the Continental Congress, and in Return for that Compliment they are dismounting Castle William, I beleive for want of Men to defend it (Noyes to Nathaniel Noyes, 1 Aug. 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152). This and other reports of the destruction of the fort were false. See <a href="default.xqy?keys=GEWN-print-03-01-02-0150&amp;expandNote=GEWN-03-01-02-0150-fn-0033#GEWN-03-01-02-0150-fn-0033" class="document">note 33</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0031-ptr" id="GEWN-03-01-02-0150-fn-0031">31</a>
+
+   <p>For Capt. Oliver Parkers court-martial, see <a href="default.xqy?keys=GEWN-print-03-01-02-0138" class="document">General Orders, 2 Aug. 1775</a>. For the court-martial of Capt. Christopher Gardner, Jr., see <a href="default.xqy?keys=GEWN-print-03-01-02-0124" class="document">General Orders, 31 July</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0138" class="document">2 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0032-ptr" id="GEWN-03-01-02-0150-fn-0032">32</a>
+
+   <p>The chief of the Caughnawaga tribe was Colonel Louis (Lewis), who was interviewed by a committee of the Massachusetts General Court on 3 Aug. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives of the Colony of the Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1775. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span>, JulyNov. 1775 sess</span>., 3536). Several months after this visit to Cambridge, the Caughnawaga signed a peace treaty with Schuyler, promising to remain neutral in the struggle between the colonies and the mother country, but on 13 Jan. 1776 Colonel Louis and twelve other Caughnawaga arrived at Cambridge and expressed a desire to take up arms on behalf of the colonies. The Caughnawaga agreed to join the Continental army in Canada if called on by the Americans (<a href="default.xqy?keys=GEWN-print-03-03-02-0145" class="document">GW to Schuyler,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0239">[239]</span>
+27 Jan.</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0173" class="document">1 Feb. 1776</a>). Although the Caughnawaga apparently were not asked to participate in the Canadian campaign, they remained on good terms with the Americans throughout the war. In 1779 GW referred to Colonel Louis as my old friend . . . who I know is sensible, &amp; beleive to be honest (<a href="default.xqy?keys=GEWN-print-03-20-02-0505" class="document">GW to Schuyler, 21 May 1779</a>), and on one occasion during GWs <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Presidency' &lt;span style='font-size: 90%'&gt;[[2007-12-17]]&lt;/span&gt; ]">presidency</span>, Colonel Louis dined with him in Philadelphia (Dorothy Twohig, ed., <span class="hi-italic" style="font-style: italic;">The Journal of the Proceedings of the President, 17931797</span> [Charlottesville, 1981], 49). Jacob Bayley (17281815) lived at Newbury, Vt., in the area along the Connecticut River generally known as Coos (Cohos). He later became a brigadier general in the New Hampshire militia and a Continental deputy quartermaster general.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0033-ptr" id="GEWN-03-01-02-0150-fn-0033">33</a>
+	
+   <p>Castle William was not destroyed until the British evacuated Boston the following March (<a href="default.xqy?keys=GEWN-print-03-03-02-0400" class="document">GW to Joseph Reed, 25 Mar. 1776</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0034-ptr" id="GEWN-03-01-02-0150-fn-0034">34</a>
+
+   <p>Benjamin Hichborn (17461817), a young lawyer from Boston, was captured on 31 July when the packet boat on which he was crossing Narragansett Bay ran aground while being chased by the British sloop <span class="hi-italic" style="font-style: italic;">Swan</span>, commanded by Capt. James Ayscough. During a visit to Philadelphia earlier in July, Hichborn begged several members of Congress, John Adams in particular, to give him letters to carry to Massachusetts as evidence of his patriotism. Having served some years before as a law clerk under Samuel Fitch, a well-known Loyalist, Hichborn was, he told Adams, suspected and represented as a Tory, and this Reputation would be his ruin, if it could not [be] corrected, for nobody would employ him at the Bar (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ L. H. Butterfield, ed. &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;. 4 vols. Cambridge, Mass., 1961. ]">Butterfield, <span class="hi-italic" style="font-style: italic;">Adams Diary and Autobiography</span></span>, 3:319). Among the letters that Hichborn took with him was one of 2124 July 1775 from Benjamin Harrison to GW (see source note for that document) and two of 24 July 1775 from John Adams, one to his wife Abigail and the other to James Warren. See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Lyman H. Butterfield et al., eds. &lt;i&gt;Adams Family Correspondence&lt;/i&gt;. 9 vols. to date. Cambridge, Mass., 1963. ]">Butterfield, <span class="hi-italic" style="font-style: italic;">Adams Family Correspondence</span></span>, 1:25558, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:8993. Hichborn failed to destroy the letters when he had the opportunity immediately before and after his capture (Hichborn to Adams, 28 Oct. 1775, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:25557). His captors soon discovered the letters and sent them and Hichborn to Vice Admiral Samuel Graves at Boston. Harrisons letter and Adams two were printed in the <span class="hi-italic" style="font-style: italic;">Massachusetts Gazette: and the Boston Weekly News-Letter</span> on 17 Aug. 1775. Hichborn remained prisoner on Gravess flagship, the <span class="hi-italic" style="font-style: italic;">Preston</span>, until he escaped on the night of 18 Oct. 1775. While Adams and Warren forgave Hichborn for his blundering, GW apparently did not. See Hichborn to Adams, 28 Oct. and 25 Nov.-10 Dec. 1775, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:25557, 32027, and <a href="default.xqy?keys=GEWN-print-03-01-02-0167" class="document">GW to James Warren, 6 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0035-ptr" id="GEWN-03-01-02-0150-fn-0035">35</a>
+
+   <p>The express rider was Alexander. See source note.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0150-fn-0036-ptr" id="GEWN-03-01-02-0150-fn-0036">36</a>
+
+   <p>Belcher Noyes wrote in a postscript to his letter of 1 Aug. to his son Nathaniel: Since I finished this Letter, Passes are denyd to <span class="hi-italic" style="font-style: italic;">Men</span> without Special Leave (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0150 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0149" title="To Nicholas Cooke, 4 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0151" title="To a Committee of the Massachusetts Council, 4 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

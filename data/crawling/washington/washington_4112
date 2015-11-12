@@ -1,0 +1,194 @@
+From Jonathan Trumbull, Sr., 6 November 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Trumbull, Sr., 6 November 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0292&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-11-06-11">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0291" title="From Major General Philip Schuyler, 67 November 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0293" title="To Lund Washington, 6 November 1775 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Trumbull, Sr., 6 November 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0292&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0291" title="From Major General Philip Schuyler, 67 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0293" title="To Lund Washington, 6 November 1775 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0319">319</span><div id="Rev02d275" class="doc">
+
+<h1>From Jonathan Trumbull, Sr.</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Lebanon [Conn.] 6th Novemr 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>I have received your favour of the 29th Octo. ulto Wherein you mention the case of Dr Cheney commissioned from hence a Physitian and Surgeon which you are persuaded to have been obtained by some misrepresentation. Indeed I was not apprized of any misconduct or bad behaviour of hisIf he is guilty of any such Crime, hope he may be convicted &amp; discharged.</p>
+<p>I will give a detail of his case as it lay before me and my CouncilI had no personal knowledge of the Surgeon or his Mates, Appointed for the third Regiment raised in this Colony, nor that either of them was returned until the 13th of SeptrI received a Letter from Nath. Wales Esqr. wherein he says, I have this minute received a Letter from Colo. Storrs informing me that Dr Cheney has left the Army, and that Regiment have no Doctor but Dr Spaulding who is not esteemed very highly as a Physitian, whatever he may be of a Surgeon. Colo. Storrs urges extream hard to have one sent equal to Dr Cheney, or that Dr Cheney may be sent back.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0320">[320]</span>
+<p>Thereupon I immediately sent for the Doctor, he came to me, I enquired the reason of his leaving the service, he let me know there was a misunderstanding between him and Dr Spauldingthat He therefore asked the favour of Your Excellency to grant him a dismission, which you had doneand he did not incline to return under Dr Spaulding<a class="ptr" href="#GEWN-03-02-02-0292-fn-0001" id="GEWN-03-02-02-0292-fn-0001-ptr">1</a>I discoursed with him concerning the Sickness, the manner of treating &amp; providing for the Sick, and other affairs of the Army: He did not express one word in disparagement of any or either of the General Officers, or of any one else, excepting the reasons he gave of Dr Spaulding and his own disagreement. He appeared to me a sensible, prudent man. I dismissed him for that Time. Hearing of Dr Turners return to Norwich, I sent a request to him, to let me see him before his return to the Army:<a class="ptr" href="#GEWN-03-02-02-0292-fn-0002" id="GEWN-03-02-02-0292-fn-0002-ptr">2</a> which was principally from concern for the uneasiness which happened between those two Physitians and the representation of the unskilfulness of him who remained with the RegimentHe came, and we discoursed on the subject, and I found, that he did not look on Dr Spaulding to be skilled in PhysickThat He served an apprentiship with a Surgeon, who made little or no profession on PhysickDr Turner expressed his apprehension that Dr Spaulding had made no great proficiency in SurgeryThis information increased my concern, as I was told the other Mate was young and unexperienced.<a class="ptr" href="#GEWN-03-02-02-0292-fn-0003" id="GEWN-03-02-02-0292-fn-0003-ptr">3</a> At the next meeting of my Council I laid the case before them, called for Dr Cheney, conferred with him, proposed his returnHe remained dissatisfied with the treatment he met from Dr Spaulding.</p>
+<p>We thought ourselves warranted, from Colo. Storrss Letter, and Dr Turners information, to look on that Regiment not sutably furnished with skilful Physitians and Surgeons. We urged Dr Cheney to Return, and gave him a new Commission for that purpose<a class="ptr" href="#GEWN-03-02-02-0292-fn-0004" id="GEWN-03-02-02-0292-fn-0004-ptr">4</a>I cannot help suspecting an insidious design against him by his competitor, as I apprehend, Dr Spaulding may be calledBut doubt not your Caution That this Case and its circumstances, may be impartially examinedSince my beginning to write, I received from Mr Wales, who was at Your conference, an Extract from Colo. Storrs Letter to himwhich is enclosed.<a class="ptr" href="#GEWN-03-02-02-0292-fn-0005" id="GEWN-03-02-02-0292-fn-0005-ptr">5</a></p>
+<p>I have received various applications for the advancement of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0321">[321]</span>
+officers and filling Vacancieswhich I have declined save in the case of Capt. Dyer and Lt Huntington,<a class="ptr" href="#GEWN-03-02-02-0292-fn-0006" id="GEWN-03-02-02-0292-fn-0006-ptr">6</a> which I perceive was attended with difficultyThere is an application made to me by Lt Moses Cleveland, who served under Captain Perrit of the 7th Regiment, while Stiled a Company of Rangers the latter received a Commission from hence in Julythis subaltern who served with him, not being notified to us, was neglectedhe remained in the Army, turned out when needed, is desirous of continuing in the Service. If he is found qualified for a Commission, and vacancy happens, he will meet your Favour.<a class="ptr" href="#GEWN-03-02-02-0292-fn-0007" id="GEWN-03-02-02-0292-fn-0007-ptr">7</a></p>
+<p>In a Letter from Majr General Schuyler dated 31st of August ult.He says I have ordered the Lead I can spare to Albany, with directions to forward it by the most direct road to General Washington, that you may not have any unnecessary troubleHave mentioned it in my last to himand also wrote to Commissary Phelps at Albany concerning it.<a class="ptr" href="#GEWN-03-02-02-0292-fn-0008" id="GEWN-03-02-02-0292-fn-0008-ptr">8</a></p>
+<p>The Commissary General continues mending, but it is Slowlyhe hath rid out in a Chaise about a Mile last Weekhe hopes to be with Army soon. I am with great Truth and Regard Sir Your most Obedient humble Servant</p>
+<div class="closer">
+<p class="signed">Jonth. Trumbull</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-02-02-0292-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Draft: a draft of a letter or document in the handwriting of the author ]">ADf</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut Historical Society, Hartford ]">CtHi</span>: Trumbull Papers;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut State Library, Hartford ]">Ct</span>: Trumbull Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0001-ptr" id="GEWN-03-02-02-0292-fn-0001">1</a>
+	
+   <p>For other accounts of Cheneys resignation from the army, see <a href="default.xqy?keys=GEWN-print-03-01-02-0091&amp;expandNote=GEWN-03-01-02-0091-fn-0001#GEWN-03-01-02-0091-fn-0001" class="document">General Orders, 22 July 1775, n.1</a>, <a href="default.xqy?keys=GEWN-print-03-01-02-0304" class="document">Cheney to GW, 4 Sept. 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0235" class="document">GW to Trumbull, 29 Oct. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0002-ptr" id="GEWN-03-02-02-0292-fn-0002">2</a>
+
+   <p>Philip Turner (17401815) of Norwich was surgeon of the 8th Connecticut Regiment. In October 1776 the Connecticut general assembly appointed Turner physician and surgeon for the states Continental troops, and in April 1777 the Continental Congress made him surgeon general of the hospital in the eastern department. He was named a hospital physician and surgeon in October 1780 and resigned from the Continental service the following June.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0003-ptr" id="GEWN-03-02-02-0292-fn-0003">3</a>
+
+   <p>The other surgeons mate in the 3d Connecticut Regiment was Elijah Adams.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0004-ptr" id="GEWN-03-02-02-0292-fn-0004">4</a>
+
+   <p>The Connecticut council of safety appointed Cheney surgeon of the 3d Connecticut Regiment on 4 Oct. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Royal R. Hinman, comp. &lt;i&gt;A Historical Collection, from Official Records, Files &amp;amp;c., of the Part Sustained by Connecticut, during the War of the Revolution&lt;/i&gt;. Hartford, 1842. ]">Hinman, <span class="hi-italic" style="font-style: italic;">Historical Collection</span></span>, 335).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0005-ptr" id="GEWN-03-02-02-0292-fn-0005">5</a>
+
+   <p>The enclosed extract has not been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0006-ptr" id="GEWN-03-02-02-0292-fn-0006">6</a>
+
+   <p>For Thomas Dyers case, see <a href="default.xqy?keys=GEWN-print-03-02-02-0110" class="document">General Orders, 7 Oct. 1775</a>, and for that of Ebenezer Huntington, see <a href="default.xqy?keys=GEWN-print-03-02-02-0048" class="document">GW to Joseph Spencer, 26 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0007-ptr" id="GEWN-03-02-02-0292-fn-0007">7</a>
+
+   <p>Moses Cleveland (Cleaveland; 17541806) of Canterbury left Yale College to join the army, became an ensign in the 2d Connecticut Regiment on 1 Jan. 1777, and was promoted to lieutenant the following December. GW appointed
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0322">[322]</span>
+Cleveland a lieutenant in the corps of sappers and miners on 2 Aug. 1779 and a few weeks later advanced him to captain-lieutenant, which rank Cleveland held until he resigned in June 1781. Peter Perit (Perritt) served as a captain in Col. Charles Webbs regiment until April 1776 when GW ordered him to take command of the armed sloop <span class="hi-italic" style="font-style: italic;">Hester</span>. In August 1776 Perit joined Knoxs artillery regiment at Fort Washington where he was captured the following November. After his exchange in October 1778, Perit sought unsuccessfully to rejoin the army.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0292-fn-0008-ptr" id="GEWN-03-02-02-0292-fn-0008">8</a>
+
+   <p>The draft is endorsed in part: Novr 7Comy Phelps here informed 53 l. sent forward some time agoabout one Ton went on yesterday.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0292 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0291" title="From Major General Philip Schuyler, 67 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0293" title="To Lund Washington, 6 November 1775 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

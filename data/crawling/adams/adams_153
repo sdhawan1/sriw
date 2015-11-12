@@ -1,0 +1,175 @@
+none 17
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>IV. To the Boston Gazette, 25 January 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0096-0005&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1773-01-25-5">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC" title="On the Independence of the Judges: 11 January  22 February 1773"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC">On the Independence of the Judges: 11 January  22 February 1773</a>&gt; IV. To the <span class="italic">Boston Gazette</span>, 25 January 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0096-0005&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0273">273<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0273.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d149" class="doc published">
+
+     <h2>IV. To the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To the PRINTERS.</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">Monday, January 25, 1773</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>Another observation which occurred to me upon reading General Brattles first publication, was upon these words, That by the charter and common law of England, there is no necessity of <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0274">[274<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0274.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>having any commission at all; a nomination and appointment are the words of the charter, a commission for them not so much as mentioned in it. Their commission is only declarative of their nomination and appointment. Two questions arise upon this paragraph; and the first is, what provision is made by our charter? and the next is, what was necessary to the creation of a judge at common law?</p>
+      <p>As to our Charter: The King thereby grants and ordains, That it shall and may be lawful for the said governor, with the advice and consent of the council or assistants, from time to time, to nominate and appoint judges, commissioners of oyer and terminer, sheriffs, provosts, marshalls, justices of the peace, and other officers, to our council &amp; courts of justice belonging.<a class="ptr" href="#PJA01d149n1" id="PJA01d149n1-ptr">1</a></p>
+      <p>It is obvious from this, that there is no superior court of judicature court of assize and general goal delivery, nor any inferior court of common pleas, or any court of exchequer, expressly erected by the charter. Commissioners of oyer and terminer, the governor, with the advice and consent, of the council, is empowered to nominate and appoint: But it will not follow from hence, that a nomination and appointment, will alone constitute and empower commissioners of oyer and terminer. For the judges, which the governor with the advice of council are empowered to nominate and appoint, are not vested with any powers at all by the charter; but by another clause in it, the Great and General Court or Assembly shall forever have full power and authority to enact and constitute judicatories and courts of record, or other courts, to be held in the name of us, our heirs and successors; for the hearing, trying and determining of all manner of crimes, offences, pleas, processes, plaints, actions, matters, causes and things whatsoever, arising or happening within our said province or territory; or between persons inhabiting and residing there; whether the same be criminal or civil, and whether the said crimes be capital or not capital, and whether the said pleas be real, personal or mixt; and for the awarding and making out execution thereupon. In pursuance of this authority, our legislature, in 1699. by a law, 2 W. 3. c. 3. have established a superior court of judicature, court of assize and general goal delivery within this province, to be held by one chief justice, and four other justices to be appointed and commissionated for the same,<a class="ptr" href="#PJA01d149n2" id="PJA01d149n2-ptr">2</a> &amp;c. Is not General Brattle then greatly mistaken when he says that a nomination and appointment recorded is enough?enough for what? enough to constitute judges of our superior court, for they alone can be meant by the General, because the General himself determines his own meaning to be they who have the same <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0275">[275<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0275.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>powers with the kings bench, common bench and exchequer, and no other judges have those powers, but the judges of our superior court, &amp;c. and they have them, not by charter, but by the law of the province. If the governor should nominate and appoint with advice and consent, &amp;c. A. to be a judge, or A. B. and C. to be judges in the words of the charter, what powers would this nomination and appointment convey? none at all. It would be nugatory, and void. For according to Lord Coke, 4 Inst. 200, a new court cannot be erected but by act of parliament. And when a new court is erected, it is necessary that the jurisdiction and authority of the court be certainly set down. And that the court can have no other jurisdiction than is expressed in the erection. And he there mentions the case of a letters patents granted by E.G.<a class="ptr" href="#PJA01d149n3" id="PJA01d149n3-ptr">3</a> in these words. We will and ordain, that Richard Beauchampe, &amp;c. should have it (i.e. the office of the chancellor of the garter) for his life, &amp; after his decease, that his successors should have it forever; and it was resolved unanimously that this grant was void; for that a new office was erected, and it was not defined what jurisdiction or authority the officer should have; and therefore for the uncertainty it was void.</p>
+      <p>Let us next enquire, whether by the common law of England, there is or is not a necessity of the judges having any commissions at all. The authorities cited before, seem to shew very plainly, that the judges either of the kings bench, common bench, or exchequer, can be created only by writ, or by letters patents; and altho, these may be said not to be commissions, yet they are surely something more than nomination and appointment. However, writs and letters patents, are commissions, I presume, and should never have doubted it, if I had never read a News-Paper,But if I had doubted, I might easily have resolved the doubt. For we read in 1 Bac. Abr.<a class="ptr" href="#PJA01d149n4" id="PJA01d149n4-ptr">4</a> 555. That all judges must derive their authority from the crown by some commission warranted by law; the judges of Westminster, are (all, except the chief justice of the kings bench, who is created by writ) appointed by patent, and formerly held their places only during the Kings pleasure, &amp;c. 4 Inst. 75. Where in 5 E. 4. it is holden by all the justices in the Exchequer chamber that a man cannot be justice by writ, but by patent or commission, it is to be understood of all the judges, saving the chief justice of this court, (that is the kings bench) but both the chief justice and the rest of the judges may be discharged by writ under the great seal. And in page 74, Lord Coke observes, that the creation of the office, of chief justice, was first by writ, and afterwards by letters patents.<a class="ptr" href="#PJA01d149n5" id="PJA01d149n5-ptr">5</a> 1 Bac. Abr. 555. As all judges must <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0276">[276<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0276.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>derive their authority from the crown, by some commission warranted by law, they must also exercise it in a legal manner.</p>
+      <p>In order to see whether writs and letters patents are not commissions, let us look into any common dictionary or interpreter of law terms. See Cunninghams dictionary and Cowells interpreter,<a class="ptr" href="#PJA01d149n6" id="PJA01d149n6-ptr">6</a> under the word Commission. Commission commissio (says Cowell, and after him in the same words Cunningham,) is for the most part in the understanding of the law, as much as Delegatio with the Civilians. (See Brooke &amp; Sit. <span title="text unclear" class="unclear">[tit.]</span> Commission) and is taken for the warrant, or letters patents, that all men exercising jurisdiction either ordinary or extraordinary have, for their power to hear, or determine any cause or action.</p>
+      <p>Thus it seems to be very clear, that by the common law of England, a commission was absolutely necessary, for all the judges known at common law, and as to others erected by statute, let the statute speak. By 27 H. 8. c. 24. it is enacted, That no person or persons of what estate, degree, or condition soever they be, shall have any power or authority to make any justices of Eyre, justices of assize, justices of peace, or justices of goal delivery; but that all such officers and ministers shall be made by letters patents, under the Kings great seal, in the name and by the authority of the Kings highness, in all shires, counties, palatine, wales, &amp;c. or any other his dominions, &amp;c. any grants, usages, allowance or act of parliament to the contrary notwithstanding.</p>
+      <p>I shall add no more upon this point, but this, we find in Jenkinss centuries 123:<a class="ptr" href="#PJA01d149n7" id="PJA01d149n7-ptr">7</a> This question determined by all the judges of England in the Exchequer chamber, A writ of Admittas in association is directed to the justices of assize; A. shews this writ of admittas, in association to them, but does not shew the patent by which he is made justice: In this case, both ought to be shewn to the justices of assize. By all the judges in the Exchequer chamber, The judges of the kings bench, and common pleas, and the barons of the exchequer are made by patent, in which the word constituimus is used. The chief justice of the kings bench is constituted only by writ.</p>
+      <div class="closer">
+       <p class="signed">JOHN ADAMS</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d149n1-ptr" id="PJA01d149n1">1</a>
+       
+   <p>The charter of 1691. See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis N. Thorpe, ed., &lt;i&gt;The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories and Colonies&lt;/i&gt; Now &lt;i&gt;or Heretofore Forming the United States of America&lt;/i&gt;, Washington, 1909; 7 vols. ]">Thorpe, <span class="hi-italic" style="font-style: italic;">Federal and State Constitutions</span></span>, 3:1879.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n2-ptr" id="PJA01d149n2">2</a>
+       
+   <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Acts and Resolves, Public and Private, of the Province of the Massachusetts Bay&lt;/i&gt;, Boston, 18691922; 21 vols. ]">Mass., <span class="hi-italic" style="font-style: italic;">Province Laws</span></span>, 1:370.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n3-ptr" id="PJA01d149n3">3</a>
+       
+   <p>A typographical error for E.4.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n4-ptr" id="PJA01d149n4">4</a>
+       
+   <p>Matthew Bacon, <span class="hi-italic" style="font-style: italic;">A New Abridgement of the Law</span>, 5 vols., London, 17361766. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n5-ptr" id="PJA01d149n5">5</a>
+       
+   <p>This is either a misquotation by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> or a misprint. In his 4th <span class="hi-italic" style="font-style: italic;">Institute</span>, Coke made the reverse of this observation on the chief justices appointment: The creation of his office was by letters patents, he explained, until Edward I, being a wise and prudent prince, employed a new kind of creation, viz. <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0277">[277<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0277.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>by writ.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n6-ptr" id="PJA01d149n6">6</a>
+       
+   <p>Timothy Cunningham, A <span class="hi-italic" style="font-style: italic;">New and Complete Law-Dictionary</span>, 2 vols., London, 1764, 1765; John Cowell, <span class="hi-italic" style="font-style: italic;">The Interpreter: or Booke containing the Signification of Words</span>, London, 1637. Both entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>. Cowells citation is to Sir Robert Brooke, <span class="hi-italic" style="font-style: italic;">La Graunde Abridgement</span>, under the title Commission. Brooke is a kind of handbook of cases at common law arranged alphabetically.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d149n7-ptr" id="PJA01d149n7">7</a>
+       
+   <p>David Jenkins, <span class="hi-italic" style="font-style: italic;">Eight Centuries of Reports.</span> The passage quoted here appears at p. 123 of the 2d edn., London, 1734.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0096-0005 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.246.214</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,832 @@
+Most Frequent Words:
+
++--------------------+--------------------+--------------------+
+  Brown              |  Adams             |  Washington 
++--------------------+--------------------+--------------------+
+one			may			may
+would			would			mr
+said			shall			shall
+new			upon			upon
+could			great			sir
+time			one			one
+two			sir			would
+may			much			men
+first			every			general
+like			congress			time
+man			must			great
+even			letter			much
+made			time			must
+also			think			washington
+many			make			two
+must			adams			every
+af			made			think
+back			two			sent
+years			states			ditto
+much			us			good
+way			good			last
+well			general			made
+people			without			letter
+little			well			officers
+state			united			make
+good			new			give
+make			give			yr
+world			could			send
+still			said			take
+see			know			hope
+men			last			fort
+work			america			new
+long			many			servt
+get			take			without
+life			first			best
+never			american			order
+day			hope			john
+another			john			well
+know			never			know
+last			people			woud
+us			dear			pr
+might			yet			soon
+great			present			first
+old			part			pay
+year			see			part
+come			might			many
+since			wish			also
+go			letters			day
+came			humble			orders
+right			cannot			could
+used			received			shoud
+take			honour			place
+three			ever			dear
+states			since			march
+house			men			money
+use			mr			little
+without			long			said
+place			state			therefore
+american			soon			see
+around			excellency			acct
+however			taken			get
+home			english			till
+small			war			return
+found			whether			since
+thought			send			taken
+went			british			present
+say			sent			proper
+part			honor			come
+general			little			might
+high			power			us
+upon			england			number
+school			nothing			necessary
+every			obedient			given
+got			thing			receive
+united			france			troops
+left			find			mrs
+number			treaty			left
+course			country			three
+war			even			obedt
+always			public			leave
+away			also			land
+something			therefore			immediately
+fact			whole			cash
+water			court			court
+though			french			several
+public			go			paid
+less			man			yet
+put			respect			cannot
+think			day			go
+almost			done			country
+hand			account			find
+enough			several			dr
+far			three			captain
+took			ought			thing
+head			friend			congress
+yet			order			received
+government			another			please
+system			write			put
+better			given			done
+set			king			nothing
+told			house			small
+night			come			excellency
+nothing			let			humble
+end			servant			officer
+called			gentlemen			whole
+eyes			however			wrote
+find			best			days
+going			among			people
+look			say			came
+asked			army			man
+later			obliged			want
+knew			money			beg
+point			necessary			head
+next			peace			service
+program			least			wish
+business			leave			power
+city			minister			expect
+group			ships			genl
+give			opinion			hble
+toward			officers			long
+young			pay			captn
+days			perhaps			george
+let			powers			next
+room			either			company
+president			left			case
+side			able			never
+social			better			thought
+given			believe			army
+present			place			april
+several			boston			person
+order			answer			whether
+national			put			believe
+possible			thought			favour
+rather			way			regiment
+second			paris			got
+face			excellencys			command
+per			pleasure			large
+among			return			use
+form			right			town
+important			get			camp
+often			amsterdam			able
+things			case			william
+looked			liberty			way
+early			interest			virginia
+white			like			care
+case			still			near
+john			government			indians
+large			dont			account
+big			far			let
+four			subject			ordered
+need			certain			ever
+become			act			july
+within			beg			regard
+felt			favour			respect
+along			number			answer
+children			high			doubt
+saw			found			glad
+best			things			colonel
+church			europe			pleasure
+ever			les			coud
+least			britain			enemy
+power			late			letters
+development			common			better
+light			dutch			manner
+seemed			greatest			june
+thing			proper			found
+family			want			dozn
+interest			commerce			say
+want			reason			james
+members			next			matter
+mind			business			least
+area			ship			wm
+country			committee			desire
+others			told			hear
+although			news			kind
+turned			town			recd
+done			days			hundred
+open			hear			reason
+god			private			inform
+service			others			opinion
+certain			seems			four
+kind			friends			honor
+problem			van			far
+began			means			set
+different			esteem			particular
+door			franklin			provisions
+thus			kind			servant
+help			march			keep
+sense			receive			house
+means			board			obliged
+whole			copy			major
+matter			whose			river
+perhaps			commission			means
+york			service			soldiers
+times			foreign			another
+human			happy			mutilated
+law			less			duty
+line			conduct			excellencys
+name			june			prevent
+example			tho			remain
+
+
+
+
+Word Rank Comparison of Brown Words: 
+
++--------------------+--------------------+--------------------+
+  Brown Word         |  Adams             |  Washington 
++--------------------+--------------------+--------------------+
+0. one			5			5
+1. would			1			6
+2. said			28			56
+3. new			25			31
+4. could			27			49
+5. time			12			9
+6. two			17			14
+7. may			0			0
+8. first			34			42
+9. like			144			>200
+10. man			86			109
+11. even			78			>200
+12. made			16			21
+13. also			80			46
+14. many			32			45
+15. must			10			12
+16. af			>200			>200
+17. back			>200			>200
+18. years			>200			>200
+19. much			7			11
+20. way			133			142
+21. well			23			37
+22. people			39			107
+23. little			68			55
+24. state			57			>200
+25. good			20			19
+26. make			14			24
+27. world			>200			>200
+28. still			145			>200
+29. see			44			58
+30. men			54			7
+31. work			>200			>200
+32. long			56			119
+33. get			139			60
+34. life			>200			>200
+35. never			38			125
+36. day			88			47
+37. another			96			194
+38. know			29			38
+39. last			30			20
+40. us			19			69
+41. might			45			68
+42. great			4			10
+43. old			>200			>200
+44. year			>200			>200
+45. come			101			67
+46. since			53			63
+47. go			85			88
+48. came			>200			108
+49. right			138			>200
+50. used			>200			>200
+51. take			33			28
+52. three			92			77
+53. states			18			>200
+54. house			100			188
+55. use			>200			137
+56. without			22			33
+57. place			128			51
+58. american			35			>200
+59. around			>200			>200
+60. however			105			>200
+61. home			>200			>200
+62. small			>200			100
+63. found			156			165
+64. thought			132			126
+65. went			>200			>200
+66. say			108			167
+67. part			43			44
+68. general			21			8
+69. high			155			>200
+70. upon			3			3
+71. school			>200			>200
+72. every			8			15
+73. got			>200			134
+74. united			24			>200
+75. left			124			76
+76. number			154			70
+77. course			>200			>200
+78. war			62			>200
+79. always			>200			>200
+80. away			>200			>200
+81. something			>200			>200
+82. fact			>200			>200
+83. water			>200			>200
+84. though			>200			>200
+85. public			79			>200
+86. less			196			>200
+87. put			131			97
+88. think			13			16
+89. almost			>200			>200
+90. hand			>200			>200
+91. enough			>200			>200
+92. far			148			182
+93. took			>200			>200
+94. head			>200			112
+95. yet			41			86
+96. government			146			>200
+97. system			>200			>200
+98. better			126			162
+99. set			>200			183
+100. told			173			>200
+101. night			>200			>200
+102. nothing			71			99
+103. end			>200			>200
+104. called			>200			>200
+105. eyes			>200			>200
+106. find			75			90
+107. going			>200			>200
+108. look			>200			>200
+109. asked			>200			>200
+110. later			>200			>200
+111. knew			>200			>200
+112. point			>200			>200
+113. next			169			122
+114. program			>200			>200
+115. business			170			>200
+116. city			>200			>200
+117. group			>200			>200
+118. give			26			25
+119. toward			>200			>200
+120. young			>200			>200
+121. days			176			106
+122. let			102			148
+123. room			>200			>200
+124. president			>200			>200
+125. side			>200			>200
+126. social			>200			>200
+127. given			98			72
+128. present			42			65
+129. several			91			84
+130. order			95			35
+131. national			>200			>200
+132. possible			>200			>200
+133. rather			>200			>200
+134. second			>200			>200
+135. face			>200			>200
+136. per			>200			>200
+137. among			107			>200
+138. form			>200			>200
+139. important			>200			>200
+140. often			>200			>200
+141. things			157			>200
+142. looked			>200			>200
+143. early			>200			>200
+144. white			>200			>200
+145. case			141			124
+146. john			37			36
+147. large			>200			136
+148. big			>200			>200
+149. four			>200			180
+150. need			>200			>200
+151. become			>200			>200
+152. within			>200			>200
+153. felt			>200			>200
+154. along			>200			>200
+155. children			>200			>200
+156. saw			>200			>200
+157. best			106			34
+158. church			>200			>200
+159. ever			52			150
+160. least			114			170
+161. power			69			115
+162. development			>200			>200
+163. light			>200			>200
+164. seemed			>200			>200
+165. thing			73			93
+166. family			>200			>200
+167. interest			143			>200
+168. want			166			110
+169. members			>200			>200
+170. mind			>200			>200
+171. area			>200			>200
+172. country			77			89
+173. others			179			>200
+174. although			>200			>200
+175. turned			>200			>200
+176. done			89			98
+177. open			>200			>200
+178. god			>200			>200
+179. service			193			113
+180. certain			150			>200
+181. kind			186			174
+182. problem			>200			>200
+183. began			>200			>200
+184. different			>200			>200
+185. door			>200			>200
+186. thus			>200			>200
+187. help			>200			>200
+188. sense			>200			>200
+189. means			183			192
+190. whole			82			104
+191. matter			>200			169
+192. perhaps			121			>200
+193. york			>200			>200
+194. times			>200			>200
+195. human			>200			>200
+196. law			>200			>200
+197. line			>200			>200
+198. name			>200			>200
+199. example			>200			>200
+
+
+
+
+Word Rank Comparison of Adams Words: 
+
++--------------------+--------------------+--------------------+
+  Adams Word         |  Washington        |  Brown 
++--------------------+--------------------+--------------------+
+0. may			0			7
+1. would			6			1
+2. shall			2			>200
+3. upon			3			70
+4. great			10			42
+5. one			5			0
+6. sir			4			>200
+7. much			11			19
+8. every			15			72
+9. congress			94			>200
+10. must			12			15
+11. letter			22			>200
+12. time			9			5
+13. think			16			88
+14. make			24			26
+15. adams			>200			>200
+16. made			21			12
+17. two			14			6
+18. states			>200			53
+19. us			69			40
+20. good			19			25
+21. general			8			68
+22. without			33			56
+23. well			37			21
+24. united			>200			74
+25. new			31			3
+26. give			25			118
+27. could			49			4
+28. said			56			2
+29. know			38			38
+30. last			20			39
+31. america			>200			>200
+32. many			45			14
+33. take			28			51
+34. first			42			8
+35. american			>200			58
+36. hope			29			>200
+37. john			36			146
+38. never			125			35
+39. people			107			22
+40. dear			52			>200
+41. yet			86			95
+42. present			65			128
+43. part			44			67
+44. see			58			29
+45. might			68			41
+46. wish			114			>200
+47. letters			161			>200
+48. humble			102			>200
+49. cannot			87			>200
+50. received			95			>200
+51. honour			>200			>200
+52. ever			150			159
+53. since			63			46
+54. men			7			30
+55. mr			1			>200
+56. long			119			32
+57. state			>200			24
+58. soon			41			>200
+59. excellency			101			>200
+60. taken			64			>200
+61. english			>200			>200
+62. war			>200			78
+63. whether			130			>200
+64. send			27			>200
+65. british			>200			>200
+66. sent			17			>200
+67. honor			181			>200
+68. little			55			23
+69. power			115			161
+70. england			>200			>200
+71. nothing			99			102
+72. obedient			>200			>200
+73. thing			93			165
+74. france			>200			>200
+75. find			90			106
+76. treaty			>200			>200
+77. country			89			172
+78. even			>200			11
+79. public			>200			85
+80. also			46			13
+81. therefore			57			>200
+82. whole			104			190
+83. court			83			>200
+84. french			>200			>200
+85. go			88			47
+86. man			109			10
+87. respect			153			>200
+88. day			47			36
+89. done			98			176
+90. account			147			>200
+91. several			84			129
+92. three			77			52
+93. ought			>200			>200
+94. friend			>200			>200
+95. order			35			130
+96. another			194			37
+97. write			>200			>200
+98. given			72			127
+99. king			>200			>200
+100. house			188			54
+101. come			67			45
+102. let			148			122
+103. servant			186			>200
+104. gentlemen			>200			>200
+105. however			>200			60
+106. best			34			157
+107. among			>200			137
+108. say			167			66
+109. army			127			>200
+110. obliged			189			>200
+111. money			54			>200
+112. necessary			71			>200
+113. peace			>200			>200
+114. least			170			160
+115. leave			79			>200
+116. minister			>200			>200
+117. ships			>200			>200
+118. opinion			179			>200
+119. officers			23			>200
+120. pay			43			>200
+121. perhaps			>200			192
+122. powers			>200			>200
+123. either			>200			>200
+124. left			76			75
+125. able			140			>200
+126. better			162			98
+127. believe			131			>200
+128. place			51			57
+129. boston			>200			>200
+130. answer			154			>200
+131. put			97			87
+132. thought			126			64
+133. way			142			20
+134. paris			>200			>200
+135. excellencys			197			>200
+136. pleasure			158			>200
+137. return			62			>200
+138. right			>200			49
+139. get			60			33
+140. amsterdam			>200			>200
+141. case			124			145
+142. liberty			>200			>200
+143. interest			>200			167
+144. like			>200			9
+145. still			>200			28
+146. government			>200			96
+147. dont			>200			>200
+148. far			182			92
+149. subject			>200			>200
+150. certain			>200			180
+151. act			>200			>200
+152. beg			111			>200
+153. favour			132			>200
+154. number			70			76
+155. high			>200			69
+156. found			165			63
+157. things			>200			141
+158. europe			>200			>200
+159. les			>200			>200
+160. britain			>200			>200
+161. late			>200			>200
+162. common			>200			>200
+163. dutch			>200			>200
+164. greatest			>200			>200
+165. proper			66			>200
+166. want			110			168
+167. commerce			>200			>200
+168. reason			177			>200
+169. next			122			113
+170. business			>200			115
+171. ship			>200			>200
+172. committee			>200			>200
+173. told			>200			100
+174. news			>200			>200
+175. town			138			>200
+176. days			106			121
+177. hear			173			>200
+178. private			>200			>200
+179. others			>200			173
+180. seems			>200			>200
+181. friends			>200			>200
+182. van			>200			>200
+183. means			192			189
+184. esteem			>200			>200
+185. franklin			>200			>200
+186. kind			174			181
+187. march			53			>200
+188. receive			73			>200
+189. board			>200			>200
+190. copy			>200			>200
+191. whose			>200			>200
+192. commission			>200			>200
+193. service			113			179
+194. foreign			>200			>200
+195. happy			>200			>200
+196. less			>200			86
+197. conduct			>200			>200
+198. june			164			>200
+199. tho			>200			>200
+
+
+
+
+Word Rank Comparison of Washington Words: 
+
++--------------------+--------------------+--------------------+
+  Washington Word    |  Adams             |  Brown 
++--------------------+--------------------+--------------------+
+0. may			0			7
+1. mr			55			>200
+2. shall			2			>200
+3. upon			3			70
+4. sir			6			>200
+5. one			5			0
+6. would			1			1
+7. men			54			30
+8. general			21			68
+9. time			12			5
+10. great			4			42
+11. much			7			19
+12. must			10			15
+13. washington			>200			>200
+14. two			17			6
+15. every			8			72
+16. think			13			88
+17. sent			66			>200
+18. ditto			>200			>200
+19. good			20			25
+20. last			30			39
+21. made			16			12
+22. letter			11			>200
+23. officers			119			>200
+24. make			14			26
+25. give			26			118
+26. yr			>200			>200
+27. send			64			>200
+28. take			33			51
+29. hope			36			>200
+30. fort			>200			>200
+31. new			25			3
+32. servt			>200			>200
+33. without			22			56
+34. best			106			157
+35. order			95			130
+36. john			37			146
+37. well			23			21
+38. know			29			38
+39. woud			>200			>200
+40. pr			>200			>200
+41. soon			58			>200
+42. first			34			8
+43. pay			120			>200
+44. part			43			67
+45. many			32			14
+46. also			80			13
+47. day			88			36
+48. orders			>200			>200
+49. could			27			4
+50. shoud			>200			>200
+51. place			128			57
+52. dear			40			>200
+53. march			187			>200
+54. money			111			>200
+55. little			68			23
+56. said			28			2
+57. therefore			81			>200
+58. see			44			29
+59. acct			>200			>200
+60. get			139			33
+61. till			>200			>200
+62. return			137			>200
+63. since			53			46
+64. taken			60			>200
+65. present			42			128
+66. proper			165			>200
+67. come			101			45
+68. might			45			41
+69. us			19			40
+70. number			154			76
+71. necessary			112			>200
+72. given			98			127
+73. receive			188			>200
+74. troops			>200			>200
+75. mrs			>200			>200
+76. left			124			75
+77. three			92			52
+78. obedt			>200			>200
+79. leave			115			>200
+80. land			>200			>200
+81. immediately			>200			>200
+82. cash			>200			>200
+83. court			83			>200
+84. several			91			129
+85. paid			>200			>200
+86. yet			41			95
+87. cannot			49			>200
+88. go			85			47
+89. country			77			172
+90. find			75			106
+91. dr			>200			>200
+92. captain			>200			>200
+93. thing			73			165
+94. congress			9			>200
+95. received			50			>200
+96. please			>200			>200
+97. put			131			87
+98. done			89			176
+99. nothing			71			102
+100. small			>200			62
+101. excellency			59			>200
+102. humble			48			>200
+103. officer			>200			>200
+104. whole			82			190
+105. wrote			>200			>200
+106. days			176			121
+107. people			39			22
+108. came			>200			48
+109. man			86			10
+110. want			166			168
+111. beg			152			>200
+112. head			>200			94
+113. service			193			179
+114. wish			46			>200
+115. power			69			161
+116. expect			>200			>200
+117. genl			>200			>200
+118. hble			>200			>200
+119. long			56			32
+120. captn			>200			>200
+121. george			>200			>200
+122. next			169			113
+123. company			>200			>200
+124. case			141			145
+125. never			38			35
+126. thought			132			64
+127. army			109			>200
+128. april			>200			>200
+129. person			>200			>200
+130. whether			63			>200
+131. believe			127			>200
+132. favour			153			>200
+133. regiment			>200			>200
+134. got			>200			73
+135. command			>200			>200
+136. large			>200			147
+137. use			>200			55
+138. town			175			>200
+139. camp			>200			>200
+140. able			125			>200
+141. william			>200			>200
+142. way			133			20
+143. virginia			>200			>200
+144. care			>200			>200
+145. near			>200			>200
+146. indians			>200			>200
+147. account			90			>200
+148. let			102			122
+149. ordered			>200			>200
+150. ever			52			159
+151. july			>200			>200
+152. regard			>200			>200
+153. respect			87			>200
+154. answer			130			>200
+155. doubt			>200			>200
+156. glad			>200			>200
+157. colonel			>200			>200
+158. pleasure			136			>200
+159. coud			>200			>200
+160. enemy			>200			>200
+161. letters			47			>200
+162. better			126			98
+163. manner			>200			>200
+164. june			198			>200
+165. found			156			63
+166. dozn			>200			>200
+167. say			108			66
+168. james			>200			>200
+169. matter			>200			191
+170. least			114			160
+171. wm			>200			>200
+172. desire			>200			>200
+173. hear			177			>200
+174. kind			186			181
+175. recd			>200			>200
+176. hundred			>200			>200
+177. reason			168			>200
+178. inform			>200			>200
+179. opinion			118			>200
+180. four			>200			149
+181. honor			67			>200
+182. far			148			92
+183. set			>200			99
+184. particular			>200			>200
+185. provisions			>200			>200
+186. servant			103			>200
+187. keep			>200			>200
+188. house			100			54
+189. obliged			110			>200
+190. major			>200			>200
+191. river			>200			>200
+192. means			183			189
+193. soldiers			>200			>200
+194. another			96			37
+195. mutilated			>200			>200
+196. duty			>200			>200
+197. excellencys			135			>200
+198. prevent			>200			>200
+199. remain			>200			>200

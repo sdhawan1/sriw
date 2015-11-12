@@ -1,0 +1,159 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-01-02-0076-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-01-02-0076&amp;mode=TOC" title="The Capitulation of Fort Necessity, 3 July 1754"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-01-02-0076-0002" title="I., 19 July 1754"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-01&amp;mode=TOC">Volume 1 (7 July 174814 August 1755)</a>&gt; <a href="?keys=GEWN-print-02-01-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-01-02-0076&amp;mode=TOC">The Capitulation of Fort Necessity, 3 July 1754</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-01-02-0076-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0076-0002" title="I., 19 July 1754"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0157">157</span><div id="Col01dg1df" class="docgroup_front">
+
+  
+<p>After GW and his officers had made their decision to return to Great Meadows and prepare their defense against the French, they began preparations for the 12mile march from Gists Settlement. The mountainous rocky terrain presented great difficulties particularly for the nine swivels brought up from Great Meadows. The teams of horses that had drawn the guns from the Meadows had been sent back, leaving, as Adam Stephen later noted, only two very indifferent teams, and few Horses. According to Stephens later account, the Officers loaded their own Horses with Ammunition, and left Part of their Baggage behind; <span class="hi-italic" style="font-style: italic;">Col. Washington</span> setting them an Example, by ordering his Horse to be loaded first, and giving four Pistoles to some Soldiers to carry his necessary Baggage.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0001" id="GEWN-02-01-02-0076-0001-fn-0001-ptr">1</a> The nine swivels were drawn by the soldiers of the Virginia Regiment over what Stephen termed the roughest and most hilly Road of any on the Allegany Mountains. The temper of the soldiers and officers of the regiment was not improved by the refusal of the men of the South Carolina Independent Company to aid in porterage and scouting. According to Stephen, the Independents refused to lend a Hand to draw the Guns, or help off with the Ammunition; nor would they do Duty as Pioneers, which had an unhappy Effect on our Men, who no sooner learned that it was not the proper Duty of Soldiers to perform these Services, than they became as backward as the Independents.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0002" id="GEWN-02-01-02-0076-0001-fn-0002-ptr">2</a> According to the account of John Shaw, a soldier in the Virginia Regiment, the party buried the ammunition they could not carry.</p>
+<p>The party reached Great Meadows on 1 July. During the march the officers and men subsisted on a meager ration of parched corn, expecting to find supplies at Great Meadows, but the food convoys had not arrived. Retreat from Great Meadows, however, was clearly impossible for exhausted men lacking any kind of transport. Stephen later recalled that our Men had been eight Days without Bread and they were so harrassed with working on the Fortifications at Gists, and with marching, that they were no longer able to draw the Swivels. When a convoy finally arrived, probably late on 1 July, it carried only a few bags of flour. The decision to remain at Great Meadows
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0158">[158]</span>
+was reinforced by rumors of the arrival of the New York independent companies at Alexandria and an erroneous report that the companies were already at Wills Creek on their way to reinforce the regiment.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0003" id="GEWN-02-01-02-0076-0001-fn-0003-ptr">3</a> GW gave the orders to finish construction on the uncompleted fort, now aptly called Fort Necessity.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0004" id="GEWN-02-01-02-0076-0001-fn-0004-ptr">4</a> On 1 July the regimental scouts informed GW that the French were at Redstone not far away.</p>
+<p>The French party, under the command of Jumonvilles brother Louis Coulon de Villiers, left Fort Duquesne on 28 June and traveled in pirogues up the Monongahela to the mouth of Redstone Creek. By midday on 1 July they had advanced to the region midway between Redstone and Mount Braddock and discovered the road GW had been working on when word came of the French advance. Interrogation of an English deserter apprehended by the Indians near Redstone confirmed French surmises that GW had retreated to Great Meadows and that the regiment had taken its artillery with it. Villiers spent the night in a driving rain at Mount Braddock and early on 3 July moved out toward Fort Necessity, using the road the English had constructed. Villiers described in his journal the approach to the English fort: We marched the whole Day in the Rain, and I sent out Scouts one after another. I stopped at the Place where my Brother had been assassinated, and saw there yet some dead Bodies. When I came within three Quarters of a League from the <span class="hi-italic" style="font-style: italic;">English</span> Fort, I ordered my Men to march in Columns, every Officer to his Division, that I might the better dispose of them as Necessity would require. I sent Scouts, and gave them Orders to go close up to the Camp, Twenty others to sustain them; and I advanced in Order. My Scouts soon informed me, that we were discovered, and that they were very near us: Upon which I ordered my Men in a Posture suitable for a Bush Fight. It was not long before I perceived that my Scouts had misled me, and ordered the Troops to advance on that Side where we expected them to attack us.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0005" id="GEWN-02-01-02-0076-0001-fn-0005-ptr">5</a></p>
+<p>At daybreak on 3 July an English sentry was wounded by a French scout, and by 9:00 <span class="hi-small-caps" style="font-variant: small-caps;">A.M.</span> scouts hurriedly returning to the fort informed GW that a very large body of French was only 4 miles away. The last-minute preparations for the French attack continued, and probably shortly before 11:00 <span class="hi-small-caps" style="font-variant: small-caps;">A.M.</span> the French appeared before the fort.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0006" id="GEWN-02-01-02-0076-0001-fn-0006-ptr">6</a> According to the deposition of John Shaw, early in the morning before the attack the troops endeavoured to throw up a little Intrenchment round them about two Foot deep, but could not finish it as the French appeared betwixt nine and ten in the morning.<a class="ptr" href="#GEWN-02-01-02-0076-0001-fn-0007" id="GEWN-02-01-02-0076-0001-fn-0007-ptr">7</a> GW and Mackay ordered the forts troops under arms, and the garrison moved into the trenches. All day under a driving rain the colonial troops returned the French fire and repelled repeated French and Indian
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0159">[159]</span>
+sorties. As the day wore on their position became increasingly precarious. At 8:00 <span class="hi-small-caps" style="font-variant: small-caps;">P.M.</span> the French commander offered to parlay, and GW sent out an officer to accept the French conditions for surrender. Although some discussion preceded the acceptance of the articles of capitulation, GW and Mackay, faced with the realities of wet powder, hungry and exhausted troops, lack of provisions, and no hope of reinforcement, had little choice but to accept the French terms. Shortly before midnight on 3 July, GW and Mackay signed their names to the articles of capitulation and about 10:00 <span class="hi-small-caps" style="font-variant: small-caps;">A.M.</span> on 4 July marched out of Fort Necessity.</p>
+
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0001-ptr" id="GEWN-02-01-02-0076-0001-fn-0001">1</a>
+
+   <p><span class="hi-italic" style="font-style: italic;">Maryland Gazette</span> (Annapolis), 29 Aug. 1754.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0002-ptr" id="GEWN-02-01-02-0076-0001-fn-0002">2</a>
+
+   <p>Ibid.</p>
+ 
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0003-ptr" id="GEWN-02-01-02-0076-0001-fn-0003">3</a>
+
+   <p>Adam Stephens autobiography, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library Company of Philadelphia, Philadelphia, Pa. ]">PPL</span>: Benjamin Rush Papers; <span class="hi-italic" style="font-style: italic;">Maryland Gazette</span>, 29 Aug. 1754.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0004-ptr" id="GEWN-02-01-02-0076-0001-fn-0004">4</a>
+
+   <p>For a description of the fort, see <a href="default.xqy?keys=GEWN-print-02-01-02-0062&amp;expandNote=GEWN-02-01-02-0062-fn-0012#GEWN-02-01-02-0062-fn-0012" class="document">GW to Dinwiddie, 3 June 1754, n. 12</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0005-ptr" id="GEWN-02-01-02-0076-0001-fn-0005">5</a>
+
+   <p>The Journal of M. de Villiers, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ [[Jacob Nicolas Moreau]]. &lt;i&gt;A Memorial Containing a Summary View of Facts, with Their Authorities. In Answer to the Observations Sent by the English Ministry to the Courts of Europe&lt;/i&gt;. Translated from the French. New York, 1757. ]"><span class="hi-italic" style="font-style: italic;">Memorial Containing a Summary View of Facts</span></span>, 99.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0006-ptr" id="GEWN-02-01-02-0076-0001-fn-0006">6</a>
+
+   <p><span class="hi-italic" style="font-style: italic;">Maryland Gazette</span>, 29 Aug. 1754.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0076-0001-fn-0007-ptr" id="GEWN-02-01-02-0076-0001-fn-0007">7</a>
+ 
+   <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William L. McDowell, Jr., ed. &lt;i&gt;Documents relating to Indian Affairs&lt;/i&gt;. 2 vols. Columbia, S.C., 1958-70. In &lt;i&gt;Colonial Records of South Carolina&lt;/i&gt;, 2d ser., vols. 23. ]">McDowell, <span class="hi-italic" style="font-style: italic;">S.C. Indian Affairs</span></span>, 5.</p>
+
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-01-02-0076-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 1 (7 July 174814 August 1755)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0076-0002" title="I., 19 July 1754"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

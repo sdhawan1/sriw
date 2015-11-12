@@ -1,0 +1,160 @@
+Editorial Introduction
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Introduction</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-02-02-0001-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-02-02-0001&amp;mode=TOC" title="Appointment as Colonel of the Virginia Regiment"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-02&amp;mode=TOC">Volume 2 (14 August 175515 April 1756)</a>&gt; <a href="?keys=GEWN-print-02-02-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-02-02-0001&amp;mode=TOC">Appointment as Colonel of the Virginia Regiment</a>&gt; Editorial Introduction</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-02-02-0001-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0001">1</span><div id="Col02d1" class="docgroup_front">
+
+<h2>Editorial Introduction</h2>
+   
+<p>In making GW colonel of the regiment that was constituted, or reconstituted, in Virginia as a consequence of Braddocks defeat, Robert Dinwiddie issued to GW three documents: a Commission, his Instructions, and a Memorandum. The only copy of the Commission found is in Dinwiddies letter book, in the hand of his clerk William Withers. It is dated 14 August. There are also letter-book copies of the Instructions and the Memorandum, but GWs own copies of the two documents, signed by Dinwiddie and written by Withers, have survived as well. His copies are dated 14 Aug.; those in Dinwiddies letter book are not dated and are entered there, along with the Commission, not in August but after the entry of 2 Sept., the day after GW assumed command of the Virginia Regiment.</p>
+<p>As the placement of the documents in the letter book suggests, and other evidence makes clear, the Instructions and Memorandum, though dated 14 Aug., were not drawn upat least not in the form they appear herebefore the end of August or the beginning of September. If nothing else does, Dinwiddies references to Commissary Charles Dick in the two documents demonstrates this. In the Instructions Dinwiddie wrote: as Mr Dick has declared his Intentions of declining any further Services as Commissary, and in the Memorandum, if Mr Dick does not incline to continue Comissary; but Dinwiddies letters to Dick of 20 Aug. and 2 Sept. indicate that until he received a letter from Dick written on 24 Aug., Dinwiddie assumed that Dick would continue as commissary.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0001" id="GEWN-02-02-02-0001-0001-fn-0001-ptr">1</a> Further evidence that Dinwiddie did not complete his Instructions and the Memorandum for GW before late August can be adduced from his statement in the Instructions that he had granted Commissions for raising Sixteen Companies of Men to be formed into a Regiment. In several letters, written on 11 Aug. and on 20 Aug., Dinwiddie first declared and then confirmed his intention to issue new commissions after the Assembly rises, which it did not do until 23 Aug.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0002" id="GEWN-02-02-02-0001-0001-fn-0002-ptr">2</a> As late as Monday, 25 Aug., two days after he prorogued the assembly, Dinwiddie wrote to the captains in the Virginia forces at Fort Cumberland that he did not have time to appoint Officers to succeed those that were killd [at the Battle of the Monongahela] but shall do that soon.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0003" id="GEWN-02-02-02-0001-0001-fn-0003-ptr">3</a> Perhaps most persuasive is what does not appear in Dinwiddies correspondence during the month of Aug. 1755. In the nearly two dozen letters in Dinwiddies letter book dated between 14 Aug. and 1 Sept. all concerned with some aspect of colonial defense, he makes no references to commissioning officers in the new regiment other than those cited here, and he makes no references at all to appointing a colonel or to Washington himself, even in his letter to Col. William Fitzhugh on 30
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0002">[2]</span>
+Aug. written in response to Fitzhughs offer to head an expedition against the French and Indians.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0004" id="GEWN-02-02-02-0001-0001-fn-0004-ptr">4</a></p>
+<p>GWs letter of 14 Aug. to Warner Lewis expressing his reluctance, and betraying his eagerness, to become the colonel of the new Virginia Regiment and <a href="default.xqy?keys=GEWN-print-02-02-02-0214" class="document">Dinwiddies chiding letter to GW of 14 Dec. 1755</a>, 3 months after GW assumed command, taken together serve to confirm that the Instructions and Memorandum were hardly put in final form before Dinwiddie and GW conferred in Williamsburg in late August. Among the concerns that GW expressed to Lewis on 14 Aug. in addition to his insistence that the new colonel have a voice in the selection of the officers for the regiment were his uneasiness that necessary Officers were yet wanting and his strong feeling that a small Military Chest (i.e., disposable funds) was absolutely necessary. GWs Instructions provided that he should appoint his necessary aide-de-camp and secretary, as well as a commissary, an adjutant, a quartermaster, and other inferior officers, and that he should have a military chest. That these were concessions that did not sit well with Dinwiddie became apparent in December when he gave vent to his displeasure at GWs appointment of an adjutant and to his continuing irritation that GW had been allowed to have an aide-de-camp.</p>
+<p>The commission, unlike the Instructions and Memorandum, may have in fact been drawn up and signed by Dinwiddie on 14 August. If so, it would seem to confirm that Dinwiddie had made up his mind to offer GW command of the regiment by the time GW responded to Warner Lewiss letter of 9 Aug. suggesting that possibility. It should be noted, however, that Peter Hog as senior captain in the regiment was assigned the same date of rank, 14 Aug., and that the dates of rank for the 15 other captains followed along on successive days (except for Sundays and 28, 29 Aug., 3 Sept.) from 15 Aug. through 4 Sept.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0005" id="GEWN-02-02-02-0001-0001-fn-0005-ptr">5</a> Yet Dinwiddies correspondence seems to indicate that he did not issue new commissions for any of the 16 captains of the regiment until after he prorogued the assembly on 23 Aug. It was the practice in the Virginia forces, both before and after Aug. 1755, to assign to a newly commissioned officer or to an officer upon his promotion a date of rank which would give him the appropriate seniority within his rank, without reference to the precise date that the commission or promotion was either approved or conferred.</p>
+<p>Even if the exact date that these documents were drawn up and signed could be fixed, the timing of Dinwiddies first formal offer of the command and of GWs formal acceptance would remain uncertain. George Masons letter of 21 Aug. written before GW left for Williamsburg may be taken to mean that the offer had already been made or only that Mason expected the offer to be made. If in fact made after GWs arrival in Williamsburg, the formal offer was tendered, and accepted, between 27 Aug.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0006" id="GEWN-02-02-02-0001-0001-fn-0006-ptr">6</a> and 1 Sept., by which time GW had taken command of the regiment.<a class="ptr" href="#GEWN-02-02-02-0001-0001-fn-0007" id="GEWN-02-02-02-0001-0001-fn-0007-ptr">7</a> GWs testimony seems to support what the other evidence suggests, that Dinwiddie asked GW to become
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0003">[3]</span>
+colonel of the new Virginia Regiment on or about 27 Aug. and that GW accepted the offer on or shortly before 1 September. In a long letter recounting the trials and tribulations of serving in the Virginia military forces which <a href="default.xqy?keys=GEWN-print-02-04-02-0045" class="document">GW wrote to Lord Loudoun on 10 Jan. 1757</a>, GW confessed that he had long since been satisfied of the impossibility of continueing in this Service without loss of Honour: Nay, was fully convinced of it, before I accepted the Command the Second time (seeing the gloom that sat hovering over us) and did, for this Reason, reject the offer till I was ashamed to deny; not careing to expose my Character to Publick Censure: But the Sollicitations of the Country overcame my objections.</p>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0001-ptr" id="GEWN-02-02-02-0001-0001-fn-0001">1</a>
+
+   <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ R. Alonzo Brock, ed. &lt;i&gt;The Official Records of Robert Dinwiddie, Lieutenant-Governor of the Colony of Virginia, 17511758&lt;/i&gt;. 2 vols. Richmond, 188384. ]">Brock, <span class="hi-italic" style="font-style: italic;">Dinwiddie Papers</span></span>, 2:16566, 183.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0002-ptr" id="GEWN-02-02-02-0001-0001-fn-0002">2</a>
+
+   <p>See especially Dinwiddie to Adam Stephen, 11 Aug., and to Sir Thomas Robinson, 20 Aug. 1755, ibid., 14950, 16263.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0003-ptr" id="GEWN-02-02-02-0001-0001-fn-0003">3</a>
+
+   <p>Ibid., 177. See also Dinwiddie to James Innes, 25 Aug. 1755, ibid., 17677.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0004-ptr" id="GEWN-02-02-02-0001-0001-fn-0004">4</a>
+
+   <p>Ibid., 180.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0005-ptr" id="GEWN-02-02-02-0001-0001-fn-0005">5</a>
+
+   <p>A list of officers with their dates of rank is enclosed in <a href="default.xqy?keys=GEWN-print-02-04-02-0198" class="document">Dinwiddies letter to GW, 13 July 1757</a>. The fact that William Flemings commission as ensign in the Virginia Regiment Commanded by Colo. George Washington was dated 25 Aug. 1755 and signed by Robert Dinwiddie does not mean that it was necessarily signed on 25 Aug. Flemings commission is in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Washington and Lee University, Lexington, Va. ]">ViLxW</span>: Fleming Papers.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0006-ptr" id="GEWN-02-02-02-0001-0001-fn-0006">6</a>
+
+   <p>The <span class="hi-italic" style="font-style: italic;">Virginia Gazette</span> (Williamsburg) reported that GW arrived in town on 27 Aug., and he was being tended by the French Barber in Wmsburg on that day (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 23, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0001-fn-0007-ptr" id="GEWN-02-02-02-0001-0001-fn-0007">7</a>
+
+   <p>In his letter to Dick, 2 Sept. 1755, Dinwiddie refers to Colo. Washington, who now Commands our Forces (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). On 2 Sept. captains Carter Harrison and Robert McKenzie and Ens. George Weedon each gave GW a receipt for funds to recruit men for the regiment (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). On 3 Sept. GW paid Dinwiddies clerk 2 12s. 9d. for my Commission (ibid.). George William Fairfax wrote to Dinwiddie from Winchester on 4 Sept.: This instant Mr. Dennis McCarty came here and gave me the agreeable news . . . that my friend Col. Washington is to have command of the forces to be raised by this Colony (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edward D. Neill. &lt;i&gt;The Fairfaxes of England and America in the Seventeenth and Eighteenth Centuries, Including Letters from and to Hon. William Fairfax, President of Council of Virginia, and His Sons Col. George William Fairfax and Rev. Bryan, Eighth Lord Fairfax, the Neighbors and Friends of George Washington&lt;/i&gt;. Albany, 1868. ]">Neill, <span class="hi-italic" style="font-style: italic;">The Fairfaxes of England and America</span></span>, 8083).</p>
+
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-02-02-0001-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 2 (14 August 175515 April 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

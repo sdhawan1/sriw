@@ -1,0 +1,185 @@
+To Robert Orme, 15 March 1755
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Robert Orme, 15 March 1755</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-01-02-0121&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1755-03-15-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-01-02-0122" title="To Robert Orme, 2 April 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-01&amp;mode=TOC">Volume 1 (7 July 174814 August 1755)</a>&gt; <a href="?keys=GEWN-print-02-01-02&amp;mode=TOC">Documents</a>&gt; To Robert Orme, 15 March 1755</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-01-02-0121&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0122" title="To Robert Orme, 2 April 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0242">242</span><div id="Col01d113" class="doc">
+
+<h1>To Robert Orme</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To Robert Orme Esqr. aid de Camp to <del title="deleted text">the</del> <ins title="insertion in original">\His Exy/</ins> General<ins title="insertion in original">\B. Williamsburgh/</ins> In answer to the foregoing<br/>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0243">[243]</span>
+Sir,</td>
+		<td class="salutationRight">[Mount Vernon, 15 March 1755]</td>
+	      </tr>
+      </table>
+</div>
+<p>I was not favourd with your <del title="deleted text">agreeable</del> <ins title="insertion in original">\polite/</ins> Letter (of the <ins title="insertion in original">\Inst un/</ins> 2d) till Yesterday; acquainting me with the notice his Excellency <span class="caret"></span><ins title="insertion in original">\Genl/</ins> is pleased <ins title="insertion in original">\Braddock/</ins> to honour me with, by kindly <del title="deleted text">desireing my Company in</del> <ins title="insertion in original">\inviting me to become one of/</ins> his Family. <ins title="insertion in original">\the ensuing campayn/</ins> It<del title="deleted text">s</del> <ins title="insertion in original">\is/</ins> true Sir <span class="caret"></span><ins title="insertion in original">\that/</ins> I have, ever since I declind <del title="deleted text">a</del> <ins title="insertion in original">\my late/</ins> command <del title="deleted text">in this Service</del>, expressd an Inclination to <ins title="insertion in original">\serve/</ins> <span class="hi-italic" style="font-style: italic;">erasure</span> <del title="deleted text">t</del> <ins title="insertion in original">\t/</ins>he<a class="ptr" href="#GEWN-02-01-02-0121-fn-0001" id="GEWN-02-01-02-0121-fn-0001-ptr">1</a> Ensueing Campaigne as a Volunteer;<a class="ptr" href="#GEWN-02-01-02-0121-fn-0002" id="GEWN-02-01-02-0121-fn-0002-ptr">2</a> and this <span class="caret"></span><ins title="insertion in original">\inclination/</ins> <del title="deleted text">believe me, Sir</del>, is not a little encreasd since it<del title="deleted text">s</del> <ins title="insertion in original">\is/</ins> likely to be conducted by a Gentleman of the Generals <del title="deleted text">great, good Character</del> <ins title="insertion in original">\Experience./</ins>:</p>
+<p>But, beside<ins title="insertion in original">\s/</ins> this, and the laudable desire I may have to serve (with my <del title="deleted text">poor</del> <ins title="insertion in original">\best/</ins> abilitys) my King &amp; Country, I must be ingenuous enough to confess <span class="caret"></span><ins title="insertion in original">\, that/</ins> I am not a little biassd by selfish, <del title="deleted text">and sinister views</del> <ins title="insertion in original">\consideratns./</ins><del title="deleted text">t</del> <ins title="insertion in original">\T/</ins>o <del title="deleted text">be</del> <ins title="insertion in original">\ex/</ins> plain, Sir, I wish <del title="deleted text">for nothing more</del> earnestly, <del title="deleted text">than</del> to attain <del title="deleted text">a small degree of</del> <ins title="insertion in original">\some/</ins> knowledge <del title="deleted text">i</del> <ins title="insertion in original">\o/</ins>n the Military <del title="deleted text">Art</del> <ins title="insertion in original">\Profession/</ins>: and, believeing a more favourable oppertunity cannot <del title="deleted text">be wishd</del> <ins title="insertion in original">\offer/</ins>, than <span class="caret"></span><ins title="insertion in original">\to/</ins> serv<del title="deleted text">ing</del> <ins title="insertion in original">\e/</ins> under a Gentleman of <del title="deleted text">his Excellencys known</del> <ins title="insertion in original">\Generl Braddocks/</ins> abilit<del title="deleted text">y</del> <ins title="insertion in original">\ies/</ins> and experience, it <ins title="insertion in original">\does as you may rea/</ins>  <span class="hi-italic" style="font-style: italic;">erasure</span> sonably<a class="ptr" href="#GEWN-02-01-02-0121-fn-0003" id="GEWN-02-01-02-0121-fn-0003-ptr">3</a> <del title="deleted text">imagine</del> <ins title="insertion in original">\suppose/</ins>, not a little contribute to influence <del title="deleted text">me in</del> my choice.</p>
+<p>But Sir, as I have taken the liberty <del title="deleted text">so far, to discourse thus</del> <ins title="insertion in original">\to express my sentimts so/</ins>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0244">[244]</span>
+freely, I shall beg your Indulgence <del title="deleted text">yet a little longer</del>, while I <del title="deleted text">say</del> <ins title="insertion in original">\add/</ins>, that the only bar <del title="deleted text">that</del> <ins title="insertion in original">\which/</ins> can check me in the pursuit of th<del title="deleted text">ese my desires</del> <ins title="insertion in original">\is object/</ins>, is the inconveniences that must necessarily <del title="deleted text">arise, as</del> <ins title="insertion in original">\result from,/</ins> some proceedings <del title="deleted text">in a late space(I mean</del> <ins title="insertion in original">\wch happend a little/</ins> before <del title="deleted text">the</del> <ins title="insertion in original">\the/</ins> Generals arrival<del title="deleted text">) had</del> <span class="caret"></span><ins title="insertion in original">\&amp; wch/</ins>, in some measure <span class="caret"></span><ins title="insertion in original">\had/</ins> abated the <del title="deleted text">edge</del> <ins title="insertion in original">\ardour/</ins> of my <del title="deleted text">Intentions</del> <ins title="insertion in original">\desires/</ins> and determined me to lead a life of <del title="deleted text">greater inactivity, and</del> <ins title="insertion in original">\retirement/</ins> into which I was just entering at no small expence; <del title="deleted text">the business whereof must greatly suffer in my absence</del> <ins title="insertion in original">\when your favor was presented to me/</ins>.<a class="ptr" href="#GEWN-02-01-02-0121-fn-0004" id="GEWN-02-01-02-0121-fn-0004-ptr">4</a> <ins title="insertion in original">\But, as/</ins> I shall do myself the <del title="deleted text">pleasure</del> <ins title="insertion in original">\honor/</ins> of waiting upon his Excellency <del title="deleted text">so</del> <ins title="insertion in original">\as/</ins> soon as I hear of his arrival at Alexandria<a class="ptr" href="#GEWN-02-01-02-0121-fn-0005" id="GEWN-02-01-02-0121-fn-0005-ptr">5</a> (and woud sooner, was I certain where <span class="caret"></span><ins title="insertion in original">\to find him,/</ins>) <del title="deleted text">till which</del>, I shall decline saying <ins title="insertion in original">\any thing/</ins> further on this head <span class="caret"></span><ins title="insertion in original">\till then/</ins>; begging you<del title="deleted text">ll be kind enough</del> <ins title="insertion in original">\will be pleased/</ins> to assure <ins title="insertion in original">\him/</ins> <span class="hi-italic" style="font-style: italic;">erasure</span> that I shall always retain a grateful Sense of the favour <del title="deleted text">he was kindly</del> <ins title="insertion in original">\with which he is/</ins> pleasd to <del title="deleted text">offer me</del> <ins title="insertion in original">\honor me;/</ins>, and that I shoud have embraced this oppertunity of writing to him, had I not <del title="deleted text">some little time ago wrote</del> <ins title="insertion in original">\recently addressed/</ins> a congratulatory Letter <span class="caret"></span><ins title="insertion in original">\to him/</ins> on his safe arrival <span class="caret"></span><ins title="insertion in original">\in this Country I/</ins> <del title="deleted text">&amp;ca, and as I</del> flatter myself you will favour me in <span class="caret"></span><ins title="insertion in original">\making a/</ins> communicati<del title="deleted text">ng my</del> <ins title="insertion in original">\on of these/</ins> Sentiments <del title="deleted text">herein, it will need no other mentn or repetition</del>.<a class="ptr" href="#GEWN-02-01-02-0121-fn-0006" id="GEWN-02-01-02-0121-fn-0006-ptr">6</a></p>
+<p>You do me a singular favour in proposing an acquaintance, <del title="deleted text">which</del> <ins title="insertion in original">\It/</ins> cannot but be attended with the most <del title="deleted text">agreeable Intimacy on my side</del> <ins title="insertion in original">\flattering prospect of intimacy on my part/</ins>; as you may already <del title="deleted text">experience</del> <ins title="insertion in original">\perceive/</ins> by the familiarity
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0245">[245]</span>
+and freedom with which I now <del title="deleted text">assume to treat you</del> <ins title="insertion in original">\enter upon this corrispondence/</ins>; a freedom, which, <ins title="insertion in original">\even if it is disagreeable you must/</ins> <span class="hi-italic" style="font-style: italic;">erasure</span><a class="ptr" href="#GEWN-02-01-02-0121-fn-0007" id="GEWN-02-01-02-0121-fn-0007-ptr">7</a> excuse, as I <del title="deleted text">shall</del> <ins title="insertion in original">\may/</ins> lay the <del title="deleted text">whole</del> blame <span class="caret"></span><ins title="insertion in original">\of it/</ins> at your door for encourageing me to throw of <del title="deleted text">the formality</del> <ins title="insertion in original">\that restraint/</ins> which otherwise might have <del title="deleted text">appeard</del> <ins title="insertion in original">\been more obvious/</ins> in my deportmt on <del title="deleted text">this</del> <ins title="insertion in original">\such an/</ins> occasion. The hope of shortly seeing you will be an ex[c]use for my not adding more than that I shall endeavour to approve myself worthy <span class="caret"></span><ins title="insertion in original">\of/</ins> your friendship, and that I beg to be esteemd Your most Obedient Servant</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+<div class="dateline-closer">Mount Vernon March <ins title="insertion in original">\15th/</ins> 1755</div>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-01-02-0121-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr> (original), <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0001-ptr" id="GEWN-02-01-02-0121-fn-0001">1</a>
+
+   <p>The erased word may be attend.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0002-ptr" id="GEWN-02-01-02-0121-fn-0002">2</a>
+
+   <p>For GWs earlier professed desire to serve voluntarily rather than to submit to what he conceived to be humiliating conditions attached to a commission, see <a href="default.xqy?keys=GEWN-print-02-01-02-0050" class="document">GW to Robert Dinwiddie, second letter, 18 May 1754</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0003-ptr" id="GEWN-02-01-02-0121-fn-0003">3</a>
+
+   <p>The erased portion may read will, you must rea.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0004-ptr" id="GEWN-02-01-02-0121-fn-0004">4</a>
+
+   <p>GWs affairs at Mount Vernon, where he was still in the process of establishing his household and preparing for his first spring planting, were to be of great concern to him throughout the ensuing campaign.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0005-ptr" id="GEWN-02-01-02-0121-fn-0005">5</a>
+
+   <p>Alexandria was designated the initial staging area for Braddocks army. It lay near the head of navigation on the Potomac River, up which Braddock had been instructed by his superiors in England to move his men for an early spring offensive against Fort Duquesne. Provincial recruits for the two Irish regiments were directed to rendezvous at Alexandria, and as the troop transports and ordnance store ships from Ireland arrived in Hampton Roads during the first 3 weeks of March, they were ordered to sail on to the Potomac after securing fresh provisions. Braddock intended to set out from Williamsburg for Alexandria on 19 Mar. but did not leave until 3 days later. Accompanied by Dinwiddie and Commodore Augustus Keppel of the Royal Navy, he reached Alexandria on 26 Mar. There he found his troops encamped in tents on the outskirts of the little town.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0006-ptr" id="GEWN-02-01-02-0121-fn-0006">6</a>
+
+   <p>The letter has not been found. GW probably learned of Braddocks arrival in Virginia about 5 days thereafter, on 25 Feb., when news of it reached Annapolis.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0121-fn-0007-ptr" id="GEWN-02-01-02-0121-fn-0007">7</a>
+
+   <p>The erased phrase may be even if disagreeable, youll (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John C. Fitzpatrick, ed. &lt;i&gt;The Writings of George Washington from the Original Manuscript Sources, 17451799&lt;/i&gt;. 39 vols. Washington, D.C., 193144. ]">Fitzpatrick, <span class="hi-italic" style="font-style: italic;">Writings of Washington</span></span>, 1:108).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-01-02-0121 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 1 (7 July 174814 August 1755)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0122" title="To Robert Orme, 2 April 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

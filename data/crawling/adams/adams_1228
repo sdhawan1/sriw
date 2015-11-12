@@ -1,0 +1,176 @@
+From Adam [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Adam [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-06-02-0065&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-06-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0064" title="Vergennes to the Commissioners, 4 May 1778"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-06-02-0066" title="Nathaniel Dowse to the Commissioners, 5 May 1778"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-06-02-0065-0001" title="From Adam, 5 May 1778"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-06&amp;mode=TOC">Volume 6, MarchAugust 1778</a>&gt; <a href="?keys=ADMS-print-06-06-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Adam [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-06-02-0065&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0064" title="Vergennes to the Commissioners, 4 May 1778"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-06-02-0066" title="Nathaniel Dowse to the Commissioners, 5 May 1778"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-06-02-pb-0081">81<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0081.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA06tg9" class="transgroup">
+
+    <div id="PJA06d073" class="doc letter">
+
+     <h2>From Adam</h2>
+     
+     <div class="docbody" xml:lang="fra">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Char lieu par Ranne route de moulins 5 may 1778</td>
+		</tr>
+      </table>
+      </div>
+      <p>Je vous prie de me permmettre De vous temoigner combien je Suis flatt Davoir Lhonneur de porter votre nom, Et je le Serois bien davantage, si javois celuy DEtre issus de votre famille tout e quon lit Et ceque Lon Entend Dire de la Sublimit de vos lumieres, Est certainement bien fait pour former de pareils Desirs.</p>
+      <p>Que je serois heureux, monsieur, si la Similitude de nom pouvoit vous Engager  vous interesser pour moy! Jose me flatter quEtay de votre protection je serois asser de Reussir dans ceque vous me feris Entreprendre.</p>
+      <p>Mais comme je crois necessaire de me decliner Davantage affin de ne pas vous Laisser soupionner que je sois un avanturier, je me nomme Adam, jExere La proffession davocat dans une petite ville de La province du Lyonnois, Et je Reunis  et Etat celuy de controlleur des actes Dans La mme ville de charlieu, es Deux objets joints  ma fortune ne sont point dune Grande consquene, je sens que si jEtoit asss heureux que <span class="pb" title="page number in print edition" id="ADMS-06-06-02-pb-0082">[82<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0082.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>DEtre Destin  quelque chose de mieux, je mEn acquitterois avec autant De zele, que dExactitude.</p>
+      <p>Je ne suis ag que de 36 ans, Et par consequens Encore capable DEntreprendre, surtout guid par vous, monsieur, seroit-il possible De ne pas Reussir? Quel Bonheur pour moy, je Le Repete, si La Ressemblence de nom, vous faisoit jetter un cop doeil favorable sur moy, trop flatt deja de Lun. Je ne cesserer dEtre Recconnoissant de vos bonts, Et je mefforcerer par mon Exactitude Et mon zele  vous la temoigner dans les choses que me viendroient de vous.</p>
+      <p>Passs moy je vous prie, monsieur, ma libert En faveur de La Satisfaction que je ressens  porter vtre nom, Et de lEnvie de me faire connoitre pour tcher dobtenir que vous prennis intert  moy; sers je au moins asss heureux pour ne vous avoir point fach En vous Ecrivant, Et pour reevoir de vous Lhonneur Dune Reponse favorable, je lattend comme un Des Grands biens que jEspere Dans ce moment.<a class="ptr" href="#PJA06d074n1" id="PJA06d074n1-ptr">1</a></p>
+      <div class="closer">
+       <p class="salute">Jay Lhonneur DEtre avec un trs profond Respect Monsieur Votre trs humble, Et trs obeissant Serviteur</p>
+       <p class="signed">Adam</p>
+      </div>
+     </div>
+    </div>
+    <div id="PJA06d074" class="trans letter">
+
+      <h2>Adam to John Adams: A Translation</h2>
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">Charlieu, near Roanne, road of Moulins, 5 May 1778</td>
+		</tr>
+      </table>
+      </div>
+      <p>Please allow me to tell you how honored I am to bear your name, and how much more so I would be, had I the honor of being descended from your family. All that one reads or hears about the sublimity of your enlightenment leads one to form such wishes.</p>
+      <p>How happy I would be, sir, if the similarity of our names could make you take an interest in me! I dare flatter myself that under your protection, I would be assured of success in whatever you would have me undertake.</p>
+      <p>But I think it necessary to introduce myself a little further lest you think I am an adventurer. My name is Adam. I practice, in a small town in the province of Lyonnais, the profession of law to which was joined the function of <span class="hi-italic" style="font-style: italic;">contrleur des actes</span> in the same town of Charlieu, but these two offices added to my fortune are of no great consequence. I feel that if I was lucky enough to be destined for something better I would fulfill it with as much enthusiasm as diligence.</p>
+      <p>I am only 36 years old and therefore still quite capable of enterprise, especially if guided by you, sir, how could one fail? What joy it would be for meI repeat itif the similarity of name, for which I am already so grateful, made you cast a favorable eye on me. I would be eternally grateful for your kindness, and would endeavor to show my gratitude by my diligence and zeal in accomplishing whatever you would have me do.</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-06-02-pb-0083">[83<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0083.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>Forgive me the liberty I have taken, sir, in view of the pleasure that I take in bearing your name, and my desire to make myself known to you in an effort to stimulate your interest. I hope, at least, that I will be fortunate enough not to have offended you by writing, and that I will have the honor of receiving a favorable reply. I await it and would consider it one of the greatest blessings that I can hope for at this time.<a class="ptr" href="#PJA06d074n1" id="PJA06d074n1-ptr">1</a></p>
+      <div class="closer">
+       <p class="salute">I have the honor to be, with a most profound respect, sir, your very humble and very obedient servant.</p>
+       <p class="signed">Adam</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA06d074sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA06d074n1-ptr" id="PJA06d074n1">1</a>
+       
+   <p>Apparently <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> made no response.</p>
+
+      </div>
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-06-02-0065 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 6, MarchAugust 1778
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0064" title="Vergennes to the Commissioners, 4 May 1778"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-06-02-0066" title="Nathaniel Dowse to the Commissioners, 5 May 1778"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

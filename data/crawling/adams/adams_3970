@@ -1,0 +1,173 @@
+From Robert R. Livingston, 29 May 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert R. Livingston, 29 May 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0042&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-05-29-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0043" title="From Robert R. Livingston, 30 May 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Robert R. Livingston, 29 May 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0042&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0043" title="From Robert R. Livingston, 30 May 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0084">84</span><div id="PJA13d056" class="doc letter">
+
+<h1>From Robert R. Livingston</h1>
+
+<div class="docbody">
+<div class="opener">
+<div class="openerSeg">No 7<br/>Duplicate</div>
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Philadelphia 29th May 1782<a class="ptr" href="#PJA13d056n1" id="PJA13d056n1-ptr">1</a></td>
+	      </tr>
+      </table>
+</div>
+<p>It is with equal Surprize and concern that I find not the least attention paid to the several Letters I have written you since I have had the honor to be in Office. I attributed this to their not having reached you, till I saw an extract of a letter which I had written to Mr Dumas, and which went by the Same conveyance with one to you published in the Courier de lEurope, from which circumstance I conclude it must have been received.<a class="ptr" href="#PJA13d056n2" id="PJA13d056n2-ptr">2</a> It would give me pleasure to learn that I had been deceived in this particularBecause the punctuality with which your correspondence with Congress has hitherto been maintained would otherwise lead me to conclude that you were not satisfied with the present arrangement of the department for foreign affairsa reflection which would be painful to me in proportion to the value I put upon your esteem. I have seen your letter of the 26th: of March to Doctor Franklin, in which you speak of the application you have had on the score of your powers to treat of a truce.<a class="ptr" href="#PJA13d056n3" id="PJA13d056n3-ptr">3</a> This together with similar applications to Doctor Franklin, and the proposals made to the Court of Versailles convince me that it is their wish to endeavour to detach us from each other. What an insult it is to our intellects to suppose that we can be catched by this cobweb System of politicks. I entertain hopes that your answer together with that of the Count de Vergennes will teach them to think more honorably of us. Our expectations with respect to the success of your mission are considerably raised, as well by your Letter, as by other circumstances that we have learned thro different channels, by this time I hope you are in full possession of your diplomatic rights.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0085">[85]</span>
+<p>I wrote to you three days ago, since which we have nothing that deserves your attention except what you will learn by reading the enclosed to Mr Dana, sent you under a flying seal.<a class="ptr" href="#PJA13d056n4" id="PJA13d056n4-ptr">4</a> It may be well to take some notice of this affair in the Leyden Gazette, as I doubt not, if Asgill is executed, that it will make some noise in Europe.<a class="ptr" href="#PJA13d056n5" id="PJA13d056n5-ptr">5</a> We are distracted here by various relations of a battle fought between the fleets in the West Indies on the 12th of April.<a class="ptr" href="#PJA13d056n6" id="PJA13d056n6-ptr">6</a> The Antigua and New York account is that the British have been victoriousthat the Ville de Paris and six other ships were taken or destroyed. The French account that Rodney was defeated, and that Count de Grasse had gone to Leeward with his transports. Tho it is now six weeks since the action, we have nothing that can be depended upon.</p>
+<p>I am sir, with great respect &amp; esteem Your most obedt. humble servt</p>
+<div class="closer">
+<p class="signed">Robt R Livingston</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d056sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ duplicate ]">Dupl</abbr></span> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: John Adams, Embassy <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscripts ]">MSS</abbr>); endorsed: Secy. Livingston 29 May ansd 6. Sept. 1782 no 7. Although <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> wrote a detailed reply to this letter on <a href="default.xqy?keys=ADMS-print-06-13-02-0180" class="document">6 Sept.</a>, he acknowledged its arrival in the form of a duplicate in his letter of <a href="default.xqy?keys=ADMS-print-06-13-02-0176" class="document">4 Sept.</a>, both below.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d056n1-ptr" id="PJA13d056n1">1</a>
+
+   <p>This letter bears the date on which it was dispatched (from Livingston, <a href="default.xqy?keys=ADMS-print-06-13-02-0043" class="document">30 May</a>, below), but Livingston may have drafted it as early as 25 May, for which see note 4.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d056n2-ptr" id="PJA13d056n2">2</a>
+
+   <p>The <span class="hi-italic" style="font-style: italic;">Courier de lEurope</span> of 26 Feb. contained a French translation of the final two paragraphs of Livingstons letter to Dumas of 28 Nov. 1781 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, ed. Francis Wharton, Washington, D.C., 1889; 6 vols. ]">Wharton, <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 5:3032). The extract from the letter to Dumas formed the first third of a longer passage entitled Extrait dune Lettre dun Amricain  son Correspondant en Hollande. The source of the remainder of the text is unknown, but it contained references that appear in other letters written by Livingston in late November.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d056n3-ptr" id="PJA13d056n3">3</a>
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter to Franklin had reached Livingston as an enclosure in Benjamin Franklins letter of 30 March 1782 to the secretary for foreign affairs, for which see <a href="default.xqy?keys=ADMS-print-06-12-02-0221&amp;expandNote=PJA12d264n3#PJA12d264n3" class="document">note 3</a> to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of 26 March (vol. 12:352).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d056n4-ptr" id="PJA13d056n4">4</a>
+
+   <p>Since there is no extant letter from Livingston to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of 26 May, he may be referring to his letter of <a href="default.xqy?keys=ADMS-print-06-13-02-0032" class="document">22 May</a>, above. That would suggest that this letter of the 29th, and the letter to Francis Dana bearing the same date (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, ed. Francis Wharton, Washington, D.C., 1889; 6 vols. ]">Wharton, <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 5:446447), may have been drafted on or about 25 May.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d056n5-ptr" id="PJA13d056n5">5</a>
+
+   <p>The letter to Francis Dana of the 29th contained a detailed account of the case of Capt. Charles Asgill of the 1st Foot Guards. Captured at Yorktown, Asgill was selected for execution in retaliation for the murder of an American prisoner, Capt. Josiah Huddy, by a loyalist officer, Capt. Richard Lippincott. George Washington demanded that Lippincott be turned over to the Americans for trial. General Clinton condemned the actions of the loyalists, but he refused Washingtons request, ordering instead that Lippincott be court-martialed. This led to Asgills selection to be executed in Lippincotts stead. For a variety of reasons, including an appeal by his mother through the French government, Captain Asgill was released and returned to England on parole (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, repr. edn., New York and London, 19591960; 22 vols. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Piers Mackesy, &lt;i&gt;The War for America, 17751783&lt;/i&gt;, Cambridge, 1964. ]">Mackesy, <span class="hi-italic" style="font-style: italic;">War for America</span></span>, p. 490491; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, ed. Worthington C. Ford and others, Washington, D.C., 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 23:845846). In his reply of <a href="default.xqy?keys=ADMS-print-06-13-02-0180" class="document">6 Sept.</a>, below, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> indicates that Dumas translated the portion of Livingstons letter to Dana pertaining to Asgill. It appeared in the <span class="hi-italic" style="font-style: italic;">Gazette dAmsterdam</span> of 13 September.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d056n6-ptr" id="PJA13d056n6">6</a>
+
+   <p>This is the first mention in any letter to or from <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of Rodneys victory over the French fleet commanded by the Comte de Grasse at the Battle of the Saints on 12 April. News of the battle, which resulted in de Grasses capture and the loss of seven French ships of the line, reached London on 18 May (<span class="hi-italic" style="font-style: italic;">London Gazette</span>, 1418 May; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Piers Mackesy, &lt;i&gt;The War for America, 17751783&lt;/i&gt;, Cambridge, 1964. ]">Mackesy, <span class="hi-italic" style="font-style: italic;">War for America</span></span>, p. 456459). For <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s first comment on the battle, see his brief note of <a href="default.xqy?keys=ADMS-print-06-13-02-0051" class="document">5 June</a> to Edmund Jenings, below.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0042 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0043" title="From Robert R. Livingston, 30 May 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

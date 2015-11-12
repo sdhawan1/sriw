@@ -1,0 +1,160 @@
+General Orders, 14 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 14 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0047&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-14-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0046" title="From Colonel Samuel Wyllys, 13 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0048&amp;mode=TOC" title="From Major John Grizzage Frazer [document with enclosures]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; General Orders, 14 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0047&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0046" title="From Colonel Samuel Wyllys, 13 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0048&amp;mode=TOC" title="From Major John Grizzage Frazer [document with enclosures]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0058">58</span><div id="Rev04d43" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, New-York, April 14th 1776</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole, New-York.</td>
+		<td class="csigns">Countersign Prosperity.</td>
+	      </tr></table>
+
+</div>
+<p>The General compliments the Officers who have successively commanded at this Post, and returns his Thanks to them, and to all the Officers, and Soldiers, under their Command, for the many Works of Defence, which have been so expeditiously erected, and doubts not but the same Spirit of Zeal for the service, will continue to animate their future conduct.</p>
+<p>Exact Returns of all the Regiments and Corps, to be made up and sent to the Adjutant General as soon as possibleThe Commanding Officers at the out-posts, are also to send a Report of the Numbers under their command, where, and how disposed ofExact Returns also, of all the Ordnance, and military Stores, Provisions, Stores in the Department of the Quarter Master General &amp;c., to be forthwith deliverd to the Commander in Chief, signed by the proper Officer of the Head of each department.</p>
+<p>All persons infected with the Small-Pox are to be immediately removed to a secure place to be provided by the Qr Mr General, who will consult the Magistrates of the City thereupon. A proper Guard, to be composed of men, who have had
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0059">[59]</span>
+that Disorder, to be fixed at this Hospital, to prevent any intercourse but such as the manager shall licence.</p>
+<p>Pay-Abstracts are to be made out for each Regiment, and Corps in this department, to the 1st of April exclusive; (each Month seperate) and lodged with Major Harrison Aid-de-Camp to the General, that provision may be made for payment.</p>
+<p>As the General is unacquainted at present, with the various Orders for the good Government of the Troops here, or the reasons which induced the giving of them; He directs, that those, and all General Orders be duly attended to, and obeyed until countermanded by himself.</p>
+<p>The General flatters himself, that he shall hear no Complaints from the Citizens, of abuse, or ill-treatment, in any respect whatsoever; but that every Officer, and Soldier, of every Rank and Denomination, will pride themselves (as Men contending in the glorious Cause of Liberty ought to do) in an orderly, decent and regular deportment.</p>
+<p>One Captain, four Subalterns, four Serjeants, four Corporals, two Drums, and one hundred Privates, to parade this Afternoon at four OClock, to go as Guard to Governors Island.</p>
+<p>Two Field Officers, four Captains, eight Subalterns, sixteen Serjeants, four Drums &amp; Fifes and four hundred men from Heaths and Lord Stirlings Brigades, to parade at Six OClock to morrow Morning, with three days provisions, to go as a working party to Governors IslandGenl Putnam will order Boats to be ready at the Ferry to transport them.<a class="ptr" href="#GEWN-03-04-02-0047-fn-0001" id="GEWN-03-04-02-0047-fn-0001-ptr">1</a></p>
+<p>For the future the Commissary General is not to issue any Rum to working parties, unless the Return is signed by the Officer commanding the whole party.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0047-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+
+   <p>On arriving at New York on 13 April, GW occupied a town house on Broadway owned by William Smith (17281793) (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Thomas Jones. &lt;i&gt;History of New York during The Revolutionary War, and of the Leading Events in the Other Colonies at that Period&lt;/i&gt;. Edited by Edward Floyd De Lancey. 2 vols. New York, 1879. ]">Jones, <span class="hi-italic" style="font-style: italic;">History of N.Y.</span></span>, 1:85). When Mrs. Washington reached the city four days later, she took up residence in the handsome mansion belonging to Abraham Mortier (d. 1771), the former deputy paymaster general of the British forces in America, and GW undoubtedly joined her there about that time. Mortiers house stood outside the city proper in Lispenards Meadows at what is now the corner of Varick and Charlton streets, about two-and-a-half miles from the battery at the southern end of Manhattan Island. Although GW conducted official business at Mortiers house in June after returning from a trip to Philadelphia, his
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0060">[60]</span>
+headquarters were maintained separately from his living quarters during April and May. That headquarters was in town (Dodge, Orderly Book, 128), but its exact location is a matter of some dispute. Among the places that have been suggested as GWs headquarters during this period are the Bayards Hill redoubt and a house on Pearl Street near the battery (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Douglas Southall Freeman. &lt;i&gt;George Washington: A Biography&lt;/i&gt;. 7 vols. New York, 194857. ]">Freeman, <span class="hi-italic" style="font-style: italic;">Washington</span></span>, 4:63537). The General Orders for 19 and 22 May indicate, however, that his headquarters continued to be in Smiths town house on Broadway.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0047-fn-0001-ptr" id="GEWN-03-04-02-0047-fn-0001">1</a>
+
+   <p>Governors Island, also known as Nutten Island, lies in New York Bay about half a mile off Manhattans battery. On the night of 8 April Gen. Israel Putnam sent one thousand men to the island to begin fortifying it. Defensive works were begun that same night at Red Hook on Long Island, about half a mile south of Governors Island, to protect that side of Governors Island from enemy warships (see Israel Putnam to Hancock, 7 April, and William Heath to Putnam, 8 April 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark and Morgan, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 4:698, 721).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0047 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0046" title="From Colonel Samuel Wyllys, 13 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0048&amp;mode=TOC" title="From Major John Grizzage Frazer [document with enclosures]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

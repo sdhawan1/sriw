@@ -1,0 +1,178 @@
+From Richard Croshor Graves, 24 December 1771
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Richard Croshor Graves, 24 December 1771</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-08-02-0380&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1771-12-24-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-08-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0379&amp;mode=TOC" title="From Joseph Davenport [document with enclosures]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-08-02-0381" title="From Burwell Bassett, 25 December 1771"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-08&amp;mode=TOC">Volume 8 (24 June 176725 December 1771)</a>&gt; <a href="?keys=GEWN-print-02-08-02&amp;mode=TOC">Documents</a>&gt; From Richard Croshor Graves, 24 December 1771</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-08-02-0380&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0379&amp;mode=TOC" title="From Joseph Davenport [document with enclosures]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0381" title="From Burwell Bassett, 25 December 1771"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0584">584</span><div id="Col08d347" class="doc">
+
+<h1>From Richard Croshor Graves</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sr</td>
+		<td class="salutationRight">york County Desemr the 24[1771]</td>
+	      </tr>
+      </table>
+</div>
+<p>According to your Desire I have sent Will up With an Inventeary From Every oversers own hand<a class="ptr" href="#GEWN-02-08-02-0380-fn-0001" id="GEWN-02-08-02-0380-fn-0001-ptr">1</a> I Aplloyd to the treasurear and the assembley is prorogud tell the sixt Day of February Next,<a class="ptr" href="#GEWN-02-08-02-0380-fn-0002" id="GEWN-02-08-02-0380-fn-0002-ptr">2</a> As to the Hogs they ant half fatt Great part of them has ben put up sence the Death of Mr Vallentine as to the store I Did not want worning in Being Carefull I have Neaver had the kee Nor Bean in the store mr Vallentine was In his proper sences to the Last and knew as I lived a Great Distance from him two far to take the Care of any keys so as he Left them in the Care of mr stanhope Vaughn who is alowed to be a very honest man and one of his Executors<a class="ptr" href="#GEWN-02-08-02-0380-fn-0003" id="GEWN-02-08-02-0380-fn-0003-ptr">3</a> as to the Book you shall find it safe as he Left it and I will Doe for the Best in Every thing but Dont Care to Concearnd in any accompts while you Come Down as all may be settled I will have the papers and accompt placed Ready for
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0585">[585]</span>
+you<a class="ptr" href="#GEWN-02-08-02-0380-fn-0004" id="GEWN-02-08-02-0380-fn-0004-ptr">4</a> and if the Hogs is Fatt before you send a man I will Doe for the Best according to your Desire the Wider has Now movd of<a class="ptr" href="#GEWN-02-08-02-0380-fn-0005" id="GEWN-02-08-02-0380-fn-0005-ptr">5</a> and no<a class="ptr" href="#GEWN-02-08-02-0380-fn-0006" id="GEWN-02-08-02-0380-fn-0006-ptr">6</a> one at the place which is very Dangrous with the store and other things I much Expected to have Dun your Business had I known as you wanted a Recommendation I Could have sent you as good as could be by Evey Gente man as new me the Sooner you send a man the Better as the hands wants placing and sum of the overseers suffers for them<a class="ptr" href="#GEWN-02-08-02-0380-fn-0007" id="GEWN-02-08-02-0380-fn-0007-ptr">7</a> know more But Remain your most obed. &amp; very hbe ser.</p>
+<div class="closer">
+<p class="signed">Richd Croshor Graves</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-08-02-0380-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0001-ptr" id="GEWN-02-08-02-0380-fn-0001">1</a>
+
+   <p>Will is probably GWs body servant Will Lee. In the Custis Papers at the Virginia Historical Society there are a number of inventories of slaves and stock at various plantations taken after Joseph Valentines death. Some or all of the following inventories may have been sent to GW at this time: Stanhope Vaughans accounts of slaves and stock at the Great House, at the Mill quarter (given Vaughan by Henry Street), and at the Quarter over the Mill called new quarter, all dated 20 Dec.; <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2011-11-10]]&lt;/span&gt; ]">Richard Streets Inventary of the Negroes and Stock at Old Quarter, dated 20 Dec.;</span> William Vaughans list of slaves and stock at Brick House, dated 22 Dec.; Stanhope Vaughans inventories of slaves and stock under my cear at Jacksons, and at Mill quarter that Henry Street give me, and at the Great House, all dated 24 Dec.; and Henry Gilbert, Jr.s inventory of slaves and stock at Rockahock, and Samuel Trowers inventory of the slaves and stock at Harlows, both undated. Some of these inventories may have been sent to GW by Burwell Bassett (see <a href="default.xqy?keys=GEWN-print-02-08-02-0381" class="document">Bassett to GW, 25 Dec.</a>). Also in the Custis Papers, but possibly done at another time, is an undated, unsigned inventory of furnishings and other appurtenances, In the house at Town. An undated, unsigned Memorandum of the Estate of Colo. Custis Decest in York County and King William County seems to have been done much earlier, at some time after Daniel Parke Custiss death; it has additions in what looks to be GWs earlier hand. An undated Inventory taken by T. Bishop of the Goods &amp;ca In the Stores &amp;ca N. Kent, docketed in what may be GWs earlier hand, is also in the Custis Papers. See also <a href="default.xqy?keys=GEWN-print-02-08-02-0379-0001" class="document">the enclosure in Joseph Davenport to GW, 23 December</a>. There are also two inventories, one of slaves and the other of stock, drawn up by GW from the inventories sent to him by the overseers. See <a href="default.xqy?keys=GEWN-print-02-08-02-0382" class="document">List of Slaves Belonging to George Washington and John Parke Custis, December 1771</a> and notes<span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ', printed below' &lt;span style='font-size: 90%'&gt;[[2014-11-24]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0002-ptr" id="GEWN-02-08-02-0380-fn-0002">2</a>
+
+   <p>GW may have been trying to collect the 11.7 due him largely for travel and attendance at the 1771 session of the House of Burgesses (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 303).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0003-ptr" id="GEWN-02-08-02-0380-fn-0003">3</a>
+
+   <p>Stanhope Vaughan, one of the York County overseers, was married to Joseph Valentines daughter Anne. In the tax list for 1782 Vaughan is listed as owning ninety acres in New Kent County.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0004-ptr" id="GEWN-02-08-02-0380-fn-0004">4</a>
+
+   <p>The book Graves is referring to must be Valentines missing book of accounts with the Custis estate. In the Custis Papers are copies in GWs hand of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0586">[586]</span>
+Valentines accounts with both John Parke Custis and himself for December 1769, which he entitles An Exact Copy from Mr Valentines Book taken May 8th 1771.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0005-ptr" id="GEWN-02-08-02-0380-fn-0005">5</a>
+
+   <p>Valentines wider was Mary Valentine.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0006-ptr" id="GEWN-02-08-02-0380-fn-0006">6</a>
+
+   <p>Graves wrote kow, instead of no.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0380-fn-0007-ptr" id="GEWN-02-08-02-0380-fn-0007">7</a>
+
+   <p>GW himself did not get down to York County until the following March, but he may have sent Thomas Bishop or someone else.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-08-02-0380 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 8 (24 June 176725 December 1771)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0379&amp;mode=TOC" title="From Joseph Davenport [document with enclosures]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0381" title="From Burwell Bassett, 25 December 1771"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

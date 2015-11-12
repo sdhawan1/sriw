@@ -1,0 +1,190 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0216&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0215" title="To Adrianus Dubbeldemuts, 22 March 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0217" title="From Leendert de Neufville, 22 March 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0216-0001" title="From C. W. F. Dumas, 22 March 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0216&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0215" title="To Adrianus Dubbeldemuts, 22 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0217" title="From Leendert de Neufville, 22 March 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0343">343</span><div id="PJAtg36" class="transgroup">
+
+<div id="PJA12d256" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Lahaie 22e Mars 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Mardi ou Mercredi prochain nous pourrons selon toute apparence dire avec Ovide <span class="hi-italic" style="font-style: italic;">Dicite Io Paean,</span><a class="ptr" href="#PJA12d257n1" id="PJA12d257n1-ptr">1</a> &amp;c. cest- dire notre Soeur la Hollande, comme nous pouvons dj dire notre Soeur la Frise; et puis les autres ne tarderont pas de complter la Fraternit. Hier laffaire de votre admission fut tout de bon sur le tapis; il ny eut aucun dbat l-dessus. 9 Villes, savoir Dort, Harlem, Delft, Leide, Amsterdam, Gouda, Schoonhoven, Purmerend, et la 9me je lai oubliee, donnerent leurs suffrages pour laffirmative, sans aucune contradiction, pas mme de Mr. le Gd. Pre, qui se montra fort traitable; et les Dputs des 9 autres ne garderent le silence que parce quils nayoient pas encore reu leurs Instructions. Notre Ami dclara, quil ne souffrira pas que cette Assemble se spart sans<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0344">[344]</span> quon prt une Resolution dfinitive  ce sujet, et lui ainsi quun autre ami mont assur quelle passera unanimement mardi ou mercredi prochain.<a class="ptr" href="#PJA12d257n2" id="PJA12d257n2-ptr">2</a> Ayez la bont, Monsieur, de me dire dabord en rponse, si la copie de la Rsolution que vous avez reue des Etats de Frise, est ce quon appelle une copie authentique, cest--dire, si elle est signe de la main de Mr. Sminia le Secretaire des Etats de Frise:<a class="ptr" href="#PJA12d257n3" id="PJA12d257n3-ptr">3</a> on me la demand; et jai lieu de croire, que cest pour se conduire en consquence, cest--dire, quon vous enverra aussi une Copie signe de Mr. Clotterboke le Secretaire des Etats dHollande. Notre ami est surpris que vous ne Soyiez pas venu aujourdhui ici. Il dit quil est bon de vous montrer ici pendant quelques jours; et je crois que Mr. lAmbassadr. sera bien aise aussi de pouvoir vous dire ce que je vous ai marqu il y a quelques jours de la part de Mr. de V.<a class="ptr" href="#PJA12d257n4" id="PJA12d257n4-ptr">4</a></p>
+<p>Pour le coup, je crois tre sr que Wth est parti hier tout de bon pour Amsterdam; A moins quil ne se soit cach dans quelque gouttiere.</p>
+<p>Agrez les respects de ma petite famille. Je tirerai sur vous, Monsieur, lun de ces jours,  lordre de Mrs. Moliere fils &amp; Ce, pour le 15e dAvril prochain, les 6052.10 restants, afin dtre prt  la Minute, quand il faudra quon me fasse le transport final de la Maison.</p>
+<div class="closer">
+<p class="salute">Je suis avec tout le respectueux attachement qui vous est connu et vou pour toujours, Monsieur, Votre trs-humble &amp; trs obissant Serviteur</p>
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>Je souponne quil Sagira encore dune petite ruse, pour ter quelque chose  lauthenticit de votre admission: mais vous pourrez viter facilement ce petit piege, si tant est quon veuille lessayer, en refusant tout net de prsenter vos Lettres de crance autrement que comme tous les Ministres publics les prsentent, cest--dire, en pleine audience  lAssemble des E. G., et non  une Commission. Aprs cette premiere Audience, on pourra, tant quon voudra, traiter par Commissaires,  la bonne heure: mais laudience doit prcder, pour prvenir toute chicane  lavenir.</p>
+<p>Il est bon de ne rien dire, encore du contenu de cette Lettre,  dautres qu Mrs V. B., Biker, et Marsseveen;<a class="ptr" href="#PJA12d257n5" id="PJA12d257n5-ptr">5</a> si vous jugez  propos de leur en parler. Tout autre ne doit savoir rien de la Rsolution, que lorsquelle sera prise et communique.</p>
+</div>
+</div>
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0345">[345]</span>
+<div id="PJA12d257" class="trans letter">
+
+ <h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 22 March 1782</td>
+		</tr>
+      </table>
+</div>
+<p>From all appearances we will, with Ovid, be able to utter Dicite Io Pan<a class="ptr" href="#PJA12d257n1" id="PJA12d257n1-ptr">1</a> next Tuesday or Wednesday, that is to say, that our sister Holland, along with our already established sister Friesland, will soon complete the fraternity with the others. Yesterday, the matter of your confirmation was discussed with no debate. Nine cities, Dordrecht, Haarlem, Delft, Leyden, Amsterdam, Gouda, Schoonhoven, Purmerend, and I forget the ninth one, all voted in the affirmative without contradiction, even from the grand pensionary who seemed very accommodating. The other nine deputies kept silent only because they had not yet received their instructions. Our friend declared that this assembly could not adjourn until a definitive resolution was taken regarding this subject, as did another friend, who assured me that it will pass unanimously next Tuesday or Wednesday.<a class="ptr" href="#PJA12d257n2" id="PJA12d257n2-ptr">2</a> Be so kind, sir, as to respond to me whether or not the copy of the resolution that you received from the states of Friesland is an authentic copy, that is, if it is signed by Mr. Sminia, secretary of the states of Friesland.<a class="ptr" href="#PJA12d257n3" id="PJA12d257n3-ptr">3</a> I was asked about it and I have reason to believe that it was because of the next step needed as a result, which would be to also send you a copy signed by Mr. Clotterboke, secretary of the states of Holland. Our friend is surprised that you did not come here today. He says it would be good for you to be here for a few days. I believe that the ambassador will be pleased to be able to tell you in person what I wrote to you several days ago about Mr. de Vergennes.<a class="ptr" href="#PJA12d257n4" id="PJA12d257n4-ptr">4</a></p>
+<p>I believe it to be certain that Wentworth finally left yesterday for Amsterdam, unless he is hiding in some gutter.</p>
+<p>Please accept my familys regards. One of these days I will ask you, sir, for the 6052.10 florins remaining to be paid to Messrs. Moliere fils &amp; Co and due by April 15th, so that I will be ready when the house sale becomes final.</p>
+<div class="closer">
+<p class="salute">I am, with the most respectful attachment known and vowed to you always, sir, your very humble and very obedient servant </p>
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>I suspect that there will be still yet another small ruse to question the authenticity of your confirmation. But you can easily avoid this little trap, if one wishes to try it, by clearly refusing to present your credentials in any other way than how all public officials present theirs, that is to say, to a full audience at the assembly of the states general and not to a committee. After this first audience, the commissioners can question all they want, but the audience must come first in order to prevent any chicanery in the future.</p>
+<p>It is best not to say anything about this letter to anyone except Messrs. V. B., Bicker, and Maarseveen,<a class="ptr" href="#PJA12d257n5" id="PJA12d257n5-ptr">5</a> if you think it is appropriate to tell them. No one else must know anything about the resolution until it is passed and communicated.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d257sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed by John Thaxter: Mr. Dumas 22d. March 1782.</span>
+</p>
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0346">[346]</span>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA12d257n1-ptr" id="PJA12d257n1">1</a>
+<p>Give the victory cry (Ovid, <span class="hi-italic" style="font-style: italic;">Art of Love</span>, Bk. II, line 1).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d257n2-ptr" id="PJA12d257n2">2</a>
+<p>The States of Holland acted on Thursday, 28 March.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d257n3-ptr" id="PJA12d257n3">3</a>
+<p>An extract, in Dutch, from the resolutions of the States of Friesland on 26 Feb. in the <span class="ref-terms">Adams Papers</span> is certified as having been Accordeert met Voorst Boek (compared with the aforesaid book), but is not signed by A. I. V. Sminia (Descriptive List of Illustrations, <span title="unresolvable ref" class="figDesc warning">No. 5</span>, above). English translations that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> sent to Congress (to Robert R. Livingston, <a href="default.xqy?keys=ADMS-print-06-12-02-0190" class="document">11 March</a>, above; <a href="default.xqy?keys=ADMS-print-06-12-02-0276" class="document">19 April</a>, below) and included in <span class="hi-italic" style="font-style: italic;">A Collection of State-Papers</span>, 1782, p.7980, however, do carry Sminias signature.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d257n4-ptr" id="PJA12d257n4">4</a>
+<p>See Dumas 2d letter of <a href="default.xqy?keys=ADMS-print-06-12-02-0203-0002" class="document">16 March</a>, above.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d257n5-ptr" id="PJA12d257n5">5</a>
+<p>Presumably Engelbert Franois van Berckel, Hendrik Bicker, and Jan Elias Huydecoper van Maarseveen en Neerdijk.</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0216 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0215" title="To Adrianus Dubbeldemuts, 22 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0217" title="From Leendert de Neufville, 22 March 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

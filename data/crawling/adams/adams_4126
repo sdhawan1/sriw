@@ -1,0 +1,122 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02-0162-0003&amp;mode=TOC" title="II. John Adams Draft of a Dutch-American Treaty of Amity and Commerce and Proposals for Revisions: &#10;[22 August 1782]&#10;"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0003-0002" title="Dutch Translation of John Adams Draft of a Dutch-American Treaty of Amity and Commerce and Proposals for Revisions"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 10.78px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13-02-0162&amp;mode=TOC">The Negotiation of the Dutch-American Treaty of Amity and Commerce: 22 August  8 October 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02-0162-0003&amp;mode=TOC">II. John Adams Draft of a Dutch-American Treaty of Amity and Commerce and Proposals for Revisions: 
+[22 August 1782]
+</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0162-0003-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0003-0002" title="Dutch Translation of John Adams Draft of a Dutch-American Treaty of Amity and Commerce and Proposals for Revisions"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0262">262</span><div id="PJA13d194" class="docgroup_front">
+
+<h3>Editorial Note</h3>
+<div class="docbody">
+<p>Two separate documents are presented here. The first is derived from the printed Dutch translation of John Adams English draft of a treaty of amity and commerce, accompanied by Remarques en nadere Propositie (Remarks and Further Propositions), that was officially presented to Adams on 22 August. The Dutch translation of the draft appears in the left column. In the right column are the Remarques, which are (with one notable exception, for which see <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003-0002-0002&amp;expandNote=PJA13d196n1#PJA13d196n1" class="document">note 1</a>) keyed to numbered italicized passages in the draft on the left. Most of these proposals, even those regarding a single word, are substantive; however, some are merely textual, intended to correct errors in the translation (see, for example, <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003-0002-0002&amp;expandNote=PJA13d196n10#PJA13d196n10" class="document">note 10</a>). Note also that in some instances there are unnumbered italicized words or passages that were intended for deletion with no revision or replacement indicated. The second document consists of the reconstructed English text of Adams draft in the left column and an English translation of the Dutch remarks in the right column. For the editors decision to reconstruct the draft rather than translate it from the Dutch, see the <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0001" class="document">editorial note</a> to the group document, above.</p>
+<p>The reconstruction was possible because by comparing the Dutch text of the draft and the language of the final treaty (<a href="default.xqy?keys=ADMS-print-06-13-02-0162-0011-0002" class="document">No. VIII</a>, below), it was clear that Adams used two sources when he drafted the treaty. He began<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0263">[263]</span> with Congress <a href="default.xqy?keys=ADMS-print-06-10-02-0260" class="document">29 December 1780</a> plan for a Dutch-American treaty (vol. 10:451458). Articles 1 through 22 of the draft correspond to Articles 1 through 21 of the treaty plan, the numbering discrepancy owing to one article being the reciprocal of another, for which see <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003-0002-0002&amp;expandNote=PJA13d196n20#PJA13d196n20" class="document">note 20</a>. For matters not covered in the treaty plan, Adams then turned to the Lee-Neufville Treaty of 4 September 1778 (<span class="ref-terms">Adams Papers</span>; printed: <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, ed. Francis Wharton, Washington, D.C., 1889; 6 vols. ]">Wharton, <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev</span></span>., 2:789798). From this source he took Articles 10, 29, 30, 31, and 32, which correspond to Articles 24 through 28 of the draft treaty, as well as the passport and certificate to be given to American merchant ships. Only Articles 23, 29, and 30 were Adams own work. Article 23 does not appear in the final treaty and is translated directly from the Dutch. Articles 29 and 30 do appear in the final treaty, and the text for them there has been used here.</p>
+<p>With regard to the English translation of the Remarques en nadere Propositie appearing in the right column, it should be noted that the printed Dutch text that Adams received on 22 August, which served as the basis for negotiations, included remarks, proposals, and deletions in an unknown hand, all stemming from proposals adopted by Amsterdam on 9 August (<span class="ref-terms">Adams Papers</span>). Those handwritten passages, in both Dutch and English, have been underlined to differentiate them from the rest of the text. The English text of the remarks and proposals is derived from two sources. When a proposal was rejected, or for some other reason was not included in the final treaty, it has been translated directly from the Dutch, but when a Dutch proposal was incorporated more or less verbatim into the treaty, the English text of the passage as it appears in the final treaty has been used, with such instances being indicated in the annotation (but see also John Adams responses to the Dutch proposals in <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0006" class="document">No. III</a>, below).</p>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0162-0003-0001 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0003-0002" title="Dutch Translation of John Adams Draft of a Dutch-American Treaty of Amity and Commerce and Proposals for Revisions"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,176 @@
+From Robert R. Livingston, 29 August 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert R. Livingston, 29 August 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0170&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-08-29-12">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0169" title="From Edmund Jenings, 29 August 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0171" title="To Edmund Jenings, 30 August 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Robert R. Livingston, 29 August 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0170&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0169" title="From Edmund Jenings, 29 August 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0171" title="To Edmund Jenings, 30 August 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0406">406</span><div id="PJA13d221" class="doc letter">
+
+<h1>From Robert R. Livingston</h1>
+
+<div class="docbody">
+<div class="opener">
+<div class="openerSeg">No: 10</div>
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear sir</td>
+		<td class="salutationRight">Philadelphia 29th. Augt. 1782</td>
+	      </tr>
+      </table>
+</div>
+<p>Near five months have elapsed since I have been favoured with a line from you. Your letter of the 4th. of March is the last that has as yet found its way to America.<a class="ptr" href="#PJA13d221n1" id="PJA13d221n1-ptr">1</a></p>
+<p>Let me entreat you, Sir, to reflect on the disgrace and discredit it brings upon this department to be kept thus in the dark relative to matters of the utmost moment, and how impossible it is without better information to declare the designs or wishes of Congress since they must be in some measure directed by a State of their affairs in Europe, and yet, Sir, they have hitherto been left in a great measure to collect that state from private Letters, common newspapers or the communications of the Minister of France. There is another circumstance in which the reputation of our ministers themselves is materially concerned. Letters announcing a fact that is well known before their arrival lose half their force and beauty, they cease to be interesting and are read with indifference. You have done yourself great injustice frequently in this way, for tho your Letters have generally been particular, yet from not being Sufficiently attentive to the means of conveyance we frequently have had the facts they related publishd in the newspapers a month before their arrival. As one instance out of many, we received with your Letter of the 11th. of March, Amsterdam papers of the 30th. which informed us of the determination of Holland relative to your reception. We are told that you were received in your public character the 19th. of April, and yet, Sir, we have not to this hour had any official information on that head. I am ready to make every allowance for the miscarriage of Letters, but this should only urge our ministers to multiply the number of their copies, particularly where the subject of them is important. I feel myself so hurt at this neglect, Congress are so justly dissatisfied at seeing Vessels arrive every day from France without public Letters at this very critical period from any of our ministers, that I fear I have pressed the subject farther than I ought to have done. If so, be pleased to pardon my Earnestness, and to impute it to my wish as well to render this Office more useful to the Public as to enable you to give Congress more ample satisfaction.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0407">[407]</span>
+<p>The advantages which will be derived to these states from the acknowledgement of their political existence as an independent nation, are too many and too obvious not to be immediately and sensibly felt by them. I sincerely congratulate you on having been the happy means of effecting this beneficial connection. We may reasonably hope that your official letters will detail the progress of so interesting an Event and thereby enable us to form some judgment of the nature and principles of the government of the United Provinces. From the zeal that they manifest to us I should hope that you would find no great difficulty in the accomplishment of one great object of your mission, the procuring a loan, which neither the probability or the conclusion of a peace will render unnecessary. On the contrary, I am inclined to believe that our wants will be more pressing at the close of the war when our Troops are to be paid and disbanded than at any other period, and as it seems to have been your sentiment hitherto that money could be procured when our political Character was fully known, I venture to hope that you have availed yourself of your present situation to obtain it.</p>
+<p>Genl Carleton and Admiral Digby, (presuming I suppose that our ministers were not the most punctual correspondents) have been pleased to inform us thro the Commander in Chief that negotiations for a general peace are on foot. If so, I presume this will find you in France.<a class="ptr" href="#PJA13d221n2" id="PJA13d221n2-ptr">2</a> In addition to the great objects which will become the subject of discussion, and on which you are fully instructed, I would wish again to repeat one that I have mentioned in my last to you<a class="ptr" href="#PJA13d221n3" id="PJA13d221n3-ptr">3</a>that materially interests usI mean the procuring a market for lumber and provisions of every kind in the West Indies. Should France pursue her usual system with respect to her Colonies, and England follow her example, the shock will be severely felt here, particularly in the states whose Staples are flour, beef and pork. But should either of them be so fully apprized of their true interest as to set open this market at least for these Articles, the advantage they will derive from it must compel the others to adopt the same system. I need only mention this matter to you, the Arguments to shew the mutual advantage of this Commerce to this country, the Colonies and the parent States, will suggest themselves readily to you and be suggested by you to those we are interested in convincing. The turtle and fruit of the Bahama Islands have formed powerful connexions among the good eaters and drinkers of this country. I recommend their interests to your care; they flatter themselves their <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0408">[408]</span>friends the spaniards will not interrupt their ancient alliance if those Islands should remain in their hands. I have already transmitted you an Account of the Evacuation of Savannah.<a class="ptr" href="#PJA13d221n4" id="PJA13d221n4-ptr">4</a> The enclosed papers contain a proclamation of General Leslie announcing that of charlestown, and generously offering to provide for the <span class="hi-italic" style="font-style: italic;">transportation</span> of the Royalists to East Florida where the climate will doubtless aid Administration in the proposed reduction of the list of Pensioners.<a class="ptr" href="#PJA13d221n5" id="PJA13d221n5-ptr">5</a> The fleet under the Marquis de Vaudreuil has unfortunately lost a seventy four by striking a rock in the harbour of Boston. Congress have endeavoured to compensate this loss by presenting his most Christian Majesty with the America.<a class="ptr" href="#PJA13d221n6" id="PJA13d221n6-ptr">6</a></p>
+<p>I have caused two quarters salary to be remitted to Doctor Franklin on your account, for which you will be so obliging as to send me your receipt. I must again press you to appoint an Agent to receive your money here as I act without any authority at present, which I must decline the hazard of doing in future.</p>
+<div class="closer">
+<p class="salute">I have the honor to be, sir with great respect &amp; Esteem Your most obedt humble servant</p>
+<p class="signed">Robt R Livingston</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d221sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: Mr Livingston 29. Aug. 1782 N. 10.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d221n1-ptr" id="PJA13d221n1">1</a>
+
+   <p>The date of the letter referred to by Livingston is either an inadvertence by him or a copying error by his clerk. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> wrote on <a href="default.xqy?keys=ADMS-print-06-12-02-0190" class="document">11 March</a>, not the 4th, and Livingston refers specifically to that letter in the next paragraph. The letter of the 11th was the most recent to reach Livingston, having arrived on 31 May, but the last letter by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> that Livingston had received was of <a href="default.xqy?keys=ADMS-print-06-12-02-0157" class="document">19 Feb.</a>, which arrived on 22 July (vol. 12:308310, 240245; <span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 185, III, f. 29, 35). The next batch of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letters to reach Congress arrived on 11 Sept. and included eight letters written between 19 April and 5 July (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 185, III, f. 41).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d221n2-ptr" id="PJA13d221n2">2</a>
+
+   <p>In fact this letter reached <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> at Paris on 4 Nov., and he replied on the 6th (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, ed. Francis Wharton, Washington, D.C., 1889; 6 vols. ]">Wharton, <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 5:854858).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d221n3-ptr" id="PJA13d221n3">3</a>
+
+   <p>Of <a href="default.xqy?keys=ADMS-print-06-13-02-0095" class="document">4 July</a>, above.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d221n4-ptr" id="PJA13d221n4">4</a>
+
+   <p>No letter from Livingston enclosing an account of the British evacuation of Savannah on 11 July has been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d221n5-ptr" id="PJA13d221n5">5</a>
+
+   <p>It is not known what papers Livingston sent that contained Gen. Alexander Leslies proclamation of 7 Aug., signed by his secretary, Edward Scott, but it was printed in Rivingtons <span class="hi-italic" style="font-style: italic;">Royal Gazette</span> of 28 Aug. and in the <span class="hi-italic" style="font-style: italic;">Pennsylvania Gazette</span> of 4 September. Livingstons summary of its content is accurate.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d221n6-ptr" id="PJA13d221n6">6</a>
+
+   <p>For the presentation of the <span class="hi-italic" style="font-style: italic;">America</span> to France, see <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of <a href="default.xqy?keys=ADMS-print-06-13-02-0142" class="document">12 Aug.</a> to John Paul Jones, <a href="default.xqy?keys=ADMS-print-06-13-02-0142&amp;expandNote=PJA13d170n2#PJA13d170n2" class="document">note 2</a>, above.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0170 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0169" title="From Edmund Jenings, 29 August 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0171" title="To Edmund Jenings, 30 August 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

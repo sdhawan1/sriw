@@ -1,0 +1,217 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-11-02-0158&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-11-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0157" title="From Jean de Neufville &amp; Fils, 19 March 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-11-02-0159" title="To Jean de Neufville &amp; Fils, 21 March 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-11-02-0158-0001" title="From C. W. F. Dumas, 20 March 1781"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-11&amp;mode=TOC">Volume 11, JanuarySeptember 1781</a>&gt; <a href="?keys=ADMS-print-06-11-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-11-02-0158&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0157" title="From Jean de Neufville &amp; Fils, 19 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0159" title="To Jean de Neufville &amp; Fils, 21 March 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-11-02-pb-0219">219<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0219.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA11tg27" class="transgroup">
+
+<div id="PJA11d189" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">
+[<ins title="editorial addition or explanation" class="ed">20 mars 1781</ins>]
+<a class="ptr" href="#PJA11d190n1" id="PJA11d190n1-ptr">1</a>
+</td>
+		</tr>
+      </table>
+</div>
+<p>Jai lhoneur de la vtre du 17; et celui dy rpondre, que par la Constitution le Prsidt. na point le Droit de Supprimer les Papiers adresss  L. H. P., ni de les remettre  un autre. Mais L. H. P. mmes, peuvent, Si elles le jugent  propos, se dispenser, ou diffrer, de rpondre  de telles Pieces. Or vous vous souvenez sans doute, Monsieur, que je vous ai prvenu, que tel pourroit bien tre le parti quils prendroient, sur-tout dans le cas prsent, o lAngleterre na pas donn de rponse encore aux ouvertures de la Russie. Les Ministres admis ici sont dans lusage, quand ils sadressent au Prsident, de douer en mme temps, par politesse, une Copie de leur Mmoire au Gd. Pensionaire dHde. Mais vous savez que celui-ci doit encore rponse  la Lettre qui lui avoit t crite par la Commission Plnipe. Amricaine de Paris en 1778;<a class="ptr" href="#PJA11d190n2" id="PJA11d190n2-ptr">2</a> je nai donc pu, ni ne puis, vous conseiller, ni dconseiller de suivre cet usage, lequel dailleurs jignorois, ne layant appris quaujourdhui: car je ne crois pas quil rpondroit  la Lettre que vous lui auriez crite, ou que vous lui cririez encore  ce sujet.</p>
+<p>Jai crit  Mrs. De Neufville, pour savoir sils ont tabli ici un Correspondant pour y ngocier de vos Obligations: et jattends leur rponse l-dessus, que je me ferai un devoir de vous communiquer. Ce que je sais, cest quils ont fait passer ici des plans de la Ngociation, en ayant vu un entre les mains dun Ngociant ici.</p>
+<p>Je sens que la tche de signer tant de milliers de fois son nom, est autant de mille fois moins agrable, que celle de rdiger une Constitution. Si ctoit une occupation que je pusse partager avec vous, je vous offrirois, Monsieur, ma prsence  Leide pendant cette huitaine, ou il ny a rien  faire ici, parce que les Etats dHollde. sont spars.</p>
+<p>Je conviens avec vous, que la paix, dont on parle tant, nest quune amorce pour faire des dupes. Mais je ne saurois dire quand lillusion finira. Je voudrois seulement que cela, et le repos de lAmrique, dpendissent de moi.</p>
+<p>Rien nest encore dcid de la Cour de Justice dhollde. Et je commence  douter que lon dcide jamais cette affaire.</p>
+<p>Dans ce moment je reois lhonnore vtre dhier. Je vous remercie de la communication, qui me fait grand plaisir. Je crois que le plus prudent est de ne rien dire de cela sur-tout  lEnvoy de Russie, jusqu-ce que Mr. Dana ait reu sa Commission. Si quelque raison <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0220">[220<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0220.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>imprvue me faisoit changer dide, je vous le marquerai. Jai lhonneur dtre avec un grand respect, Monsieur Votre trs trs-humble &amp; trs-obissant serviteur</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+<div class="docbody" xml:lang="fra">
+<div class="dateline">du mercredi 21 Mars 1781<a class="ptr" href="#PJA11d190n3" id="PJA11d190n3-ptr">3</a></div>
+<p>P.S.</p>
+<p>Cette Lettre toit crite; et jallois la porter  la poste hier; lorsque je fus dtourn par le bruit qui commenoit  se rpandre de la prise de St. Eustache par les Anglois.<a class="ptr" href="#PJA11d190n4" id="PJA11d190n4-ptr">4</a> Cela sest confirm en plein ce matin. Il faudra voir quelle sensation cela fera non seulement sur la nation en gnral, mais aussi, et sur-tout,  Amsterdam.</p>
+<p>On ma donn avis dun autre projet des Anglois contre la Repe. Je lai communiqu ce matin  une personne en grande relation avec la Cour. Nous verrons si lon men saura quelque gr: et si cela est, je vous en ferai part, ainsi que de limpression que je remarquerai quaura fait ici laffaire de St. Eustache.</p>
+</div>
+</div>
+<div id="PJA11d190" class="trans letter">
+
+<h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">
+[<ins title="editorial addition or explanation" class="ed">20 March 1781</ins>]<a class="ptr" href="#PJA11d190n1" id="PJA11d190n1-ptr">1</a>
+</td>
+		</tr>
+      </table>
+</div>
+<p>I have the honor of your letter of the 17th and respond to it here. According to the Constitution the president has neither the right to suppress papers addressed to Their High Mightinesses nor the right to deliver them to anyone else. But Their High Mightinesses themselves can, if they deem it appropriate, refrain from, or delay responding to such papers. Now you no doubt remember, sir, that I warned you that they might take such a course, especially in this case where England has not yet responded to the Russian overtures. When the ministers admitted here address the president, they supply, as a courtesy, a copy of their memorial to the grand pensionary of Holland. But you know that the latter must still respond to the letter that was written to him by the American plenipotentiary commission at Paris in 1778.<a class="ptr" href="#PJA11d190n2" id="PJA11d190n2-ptr">2</a> I could not and cannot advise, nor advise against, following this practice, of which I had no previous knowledge until today because I do not believe that he would respond to the letter that you would have written, nor that you will write again on this subject.</p>
+<p>I wrote to Messieurs de Neufville to find out if they have established a correspondent here to dispose of your obligations. I am waiting for their reply to this so that I can communicate it to you. I do know that they have begun arrangements for it, having myself seen a plan in the hands of an agent here.</p>
+<p>I feel that the task of signing ones name thousands of times is a thousand times less agreeable than writing a constitution. If it were an occupation that I could share with you, sir, I would have offered my presence in Leyden during the past week, since there is nothing to do here with the States of Holland separated.</p>
+<span class="pb center" title="page number in print edition" id="ADMS-06-11-02-pb-0221">[221<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0221.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<p>I agree with you, that the peace being talked about is nothing but bait to trap dupes. But I cannot say when this illusion will be over. I only wish that this and peace for America depended on me.</p>
+<p>Nothing has yet been decided by the Court of Justice of Holland, and I am beginning to doubt if they will ever decide on this affair.</p>
+<p>I just received your letter of yesterday. Thank you for this communication which gave me great pleasure. I believe that it would be most prudent to say nothing about this to the Russian envoy until Mr. Dana has received his commission. If any unforeseen reason makes me change my mind, I will tell you. I have the honor to be with great respect, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationRight">
+Wednesday 21 March 1781<a class="ptr" href="#PJA11d190n3" id="PJA11d190n3-ptr">3</a>
+</td>
+		</tr>
+      </table>
+</div>
+<p>P.S.</p>
+<p>This letter being written, I was going to the post office yesterday when I was distracted by spreading reports that the English had taken St. Eustatius.<a class="ptr" href="#PJA11d190n4" id="PJA11d190n4-ptr">4</a> It was confirmed this morning. It will be necessary to see what effect this will have on the nation in general and especially on Amsterdam.</p>
+<p>I have been alerted to another British plan against the republic. I communicated it this morning to someone with close access to the Court. We will see if they are obliged to me and if so, I will tell you about it and also about any impressions I have concerning the St. Eustatius incident.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA11d190sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: Son Excellence Monsieur J. Adams Esqr. M. Plenipe. des E.U. au soin de Mr. Thaxter, chez Mr. Wellers au Langebrugh, vis  vis le Manlelhuys Leyde.; endorsed by John Thaxter: Mr. Dumas [<ins title="editorial addition or explanation" class="ed">21</ins>]st. March 1781. Part of the endorsement was lost when a portion of the page was cut away.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA11d190n1-ptr" id="PJA11d190n1">1</a>
+
+   <p>In Dumas letterbook this letter and its postscript are dated 20, &amp; 21 Mars (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Algemeen Rijksarchief, The Hague.&lt;/expan&gt; ]">Algemeen Rijksarchief</span>, Eerste Afdeling, C. W. F. Dumas Coll., Inventaris 1, f. 412).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d190n2-ptr" id="PJA11d190n2">2</a>
+
+   <p>This is the Commissioners letter of 28 April 1778 to Pieter van Bleiswyck, Grand Pensionary of Holland. The Commissioners announced the Franco-American Treaty of Amity and Commerce and indicated their willingness to conclude a similar agreement with the Netherlands vol. <a href="default.xqy?keys=ADMS-print-06-06-02-0047" class="document">6:6162</a>. For Dumas account of his presentation of that letter on 14 May 1778 and van Bleiswycks response, see vol. <a href="default.xqy?keys=ADMS-print-06-06-02-0069-0002" class="document">6:8599</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d190n3-ptr" id="PJA11d190n3">3</a>
+
+   <p>Dumas wrote the postscript on a separate, much smaller sheet of paper.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d190n4-ptr" id="PJA11d190n4">4</a>
+
+   <p>On 3 Feb., a force commanded by Adm. Rodney and Gen. Vaughan seized the Dutch islands of St. Eustatius, St. Martin, and Saba, capturing 150 ships, including several American armed vessels and confiscating merchandise valued at two to three million pounds sterling. It was a disaster for the Netherlands and particularly for the merchants of Amsterdam who were heavily involved in trade with the U.S. through St. Eustatius. But it also resulted in heavy losses for many British merchants who, under the terms of various acts of Parliament, could trade with the Dutch island and were as heavily involved in this commerce as their Dutch counterparts. Rodney, mesmerized by the prospect of so much prize money, remained at St. Eustatius for three months to collect the confiscated goods and dispatch them to England. In the end, however, his capture of the island resulted in his financial ruin, for the British merchants successfully sued for compensation of their losses (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Friedrich Edler, &lt;i&gt;The Dutch Republic and the American Revolution&lt;/i&gt;, Baltimore, 1911. ]">Edler, <span class="hi-italic" style="font-style: italic;">Dutch Republic and the American Revolution</span></span>, p. 181189; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Piers Mackesy, &lt;i&gt;The War for America, 17751783&lt;/i&gt;, Cambridge, 1965. ]">Mackesy, <span class="hi-italic" style="font-style: italic;">War for America</span></span>, p. 416417). On 13 March reports of Rodneys capture of St. Eustatius appeared in the <span class="hi-italic" style="font-style: italic;">London Gazette Extraordinary</span> and by the 23d a translation of those accounts appeared in the <span class="hi-italic" style="font-style: italic;">Gazette de Leyde</span>.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-11-02-0158 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 11, JanuarySeptember 1781
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0157" title="From Jean de Neufville &amp; Fils, 19 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0159" title="To Jean de Neufville &amp; Fils, 21 March 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

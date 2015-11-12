@@ -1,0 +1,170 @@
+From Bartholomé Wild [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Bartholom Wild [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0234&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0233" title="From Edmund Jenings, 31 March 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0235" title="From Isaac Collins, March 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0234-0001" title="From Bartholom Wild, 31 March 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Bartholom Wild [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0234&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0233" title="From Edmund Jenings, 31 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0235" title="From Isaac Collins, March 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0372">372</span><div id="PJA12tg43" class="transgroup">
+
+<div id="PJA12d283" class="doc letter">
+
+<h2>From Bartholom Wild</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Vtre Exellence</td>
+		  <td class="salutationRight">Utrecht le 31e. Mars 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Etant Ne Libre en Suisse et plus que 40. Anne dans cette Libre Republique, on ne doit pas Stonner que je minteresse pour un nouveaux Peuple Libre, qui avec laide de Dieu  Sen Se Soustraire de la tiranie Brittanique, en Sen franchissant de ladieu sclavage. Ntre Province et Surtout les habittant de cette Ville ont apris avec un Joix extraordinaire que Les Etat dhollande les onts enfin recconn Libre et qui Veuillent entammer un Traitt dAmitie et de Commerce qui ne Sauroit etre quavantageux pour les 2. Nations ou Republiques. Nous sperons que les autres Provinces prendrons galement avec la Frise de ferme resolution. Celle ci est pour vous aviser que Venderdi pass on  present une Requte aux deputs de nos Etat  ce mme ffet sign de 83. Negotiants, fabriquers et <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0373">[373]</span>Traffiquants, laquelle  t favorablement reu. Hier on  ten  ce Sujet une assemble extraordinaire pour se mettre en Etat de prendre la conclusion  lAssembl de Leurs Noble Puissance Mecerdi qui vient. Jai lieu de croire que les Souhaits de tant les braves Bourgeois Seront accomplie et que nous triompherons enfin Sur tout les traittres de la Patrie Les Anglomanes.</p>
+<p>Jai lhonneur de vous envoyer provisionllement La Requette, que je vous prie de ne pas laisser Sortir de vtre Mains avant que jaurai la sattisfaction de vous envoyer une Seconde, Sur laquelle, vous trouvers les Noms de tout ceux qui ont Sign.<a class="ptr" href="" id="PJA12d284n1-ptr">1</a></p>
+<p>Jose vous dire quavec Mr. Le Procureur Hoevenaar je me Suis donn tout les mouvement pour venir jusqu ce point et Soys assur qua la reserve de fort pu de Personnes, tant de nos Seigneurs, que des Bourgeois tout est pour la bonne Cause. Le Tout Puissant benissent cet Ouvrage et quelle tendent pour sa gloire et pour ntre Commune prosperit.</p>
+<div class="closer">
+<p class="salute">Je me reccommande dans vtre bienveuillance ayant lhonneur detre avec une haute Consideration De Son Exellence, Le trs humble, trs obeissant &amp; trs devou serviteur</p>
+<p class="signed">B. Wild</p>
+</div>
+</div>
+</div>
+<div id="PJA12d284" class="trans letter">
+
+ <h2>Bartholom Wild to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Your Excellency</td>
+		  <td class="salutationRight">Utrecht, 31 March 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Being born a free man in Switzerland and living in this free republic for more than 40 years, it should not surprise you that I am interested in a new free people, and that, with Gods help, they will escape British tyranny by surmounting this enslavement. Our province, especially the inhabitants of this city, has learned with great joy that the states of Holland have finally recognized their freedom, and would like to commence a treaty of friendship and trade that could only be advantageous for both nations or republics. We hope that the other provinces will take a firm resolution, equal to the one taken by Friesland.</p>
+<p>This letter is to inform you that last Friday, a petition presented to our states deputies to this same effect, signed by 83 manufacturers and traders, was favorably received. Yesterday, an extraordinary session was held on this subject in order to prepare for the conclusion of the assembly of their noble mightinesses next Wednesday. I have reason to believe that the wishes of the good bourgeoisie will be achieved and that in the end we will triumph over all of the countrys traitors, that is to say, the Anglomanes.</p>
+<p>I have the honor to provisionally send you the petition, and ask that you keep it until I will have the satisfaction of sending you the second one with all of the signatures.<a class="ptr" href="" id="PJA12d284n1-ptr">1</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0374">[374]</span>
+<p>I dare tell you that along with Mr. Hoevenaar, the state prosecutor, I have devoted all actions to arrive at this point and be assured that with the reservation of very few people, mostly nobility and bourgeoisie, all are for the good cause. The all powerful blesses this work and may it accrue to his glory and our common prosperity.</p>
+<div class="closer">
+<p class="salute">I recommend myself, with your kindness, in having the honor to be with the great consideration of your Excellency, your very humble, very obedient, and very devoted servant</p>
+<p class="signed">B. Wild</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d284sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#" id="PJA284n1">1</a>
+<p>The petition was dated of 29 March, but the copy that Wild, a Utrecht bookseller, apparently enclosed with this letter has not been found. The <span class="ref-terms">Adams Papers</span>, however, do contain what is likely the copy with 83 signatures, including Wilds, that he promised to send later. It is printed, with the names of the signers entered in an unknown hand.</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0234 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0233" title="From Edmund Jenings, 31 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0235" title="From Isaac Collins, March 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

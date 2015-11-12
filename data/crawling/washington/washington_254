@@ -1,0 +1,168 @@
+From William Brockenbrough, 29 September 1755
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From William Brockenbrough, 29 September 1755</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-02-02-0057&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1755-09-29-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0056" title="From Adam Stephen, 27 September 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-02-02-0058" title="From John Champe, 30 September 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-02&amp;mode=TOC">Volume 2 (14 August 175515 April 1756)</a>&gt; <a href="?keys=GEWN-print-02-02-02&amp;mode=TOC">Documents</a>&gt; From William Brockenbrough, 29 September 1755</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-02-02-0057&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0056" title="From Adam Stephen, 27 September 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0058" title="From John Champe, 30 September 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0065">65</span><div id="Col02d60" class="doc">
+
+<h1>From William Brockenbrough</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dr Colo. Washington</td>
+		<td class="salutationRight">Richmond [County]<br/>the 29th of Sepr 1755</td>
+	      </tr>
+      </table>
+</div>
+<p>The Parental feelings I have at the parting with a dutifull Son<a class="ptr" href="#GEWN-02-02-02-0057-fn-0001" id="GEWN-02-02-02-0057-fn-0001-ptr">1</a> I hope will be some apoligie for my troubling you with this Epistle, his great inclination to go into the Army, and the friends he has got &amp; the favours he has receivd made it quite agreeable to his going But I am afraid as hes young and knowing little of the world or mankind That hel be more lyable to Errors, But D. Sr if I coud but prevail on you To favour him with a look now &amp; then &amp; if you find him inclind to do amiss That you woud spare him one word of advice, and in case of sickness that you woud just see him &amp; give him a word of comfort for fear of his Spirit Failg then I shoud be entirely easie and I am sure that a word from you at those times will do wonders with him.</p>
+<p>He now comes up to inform you that he has Tryd Every place where there was the least liklyhood of getting recruits but to little purpose, for the People are deaf to reason perswasion &amp; Even intrest for his friends had got two pistoles to give Every Man besides what he woud give him self in short they are determind not to go till they are forced and wn it comes to that I cant help dreading the Consequence tho I realy beleive that if the Law was put in Exec. that Several woud then take the money freely But they wont beleive there is such a law,<a class="ptr" href="#GEWN-02-02-02-0057-fn-0002" id="GEWN-02-02-02-0057-fn-0002-ptr">2</a> My son listed at first two pretty young Fellows his Neighbours as recruiting Serjeants &amp; thot it woud be some Encouragmt to others but nothing will do. I realy beleive those two Young Fellows Vizt Wm Stuart Packet &amp; Jno. Sallard<a class="ptr" href="#GEWN-02-02-02-0057-fn-0003" id="GEWN-02-02-02-0057-fn-0003-ptr">3</a> are deserving Fellows &amp; only Want to be just above the Common Soldiers which I hope they will if yo. think they deserve it, As tis impossible to get his full compliment of Men by recruiting he comes up for your orders but is desireous of Staying to be informd and make himself Perfect in his duty as Leiutenant, and wn The Law is put in Exc. we have in the Neighbourhood Young Men Eno Which he
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0066">[66]</span>
+is to have DirectlyThere is one favour more I have to beg and then have done, he has a great desire to be under Capt. Henry Woodward<a class="ptr" href="#GEWN-02-02-02-0057-fn-0004" id="GEWN-02-02-02-0057-fn-0004-ptr">4</a> and if it suites I shoud be highly pleasd.</p>
+<p>May the Almighty direct and Enable you to drive those Mercely Savages out of our once happy Country and force them to a Lasting peace that may be to the Glory of God &amp; honour to yr King &amp; Country &amp; Eternal Satisfaction and happiness to yr self, these are &amp; shall be the Sincere prayers of your most hble Servt</p>
+<div class="closer">
+<p class="signed">Wm Brockenbrough</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-02-02-0057-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+
+   <p>William Brockenbrough (17151778) was a planter in Richmond County. Like his better-known neighbors John Tayloe and Landon Carter, he took a lifelong interest in the affairs of the countys court and of Lunenburg Parish.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0057-fn-0001-ptr" id="GEWN-02-02-02-0057-fn-0001">1</a>
+
+   <p>The son to whom he refers is the Austin Brockenbrough who was listed as present in Williamsburg on 3 Sept. when GW named him among the newly appointed lieutenants in the Virginia Regiment. He was 16 years old. Lieutenant Brockenbrough spent the fall recruiting and in early 1756 got his wish when he joined Capt. Henry Woodwards company. He served with Woodward until the end of the year. In 1761 he married Lucy Champe, daughter of John Champe of King George County and sister of the wife of GWs brother Samuel. He remained loyal to Britain after the outbreak of the Revolution and lived in London throughout the war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0057-fn-0002-ptr" id="GEWN-02-02-02-0057-fn-0002">2</a>
+
+   <p>Article X of the Virginia Assemblys act for raising 40,000 (6 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 52130) reads in part: And in case the said number of men cannot be raised, by such as will voluntarily inlist in the said service within three months, after the passing this act, it shall . . . be lawful, for the field officers and captains of the militia, of each of the counties in this colony, . . . by direction from the governor, to draft out of the militia of their counties . . . such and so many of their militia . . . as will make up the said number.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0057-fn-0003-ptr" id="GEWN-02-02-02-0057-fn-0003">3</a>
+
+   <p>William Stuart Packet and John Sallard, both 24 years old in 1755 and both residents of Richmond County, were made noncommissioned officers in GWs company in the Virginia Regiment, Packet a corporal and Sallard a sergeant when GW took over one of the companies in July 1756. Sallard died in Richmond County in 1782 without issue.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0057-fn-0004-ptr" id="GEWN-02-02-02-0057-fn-0004">4</a>
+
+   <p>According to Gov. Francis Fauquier, writing from Williamsburg in 1761, Henry Woodward was bred in his Majestys Navy, where he servd some Years and was patronizd by . . . Admiral Boscawen; upon his coming on this Station, he left the Sea-Service, to serve his Majesty by land, against the French upon the first breaking out of this War (Fauquier to George, Lord Anson, 10 Dec. 1761, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ George Reese, ed. &lt;i&gt;The Official Papers of Francis Fauquier, Lieutenant Governor of Virginia, 17581768&lt;/i&gt;. 3 vols. Charlottesville, Va., 198083. ]">Reese, <span class="hi-italic" style="font-style: italic;">Fauquier</span></span>, 2:61112). Woodward was in Fredericksburg by April 1755, when Braddock was staging his expedition in Alexandria. He served in Braddocks campaign as a lieutenant in the Virginia forces. When forming the Virginia Regiment after Braddocks defeat, Dinwiddie promoted Woodward (tho. a Young Man) to captain on the recommendation of James
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0067">[67]</span>
+Abercromby, the colonys agent in London, and advanced him 30 to equip him for the Service (Dinwiddie to Abercromby, 24 Feb. 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). Woodwards date of rank was set at 25 Aug. 1755, making his company number 10 of 16 in the regiment. He remained with the regiment, without interruption, as a company commander on the frontier until late in 1761. As the regiment was at this time about to be disbanded, Woodward decided to return to Britain in order to seek an appointment as a Sea Officer on the Great Lakes (Fauquier to Lord Anson, 10 Dec. 1761, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ George Reese, ed. &lt;i&gt;The Official Papers of Francis Fauquier, Lieutenant Governor of Virginia, 17581768&lt;/i&gt;. 3 vols. Charlottesville, Va., 198083. ]">Reese, <span class="hi-italic" style="font-style: italic;">Fauquier</span></span>, 2:612).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-02-02-0057 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 2 (14 August 175515 April 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0056" title="From Adam Stephen, 27 September 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0058" title="From John Champe, 30 September 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

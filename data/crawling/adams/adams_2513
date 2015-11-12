@@ -1,0 +1,173 @@
+From Benjamin Pierce, 1 June 1780
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Benjamin Pierce, 1 June 1780</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-09-02-0233&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1780-06-01-6">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-09-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-09-02-0232" title="To the President of Congress, No. 76, 1 June 1780"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-09-02-0234" title="To the President of Congress, No. 77, 2 June 1780"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-09&amp;mode=TOC">Volume 9, March 1780July 1780</a>&gt; <a href="?keys=ADMS-print-06-09-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Benjamin Pierce, 1 June 1780</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-09-02-0233&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-09-02-0232" title="To the President of Congress, No. 76, 1 June 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-09-02-0234" title="To the President of Congress, No. 77, 2 June 1780"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-09-02-pb-0366">366<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-09/ADMS-06-09-02-pb-0366.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA09d255" class="doc letter">
+
+    <h1>From Benjamin Pierce</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">May it pleas Your Excelence,</td>
+		<td class="salutationRight">LOrient June 1st. 1780<a class="ptr" href="#PJA09d255n1" id="PJA09d255n1-ptr">1</a></td>
+	      </tr>
+      </table>
+     </div>
+     <p>To take into consideration the repeated pettitions of the people on board the contintall ship Alliance, that has Been sent to Dr. Franklyn,<a class="ptr" href="#PJA09d255n2" id="PJA09d255n2-ptr">2</a> and never been attended to, concerning the wages and prise Money being paid in Europe, I mean for the last Cruise, which was at least 6 Months, which the men Insist upon prior to their weighing anchor, the officers allso have this day petitiond him on the same occation as allso have the men, But theirs will no arrive till a week <span class="pb" title="page number in print edition" id="ADMS-06-09-02-pb-0367">[367<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-09/ADMS-06-09-02-pb-0367.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>after the officers. There is universall dizsattisfaction among the people and they desired me to Beg of Your Excellence to Interfear In the Matter, they allso are unwilling to depart without their commander, P. Landeis Esqr. who in their vew has done nothing that is deserving the scandall which is laid, upon him, and for my own part I am sattisfied that on the 23 of Septr. the Richard must have struck or sunk had not the <span class="hi-italic" style="font-style: italic;">Alliance</span> left the Scarbrough and went to her Ascistance.<a class="ptr" href="#PJA09d255n3" id="PJA09d255n3-ptr">3</a> On the whole it is my reall opinion had things been orderd according to his plan, that the two ships would have been taken With less damage done them and less Bloud shed, and at last the Richard have been saved, But had I been aware of haveing a strainge commander I had went home with Mesr. Addams and Hill,<a class="ptr" href="#PJA09d255n4" id="PJA09d255n4-ptr">4</a> But willing to Do all in my for my native Boston, I was willing to Do all in my power at the same time to serve the continent, But matters have Been much confused, since you left us, We feell the loss of Captn. Landais in the government of the ship. Not one sermon has been sufferd to be preachd since he left us. The Rev. Mr. Watkin<a class="ptr" href="#PJA09d255n5" id="PJA09d255n5-ptr">5</a> desires his respects to be paid to Your Excellence and wishes for liberty to perform duty as usuall, I hope this will find Your Excellence In health and am glad to hear that Mrs. Addams is well, and hope Your Excellence Will take the presant Matter In consideration and shall Remain most excellent sir your most obet. most Humble sert.</p>
+     <div class="closer">
+      <p class="signed">Benjan: Pierce<a class="ptr" href="#PJA09d255n6" id="PJA09d255n6-ptr">6</a></p>
+     </div>
+     <div class="postscript">
+      <p>N.B. pleas to Direct an answer to be left for Me with the Hon: Captn. Landais In Lorient.</p>
+     </div>
+     <p class="signed">Mr. Buckleys Respects.</p>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA09d255sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: recd June 6. and gave a Rect for it. John Adams.</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA09d255n1-ptr" id="PJA09d255n1">1</a>
+      
+   <p>This letter was an effort to draw <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> into the controversy between the officers and crew of the frigate <span class="hi-italic" style="font-style: italic;">Alliance</span> and its appointed captain, John Paul Jones. Their dispute originally concerned wages and prize money, but by the date of this letter, owing to the machinations of Arthur Lee and Pierre Landais, it centered on the replacement of Jones by Landais. In his reply of <a href="default.xqy?keys=ADMS-print-06-09-02-0255" class="document">10 June</a> (below), <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> cited his lack of authority and refused to intervene, referring Pierce instead to Benjamin Franklin, who steadfastly upheld Jones right to command. By the time <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter reached Pierce, however, Landais, in defiance of Franklin had taken control of the <span class="hi-italic" style="font-style: italic;">Alliance</span> and would soon sail it to America (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Samuel Eliot Morison, &lt;i&gt;John Paul Jones, a Sailors Biography&lt;/i&gt;, Boston and Toronto, 1959. ]">Morison, <span class="hi-italic" style="font-style: italic;">John Paul Jones</span></span>, p. 274, 293295). See also letters from Arthur Lee of <a href="default.xqy?keys=ADMS-print-06-09-02-0058" class="document">26 March</a>, and John Bondfield of <a href="default.xqy?keys=ADMS-print-06-09-02-0096" class="document">12 April</a> (both above); as well as Pierre Landais letter to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of <a href="default.xqy?keys=ADMS-print-06-09-02-0264" class="document">14 June</a> and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reply of the <a href="default.xqy?keys=ADMS-print-06-09-02-0274" class="document">20th</a> (both below).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA09d255n2-ptr" id="PJA09d255n2">2</a>
+      
+   <p>For petitions of the officers and crew of the <span class="hi-italic" style="font-style: italic;">Alliance</span>, variously dated from 12 April to 7 June, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ I. Minis Hays, comp., &lt;i&gt;Calendar of the Papers of Benjamin Franklin in the Library of the American Philosophical Society&lt;/i&gt;, Philadelphia, 1908; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Cal. Franklin Papers, A.P.S.</span></span>, 4:428, 429, 430.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA09d255n3-ptr" id="PJA09d255n3">3</a>
+      
+   <p>Accounts of the battle between the <span class="hi-italic" style="font-style: italic;">Bonhomme Richard</span> and the <span class="hi-italic" style="font-style: italic;">Serapis</span> generally agree that Landais and the <span class="hi-italic" style="font-style: italic;">Alliance</span> did not come to Jones aid, but rather sought to avoid involvement in the battle. In fact, reports indicated that the <span class="hi-italic" style="font-style: italic;">Alliance</span> fired several broadsides into the <span class="hi-italic" style="font-style: italic;">Bonhomme Richard</span>. Writing on 3 Oct. 1779 from Texel in the Netherlands, John Paul Jones reported to Benjamin Franklin on the <span class="hi-italic" style="font-style: italic;">Bonhomme Richard</span> expedition and charged Landais with failure to follow orders, <span class="pb" title="page number in print edition" id="ADMS-06-09-02-pb-0368">[368<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-09/ADMS-06-09-02-pb-0368.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>firing into the <span class="hi-italic" style="font-style: italic;">Bonhomme Richard</span>, failure to support the <span class="hi-italic" style="font-style: italic;">Bonhomme Richard</span>, and failure to pursue the enemy. Landais, who was called to Paris to face a court of inquiry into his conduct, replied to the charges in a letter of 30 Dec. 1779 to Benjamin Franklin (John Henry Sherburne, <span class="hi-italic" style="font-style: italic;">Life and Character of John Paul Jones</span>, N.Y., 1851, p. 108123; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ I. Minis Hays, comp., &lt;i&gt;Calendar of the Papers of Benjamin Franklin in the Library of the American Philosophical Society&lt;/i&gt;, Philadelphia, 1908; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Cal. Franklin Papers, A.P.S.</span></span>, 2:185; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Samuel Eliot Morison, &lt;i&gt;John Paul Jones, a Sailors Biography&lt;/i&gt;, Boston and Toronto, 1959. ]">Morison, <span class="hi-italic" style="font-style: italic;">John Paul Jones</span></span>, p. 235, 259). Doubting his authority to conduct such an inquiry, Benjamin Franklin made no judgment regarding Landais conduct when he sent the minutes of the inquiry to Congress with his letter of 4 March (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 82, I, f. 199210). The minutes are in the Franklin Papers (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ I. Minis Hays, comp., &lt;i&gt;Calendar of the Papers of Benjamin Franklin in the Library of the American Philosophical Society&lt;/i&gt;, Philadelphia, 1908; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Cal. Franklin Papers, A.P.S.</span></span>, 4:496).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA09d255n4-ptr" id="PJA09d255n4">4</a>
+      
+   <p>Probably Joseph Adams and Stephen Hill, who informed Benjamin Franklin of their resignations as officers of the <span class="hi-italic" style="font-style: italic;">Alliance</span> in a letter of 8 June 1779 (same, 4:421). Hill sailed for America with <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> on <span class="hi-italic" style="font-style: italic;">La Sensible</span> later the same month (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-02-02-0009-0005-0005" class="document">2:382</a>).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA09d255n5-ptr" id="PJA09d255n5">5</a>
+      
+   <p>In early May 1779, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> had attended a service performed by Rev. John Watkins on the deck of the <span class="hi-italic" style="font-style: italic;">Alliance</span> (same, 2:366).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA09d255n6-ptr" id="PJA09d255n6">6</a>
+      
+   <p>Benjamin Pierce was likely a petty officer on the <span class="hi-italic" style="font-style: italic;">Alliance</span>, while John Buckley, mentioned in the postscript, served as the frigates 2d lieutenant (<span class="hi-italic" style="font-style: italic;">Calendar of the John Paul Jones Papers</span>, Washington, 1903, p. 218). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> probably met both men as he waited to return to America in 1779.</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-09-02-0233 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 9, March 1780July 1780
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-09-02-0232" title="To the President of Congress, No. 76, 1 June 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-09-02-0234" title="To the President of Congress, No. 77, 2 June 1780"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

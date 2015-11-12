@@ -1,0 +1,157 @@
+Orders and Instructions for John Morgan, 3 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Orders and Instructions for John Morgan, 3 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0023&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-03-5">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0022" title="Orders and Instructions for Colonel Henry Knox, 3 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0024" title="Orders and Instructions for John Parke, 3 April 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; Orders and Instructions for John Morgan, 3 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0023&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0022" title="Orders and Instructions for Colonel Henry Knox, 3 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0024" title="Orders and Instructions for John Parke, 3 April 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0025">25</span><div id="Rev04d22" class="doc">
+
+<h1>Orders and Instructions for John Morgan</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[Cambridge, 3 April 1776]</td>
+	      </tr>
+      </table>
+</div>
+<p>As the Grand Continental Army, immediately under the Command of His Excellency General Washington, will, as soon as it is practicable, be Assembled at New York; you are with all Convenient Speed to remove the General Hospital to that City.</p>
+<p>As The Sick in the different Houses cannot be removed, but must be attended, untill they are Able to March, you will leave such Surgeons, Surgeons Mates, Apothecary, &amp; Attendants, under the Direction of <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> as are necessary for the Care of the Sick now in the General Hospital.</p>
+<p>The Medicines, Stores, Bedding, &amp;c., not immediately wanted in the General Hospital, should be loaded in Carts, that will be provided next Saturday by the Assistant Q.M. General &amp; sent under the Care of a proper Officer, or Officers of The Hospital, to Norwich in Connecticut; upon their Arrival there, They
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0026">[26]</span>
+will find His Excellencys Orders how, and in what Manner to proceed from thence whether by Land, or by Water.</p>
+<p>The Medicines orderd upon His Excellencys Application, By the Honourable The General Court of this province, to be taken out of The Town of Boston; should be sent with the First of The Hospital Stores that goes to Norwich, a careful person having Orders to take Charge of the Same.<a class="ptr" href="#GEWN-03-04-02-0023-fn-0001" id="GEWN-03-04-02-0023-fn-0001-ptr">1</a></p>
+<p>The fixing and Compleating the Regimental Medicine Chests, according to your plan lately proposed, had better be deferrd untill your Arrival at New York, when that may be Set about under your Inspection.</p>
+<p>As the removing the General Hospital, must be attended with such a Variety of Duty, and attention, I must refrain from giving more Particular Directions; leaving a Latitude to your Experience, &amp; knowledge in your profession, to Govern &amp; Direct all your Motions.</p>
+<p>Before You leave Cambridge it will be Necessary to see a proper Regimental Medicine Chest provided, and Deliverd, to each of the Surgeons of the Four Regiments left in Garrison there under the Immediate Command of Major General WardAlso a Chest for Colonel Glovers Regiment, on Command at Beverly.<a class="ptr" href="#GEWN-03-04-02-0023-fn-0002" id="GEWN-03-04-02-0023-fn-0002-ptr">2</a></p>
+<p>Reposing entire confidence in your Care, Dilligence, and Zeal for the Service, I remain Satisfied of your best Exertions for The Publick Benefit. Given at Cambridge, Head Quarters, 3d day of April, 1776.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0023-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Draft: a draft of a letter or document in the handwriting of someone other than the author ]">Df</abbr>, in Thomas Mifflins writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0023-fn-0001-ptr" id="GEWN-03-04-02-0023-fn-0001">1</a>
+
+   <p>On or before 1 April GW ordered Morgan to take possession of the medicines left in the British military hospital at Boston and in the shops of two Loyalist physicians, Sylvester Gardiner (17071786) and William Lee Perkins (d. 1797), who had fled from the town with Howes army. Because the disposition of Loyalist property was a civil matter, GWs order was submitted to the Massachusetts General Court on 1 April for proper authorization, and on that date the General Court resolved that the medicines in Gardiners and Perkinss shops were to be delivered to Morgan (Mass. Council Journal, Mar.Sept. 1776 sess., 63; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 6769). On 11 April an attempt was made in the House of Representatives to reverse that decision by recalling the resolution of 1 April (ibid., 110). Morgan promptly wrote a committee of the General Court requesting a conference before any step was taken to counteract GWs orders. I imagine, Morgan said in his letter of 11 April, it will be no difficult matter to convince
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0027">[27]</span>
+gentlemen of your weight, character, and integrity, as well as importance in the community, of the propriety of so general an order. As his Excellency General <span class="hi-italic" style="font-style: italic;">Washington</span> ever made it the rule of his conduct to support the civil authority, and not to infringe it in a single instance, I flatter myself you will be very tender how you offer any insult to his orders, by explaining away the spirit and intention of them, which proceeded solely from what he esteemed the essential interests of the Army.... I mean to leave an approved list in your hands of what I take; and to obligate myself for the payment of every article I take into my custody, whenever I am called upon authoritatively so to do; but it is by no means my intention to relinquish a single article comprehended within my orders, that I think will be of service to the Army (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Peter Force, ed. &lt;i&gt;American Archives&lt;/i&gt;. 9 vols. Washington, D.C., 183753. ]">Force, <span class="hi-italic" style="font-style: italic;">American Archives</span></span>, 4th ser., 5:859). The recall effort apparently was thwarted by the secretary of the house of representatives who claimed that he could not find the resolution in question (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 112). Whatever the circumstances of this political maneuvering, Morgan kept the medicines that he wanted from the two shops (see <a href="default.xqy?keys=GEWN-print-03-04-02-0091" class="document">Morgan to GW, 22 April 1776</a>). For an account of Gardiners claim in 1785 that he should be compensated by Massachusetts for his losses, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Lorenzo Sabine. &lt;i&gt;Biographical Sketches of Loyalists of the American Revolution&lt;/i&gt;. 2 vols. 1864. Reprint. Baltimore, 1979. ]">Sabine, <span class="hi-italic" style="font-style: italic;">Loyalists</span></span>, 1:45962. For accounts of the disorderly condition of the medicines at the British hospital and unsubstantiated rumors that they had been poisoned, see the depositions of doctors John Warren, Daniel Scott, and Frederick Ridgely in the <span class="hi-italic" style="font-style: italic;">Boston-Gazette, and Country Journal</span>, 22 April 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0023-fn-0002-ptr" id="GEWN-03-04-02-0023-fn-0002">2</a>
+
+   <p>The four regiments remaining at Boston were commanded by colonels Asa Whitcomb, Paul Dudley Sargent, Edmund Phinney, and Israel Hutchinson.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0023 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0022" title="Orders and Instructions for Colonel Henry Knox, 3 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0024" title="Orders and Instructions for John Parke, 3 April 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

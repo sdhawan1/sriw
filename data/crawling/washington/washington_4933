@@ -1,0 +1,158 @@
+From Gouverneur Morris, 20 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Gouverneur Morris, 20 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0081&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-20-6">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0080" title="From John Hancock, 20 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0082" title="To Gouverneur Morris, 20 April 1776 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; From Gouverneur Morris, 20 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0081&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0080" title="From John Hancock, 20 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0082" title="To Gouverneur Morris, 20 April 1776 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0096">96</span><div id="Rev04d77" class="doc">
+
+<h1>From Gouverneur Morris</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Morrissania 20th April 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>I take the Liberty of addressing your Excellency upon a Subject so much out of my own Line, that I must be entirely in your Equity, as to the Charge of Impertinence. I hope to be acquitted.</p>
+<p>The Committee of Safety have ordered, that the sick Soldiery should be transported to an Island called little Barn Island; which was, and perhaps still is, the Property of Captn John Montresor, an Engineer in the ministerial Army.<a class="ptr" href="#GEWN-03-04-02-0081-fn-0001" id="GEWN-03-04-02-0081-fn-0001-ptr">1</a> The choice of this particular Spot for that Purpose, induces me to suspect, that they were actuated in some Measure by those illiberal Prejudices, which have great Weight in little Souls. For certainly it must be rather inconvenient, to place the Sick upon an Island, at nine Miles Distance from the Army. It seems to be rather more rational, to erect Buildings for their Reception, on the high Grounds near Hudsons River to the Westward of Harlem; a Situation at once healthy and easy of Access. Or if an insular Position is indispensibly necessary; then Behennas, and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0097">[97]</span>
+especially Blackwells Island, will be found much better adapted to the Purpose, being nearer to the City, and a convenient Ferriage to either from the Fort at Hoerns Hook.<a class="ptr" href="#GEWN-03-04-02-0081-fn-0002" id="GEWN-03-04-02-0081-fn-0002-ptr">2</a> And the Proprietors of those Islands, would I beleive gladly let any Houses they can spare for that Use.</p>
+<p>My Reason for troubling your Excellency on this Occasion is, that when Mr Montresor went to Boston, the Island was put in the Possession of (I beleive conveyed to) John Tudor Esqr., and of his Majestys Council for the Bermuda Islands, who came hither in the Pursuit of Health. He has found it where he now is, and thinks it inhospitable to the Stranger, to turn him out instead of taking him inThe lower Orders of Mankind, blessed in the Bluntness of their Perceptions, may receive a pecuniary Compensation for any Inconvenience, but your Excellency best knows, how precious are the Feelings of a Gentleman: public Money can neither purchase or alleviate them. If we banish this <span class="hi-italic" style="font-style: italic;">pauvre Malad</span>, it is worth while to consider how much his Tale will be repeated against us. The uncharitable will say it was a Pique, because he holds a Feather under the King. The mildest Judges will discover some harsh Features in the Piece.</p>
+<p>I trespass too much Sir upon your PatienceI have no other Excuse, but that Mr Tudor requested me to mention this Matter to your Excellency; let me add that I receive Pleasure in furnishing the Occasion for that Happiness which you receive in doing Good. With the greatest Respect I have the Honor to be your Excellencys most obedient and humble Servant</p>
+<div class="closer">
+<p class="signed">Gouvr Morris</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0081-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+
+   <p>Gouverneur Morris (17521816), a member by birth of New Yorks landed aristocracy, was a cultured young lawyer with a successful practice in New York City. Before 1775 Morris favored compromise with Great Britain, but in the spring of that year, he joined his half brother Lewis Morris in actively supporting the American cause. Gouverneur Morris served several terms in the provincial congress between 1775 and 1777 and was a member of the Continental Congress from 1778 to 1779. In 1781, a year after losing his left leg in a carriage accident, Morris was made assistant superintendent of finance under Robert Morris of Pennsylvania, to whom he was not related. He held that position until 1785 and later became a prominent diplomat. Morrisania, the extensive family manor where Morris lived in 1776 with his Loyalist mother, lay on the east side of the Harlem River in Westchester County, an
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0098">[98]</span>
+area that is now part of the Bronx. The estate was bordered on the south by the East River, and the two-story manor house, which stood on an elevation near that river, had a commanding view of much of the surrounding area including Montresors Island.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0081-fn-0001-ptr" id="GEWN-03-04-02-0081-fn-0001">1</a>
+
+   <p>On 11 April the New York committee of safety authorized Dr. Malachi Treat, his assistants, and any smallpox physicians appointed by the Continental commander at New York to use the house and other buildings on Montresors Island for a smallpox hospital (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Provincial Congress, Provincial Convention, Committee of Safety, and Council of Safety of the State of New-York, 177517761777&lt;/i&gt;. 2 vols. Albany, 1842. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">N.Y. Prov. Congress Journals</span></span>, 1:401). Montresors Island was also known as Little Barn or Little Barent Island in the eighteenth century. For GWs order posting a guard at the hospital on Montresors Island, see <a href="default.xqy?keys=GEWN-print-03-04-02-0068" class="document">General Orders, 19 April 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0081-fn-0002-ptr" id="GEWN-03-04-02-0081-fn-0002">2</a>
+
+   <p>Horns Hook, a point of land on the east side of Manhattan Island at the entrance to the strategically important Hell Gate portion of the East River, was fortified in February 1776 by order of Gen. Charles Lee (see Lee to GW, <a href="default.xqy?keys=GEWN-print-03-03-02-0184" class="document">56,</a> <a href="default.xqy?keys=GEWN-print-03-03-02-0223" class="document">14</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0242" class="document">19 Feb. 1776</a>; see also Lees report on the defense of New York, March 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ [[Charles Lee]]. &lt;i&gt;The Lee Papers&lt;/i&gt;. 4 vols. New York, 1872-75. In &lt;i&gt;Collections of the New-York Historical Society&lt;/i&gt;, vols. 47. ]"><span class="hi-italic" style="font-style: italic;">Lee Papers</span></span>, 1:35457). The fort stood on the site of the present-day Gracie Mansion, on the south side of 89th Street and East End Avenue. Behennas Island is Wards Island which lies in the East River immediately south of Randalls (Montresors) Island. Before 1783 it was variously known as Bahannas, Tenkenas, Buchanans, and Great Barn (Great Barent) Island. Blackwells Island (now called Welfare Island) is a long narrow island in the East River south of Wards Island.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0081 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0080" title="From John Hancock, 20 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0082" title="To Gouverneur Morris, 20 April 1776 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

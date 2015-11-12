@@ -1,0 +1,209 @@
+none 4
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>IV. U to the Boston Gazette, 18 July 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0005&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1763-07-18-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0004" title="III. Humphrey Ploughjogger to the  Boston Evening-Post , 20 June 1763"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; IV. U to the <span class="italic">Boston Gazette</span>, 18 July 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0005&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0004" title="III. Humphrey Ploughjogger to the  Boston Evening-Post , 20 June 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0066">66<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0066.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d051" class="doc letter">
+
+     <h2>IV. U to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-italic" style="font-style: italic;">Messieurs</span> Edes &amp; Gill,</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">18 July 1763</ins>]
+       </td>
+	      </tr>
+      </table>
+       <div class="openerSeg">
+        <span class="hi-italic" style="font-style: italic;">Please to give the following a Place in your next.</span>
+       </div>
+      </div>
+      <p>Among the Votaries of Science, and the numerous Competitors for literary Fame, Choice and Judgment, about the Utility of their Studies, and the Interest of the human Race, have been remarkably <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0067">[67<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0067.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>neglected. Mathematicians have exerted, an obstinate Industry, and the utmost Subtilty of Wit, in demonstrating, little Niceties, among the Relations of Lines and Numbers, of Surfaces and Solids; and in searching for other Demonstrations, which, there is not the least Probability, will ever be found. Great Advantages of Genius, Learning, Wealth, and Leisure, have been improved by Philosophers, in examining and describing to the World, the Formation of Shells and Pebbles, of Reptiles and Insects, in which Mankind has no more Concern, than it would have in sage Conjectures about the Weight of the Indians Elephant and Tortoise. Many Pens have been employed, and much Mischief and Malevolence occasioned, by Controversies concerning Predestination.The original of Evil.And other abstruse Subjects, which, having been to no good Purpose, under learned Examination, for so many Centuries, may by this Time, be well enough concluded unfathomable by the humane Line.</p>
+      <p>But Agriculture, the nursing Mother of every Art and Science, every Trade and Profession in Society, has been most imprudently, and ungratefully despised. It has been too much so, till of late in Europe; but much more so in America; and perhaps not the least so, in the Massachusetts-Bay.</p>
+      <p>With Advantages of Soil and Climate, which few Countries under Heaven can pretend to rival; we have never raised our own Bread.Capable as we are, of making many wholsome and delicious Liquors, at a small Expence, we send abroad annually, at a very great Expence, for others that are less wholesome agreable and delicate.When it is in our Power, without any Difficulty, to raise many other Commodities, in sufficient Plenty, not only for our own Consumption, but for Exportation, we send all the Globe over, Yearly to import such Commodities for our own Use!</p>
+      <p>All these Facts are indisputably true: But Things cannot long continue in the same Course. Many Sources of our Wealth are dried away; and unless we seek for Resources, from Improvements in our Agriculture, and an Augmentation of our Commerce, by such Means, we must forego the Pleasure of Delicacies, and Ornaments, if not the Comfort of real Necessaries, both in Diet and Apparel.</p>
+      <p>The Intention of this Paper then, is to intreat my worthy Countrymen, who have any Advantages, of Leisure, Education, or Fortune, to amuse themselves, at convenient Opportunities, with the study, and the Practice too, of Husbandry. Nor let any who have Ability, to think and act, tho in narrow Circumstances, be discouraged, from exerting the Talents that have been given them, in the same Way.</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0068">[68<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0068.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <div class="linegroup">
+       <p class="line">
+        <span class="hi-italic" style="font-style: italic;">Haud facile emergunt, quorum Virtutibus Obstat</span>
+       </p>
+       <p class="line"><span class="hi-italic" style="font-style: italic;">Res angusta Domi</span>,<a class="ptr" href="#PJA01d051n1" id="PJA01d051n1-ptr">1</a></p>
+      </div>
+      <p>With all its Truth and Pathos, has been the occasion of greater Evil, by Soothing the Pride and Indolence of Genius; than it ever was of Good, by prompting the rich and powerful, to seek the solitary Haunts of Merit, and to amplify her Sphere. In making Experiments, upon Soils and Manners [<ins title="editorial addition or explanation" class="ed">Manures</ins>],<a class="ptr" href="#PJA01d051n2" id="PJA01d051n2-ptr">2</a> Grains and Grasses, Trees and Bushes; and in your Enquiries into the Course of Nature in producing them: You will find as much Employment for your Ingenuity, and as high a Gratification to a good Taste, as in any Business or Amusement you can choose to pursue. I said as high a Gratification to a good Taste; for, believe me, the finest Productions of the Poet or the Painter, the Statuary, or the Architect; when they stand in Competition with the great and beautiful Works of Nature, in the Animal and Vegetable Kingdoms; must be pronounced mean, and despicable BaublesIn such Inquiries as these, the Mathematician, the Philosopher, the Chymist and the Poet, may all improve their favourite Sciences to the Advancement of their Health, the Increase of their Fortunes, and the Benefit of their Country.</p>
+      <p>If I might descend, without Presumption, to Particulars, I would recommend such Enquiries to Divines and Physicians, more than to any other Orders. For, without enquiring into the Truth of the Observation, that the Lawyers among us, are the most curious in Husbandry, which, if true, is unnatural and accidental,Divines, having more Leisure, and better Opportunities for Study than any Men, will find, in that Science, an agreeable Relaxation from the arduous Labours of their Profession, an useful Exercise for the Preservation of their Health, a Means of supplying their Families with many Necessaries that might otherwise cost them dear, and an excellent Example of Ingenuity and Industry, removing many Temptations of Vice and Folly, to the People under their Charge.Besides, their Acquaintance with the Sciences subservient to Husbandry, will give them great Advantages, and in the Prosecution of such studies, they will find their Sentiments raised, their Ideas of divine Attributes displayd in the Scenes of Nature, improved, and their Adoration of the great Creator, and his Providence exalted.Physicians have many Advantages, not only of the World in general, but of other liberal ProfessionsThe Principles of those Sciences, which subserve more immediately their peculiar Occupation, are at the same Time the Foundations of all real, and rational Improvements in Husbandry. Necessitated as they are to much Travel and frequent Conversations, with many sorts of People, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0069">[69<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0069.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>they might, for their own mere Diversion, remark the Appearances of Nature, and store their Minds with many useful observations, which they might disperse among their Patients, without the least Loss of Time, or Interruption to the Duties of their Profession.</p>
+      <p>These Reflections have been occasiond, by a late Piece in the <span class="hi-italic" style="font-style: italic;">Evening-Post</span>, signed <span class="hi-italic" style="font-style: italic;">Humphrey Ploughjogger</span>.Who was the Writer of that Piece, what were his Intentions, whether to do good or to do Evil, for what Reasons he chose that Manner of Conveyance to the Public, or whether the whole was written to introduce the Postscript, <div class="quote">
+        <div class="linegroup">
+         <p class="line">And to shew by one Satyric Touch</p>
+         <p class="line" style="padding-left: 1em;">No Country wanted Hemp so much</p>
+        </div>
+       </div> I am not at Leisure to inquire. And indeed, since Mr. <span class="hi-italic" style="font-style: italic;">J</span>. with his noble and ignoble Trumpeters, has propagated an universal Jealousy, of every Writer in your Paper, I shall leave the important Questions, whether this Publication springs from Benevolence or Vanity, a public Spirit or seditious Views, a Love of Money, or Desire of Fame, to the sage Discussion of Mr. <span class="hi-italic" style="font-style: italic;">J</span> and his adherents.</p>
+      <p>My professed Design, as well as that of Mr. <span class="hi-italic" style="font-style: italic;">Ploughjogger</span>, is not only innocent but important. There is no Subject less understood, or less considered, by Men in general even of the learned Orders, than the Theory of Agriculture. And the Writer, who should direct with Success, the Attention of inquisitive Minds, to that Branch of Learning, whether he intended to befriend the Public, or to blow it into Flames, would certainly be the occasion of much publick Utility. The particular Subject which, that Writer has chosen to recommend to the Consideration of the Province, promises, more fairly than any other, private Profit to the Farmer, and the Merchant, public Benefit to this Province, and perhaps to the Provinces in general, as well as to Great-Britain, (the Parent and Protector of them all) whose Society of Arts &amp;c.<a class="ptr" href="#PJA01d051n3" id="PJA01d051n3-ptr">3</a> have discovered their kind Concern for us, as well as their wise Provision for their native Country, among many other Instances, by offering Encouragement for raising this Commodity, in New-England. It has been said that a thousand Weight to an Acre is an ordinary Crop of Hemp, that several Hundred Thousand Pounds worth of foreign Hemp, is yearly expended, in New-England, that Hemp may be raised, on drained Lands; and that if we can raise more than to supply our own Occasions, we may send it home.<a class="ptr" href="#PJA01d051n4" id="PJA01d051n4-ptr">4</a> It has been said too, by another good Authority, that an Acre of Land well tilled, will produce a Ton Weight, and that a Ton of it is worth Sixty Pounds of Lawful Money.<a class="ptr" href="#PJA01d051n5" id="PJA01d051n5-ptr">5</a></p>
+      <p>It is not without Reason then, that I embrace with Pleasure, the <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0070">[70<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0070.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Opportunity of seconding Mr. <span class="hi-italic" style="font-style: italic;">Ploughjogger</span>, in his Attempt, to recommend, to the Labours of the Farmer, the Enquiries of the Curious, and the Encouragement of Statesmen, a subject so important to this Province, to New-England in general, to Great-Britain herself, to the present Age, and to future Generations.</p>
+      <p>Hemp, is a Plant of great Importance, in the Arts and Manufactories, as it furnishes a great Variety of Threads, Cloths, and Cordage. It bears the nearest Resemblance to Flax, in its Nature, the manner of its Cultivation, and the Purposes to which it serves. It must be annually sown afresh. It arises, in a little space of Time, into a tall, slender, shrub, with an hollow Stem. It bears a small round seed, filled with a solid Pulp. Its Bark is a Tissue of Fibres, joined together with a soft substance, which easily rots it.There are two Kinds of it, male, and female, the former only bears the seed, and from that seed arises both male and female. The seed should be sown in the Month of May, in a warm Sandy rich soil. They begin to gather it about the first of <span class="hi-italic" style="font-style: italic;">August</span>, the Female being soonest ripe. The Proofs of its Ripeness are an Alteration of the Colour of its Leaves to Yellow, and its Stalks to White. It must be pulled up by the Roots and then bound in Bundles. The Male should stand Eight or Ten Days in the Air, that the Seed may ripen, which they afterwards get out, by cutting off, the Heads, and threshing them. It must then, be watered, by laying it, about a Week, in a Pond, in order to rot the Bark. I said, a Pond, tho a Brook would be better if it did not give the Water an unwholsome Quality. After it is taken out, and dryd, the woody Part of the Stem, must be broken from the Bark which covers it, by Crushing it, in an Instrument, called a Brake, beginning at the Roots. After it has been sufficiently broken, the small shivers, must be swingled out, as we swingle Flax. When this is done it must be beaten on a Block, or in a Trough with an Hammer, or with Beetles, till it becomes soft and pliable. When it has been well beaten it must be huckled, or passed thro a toothed Instrument, like the Clothiers Comb, to seperate the shorter Tow, from that which is fit to be spun.<a class="ptr" href="#PJA01d051n6" id="PJA01d051n6-ptr">6</a></p>
+      <p>This is a very short Answer to Mr. <span class="hi-italic" style="font-style: italic;">Ploughjoggers</span> Enquiries, extracted from Writers, upon this excellent Plant; But if he or any other Person has a Curiosity to see a more particular Account of it (and give me Leave to tell him and them there is not an Herb, from the Cedar to the Hyssop, that may be studied to more Advantage) let them consult the Praeceptor, Nature delineated, Chambers Dictionary, and above all the Compleat Body of Husbandry.<a class="ptr" href="#PJA01d051n7" id="PJA01d051n7-ptr">7</a></p>
+      <p>And that I may add no more, Let the World in general consider, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0071">[71<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0071.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>that the Earth, the Air, and Seas, are to furnish all Animals with Food and Raiment: That mere Animal Strength, which is common to Beasts and Men, is not sufficient to avail us, of any considerable Part of the bountiful Provision of Nature: That our Understandings, as well as our Limbs and Senses, must be employed in this service. And let the Few, who have been distinguished by greater Intellectual Abilities, than Mankind in general, consider that Nature intended them for Leaders of Industry. Let them be cautious, how they suffer their Talents to sleep or rust, on one Hand; and of certain Airs of Wisdom and Superiority, on the other, by which some Gentlemen of real Sense, Learning and public Spirit, giving offence to the common People have in some Measure defeated their own benevolent Intentions. Let them not be too sparing of their Application or Expence, lest, failing of visible Profit and Success, they expose themselves to ridicule, and rational, useful Husbandry itself, to Disgrace, among the common People.The Example of the few, if skilfully and judiciously set, will soon be admird and followed. For human Nature is not so stupid, or so abandoned as many worthy Men imagine, nor the common People if their peculiar Customs and Modes of Thinking are a little studied, so ungrateful or intractible, but that their Labours may be conducted by the Genius and Experience of a Few, to very great and useful Purposes.</p>
+      <div class="closer">
+       <p class="signed">U.</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d051sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType">Reprinted</span> from the  (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 18 July 1763). <span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr></span> suggesting that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> originally planned to publish this letter in the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span> printed in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0008-0001-0006%20ADMS-print-01-01-02-0008-0002-0001#ADMS-01-01-02-pb-0245" class="pageNo">1:245250</a>. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> probably submitted the letter to the <span class="hi-italic" style="font-style: italic;">Gazette</span> instead of to the <span class="hi-italic" style="font-style: italic;">Evening-Post</span> as a means of concealing that the Humphrey Ploughjogger and the U letters were by the same author.</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d051n1-ptr" id="PJA01d051n1">1</a>
+       
+   <p>From Juvenal. Those people do not easily emerge from obscurity whose abilities are cramped by narrow means at home.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n2-ptr" id="PJA01d051n2">2</a>
+       
+   <p>A printers error as is shown in draft text printed in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0008-0002-0001#ADMS-01-01-02-pb-0247" class="pageNo">1:247</a>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n3-ptr" id="PJA01d051n3">3</a>
+       
+   <p>The Society for the Encouragement of Arts, Manufacture, and Commerce, established in England in 1754 to promote the development of new ideas in science (J. Steven Watson, <span class="hi-italic" style="font-style: italic;">The Reign of George III, 17601815</span>, Oxford, 1960, p. 28).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n4-ptr" id="PJA01d051n4">4</a>
+       
+   <p>The quotations are taken directly from or are paraphrases of material in Eliot, <span class="hi-italic" style="font-style: italic;">Essays upon Field Husbandry</span>, p. 10, 11.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n5-ptr" id="PJA01d051n5">5</a>
+       
+   <p>The good Authority has not been identified.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n6-ptr" id="PJA01d051n6">6</a>
+       
+   <p>This account is a close paraphrase of the article on hemp in Ephraim Chambers (ca. 16801740), <span class="hi-italic" style="font-style: italic;">Cyclopaedia: or, an Universal Dictionary of Arts and Sciences</span>, London, 1728, and later editions.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d051n7-ptr" id="PJA01d051n7">7</a>
+       
+   <p>Robert Dodsley (17031764), ed., <span class="hi-italic" style="font-style: italic;">The Preceptor: Containing a General Course of Education</span>, 2 vols., London, 1748, and later editions.</p>
+
+       
+   <p>[Nol Antoine Pluche (16881761)], <span class="hi-italic" style="font-style: italic;">Le spectacle de la nature, ou entretiens sur les particularits de Ihistoire naturelle</span>, Paris, 17321735; transl. as <span class="hi-italic" style="font-style: italic;">Nature Delineated . . . </span>, John Kelly, D. Belamy, J. Sparrow, 3d edn., 4 vols., <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0072">[72<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0072.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>London, 17431744. Also transl. as <span class="hi-italic" style="font-style: italic;">Nature Displayed</span>, both titles appearing in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, index.</p>
+
+       
+   <p>A <span class="hi-italic" style="font-style: italic;">Compleat Body of Husbandry, Containing Rules for Performing, in the Most Profitable Manner, the Whole Business of the Farmer and Country Gentleman . . . Compiled from the Original Papers of the Late Thomas Hale</span>, 4 vols., London, 1756, 17581759. This source corrects the misinformation that the male plant bears the seed.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0005 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0004" title="III. Humphrey Ploughjogger to the  Boston Evening-Post , 20 June 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

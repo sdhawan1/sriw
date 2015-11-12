@@ -1,0 +1,175 @@
+General Orders, 3 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 3 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0025&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-03-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0024" title="From Henry Ward, 1 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 3 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0025&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0024" title="From Henry Ward, 1 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0049">49</span><div id="Rev01d24" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, July 3rd 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole, Lookout.</td>
+		<td class="csigns">Counter Sign, Sharp.</td>
+	      </tr></table>
+
+</div>
+<p>The Colonels or commanding Officers of each Regt are ordered forthwith, to make two Returns of the Number of men in their respective Regiments; distinguishing such as are sick, wounded or absent on furlough: And also the quantity of ammunition each Regimt now has.</p>
+<p>It appearing by the Report of Henry Woods,<a class="ptr" href="#GEWN-03-01-02-0025-fn-0001" id="GEWN-03-01-02-0025-fn-0001-ptr">1</a> the Officer of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0050">[50]</span>
+the main guard, that one William Alfred is confind for taking two horses, belonging to some Persons in Connecticut; but that he has made Satisfaction to the injured parties, who request that they may not be longer detaind as witnesses: It is ordered that he be discharged, and after receiving a severe reprimand, be turned out of camp.</p>
+<p style="text-align: center; text-indent: 0;">After Orders. 4 oClock. P:M:</p>
+<p>It is orderd that Col. Glovers Regiment be ready this evening, with all their Accoutrements, to march at a minutes warning to support General Falsam of the New Hampshire forces, in case his Lines should be attackd.</p>
+<p>It is also orderd, that Col. Prescotts Regiment equip themselves, march this evening and take Possession of the Woods leading to Leechmores point, and in case of an Attack, then<a class="ptr" href="#GEWN-03-01-02-0025-fn-0002" id="GEWN-03-01-02-0025-fn-0002-ptr">2</a> Col. Glovers Regiment to march immediately to their support.<a class="ptr" href="#GEWN-03-01-02-0025-fn-0003" id="GEWN-03-01-02-0025-fn-0003-ptr">3</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0025-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+copy, in Joseph Reeds writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ American Antiquarian Society, Worcester, Mass. ]">MWA</span>.
+
+The Reed copy includes only the after orders and is addressed to Mr Henshaw Adjutt General.</p>
+
+
+   <p>GW and Charles Lee reached Cambridge about midday on Sunday 2 July. The greatest civility and attention was paid to the Generals on their arrival at the camp, wrote an anonymous correspondent on 3 July (<span class="hi-italic" style="font-style: italic;">Pennsylvania Gazette</span> [Philadelphia], 12 July 1775). On the morning of 2 July the troops in Cambridge assembled on the parade ground to receive GW and Lee but were dismissed before the generals arrived because of the onset of a rainstorm that lasted until dark. The next day Lt. Paul Lunt, who was posted in Cambridge with Col. Moses Littles Massachusetts regiment, wrote in his journal: Turned out early in the morning, got in readiness to be reviewed by the general. New orders given out by General Washington (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Lunts Book. &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt; 12 (187173): 192207. ]">Lunts Book</span>, 194). Lt. Joseph Hodgkins, also of Littles regiment, wrote to his wife at 8:00 <span class="hi-small-caps" style="font-variant: small-caps;">a.m.</span> on 3 July: I have nothing Remarkebel to rite Except that geaneral Washington &amp; Leas got into Cambridge yesterday and to Day thay are to take a vew of ye Army &amp; that will be atended with a grate deal of grandor there is at this time one &amp; twenty Drummers &amp; as many feffors a Beting and Playing Round the Prayde (<span class="hi-italic" style="font-style: italic;">This Glorious Cause: The Adventures of Two Company Officers in Washingtons Army</span> [Princeton, 1958], 171). Private James Stevens noted in his journal entry for 3 July that nothing hapeng extrorderly we preaded thre times (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ The Revolutionary Journal of James Stevens of Andover, Mass. &lt;i&gt;Essex Institute Historical Collections&lt;/i&gt; 48 (1912): 4171. ]">Stevens Journal,</span> 50).</p>
+
+
+   <p>Upon arriving at Cambridge, GW and Charles Lee took up residence at the house of the president of Harvard College, Samuel Langdon, located on Harvard Square. The Massachusetts provincial congress, in its deliberations of 26
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0051">[51]</span>
+June, agreed to give the two generals the use of the entire house, except for one room that was reserved for Langdon. On 6 July the provincial congress instructed the Massachusetts committee of safety to inquire of GW and Lee if there was any other house at Cambridge that would be more agreeable to them, and within the next two days GW decided to move into the elegant mansion belonging to John <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Vassal' &lt;span style='font-size: 90%'&gt;[[2013-06-18]]&lt;/span&gt; ]">Vassall</span>, a wealthy Tory who earlier in the year had gone to Boston for refuge (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Lincoln, ed. &lt;i&gt;The Journals of Each Provincial Congress of Massachusetts in 1774 and 1775, and of the Committee of Safety&lt;/i&gt;. Boston, 1838. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. Prov. Congress Journals</span></span>, 39899, 460, 593). <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Vassal's' &lt;span style='font-size: 90%'&gt;[[2013-06-18]]&lt;/span&gt; ]">Vassalls</span> house, which stands about a half a mile west of Harvard College, was cleaned for GW by 15 July and was probably occupied by him about that time. It remained GWs headquarters until the following spring. Charles Lee established himself at Medford, 4 miles north of Cambridge, sometime before 26 July.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0025-fn-0001-ptr" id="GEWN-03-01-02-0025-fn-0001">1</a>
+
+   <p>Henry Woods (Wood) was a major in Col. William Prescotts Massachusetts regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0025-fn-0002-ptr" id="GEWN-03-01-02-0025-fn-0002">2</a>
+
+   <p>The Reed copy reads Attack there.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0025-fn-0003-ptr" id="GEWN-03-01-02-0025-fn-0003">3</a>
+	
+   <p>In the weeks following the Battle of Bunker Hill, the American army outside of Boston was frequently alarmed by rumors of another British attack. South of the city, Roxbury and Dorchester Heights were the most likely places for an assault, while to the north, Prospect Hill, Winter Hill, and Lechmeres Point all lay within easy striking distance of the British lines on Bunker Hill. Winter Hill, the position occupied by Maj. Gen. Nathaniel Folsom (17261790) and his New Hampshire troops, was particularly vulnerable to attack, because it was flanked on the north by the Mystic River, up which the British might move the three floating batteries that they had anchored near the mouth of that river (<a href="default.xqy?keys=GEWN-print-03-01-02-0047" class="document">GW to Hancock, 1011 July 1775</a>). The lines on Winter Hill, furthermore, were at this time deficient in both men and heavy artillery, a state of affairs about which Gen. Folsom wrote to his colonys committee of safety on 1 July 1775: Wednesday last [28 June] the whole of the New Hampshire Troops fit for Duty were orderd to their alarum Posts, when I found that we were not able to line our Breastwork more than two deep, our Lines being necessarily extensive on account of the situation of our Camp; Therefore desire that the two remaining Companies now stationd at Portsmouth [N.H.] and Hampton [N.H.] may be sent, if you can possibly spare them; There being not one quarter part of the Troops in ours as in the other lines at Cambridge, Roxbury and on Prospect Hill. In a few days the Breastwork will be compleated, by which time, the Cannon I wrote for, I hope, will arrive: So that we may be prepared to give the ministerial Troops a proper Reception, should they attempt to force our Lines (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Nathaniel Bouton, ed. &lt;i&gt;Provincial Papers. Documents and Records Relating to the Province of New-Hampshire, from 1764 to 1776 . . .&lt;/i&gt;. In &lt;i&gt;New Hampshire Provincial and State Papers&lt;/i&gt;, vol. 7. 1873. Reprint. New York, 1973. ]">Nathaniel Bouton, ed., <span class="hi-italic" style="font-style: italic;">Provincial Papers: Documents and Records Relating to the Province of New-Hampshire, from 1764 to 1776</span>, 7 vols. [Concord and Nashua, 186773]</span>, 7:557). Lechmeres Point, located about two miles east of Cambridge by land and about a half a mile southwest of Bunker Hill by water, was an obvious landing place for any British force sent to attack Cambridge, despite the fact that the marsh behind the point flooded during high tides making it in effect an island (<a href="default.xqy?keys=GEWN-print-03-02-02-0323" class="document">GW to Hancock, 11 Nov. 1775</a>). A false report that British regulars were landing at Lechmeres Point alarmed the Cambridge camp on 23 June (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ The Revolutionary Journal of James Stevens of Andover, Mass. &lt;i&gt;Essex Institute Historical Collections&lt;/i&gt; 48 (1912): 4171. ]">Stevens Journal,</span> 49), and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0052">[52]</span>
+on 4 July, in response to another alarm, an American working party was sent to entrench Lechmeres Point (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Lunts Book. &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt; 12 (187173): 192207. ]">Lunts Book,</span> 194). Col. John Glover (17321797) and Col. William Prescott (17261795) commanded Massachusetts regiments stationed at Cambridge.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0025 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0024" title="From Henry Ward, 1 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

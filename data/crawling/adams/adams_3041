@@ -1,0 +1,175 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-11-02-0056&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-11-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0055" title="To C. W. F. Dumas, 25 January 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-11-02-0057" title="From William Lee, 28 January 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-11-02-0056-0001" title="From C. W. F. Dumas, 28 January 1781"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-11&amp;mode=TOC">Volume 11, JanuarySeptember 1781</a>&gt; <a href="?keys=ADMS-print-06-11-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-11-02-0056&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0055" title="To C. W. F. Dumas, 25 January 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0057" title="From William Lee, 28 January 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-11-02-pb-0083">83<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0083.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA11tg6" class="transgroup">
+
+<div id="PJA11d064" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Honoured &amp; dear Sir</td>
+		  <td class="salutationRight">Lahaie 28e. Janv. 1781</td>
+		</tr>
+      </table>
+</div>
+<p>Jai lhonore vtre du 25e., dont le contenu ma fait grand plaisir, non seulement par lapprobation que vous donnez de vous adresser de temps en temps des Lettres pour le Congrs, mais aussi par lentretien agrable que mont procur les matieres interessantes dont elle est remplie.</p>
+<p>Il faudra attendre, que la prise des vaisseaux des Indes Anglois prs du Cap de B. E., par lEscadre franoise, se confirme, pour la croire.</p>
+<p>Il est apparent que le Manifeste ne parotra ici, quaprs la rponse de Petersbourg au Courier depch dici le 29 Dec. pour donner connoissance  lImperatrice de celui du Roi dAngle. et pour demander le secours de cette Princesse, &amp;c. En attendant, il ny a pas grand mal que cette Piece nait pas encore paru: on ne men a pas dit grand bien; et lon espere quon la changera en mieux.</p>
+<p>La Dcision de la Cour dHollde. ne pourra avoir lieu quautour du milieu de Fvrier; et lon nen est nullement en peine. Du reste, je pense comme vous, que toutes ces lenteurs sont mauvaises; et quon sen trouvera mal.</p>
+<p>Vos Rflexions sur la conduite que tiendront les nouveaux Allis dun ct, et lAngle. de lautre, ont beaucoup plu  un Membre des E. G.,  qui je nai pu refuser den donner un Extrait en franois: car il nentend pas lAnglois.</p>
+<p>Je ne perdrai pas un instant de vue les deux Objets dont vous me parlez, Monsieur: et plt- Dieu, que je pusse ds ce moment vous inviter ici. Il faut voir le tour que prendront les choses, le. entre cette rep. et lAngle.: 2e. entre la mme et la Russie, &amp;c. Je crois que vous avez dcid le premier de ces points, et que lAngleterre ne se ralchera point vis--vis de la rp. Je pense aussi comme vous quant  lautre; et que lImpce. ne peut plus reculer, mais quelle prendra hautement le parti de la Rep., et, par consequent, quil y aura guerre entre elle et lAngle. Dans ce cas-l, et ds que cette guerre auroit clatt, il conviendroit dagir auprs de lImpratrice, comme chef de lAlliance, pour faire reconnotre lAmrique  la fois par les 4 puissances: et mon opinion est, que cela ne seroit pas difficile alors, du moins de la part de lImpce. Mais tant quil y a encore quelque possibilit  raccommoder les choses, de maniere que cette Rep. reste neutre avec les 3 Couronnes du Nord, on ne peut rien entamer de pareil. Voyons donc arriver le nouveau Courier de Petersb.; et selon <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0084">[84<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0084.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>le tour que prendront les choses, il ne me sera peut-tre pas difficile de vous mnager une Entrevue, en lieu tiers, qui pourroit conduire plus loin.</p>
+<p>Le second objet dpend en grande partie du premier: et la facilit  cet gard seroit infiniment plus grande, lorsquil existeroit un Trait damiti, &amp;c.</p>
+<p>Je suis avec le respect &amp; lattachement le plus sinceres, Monsieur, Votre trs-humble &amp; trs-obissant serviteur</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+</div>
+<div id="PJA11d065" class="trans letter">
+
+ <h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Honoured &amp; dear Sir</td>
+		  <td class="salutationRight">The Hague, 28 January 1781</td>
+		</tr>
+      </table>
+</div>
+<p>I am honored with your letter of the 25th, the content of which gave me much pleasure, not only because you agreed to send my letters on to Congress from time to time, but also because it was filled with agreeable conversation about interesting matters.</p>
+<p>We must wait for confirmation about the taking of the British East Indiamen off the Cape of Good Hope by the French squadron, before it can be believed.</p>
+<p>It is apparent that the manifesto will not appear here until after St. Petersburg responds to the courier dispatched from here on the 29th of December to inform the Empress about the King of Englands manifesto and to request her assistance. While no great evil has occurred because this piece has not yet appeared, neither has much good, and one hopes that things will change for the better.</p>
+<p>The decision of the court of Holland cannot take place until around mid-February and no one is troubled by this in the least. Nevertheless, I agree with you that all of these delays are bad and will be regretted.</p>
+<p>Your reflections on the conduct of the new allies, on the one side, and of England, on the other, greatly pleased a member of the States General, to whom I gave an extract in French since he cannot understand English.</p>
+<p>I will not lose sight for an instant of the two matters you spoke of to me, sir, and may it please God that I may invite you to continue to do so from now on. We must watch the turn of events, first, between this republic and England, and second, between the same and Russia, etc. I believe that you decided on the first of these points, that England will not concede anything regarding the republic. As for the second point, I agree with you that the Empress cannot draw back but instead will openly take the side of the republic, and consequently there will be war between her and England. In this case, and if this war were to erupt, it would be advisable to act closely with the Empress as the head of the alliance to gain recognition for America from all four powers simultaneously. My opinion is that this would not be difficult as far as the Empress is concerned. But since there remains a possibility that matters can be reconciled so that this republic, together with the three northern crowns, remains neutral, such an initiative can not be <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0085">[85<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0085.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>undertaken. Let us wait for the arrival of the next courier from St. Petersburg and, then, according to the turn of events, perhaps I will be able to arrange an interview, in a neutral place, that could advance things further.</p>
+<p>The second point depends largely on the first, and the facility to achieve it would be infinitely greater if a treaty of Amity, etc., existed.</p>
+<p>I am with the most sincere respect and attachment, sir, your very humble and very obedient servant,</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA11d065sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-11-02-0056 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 11, JanuarySeptember 1781
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0055" title="To C. W. F. Dumas, 25 January 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0057" title="From William Lee, 28 January 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

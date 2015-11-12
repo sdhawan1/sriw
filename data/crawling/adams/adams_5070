@@ -1,0 +1,125 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-16-02-0242-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-16-02-0242" title="The Negotiation of the 10 September 1785 Prussian-American Treaty of Amity and Commerce"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-16-02-0242-0002" title="I. The American Commissioners to the Baron von Thulemeier, 10 November 1784"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-16&amp;mode=TOC">Volume 16, February 1784March 1785</a>&gt; <a href="?keys=ADMS-print-06-16-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=ADMS-print-06-16-02-0242&amp;mode=TOC">The Negotiation of the 10 September 1785 Prussian-American Treaty of Amity and Commerce</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-16-02-0242-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0242-0002" title="I. The American Commissioners to the Baron von Thulemeier, 10 November 1784"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-16-02-pb-0373">373<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0373.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div class="editorial">
+        
+        <h2>Editorial Note</h2>
+        <div class="docbody">
+          <p style="text-indent: 1.5em; text-align: left;">The Prussian-American Treaty of Amity and Commerce was concluded on 10 September 1785. But negotiations began on 10 November 1784 when the American commissioners submitted a draft treaty to the Baron von Thulemeier, Prussian minister at The Hague, and were, for all intents and purposes, completed on 14 March 1785 when the commissioners sent their response to Prussian proposals for alterations in the commissioners text.</p>
+          <span class="pb center" title="page number in print edition" id="ADMS-06-16-02-pb-0374">[374<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0374.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+          <p style="text-indent: 1.5em; text-align: left;">The proposed treaty with Prussia was the commissioners first exercise of their plenipotentiary powers to negotiate and sign treaties with European nations. On <a href="default.xqy?keys=ADMS-print-06-16-02-0221" class="document">8 October 1784</a> Thulemeier wrote to the commissioners to acknowledge their <a href="default.xqy?keys=ADMS-print-06-16-02-0208" class="document">letter of 9 September</a> notifying him of their new commission (both above). Thulemeier indicated Prussias willingness to negotiate a treaty and noted that he had received full powers to conclude an agreement. Thulemeier assumed in his letter that negotiations would resume on the draft treaty that he had sent to John Adams on 9 April (above). Those negotiations were broken off owing to the commissioners need to submit the draft to Congress because they lacked the power to negotiate and sign a treaty. But such was not to be the case.</p>
+          <p style="text-indent: 1.5em; text-align: left;">Instead the commissioners wrote to Thulemeier on 10 November and enclosed a new draft, based not on the earlier Prussian proposal but on a model treaty drafted by Thomas Jefferson (<a href="default.xqy?keys=ADMS-print-06-16-02-0242-0002" class="document">Nos. I</a> and <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0003" class="document">II</a>, below). In substance the new draft differed only slightly from Thulemeiers of April, but there were alterations. The most notable were the omission of the earlier drafts Articles 3 and 4, which dealt specifically with Prussian concerns, and the inclusion of Articles 13 and 23, which were wholly new. Moreover, the April draft was founded on the 1783 Swedish-American treaty, but Jeffersons model, intended originally for a never-to-be-concluded Danish-American treaty, was based on a variety of sources. These included drafts of a Danish-American treaty exchanged by Benjamin Franklin and Ernst Frederik von Walterstorff in 1783; the commercial treaties concluded in 1778, 1782, and 1783 with France, the Netherlands, and Sweden; a 1783 draft of a never-completed commercial treaty with Portugal; and the commissioners instructions of 7 May 1784. For a detailed examination of Jeffersons composition of and his sources for the model treaty, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Papers of Thomas Jefferson,&lt;/i&gt; ed. Julian P. Boyd, Charles T. Cullen, John Catanzariti, Barbara B. Oberg, and others, Princeton, 1950. ]">Jefferson, <span class="hi-italic" style="font-style: italic;">Papers,</span></span> 7:463490.</p>
+          <p style="text-indent: 1.5em; text-align: left;">The Prussian diplomat received the new draft on 26 November, made a French translation, and by 10 December had sent it off to the foreign ministry in Berlin (<a href="default.xqy?keys=ADMS-print-06-16-02-0242-0005" class="document">No. IV</a>, below). Had the negotiations over Thulemeiers April draft been renewed, the treaty would likely have been concluded very quickly since the Americans had proposed few changes to that document. But complications were introduced when an entirely new document was offered for consideration, which Thulemeier attributed to the commissioners new instructions and the Prussians viewed as a contre-project. This was particularly so regarding the omission of Articles 3 and 4 of the earlier draft, but there was also an apparent conflict between the American and Prussian views of commercial relations. This was evident from Thulemeiers <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0007" class="document">letter to the commissioners of 24 January 1785</a>, with which he enclosed his French translation of the treaty with the Prussian foreign ministrys suggestions for changes in the treaty provisions (<a href="default.xqy?keys=ADMS-print-06-16-02-0242-0007" class="document">No. VI</a>, below). In a letter of the same date to Adams, Thulemeier indicated the necessity of the Americans agreeing to the principal Prussian reservations if a treaty was to be concluded, confidential advice that Adams relayed to his colleagues (Nos. <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0006" class="document">V</a> and <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0008" class="document">VII</a>, below). Even allowing for the resolution of the
+<span class="pb" title="page number in print edition" id="ADMS-06-16-02-pb-0375">[375<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0375.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+Prussian-American differences and the fact that the commissioners were in France and Thulemeier was in the Netherlands, the negotiations proceeded expeditiously. On 14 March the commissioners sent off their response to the Prussian proposals (<a href="default.xqy?keys=ADMS-print-06-16-02-0242-0009" class="document">No. VIII</a>, below) and on 3 May, after consulting with his superiors, Thulemeier informed the commissioners that the two sides were in agreement over the treatys final form and it only remained for the Americans to transcribe an English version of the agreed upon text so that he could prepare a French translation for final review in Berlin. Franklin and JeffersonAdams by then had gone to Londondid so on 26 May, and after arrangements were made for the treatys signature at Paris, Passy, London, and The Hague, the agreement was finally concluded on 10 September when Thulemeier signed at The Hague (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Papers of Thomas Jefferson,&lt;/i&gt; ed. Julian P. Boyd, Charles T. Cullen, John Catanzariti, Barbara B. Oberg, and others, Princeton, 1950. ]">Jefferson, <span class="hi-italic" style="font-style: italic;">Papers,</span></span> 8:134135, 165166; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Treaties and Other International Acts of the United States of America,&lt;/i&gt; ed. Hunter Miller, Washington, D.C., 19311948; 8 vols. ]">Miller, <span class="hi-italic" style="font-style: italic;">Treaties,</span></span> 2:162184).</p>
+          <p style="text-indent: 1.5em; text-align: left;">Some explanation is required regarding the documents as printed below and the nature of their annotation. The English text of the draft treaty is derived from the copy made by David Humphreys and included in the Letterbook that he kept for the commissioners. The French translation accompanying it was enclosed by Thulemeier in his <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0007" class="document">letter of 24 January.</a> There it was placed side by side with the Prussian Observations, the treaty in the left column, the Observations in the right column. The editors decided that in presenting the treaty material the need for clarity required that the English and French texts be printed together and that the Prussian Observations should appear with Thulemeiers <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0007" class="document">letter of 24 January</a>, with which they were enclosed. In annotating the treaty the editors have indicated where significant changes were made, resulting either from the Prussian proposals or from the commissioners response. However, for the justification or explanation of the alterations that either did or did not take place, see the Prussian and American commentaries on the treaty, <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0007" class="document">Nos. VI</a> and <a href="default.xqy?keys=ADMS-print-06-16-02-0242-0009" class="document">VIII</a>, below.</p>
+        </div>
+      </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-16-02-0242-0001 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 16, February 1784March 1785
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0242-0002" title="I. The American Commissioners to the Baron von Thulemeier, 10 November 1784"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.242.147</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

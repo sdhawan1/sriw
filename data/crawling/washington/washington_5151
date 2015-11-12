@@ -1,0 +1,156 @@
+General Orders, 22 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 22 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0299&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-05-22-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0298" title="Expense Account of Journey to and from Philadelphia, 21 May12 June 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0300" title="From Commodore Esek Hopkins, 22 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; General Orders, 22 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0299&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0298" title="Expense Account of Journey to and from Philadelphia, 21 May12 June 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0300" title="From Commodore Esek Hopkins, 22 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0368">368</span><div id="Rev04d283" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, New York, May 22nd 1776</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Washington.</td>
+		<td class="csigns">Countersign Gates.</td>
+	      </tr></table>
+
+</div>
+<p>The following are the names of the different Batteries, in and about this CityThe Battery at the South part<a class="ptr" href="#GEWN-03-04-02-0299-fn-0001" id="GEWN-03-04-02-0299-fn-0001-ptr">1</a> of the Town, the <span class="hi-italic" style="font-style: italic;">Grand Battery</span>The one immediately above it, <span class="hi-italic" style="font-style: italic;">Fort George</span>The one on the left of the Grand Battery, <span class="hi-italic" style="font-style: italic;">Whitehall Battery</span>. That behind his Excellency General Washingtons Head Quarters, the <span class="hi-italic" style="font-style: italic;">Oyster Battery</span>. The circular Battery near the Brewhouse, on the North River, The <span class="hi-italic" style="font-style: italic;">Grenadier Battery</span>. That on the left of the Grenadiers Battery The <span class="hi-italic" style="font-style: italic;">Jersey-Battery</span>: The one on Bayards-hill, <span class="hi-italic" style="font-style: italic;">Bayards Hill Redoubt</span>; The one on the hill where General Spencers Brigade is encamped <span class="hi-italic" style="font-style: italic;">Spencers Redoubt</span>; below this Hill, on a Wharf, is a Fascine Battery called <span class="hi-italic" style="font-style: italic;">Waterburys Battery</span>On the hill directly above it, is a Redoubt, near the Jews Burying Ground, by the name of <span class="hi-italic" style="font-style: italic;">Badlams Redoubt</span>.<a class="ptr" href="#GEWN-03-04-02-0299-fn-0002" id="GEWN-03-04-02-0299-fn-0002-ptr">2</a></p>
+<p>Andrew OBrien, Serjeant, and William Welch Corporal, both of Capt. OHarras Company, in Col. Wynkoops Regt tried by a late General Court Martial, whereof Col. Ritzema was President for assaulting, beating, and dangerously wounding,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0369">[369]</span>
+one William Irvine; are both acquitted by the Court. The General approves the sentence, and orders the prisoners to be released immediately.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0299-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ Maj. Gen. Israel Putnam issued the general orders from 22 May to 6 June while GW was absent on his journey to Philadephia.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0299-fn-0001-ptr" id="GEWN-03-04-02-0299-fn-0001">1</a>
+
+   <p>The copyist inadvertently wrote port.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0299-fn-0002-ptr" id="GEWN-03-04-02-0299-fn-0002">2</a>
+
+   <p>These fortifications, most of which had been planned by Charles Lee in February of this year, were all located on lower Manhattan Island south of Greenwich Village. The grand battery was at the southernmost tip of the island where the Hudson and East rivers meet, and Fort George stood directly behind it. On the South west part of the Town, Lt. Isaac Bangs wrote in his journal entry for 19 April, is a very strong &amp; costly Fort built by the Kings Troops &amp; many masons men for the Protection of the City from the Enemy. On the outside of the Fort at the Edge of the wall was a Battery, erected at a vast Expence to the King, built of hewn stone, the outside about ten feet high, the inside filled up to form a plane that the Wall was not more than a foot and a half high. Over this the Cannon were to play; but as so low a wall would not be a sufficient cover for our Men, our People were busily employed in making a Turf Wall upon the stone Wall, &amp; when we arrived [two days earlier] had almost finished as compleat a Battery as ever I saw (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edward Bangs, ed. &lt;i&gt;Journal of Lieutenant Isaac Bangs, April 1 to July 29, 1776&lt;/i&gt;. 1890. Reprint. New York, 1968. ]">Bangs, <span class="hi-italic" style="font-style: italic;">Journal</span></span>, 24).</p>
+
+
+   <p>Whitehall Battery lay east of Fort George at Whitehall dock near the mouth of the East River. Although the exact location of Oyster Battery is disputed, it apparently was on the Hudson River a short distance north of Fort George and southwest of Trinity Church (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert B. Roberts. &lt;i&gt;New Yorks Forts in the Revolution&lt;/i&gt;. Rutherford, N.J., 1980. ]">Roberts, <span class="hi-italic" style="font-style: italic;">New Yorks Forts</span></span>, 299301). That location was also near William Smiths town house on Broadway, where GW apparently still had his headquarters at this time (see <a href="default.xqy?keys=GEWN-print-03-04-02-0047&amp;expandNote=GEWN-03-04-02-0047-sn#GEWN-03-04-02-0047-sn" class="document">General Orders, 14 April 1776, source note</a>). The circular Grenadier Battery lay a short distance farther up the Hudson near Harrisons brewery (see <a href="default.xqy?keys=GEWN-print-03-04-02-0131&amp;expandNote=GEWN-03-04-02-0131-fn-0002#GEWN-03-04-02-0131-fn-0002" class="document">General Orders, 29 April 1776, n.2</a>), and the five-sided Jersey Battery, which stood nearby, was connected to the Grenadier Battery by a line of entrenchments. The redoubt on Bayards Hill was the centerpiece in a chain of defensive works that crossed Manhattan Island just north of the city (see <a href="default.xqy?keys=GEWN-print-03-04-02-0105&amp;expandNote=GEWN-03-04-02-0105-fn-0001#GEWN-03-04-02-0105-fn-0001" class="document">General Orders, 25 April 1776, n.1</a>). The chain was anchored on the Hudson River by Lispenards Hill and the Grenadier Battery and on the East River by Spencers Battery on Joness Hill and Waterburys Battery at Corlears Hook. Those batteries were named for Gen. Joseph Spencer and Col. David Waterbury, whose Connecticut troops built them. Badlams Redoubt, named for Capt. Stephen Badlam of the artillery, was on Rutgers Hill near the East River between Whitehall and Waterburys batteries. The Jewish burying ground, which was on the outskirts of the city in 1776, is near present-day Chatham Square.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0299 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0298" title="Expense Account of Journey to and from Philadelphia, 21 May12 June 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0300" title="From Commodore Esek Hopkins, 22 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

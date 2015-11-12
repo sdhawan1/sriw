@@ -1,0 +1,318 @@
+I. Questions for the Committee, 18 October 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>I. Questions for the Committee, 18 October 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0175-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-10-18-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02-0175&amp;mode=TOC" title="Proceedings of the Committee of Conference"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0175-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0175-0003" title="II. Minutes of the Conference, 1824 October 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-03-02-02-0175&amp;mode=TOC">Proceedings of the Committee of Conference</a>&gt; I. Questions for the Committee, 18 October 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0175-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0175-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0175-0003" title="II. Minutes of the Conference, 1824 October 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0185">185</span><div id="Rev02d163" class="doc">
+
+<h2>I. Questions for the Committee</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[Cambridge, c.18 October 1775]</td>
+	      </tr>
+      </table>
+</div>
+<p>Several Clerks, and Issuing Commissaries, are necessarily Imployed undr the Commissary Genlfor which no Provision is madeseveral Assistant Quarter Masters are also Imployed in order to discharge the Dutyand a Clerk is, and all along has been, found necessary, to assist in the Office of the Adjutt GeneralWhat Pay should be allowed them?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0001" id="GEWN-03-02-02-0175-0002-fn-0001-ptr">1</a></p>
+<p>Six Vessells (Armed) are fitted, &amp; now fitting out as upon the best terms I could get them, will this be agreeable to Congress?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0002" id="GEWN-03-02-02-0175-0002-fn-0002-ptr">2</a></p>
+<p>Major Frenchs case about his Sword, &amp; dispute with the Committee of Hartford: something to be done in it.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0003" id="GEWN-03-02-02-0175-0002-fn-0003-ptr">3</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0186">[186]</span>
+<p>When the Army receives such Supplies of Powder as to be enabled to spare a little to the Country, how, and upon what terms is it to be done?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0004" id="GEWN-03-02-02-0175-0002-fn-0004-ptr">4</a></p>
+<p>Tents if the Army should have occasion to take the Field Next Spring will be indispensably necessary for Officers &amp; MenHow are they to be provided? and are the Officers to be allowed any?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0005" id="GEWN-03-02-02-0175-0002-fn-0005-ptr">5</a></p>
+<p>The Council of War (herewith exhibited) having in consequence of an Intimation from Congress deliberated on the expediency of an Attack upon the Troops in the Town of Boston, &amp; detirmined that at present it was not practicable; the General wishes to know how far it may be deemed proper, &amp; advisable, to avail himself of the Season to destroy the Troops who propose to Winter in Boston by a Bombardment (when the Harbour is blocked up) or, in other Words, whether the loss of the Town, &amp; the property therein, are so to be considered as that an attack upon the Troops there should be avoided when it evidently appears the Town must of consequence be destroyed.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0006" id="GEWN-03-02-02-0175-0002-fn-0006-ptr">6</a></p>
+<p>Riffle Companies have exceeded their Establishment in point of numbers; but have nevertheless been paid as they had no more Officers than were allowed by Congress; is this right?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0007" id="GEWN-03-02-02-0175-0002-fn-0007-ptr">7</a></p>
+<p>Very unhappy disputes prevail in the Regiment of ArtilleryColo. Gridley is become very obnoxious to that Corp and I am told will prove the destruction of that Regiment if continued thereinWhat is to be done in this case?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0008" id="GEWN-03-02-02-0175-0002-fn-0008-ptr">8</a></p>
+<p>Artillery of different kinds will be wanted how is it to be got, &amp; where?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0009" id="GEWN-03-02-02-0175-0002-fn-0009-ptr">9</a></p>
+<p>Engineers are also much wanted where can they be got?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0010" id="GEWN-03-02-02-0175-0002-fn-0010-ptr">10</a></p>
+<p>Several Indian Chiefs of the St Francis, Penobscot, Stockbridge &amp; St Johns Tribes have been to offer their Services, and told that they would be called for when wanted; and were dismissed with presentsHave I a right to call for their aid if a necessity should appear? and was I justifiable in doing the latter?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0011" id="GEWN-03-02-02-0175-0002-fn-0011-ptr">11</a></p>
+<p>Tory property, how is it to be treated &amp; applied? some of the Tories have Estates near the Camp at Cambridge which have Wood on them, and other Articles wanted for the Army, ought they to be meddled with?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0012" id="GEWN-03-02-02-0175-0002-fn-0012-ptr">12</a></p>
+<p>Should there not be a reasonable Price fixd upon wood, Hay,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0187">[187]</span>
+and other Articles wanted for the Army to prevent Imposition &amp; Extortion?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0013" id="GEWN-03-02-02-0175-0002-fn-0013-ptr">13</a></p>
+<p>Would it not be advisable to have Expresses Posted along the Road at differt distances (Persons of Character) for the purpose of conveying early and frequent Intelligence?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0014" id="GEWN-03-02-02-0175-0002-fn-0014-ptr">14</a></p>
+<p>Lead &amp; Flints is an Article that will be wanted where, and in what quantities can it be had.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0015" id="GEWN-03-02-02-0175-0002-fn-0015-ptr">15</a></p>
+<p>In the New Establishment of an Army should the General Officers be allowed Regimts and the Field Officers Companies?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0016" id="GEWN-03-02-02-0175-0002-fn-0016-ptr">16</a></p>
+<p>Director General of the Hospital wanting if Doctr Church is adjudgd unworthy of continuing in that Office. Doctr Fosterand Lieutent Colo. Hand are the only two who have made application to the Genl as yet.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0017" id="GEWN-03-02-02-0175-0002-fn-0017-ptr">17</a></p>
+<p>What steps are necessary to be pursued with Doctr Church? If guilty the Articles for the Government of the Army point out very inadequate punishmentand to let him at liberty must be exceedingly dangerous.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0018" id="GEWN-03-02-02-0175-0002-fn-0018-ptr">18</a></p>
+<p>In what light are Vessels which are made Captures of, with their Cargos, to be considered? that is, what part is to be assignd the Captors in the Pay of the Continent &amp; whose Vessels are fitted out at the genl Expence? &amp; how is the residue of the Cargo &amp; Vesel to be disposed off?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0019" id="GEWN-03-02-02-0175-0002-fn-0019-ptr">19</a></p>
+<p>What distinctions are necessary to be made between Vessels &amp; Cargos taken by the armed Vessels in the pay of the Continent, and those taken by Vessells fitted out by Individuals?</p>
+<p>Should not the fitting out of Privateers by Individuals be done under some Authority, and accidental Captures subject to some Regulation to prevent Piracy and other Capitol abuses which may arise?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0020" id="GEWN-03-02-02-0175-0002-fn-0020-ptr">20</a></p>
+<p>What is to be done with Prisoners taken in Transports in either of the above ways? are they to be detaind as Prisoners or released? if the former, what distinctions are to be made in those taken by the Continental Vessells, &amp; the othersin respect to the Generls Cognizance of them it is meant.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0021" id="GEWN-03-02-02-0175-0002-fn-0021-ptr">21</a></p>
+<p>In what manner are Prisoners to be treated? What allowance made them and how are they to be Cloathed?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0022" id="GEWN-03-02-02-0175-0002-fn-0022-ptr">22</a></p>
+<p>Suppose Troops should be landed at New York, is it expected that any part of the Army before Boston (whilst the Ministerial Troops remain there) are to move that way.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0023" id="GEWN-03-02-02-0175-0002-fn-0023-ptr">23</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0188">[188]</span>
+<p>Feints of this sort may also be practiced in other parts of the Sea Coast to draw of the Troops from hence.</p>
+<p>Ought not Negroes to be excluded in the New Inlistment? especially such as are SlavesBy a Council of Officers both are.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0024" id="GEWN-03-02-02-0175-0002-fn-0024-ptr">24</a></p>
+<p>How often should the Troops be paid? the Genl Officers were divided upon this pointsome were for every Month, others for three Months.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0025" id="GEWN-03-02-02-0175-0002-fn-0025-ptr">25</a></p>
+<p>Are the Rations allowed to the Officers which have been Issued, and an Acct thereof given to Congress and now laid before the Comee agreeable?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0026" id="GEWN-03-02-02-0175-0002-fn-0026-ptr">26</a></p>
+<p>Is it advisable to propose an Exchange of Prisoners? Should any of the Officers and Soldiers (of the Navy or Army) now in our power be given up for any except the Officers &amp; Soldiers of the American Army?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0027" id="GEWN-03-02-02-0175-0002-fn-0027-ptr">27</a></p>
+<p>A Proposition has been made in behalf of Ensign Moland to go and reside among his Friends in Pensylvania, giving his Parolewould this be agreeable?<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0028" id="GEWN-03-02-02-0175-0002-fn-0028-ptr">28</a></p>
+<p>Artificers of different Sorts have been Imployed upon the best terms I could possibly get them, but may nevertheless appear high; none having less than a shilling extraordinary for every day they Worksome Four pounds ten Shillings pr Month and with great difficulty got on those termsis this agreeable.<a class="ptr" href="#GEWN-03-02-02-0175-0002-fn-0029" id="GEWN-03-02-02-0175-0002-fn-0029-ptr">29</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-02-02-0175-0002-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document Signed: a document in the handwriting of, and signed by, the author ]">ADS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Carter Brown Library, Providence, R.I. ]">RPJCB</span>.
+
+GW apparently prepared this undated document between the time that he first learned of the appointment of the committee of conference, about 68 Oct. (see <a href="default.xqy?keys=GEWN-print-03-02-02-0140-0001" class="document">GW to Hancock, 12 Oct. 1775</a>), and the beginning of the conference on 18 October. Joseph Reeds notes on the answers of the conference which appear in the margins of this document are given in the notes below. These questions and answers vary somewhat in wording and order from those in the minutes of the conference.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0001-ptr" id="GEWN-03-02-02-0175-0002-fn-0001">1</a>
+
+   <p>Answer: Commissy to state in a Memorial to the Congress the Duties of the several Officers &amp; their Ranks so as to enable the Congr[e]ss to judgeThe same of the Qr Master &amp; Adjut. Genl.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0002-ptr" id="GEWN-03-02-02-0175-0002-fn-0002">2</a>
+
+   <p>The word Privateers is struck out following the word as. Answer: agreeable to the Committee who will recommend it as useful.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0003-ptr" id="GEWN-03-02-02-0175-0002-fn-0003">3</a>
+
+   <p>This matter was not formally considered in the conference. See <a href="default.xqy?keys=GEWN-print-03-02-02-0178" class="document">GW to Christopher French, 19 Oct. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0004-ptr" id="GEWN-03-02-02-0175-0002-fn-0004">4</a>
+
+   <p>Answer: sold to them.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0005-ptr" id="GEWN-03-02-02-0175-0002-fn-0005">5</a>
+
+   <p>Answer: Recommended to the Congress&amp; if the Officers are not allowed better Pay Tents should be given them? the General has directed the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0189">[189]</span>
+Tents to be taken care of in order to form an Estimate of this Expence the next.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0006-ptr" id="GEWN-03-02-02-0175-0002-fn-0006">6</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-02-02-0174" class="document">Council of War, this date</a>. Answer: The Committee think this too important to be determined by them therefore refer it to Congress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0007-ptr" id="GEWN-03-02-02-0175-0002-fn-0007">7</a>
+
+   <p>Answer: That the General pick out from each Company such as are not Marksmen, &amp; dismiss them in such a Manner as will be safestwith an Allowance of Pay to go home &amp; in the mean Time all receive Pay.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0008-ptr" id="GEWN-03-02-02-0175-0002-fn-0008">8</a>
+
+   <p>Answer: No Determination but referred to the future Approbation of General.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0009-ptr" id="GEWN-03-02-02-0175-0002-fn-0009">9</a>
+
+   <p>Answer: brought from Crown Point or New York.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0010-ptr" id="GEWN-03-02-02-0175-0002-fn-0010">10</a>
+
+   <p>Answer: recommend Mr Knox &amp; Col. Puttnam be employed as Assist. Engineers &amp; recommendd to the Congr[e]ss for increase of Pay &amp;c. &amp; rank at Lt. Colonels. Reed originally wrote Rank as Colonels but struck it out.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0011-ptr" id="GEWN-03-02-02-0175-0002-fn-0011">11</a>
+
+   <p>Answer: These Indians to be called if necessary, &amp; what is done approved.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0012-ptr" id="GEWN-03-02-02-0175-0002-fn-0012">12</a>
+
+   <p>Answer: Referrd to the Continental Congress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0013-ptr" id="GEWN-03-02-02-0175-0002-fn-0013">13</a>
+
+   <p>Answer: If necessary That being first valued it may be applied to the Use of the Army referred to General Court.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0014-ptr" id="GEWN-03-02-02-0175-0002-fn-0014">14</a>
+
+   <p>Answer: Agreed that this is necessy but the Mode left to the Congress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0015-ptr" id="GEWN-03-02-02-0175-0002-fn-0015">15</a>
+
+   <p>Answer: Agreed that what can be spared from Ticonderoga &amp; is necessy for this Army be sent down as soon as possible, &amp; all other Supplies attended to.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0016-ptr" id="GEWN-03-02-02-0175-0002-fn-0016">16</a>
+
+   <p>Answer: No.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0017-ptr" id="GEWN-03-02-02-0175-0002-fn-0017">17</a>
+
+   <p>Answer: referd to the Congress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0018-ptr" id="GEWN-03-02-02-0175-0002-fn-0018">18</a>
+
+   <p>Answer: referrd to the General Court.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0019-ptr" id="GEWN-03-02-02-0175-0002-fn-0019">19</a>
+
+   <p>Answer: d of the Value of the whole given.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0020-ptr" id="GEWN-03-02-02-0175-0002-fn-0020">20</a>
+
+   <p>Answer: That it be recommended to Gen. Court to dispose of Prizes taken by Vessels fitted out by Privates &amp; that such Captures be made under Authority.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0021-ptr" id="GEWN-03-02-02-0175-0002-fn-0021">21</a>
+
+   <p>Answer: All Persons taken in Arms on Board any Prizes to be deemed Prisoners at the Disposal of the General as well such Prizes as are taken by the Vessels armed by the Continent as otherwise &amp; all Vessels employed merely as Transports &amp; unarmed with their Crews to be set at Liberty upon giving Security to return to Europe. This not to be extended to a further Period than 1st April.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0022-ptr" id="GEWN-03-02-02-0175-0002-fn-0022">22</a>
+
+   <p>Answer: to be well treated as Prisoners of Warsame Rations as Soldiers &amp; that the Officers may be furnished with Cloathing upon their Bills.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0023-ptr" id="GEWN-03-02-02-0175-0002-fn-0023">23</a>
+
+   <p>Answer: Agreed that the Number of Men in the new Army being calculated to oppose the Army at Boston: it is not expected that he should detach any Part of it to New York or else where unless it app[ears] necessary for the comon safety.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0024-ptr" id="GEWN-03-02-02-0175-0002-fn-0024">24</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-02-02-0115" class="document">Council of War, 8 Oct. 1775</a>. Answer: agst them altog[e]ther.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0025-ptr" id="GEWN-03-02-02-0175-0002-fn-0025">25</a>
+
+   <p>See ibid. Answer: Monthly.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0026-ptr" id="GEWN-03-02-02-0175-0002-fn-0026">26</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-02-02-0024" class="document">General Orders, 21 Sept. 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0025" class="document">GW to Hancock, that date</a>. Answer: The present Allowance approved as usual &amp; necessy.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0190">[190]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0027-ptr" id="GEWN-03-02-02-0175-0002-fn-0027">27</a>
+
+   <p>Answer: Exchange advisd Citizens for Citizens but not Soldiers for Citizens.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0028-ptr" id="GEWN-03-02-02-0175-0002-fn-0028">28</a>
+
+   <p>Answer: To stay. Joseph Moland of the 26th Regiment of Foot had been captured the previous May on Lake Champlain.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0175-0002-fn-0029-ptr" id="GEWN-03-02-02-0175-0002-fn-0029">29</a>
+
+   <p>Answer: The General to go on upon the present Agreement.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0175-0002 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0175-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0175-0003" title="II. Minutes of the Conference, 1824 October 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

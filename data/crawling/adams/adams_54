@@ -1,0 +1,188 @@
+none 8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>IX. Humphrey Ploughjogger to the Boston Evening-Post, 5 September 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0010&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1763-09-05-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0009" title="VIII. U to the  Boston Gazette , 5 September 1763"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; IX. Humphrey Ploughjogger to the <span class="italic">Boston Evening-Post</span>, 5 September 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0010&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0009" title="VIII. U to the  Boston Gazette , 5 September 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0090">90<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0090.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d056" class="doc letter">
+
+     <h2>IX. Humphrey Ploughjogger to the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-italic" style="font-style: italic;">To the Publishers of the</span><span class="hi-small-caps" style="font-variant: small-caps;">Boston Evening-Post</span>.</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">5 September 1763</ins>]
+       </td>
+	      </tr>
+      </table>
+       <div class="openerSeg"><span class="hi-italic" style="font-style: italic;">Plese to print this in your next,</span></div>
+       <p class="signed">Humphry Ploughjogger.</p>
+      </div>
+      <p><span class="hi-small-caps" style="font-variant: small-caps;">It</span> is a pleasant Thing to see ones Works in print.When I see the news, with my letter int about Hemp, I do say it made me feel as glad, as a glass full of West India rum, sweetned with loaf shugar, would.But yet, even then I want so presumptious, as to hope hardly, that such a fine ellokent gentleman, as Mr. <span class="hi-italic" style="font-style: italic;">U.</span> would stoop to take so much notice of me.He is a noble, high flown riter, like Mr. Harvey, amost. Ive red Mr. Harveys meditations, our minister lent it to me.<a class="ptr" href="#PJA01d056n1" id="PJA01d056n1-ptr">1</a>But tho I will own Mr. <span class="hi-italic" style="font-style: italic;">U.</span> is a wonderful, lofty, sublyme riter, yet I cant join with him, in a good many things. I hope his honor, wont be offended, if I tell him what they be.</p>
+      <p>1st. I dont like his advice to leeve off studying the decrees, and original sin.for tho I cant hardly beleeve, that heathens and infants are all lost, for Adams first transgreshon, yet them doctrines are great misterees, that we ought to pry into, as far as the word can guide us.I do declare I would not leeve off reeding Mr. Willard, Mr. Edwards, and Mr. Taylor, and Dr. Whitby<a class="ptr" href="#PJA01d056n2" id="PJA01d056n2-ptr">2</a> about them points, for all my knowledge in farming, added to Mr. <span class="hi-italic" style="font-style: italic;">U</span>s knowledge too.</p>
+      <p>2dly. Next comes one thing that I do like, that is the line of latin. I love to see, now and then, some latin, in the books I reed. I amost think I understand it sumtimes, especially when I see it in Mr. Flavels works,<a class="ptr" href="#PJA01d056n3" id="PJA01d056n3-ptr">3</a> it comes in so natural.I ask our ministur to conster it to me, and our schoolmaster sumtimes. But I find they dont understand every thing, they get plunged, now and then. I got our school-master to conster that line in Mr. <span class="hi-italic" style="font-style: italic;">U</span>s piece. He made bungling work ont, but as well as I coud pick out it ment that a man could not swim above water, that had poverty pulling him downwards at his heels.This is a queer picture, it made me laff, tho I thot it was hard-hearted too for poverty to keep pulling a man down under water that tryd to keep <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0091">[91<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0091.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>up.And I dont know, since my ritings have been taken so much notice off, but I should have been a great larnt man if it had not been for this cruel jade poverty, that has allways been striving mite and main to drown me.Nevertheless it put me in mind of a rogues trick, I used to play when I was a boy.I used to catch a grate pout, and put a wyth in his gills, and then put him in the water.He would swim and struggle about the top of the water, but could not dive down deep. Now seems to me, we mite as well conster that latin thus. The pout cant dive to the bottom that has a wyth in his gills.Poverty can be signifyd by a wyth in his gills, keeping the pout at the top of the water, as well as by an old rinkled hagg at a mans heels, pulling him under. But conster it which way you will there is a deel of sense int.Seems to me theres more sense in sum of these latin skraps, that I get our larnt men to conster, than in so much Inglish any where.I wonder how tis! I allways rite best about what I dont understand.Ive rit a deel about this latin, and it sounds very well too, seems to me, considering.</p>
+      <p>3dly. Next comes one thing that I cant bare, i.e. advising ministurs to study farming and work at it too.Our ministurs are wordly-minded enuff, aready, and they dont give themselves haff enuff to reeding and study nowIm sure, many of um dont make so good sarmons, as I could with my poor abilities, thof I sayt.But if they should take to farming they would not reed at all hardly.they would not reed their bibles enuff, Im afeard, and they would leeve off reeding of Mr. Dodridges works, and Mr. Harveys, and Sandymans<a class="ptr" href="#PJA01d056n4" id="PJA01d056n4-ptr">4</a> and such like wonderful works, and would do nothing but grind sarmons, in that sarmon-mill a Concordance.Their duty is to provide food and cloathing for our souls not our bodies, to feed the spiritual sheep and lambs, not to spend time in taking care of the herds and flocks of the fieldto sow the seed of the word, and pray for the preparation of the spiritual soil in mans hart to receeve it, not to till the carnal ground.I do avouch it, this thot of Mr. Us is worse than poperee, and I had rather ministurs should be as lazey as they do say monks are in other countries and unmarried like them, that they mite give themselves wholly to reeding and study and prayer, than have um careful about farming.</p>
+      <p>4thly. But I do like his advice to doctors wonderful well. I wonder how Mr. U. could think of all them sensible remarks he made about the doctors. They mite do a world of good by taking his advice. Yet Im afeard they wont, for if they should they would cure or prevent a grate many destempurs, that now fetch um good fees,Yet I do raly beleeve <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0092">[92<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0092.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>they would do more good to mens health, by making um drink good, cleer, well-made, well-kept cydur, and good currunt wine, and cherry wine, and such like, insteed of rum and brandy and wine made of haff rum and haff cydur, as they do now, than they can by all their pills and drops and rubub. And yet I beleeve they do a grate deel of good with these things, too.Mr. U. does but just mention Lawyers, and indeed I dont know what bisness he had to mention them at all when riting about farming, or any thing else that is good, unless theyre grown better than they were when I was a young man. My great grandfather was one of Oliver Cromwells men, and Ive heard it, in our family by tradishon, that good, pious, larnt Mr. Hugh Peters<a class="ptr" href="#PJA01d056n5" id="PJA01d056n5-ptr">5</a> usd to say, it would never be good times, till the nation got rid of 150.Sumbody asked what he ment by 150?He said three Ls.and when he was asked what he ment by three Ls? he said, the Lords, the Levites and the Lawyers.About 30 years ago, when I usd to go to court sumtimes, I used to be of Mr. Peterss mind amost about Lawyers, sumtimes.But they do say, Lawyers are grown much better now, and stand up stoutly for liberty.Indeed Ive heard my grandfather say, his father told him, there was abundance of lawyers, that bawled out for liberty, and fought for it too, in his day, tho most of um went over o tother side to that calf the holy martir.</p>
+      <p>5thly. The next thing I dont altogether like.Mr. U seems to run quite out of his way, to pick a quarrel with Mr. J.I cant devise what his reason was.I guess several things.Sumtimes I think he has studied oratary, and oratary, our ministur says, is the art of gaining attenshon. And he mite think there was no way of gaining attenshon so shure, as to make fokes think him a party-man. For he would get the attenshon of one haff the world thro love, and of tother thro hatred.Sumtimes I think he made a pass at Mr. J. to let fokes know his reason for signing himself U.But upon the whole, I beleeve it most likely Mr. U. has been a deputy for sum town, and been made a justice by the Governor and then was dropt by his town, and so forsooth thot his town was angry with him for taking a favour from the Governor, and now is turning about to tother side in order to get in again.But I beleeve he is out in his pollyticks, for country fokes love to have their deputys in good understanding with the Governor, and I guess Mr. Us town turnd him out for sumthing else.Nevertheless I dont know but Mr. U is rite to quarrel a little, for there is sumthing in man that delites in fighting.When I was a boy, I used to love to see boys box it, and cocks fight, and rams too.I see two rams fight once, they would run back two or three rod, and then run head to <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0093">[93<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0093.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>head, till one of them split the skull rite in two, and down he droppd, as dead as a herring.This was a dredful cruel fight, yet I do say, I lovd to see it.And they do say, that in other countries, grate gentelfokes keep dogs, and bares, and bulls, a purpose to see um fight. Now just so our grate fokes do seem to love to see newspaper fighting among us, deerly. And Mr. U. by fighting a little this way, might hope to make fokes take more notice about our fine plant Hemp.So that his quarrelling may do sum good.But if he rites again I hope hell go fartherFor Ive alterd my mind since I rit my tother letter, and I amost think, he and I may rite, in a good naturd way, to all itarnity, about any thing to do good, and our works will never be read twice.But there is one sartain way of making fokes reed and study our works as larnt men do latin books, and that is by drawing plaguy, black, ugly pictures of sum grate men, as the Governor, Lt. Governor, sum Counsellors or Judges, or of Bluster and Whackum,<a class="ptr" href="#PJA01d056n6" id="PJA01d056n6-ptr">6</a> and Gamuts and Chaplains.Let us pick out sum rite down clever man, no matter what side he is of, and tell a parcel of rouzing lies about him, and our ritings will be got by heart, and by this meens we may slide into mens minds sum knolledge about hemp.My mind is alterd by what I since see in good Mr. Flavells works, that man is more wrathful than grateful.</p>
+      <p>6thly. I dont know what bissness he had to suspect me of bad designs in what I rote.Ile take my corporal oath, I never went to meeting of a sabbath day, nor never followed a corps to the grave in my life, with less mallice in my heart, and less designs of doing hurt, than I had when I rote that lettur, let U, or J, or he, or they suspect or beleeve what they will.</p>
+      <p>But I dont never know when to stop, hardly, matter comes in to my noddle so fast.Ive read abundance in my day, but I did not begin to read a grate deel till I was matter of 35, and I cant larn to spell nicely. But since I married this second wife, that is a young woman, I dont love to go to bed so soon as she does, so I reed and rite a world now, and I do spell better and better.</p>
+      <p>Ive rambled about so long that Ive no room hardly to say any thing about hemp, and Im resolved I wont never rite a piece without sum stroke or other about hemp.Mr. U has convinced me more than ever of the worth ont, and Im resolved to sow an acre or two out next May, and if I make it do pritty well Ile send you an account ont, for I do desine to reed and rite and study and work about hemp, till I get it into fashon.Our deputy tells me that a ropemaker told him, the best hemp he uses all the year round, grows in this country. I wish <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0094">[94<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0094.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>I knew where it grows.When I go to Boston Ile ask the ropemakers what town it is raised in, and then rite a lettur (not to be printed tho) to sumbody in that town, and ask him a few more questions about it, for Mr. U hant made every thing quite cleer to me.I want to know whether they sow it in rows, and so plough amongst it, or whether they sprinkle it over all the land.Whether they plough the land at first deep or shallow.And how they brake and swingle and hatchel it.It is such grate long trade I cant devise how they handle it. And I want to know whether they use such brakes and swingle boards and knives as we do about flax.As for beeting with beetles or hammers I dont understand that very well.</p>
+      <p>They do say, they raise abundance ont, at Phyladelphy. I wish sum of our rich men would send there and hire a man that knows about it, and could do the labour to come here and teech us.He would find his account int, and prove himself a grate paytrot.But sum how or other I will find out how to manage it, if I spend a month in a year every year about it.For it is a thing of grate value.One thing I know, if wed raisd a little more ont for 20 years past, and made a proper use ont, Ill be hangd with the first hemp I can raise, if we should have had so big rates to pay.</p>
+      <p>So no more at present, Cousin Fleets,<a class="ptr" href="#PJA01d056n7" id="PJA01d056n7-ptr">7</a> from your lofing kinsman</p>
+      <div class="closer">
+       <p class="signed">Humphry Ploughjogger</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d056sn1">
+       
+   <p>
+        <span class="docSource"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr> not found. <span class="dType">Reprinted</span> from the  (<span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span>, 5 Sept. 1763).</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d056n1-ptr" id="PJA01d056n1">1</a>
+       
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s library included the posthumous edition of <span class="hi-italic" style="font-style: italic;">A Collection of Letters of James Hervey</span>, London, 1760, but the catalogue does not list that English devotional writers more popular <span class="hi-italic" style="font-style: italic;">Meditations and Contemplations</span>, London, 17461747 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n2-ptr" id="PJA01d056n2">2</a>
+       
+   <p>Samuel Willard (16401707), <span class="hi-italic" style="font-style: italic;">A Compleat Body of Divinity</span>, Boston, 1726 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>); probably John Taylor (16941761), <span class="hi-italic" style="font-style: italic;">A Scheme of Scripture-Divinity</span>, London, 1762 (a 1785 edn. in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>). Jonathan Edwards (17031758). Daniel Whitby (16381726), English divine who gained fame for anti-Catholic writings and notoriety for arguing in favor of concessions to nonconformists; author of <span class="hi-italic" style="font-style: italic;">A Paraphrase and Commentary on the New Testament</span>, London, 1703 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n3-ptr" id="PJA01d056n3">3</a>
+       
+   <p>John Flavel (1630?1691), a Presbyterian minister, author of many popular writings of evangelical character (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n4-ptr" id="PJA01d056n4">4</a>
+       
+   <p>Philip Doddridge (17021751), English minister noted for his ability to unite nonconformists in common beliefs, author of <span class="hi-italic" style="font-style: italic;">On the Rise and Progress of Religion in the Soul</span>, London, 1745, his most popular work, and a writer of hymns (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>). Robert Sandeman (17181771), a follower of the independent Presbyterian preacher John Glas and a founder of Glassite churches in New England (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>). See also Williston Walker, The Sandemanians of New England, Amer. Hist. Assoc., <span class="hi-italic" style="font-style: italic;">Ann. Rpt. for 1901</span>, 1:131162.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n5-ptr" id="PJA01d056n5">5</a>
+       
+   <p>Or Hugh Peter (15981660) (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n6-ptr" id="PJA01d056n6">6</a>
+       
+   <p>Bluster and Whackum were names J used for James Otis Jr. and Oxenbridge Thacher. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> himself appropriated Bluster; see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0008-0001-0006#ADMS-01-01-02-pb-0243" class="pageNo">1:243</a>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d056n7-ptr" id="PJA01d056n7">7</a>
+       
+   <p>Thomas and John Fleet, publishers of the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span> after their fathers death in 1758 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Colonial Society of Massachusetts, &lt;i&gt;Publications.&lt;/i&gt; ]">Col. Soc. Mass., <span class="hi-italic" style="font-style: italic;">Pubns.</span></span>, 9 [1907]:475).</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0010 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0009" title="VIII. U to the  Boston Gazette , 5 September 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

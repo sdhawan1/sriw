@@ -1,0 +1,163 @@
+From Josiah Quincy, 25 October 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Josiah Quincy, 25 October 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-03-02-0130&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1775-10-25-8">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-03-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-03-02-0129" title="From James Otis Sr., 25 October 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-03-02-0131" title="From William Tudor, 25 October 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-03&amp;mode=TOC">Volume 3, May 1775January 1776</a>&gt; <a href="?keys=ADMS-print-06-03-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Josiah Quincy, 25 October 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-03-02-0130&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-03-02-0129" title="From James Otis Sr., 25 October 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-03-02-0131" title="From William Tudor, 25 October 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-03-02-pb-0248">248<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-03/ADMS-06-03-02-pb-0248.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA03d146" class="doc letter">
+
+    <h1>From Josiah Quincy</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">
+       Octr: 25th: 1775
+      </td>
+	      </tr>
+      </table>
+     </div>
+     <p>I have now before me your obliging Letter of the 6th: Instant. It came to hand with another for your good Lady,<a class="ptr" href="#PJA03d146n1" id="PJA03d146n1-ptr">1</a> which was imediately forwarded to her by Mr. Thaxter who was here when I received it. At the same Time, I received a Card from our Friend Doctr: Franklin, assuring me a friendly visit before he returns to Philadelphia. If he can spare Time to take a View of the Harbor I hope to convince him of the Practicability of stoping up the <span class="hi-italic" style="font-style: italic;">Narrows</span>, and forcing our Enemies to ask our Leave to return home. If you can procure, and send me a Model, or at least a perfect Draft of the Machine you mention for obstructing the Passage of Vessels up the River Delaware, with explicit Directions how to sink, and secure them from being weighed or destroyed by the Enemies Ships, it would greatly facilitate the same valuable Purposes here, not only in the Narrows, but also in the Lighthouse Channel, which in the narrowest Part is not much if anything above half a Mile wide. Could the Depth of Water be reduced there, so as to prevent Line of battle Ships from entering the Harbor, we might, for the future, bid Defiance to our Enemies. But, you shall hear more from me, after I have conversed fully with Doctr. Franklin upon the Subject, which is, to me, of much more Importance, than I had any Conception of till I read what you have wrote upon it; and especially, since the cannonading our maritime Towns, and the Destruction of <span class="hi-italic" style="font-style: italic;">Falmouth</span> demonstrates, the malicious Purpose of our Enemies to execute, their unrelenting Vengeance by every Means in <span class="pb" title="page number in print edition" id="ADMS-06-03-02-pb-0249">[249<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-03/ADMS-06-03-02-pb-0249.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>their Power. Good God! what savage Barbarity! Let us no longer call our Selves <span class="hi-italic" style="font-style: italic;">Englishmen</span> but free <span class="hi-italic" style="font-style: italic;">born Americans.</span> Let us unitedly exert every Faculty to confound the Devices, and frustrate the hostile Attempts of our Enemies! We must, or Vassalage, if not an ignominious Bondage will, inevitably be the Consequence.</p>
+     <p>But, alass! what can our Strength avail us, when such vile Apostates as H<span title="text unclear" class="unclear">[utchinso]</span>n, C<span title="text unclear" class="unclear">[hurc]</span>h, and others of the same stamp stand ready, for filthy Lucre, to betray our Councels, expose our Weakness, and advise our Enemies what Measures will most effectually secure the Conquest of Us. Pray tell me, what Punishment is due to such Perfidy as C<span title="text unclear" class="unclear">[hurc]</span>h has been guilty of? There are others I shrewdly suspect, but, dare not name, least I should be mistaken; for your Profession has taught me, that, It is better ten guilty should escape, than one innocent Person suffer. But this humane Maxim shant divert me from watching; with the Eyes of <span class="hi-italic" style="font-style: italic;">Argos,</span> if I had them.</p>
+     <p>How long must the Courts of Justice remain unopened, and the Law of the Land unexecuted? Shall Criminals escape the Halter? Shall Debtors defraud and starve their Creditors, and every Species of Dishonesty be countenanced and encouraged by a Delay of Justice, which is virtually a Denial of it? I know it is said, that, inter arma silent Leges. But will not our Enemies take the Advantage of our deplorable Circumstances, and say, Now, you see, by sad Experience, the dreadful Effects of your Zeal to get rid of the Riens of Government! Is not the Man of <span class="hi-italic" style="font-style: italic;">Substance</span> reduced to a Level with those who have <span class="hi-italic" style="font-style: italic;">none</span>? Have not the dishonest <span class="hi-small-caps" style="font-variant: small-caps;">many</span>, in every Respect, but that of being honest, the Advantage of the honest <span class="hi-small-caps" style="font-variant: small-caps;">few</span>? Does not the Price of every thing depend upon Quantity and Demand? If the continental Congress had opened, a Mine of Silver, and another of Gold, and coined as much Money as they have struck off paper Dollars; would not every Man of Property suffered enough, by such a sudden Plenty of Money, compared with every thing of which it is the Measure? What then, but inevitable Ruin, must be the Consequence of such a Flood of Paper Credit, without any Fund established to secure it from depreciating, especially in this Colony, where it is considered as a lawfull Tender in all Payments; so, that, if you have lent a Man a 1000 Dollars, and should be so unpolite as to ask him for the Interest of it, he will borrow of a rich paper Proprietor a 1000 <span class="hi-italic" style="font-style: italic;">fictitious Dollars</span> and discharge his Debt: Should you refuse to receive them, because they were not the same you lent, you will be exposed to publick Resentment perhaps Ignominy. But what operates still more injuriously to the N. E. Colonies, especially this, is, that, it is the Seat of War; and of <span class="pb" title="page number in print edition" id="ADMS-06-03-02-pb-0250">[250<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-03/ADMS-06-03-02-pb-0250.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Course the greatest Part of the Paper Credit, both continental and colonial, will circulate here; we must therefore, be subjected, not only to the Calamities and Horrors of a civil War, but to all the Loss resulting from a flood of depreciating Paper Bills, for which we have exchanged our Property, as if they were so many Dollars.</p>
+     <p>But suppose, what is not yet Fact, that you have repelled your Enemies, and secured your <span class="hi-italic" style="font-style: italic;">darling Liberty</span>: What is become of your Property? Your maritime Towns are destroyed! Your Trade and Navigation are annihilated, and those concerned in it reduced, to Want and Beggary! The Value of your Lands, as you have no Vent for the surplus of your Produce, reduced to half its Value! Your Brethren in the southern Colonies have lent you their Credit; but what does it amount to? A Quantity of <span class="hi-italic" style="font-style: italic;">Dollars</span>, stampd upon Paper by Order of the continental Congress, without any Security to the Possessor, for the Value, or Redemption of them in any reasonable Time? Had a continental Fund been established, and all the Money wanted been borrowed upon the Credit of it, @ :3:4: or 5 per Ct. Interest, redeemable at a certain Period, the Bills could not have depreciated; though all things might, and would have rose, in Proportion to the Quantity and Demand of each. But, under present Circumstances, we shall, from the necessary Consequence of them, soon be able to verifie the late Bishop of Cloynes Doctrine of <span class="hi-italic" style="font-style: italic;">Ideas</span><a class="ptr" href="#PJA03d146n2" id="PJA03d146n2-ptr">2</a> for we shall have the <span class="hi-italic" style="font-style: italic;">Idea of Money</span> Nomen et preterea Nihil.<a class="ptr" href="#PJA03d146n3" id="PJA03d146n3-ptr">3</a></p>
+     <p>Suppose, an artfull insidious <span class="hi-italic" style="font-style: italic;">Parracide</span> under the Mark of Friendship, to declaim pathetically upon the <span class="hi-italic" style="font-style: italic;">Topicks</span> above hinted at, before a suffering Auditory: Is there no Danger of his making many Proselites? If there is, since its foreseen, let us endeavour to prevent the Poison from entering the Body politick, where, I fear it would soon spread and prevail, so as not to be easily eradicated, by any Antidotes in our Power.</p>
+     <p>Mrs: Q. Mrs: L. Miss: B<span title="text unclear" class="unclear">[ets]</span>y and N<span title="text unclear" class="unclear">[anc]</span>y<a class="ptr" href="#PJA03d146n4" id="PJA03d146n4-ptr">4</a> desire their affectionate Regards may be joined with those of, Your Faithfull Friend &amp;ca:</p>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA03d146sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: To The honble: John Adams Esquire Philadelphia Per Favour of Doctr: Franklin} Q D C; docketed: Coll Quincy Oct 25. 1775. Quincys <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> on last page of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> to Quincy, <a href="default.xqy?keys=ADMS-print-06-03-02-0095" class="document">6 Oct.</a>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: Hoar Autograph Coll.</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA03d146n1-ptr" id="PJA03d146n1">1</a>
+      
+   <p>Probably that to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Abigail Adams (17441818), m. John Adams 1764 ]">AA</abbr> of <a href="default.xqy?keys=ADMS-print-04-01-02-0194" class="document">7 Oct.</a> (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Adams Family Correspondence&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1963. ]"><span class="hi-italic" style="font-style: italic;">Adams Family Correspondence</span></span>, 1:294296).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA03d146n2-ptr" id="PJA03d146n2">2</a>
+      
+   <p>The idealist philosopher Bishop George Berkeley (16851753) (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Leslie Stephen and Sidney Lee, eds., &lt;i&gt;The Dictionary of National Biography&lt;/i&gt;, New York and London, 18851900; 63 vols. plus supplements. ]"><span class="hi-italic" style="font-style: italic;">DNB</span></span>).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA03d146n3-ptr" id="PJA03d146n3">3</a>
+      
+   <p>The name and nothing more.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA03d146n4-ptr" id="PJA03d146n4">4</a>
+      
+   <p>Mrs. Bela Lincoln, the former Hannah Quincy, who had been <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s first romantic interest; Betsy and Nancy were Elizabeth and Ann Quincy, daughters of Josiah by his second and third marriages.</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-03-02-0130 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 3, May 1775January 1776
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-03-02-0129" title="From James Otis Sr., 25 October 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-03-02-0131" title="From William Tudor, 25 October 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

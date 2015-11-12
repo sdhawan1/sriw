@@ -1,0 +1,146 @@
+David Hartley’s Memorandum to the American Commissioners, 16 September 1784
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>David Hartleys Memorandum to the American Commissioners, 16 September 1784</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-16-02-0214&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1784-09-16-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-16-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-16-02-0213" title="C. W. F. Dumas to John Adams, 16 September 1784"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-16-02-0215" title="John Adams to C. W. F. Dumas, 18 September 1784"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-16&amp;mode=TOC">Volume 16, February 1784March 1785</a>&gt; <a href="?keys=ADMS-print-06-16-02&amp;mode=TOC">Documents</a>&gt; David Hartleys Memorandum to the American Commissioners, 16 September 1784</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-16-02-0214&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-16-02-0213" title="C. W. F. Dumas to John Adams, 16 September 1784"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0215" title="John Adams to C. W. F. Dumas, 18 September 1784"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-16-02-pb-0327">327<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0327.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div class="doc">
+      
+      <h1>David Hartleys Memorandum<br/>to the American Commissioners</h1>
+      <div class="docbody">
+        <div class="opener">
+          <table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[<span class="hi-italic" style="font-style: italic;">Passy, 16 September 1784</span>]<a class="ptr" href="#ADMS-06-16-02-0214-fn-0001" id="ADMS-06-16-02-0214-fn-0001-ptr">1</a></td>
+	      </tr>
+      </table>
+        </div>
+        <p style="text-indent: 1.5em; text-align: left;">You may with great Truth assure the American Ministers of our ready and friendly disposition to receive any proposals from the United States for the forming such regulations as may tend to the mutual and reciprocal advantage of both Countries.</p>
+        <p style="text-indent: 1.5em; text-align: left;">That his Majestys govern<span class="hi-super" style="font-size: 80%; line-height: 0.8; vertical-align: super;">t</span> w<span class="hi-super" style="font-size: 80%; line-height: 0.8; vertical-align: super;">d</span> at all times be ready to concur in the forming such a System as may fully answer every purpose of commercial as well as political advantage to the two Countries &amp; fix and establish a permanent and beneficial intercourse between them</p>
+      </div>
+      <div class="docback">
+        <div class="note-source" id="ADMS-06-16-02-0214-sn">
+          
+   <p style="text-indent: 1.5em; text-align: left;"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr> (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early nineteenth century; for example, PCC, No. 93, III, i.e., the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 86, f. 2122); endorsed by David Humphreys: Passy Sept<span class="hi-super" style="font-size: 80%; line-height: 0.8; vertical-align: super;">r.</span> 16. 1784 / Memoire from / M<span class="hi-super" style="font-size: 80%; line-height: 0.8; vertical-align: super;">r</span> Hartley Minister / Plenipo<span class="hi-super" style="font-size: 80%; line-height: 0.8; vertical-align: super;">ry</span> from His B. Majesty.</p>
+
+        </div>
+        <div id="fn" class="footnote"><a class="note-ref" href="#ADMS-06-16-02-0214-fn-0001-ptr" id="ADMS-06-16-02-0214-fn-0001">1</a>
+          
+   <p style="text-indent: 1.5em; text-align: left;">This document stemmed from a meeting between Hartley and the commissioners on 31 Aug., at which time the Americans notified the British minister of their new commission empowering them to negotiate an Anglo-American commercial treaty. Hartley responded that he did not doubt his Court would at all times be ready to concur in forming such a system as might fully answer every purpose of commercial as well as political advantage to the two Countries, and fix &amp; establish a permanent &amp; benificial intercourse between them (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early nineteenth century; for example, PCC, No. 93, III, i.e., the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 116, f. 28). This assurance was given, however, without Hartleys having any specific instructions to do so.</p>
+
+          
+   <p style="text-indent: 1.5em; text-align: left;">Hartley wrote to London to inform the ministry of the commissioners changed circumstances, and upon receiving new instructions he contacted the commissioners on 16 Sept. to request a meeting. In doing so Hartley indicated that he had been recalled to
+<span class="pb" title="page number in print edition" id="ADMS-06-16-02-pb-0328">[328<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0328.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+London but also presented this memorandum relating extracts from his instructions that he had been authorized to share with the commissioners (same, f. 3334). With Hartleys return to England, any Anglo-American negotiations at Paris would be with John Frederick Sackville, the Duke of Dorset, British ambassador to France since January (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Ludwig Bittner and others, eds., &lt;i&gt;Repertorium der diplomatischen Vertreter aller Lnder seit dem Westflischen Frieden (1648),&lt;/i&gt; Oldenburg, 19361965; 3 vols. ]"><span class="hi-italic" style="font-style: italic;">Repertorium,</span></span> 3:162). This led to the commissioners <a href="default.xqy?keys=ADMS-print-06-16-02-0233+ADMS-print-06-16-02-0234" class="document">two 28 Oct. letters to Dorset</a>, both below, in which they sought to initiate new talks and referred to Hartleys assurances that Britain was open to renewed negotiations.</p>
+
+        </div>
+
+      </div>
+    <div class="docback">
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-16-02-0214 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 16, February 1784March 1785
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-16-02-0213" title="C. W. F. Dumas to John Adams, 16 September 1784"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0215" title="John Adams to C. W. F. Dumas, 18 September 1784"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.242.147</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

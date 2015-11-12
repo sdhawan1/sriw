@@ -1,0 +1,210 @@
+General Orders, 7 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 7 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0040&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-07-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0039" title="From the Pennsylvania Delegates, 6 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0041" title="General Orders, 8 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 7 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0040&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0039" title="From the Pennsylvania Delegates, 6 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0041" title="General Orders, 8 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0071">71</span><div id="Rev01d39" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, July 7th 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole, Dorchester.</td>
+		<td class="csigns">C. Sign Exeter.</td>
+	      </tr></table>
+
+</div>
+<p>It is with inexpressible Concern that the General upon his first Arrival in the army, should find an Officer sentenced by a General Court Martial to be cashierd for CowardiceA Crime of all others, the most infamous in a Soldier, the most injurious to an Army, and the last to be forgiven; inasmuch as it may, and often does happen, that the Cowardice of a single Officer may prove the Distruction of the whole Army: The General therefore (tho with great Concern, and more especially, as the Transaction happened before he had the Command of the Troops) thinks himself obliged for the good of the service, to approve the Judgment of the Court Martial with respect to Capt. John Callender, who is hereby sentenced to be cashiered. Capt. John Callender is accordingly cashiered and dismissd from all farther service in the Continental Army as an Officer.<a class="ptr" href="#GEWN-03-01-02-0040-fn-0001" id="GEWN-03-01-02-0040-fn-0001-ptr">1</a></p>
+<p>The General having made all due inquiries, and maturely considerd this matter is led to the above determination not only from the particular Guilt of Capt. Callenders, but the fatal Consequences of such Conduct to the army and to the cause of america.</p>
+<p>He now therefore most earnestly exhorts Officers of all Ranks to shew an Example of Bravery and Courage to their men; assuring them that such as do their duty in the day of Battle, as brave and good Officers, shall be honord with every mark of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0072">[72]</span>
+distinction and regard; their names and merits made known to the General Congress and all America: while on the other hand, he positively declares that every Officer, be his rank what it may, who shall betray his Country, dishonour the Army and his General, by basely keeping back and shrinking from his duty in any engagement; shall be held up as an infamous Coward and punishd as such, with the utmost martial severity; and no Connections, Interest or Intercessions in his behalf will avail to prevent the strict execution of justice.<a class="ptr" href="#GEWN-03-01-02-0040-fn-0002" id="GEWN-03-01-02-0040-fn-0002-ptr">2</a></p>
+<p>Capt. Scotts and Capt. Styless Companys from New Hampshire, are to be incorporated, or added to Col. Serjants Regiment, agreeable to the application made for that purpose.<a class="ptr" href="#GEWN-03-01-02-0040-fn-0003" id="GEWN-03-01-02-0040-fn-0003-ptr">3</a> No Officer or Soldier, posted in the Lines for the defence of them, on Prospect Hill, or Winter Hill, or elsewhere, are upon any account to sleep out of their encampment or leave it at night. The Troops from New Hampshire are particularly requird to attend to this Order, from their particular Circumstances of situation.</p>
+<p>No Soldier, belonging to these Posts, or elsewhere, to be suffered to straggle at a distance from their respective parade, on any pretence; without leave from his Officers: As an unguarded Hour, may prove fatal to the whole army, and to the noble Cause in which we are engaged. The Importance of which, to every man of common understanding, must inspire every good Officer and Soldier, with the noblest Ardour and strictest attention, least he should prove the fatal Instrument of our ruin.</p>
+<p>The Adjutant General<a class="ptr" href="#GEWN-03-01-02-0040-fn-0004" id="GEWN-03-01-02-0040-fn-0004-ptr">4</a> is required, to make a return as quick as possible, of the Troops in Cambridge, their number, and the duty they do.</p>
+<p>Complaints having been made with respect to the Bread, as being sour and unwholesome; the Quarter Master General<a class="ptr" href="#GEWN-03-01-02-0040-fn-0005" id="GEWN-03-01-02-0040-fn-0005-ptr">5</a> is hereby directed to enquire into the matter and report upon it: At the same time to inform the Bakers that if any Complaints are made; and they shall be found just, they will be most severely punished.</p>
+<p>The Guards on the Roads leading to Bunkers Hill, are ordered not to suffer any person to pass them, unless an Officer is sent down from the Lines to order it, or they will be severely punished.</p>
+<p>The General has great Reason; and is highly displeased, with
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0073">[73]</span>
+the Negligence and Inattention of those Officers, who have placed as Centries, at the out-posts, Men with whose Characters they are not acquainted. He therefore orders, that for the future, no Man shall be appointed to those important stations, who is not a Native of this Country, or has a Wife, or Family in it, to whom he is known to be attached. This Order is to be considerd as a standing one and the Officers are to pay obedience to it at their peril.</p>
+<p>A Complaint of the most extraordinary kind, having been made to the General, that Soldiers inlisted in one Regiment, have been seduced to reinlist into others, by Agents employed for that purpose under the specious promises of money, or leave of absence from the army, a procedure so subversive of all order, discipline, and of the very Existance of the army, cannot be forgiventhe strictest Orders are therefore given against such practices, and the General most earnestly declares, that if any Agent or Soldier, shall hereafter be found so offending, he will punish them with the utmost severity.<a class="ptr" href="#GEWN-03-01-02-0040-fn-0006" id="GEWN-03-01-02-0040-fn-0006-ptr">6</a></p>
+<p>A General Court Martial having sat upon William Pattin and reported, that no Evidence appeared against him, to support the Charge; the General defers his decision upon the Report, untill farther consideration. In the mean time, the Adjutant General is ordered to wait on Col. Ward,<a class="ptr" href="#GEWN-03-01-02-0040-fn-0007" id="GEWN-03-01-02-0040-fn-0007-ptr">7</a> by whom the Prisoner was confind and learn from him upon whose complaint, and what Witnesses, there are to support it.</p>
+<p>A regimental Court Martial is ordered to sit to morrow 10 oClock, on Samuel Bartlett of the Company late Capt. Callenders, and Col. Gridleys Regiment, confind for abusive behaviour.</p>
+<p>A General Court Martial to sit to morrow, 10 oClock A:M: for the Trial of Thomas Daniely, charged with stealing; each of the above Prisoners to have Notice to day, and the Witnesses in like manner orderd to attend.</p>
+<p>In order that all the sick and wounded in the Army may be provided for, and taken Care of in the best way and manner possible: It is orderd, that when any Officer or Soldier is so ill, either by a Wound, or otherwise, that the Surgeon of the Regt to which he belongs, finds he cannot be properly taken care of in such Regt such surgeon shall send him to the Camp Hospital to which they belong, with a Certificate of the Mans Name, the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0074">[74]</span>
+Company<a class="ptr" href="#GEWN-03-01-02-0040-fn-0008" id="GEWN-03-01-02-0040-fn-0008-ptr">8</a> to which he belongs, and in that case the Surgeon of the Hospital shall receive said sick and wounded; and in case such Hospital shall be too full, in that case the surgeons of said Hospital shall send such of his patients, as may be removed with safety, to the Hospital at Water-town, with the like Certificate as above, on which the Surgeon of Water-town Hospital, is to receive, and take care of him.<a class="ptr" href="#GEWN-03-01-02-0040-fn-0009" id="GEWN-03-01-02-0040-fn-0009-ptr">9</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0040-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+copy, in Joseph Reeds writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ American Antiquarian Society, Worcester, Mass. ]">MWA</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0001-ptr" id="GEWN-03-01-02-0040-fn-0001">1</a>
+
+   <p>John Callender (d. 1797), a captain in Col. Richard Gridleys Massachusetts artillery regiment, was tried by a court-martial on 27 June 1775 for cowardice and disobedience of orders during the Battle of Bunker Hill. His chief accuser was Maj. Gen. Israel Putnam, who told a committee of the Massachusetts provincial congress that in the late action, as he was riding up <span class="hi-italic" style="font-style: italic;">Bunkers Hill</span>, he met an officer of the Train drawing his cannon down in great haste; he ordered the officer to stop and go back; he replied, he had no cartridges; the General dismounted and examined his boxes, and found a considerable number of cartridges, upon which he ordered him back; he refused, until the General threatened him with immediate death, upon which he returned up the hill again, but soon deserted his post and left the cannon. Some excuse for Callenders actions was provided by an unnamed officer of rank, who testified that he absolutely knew that some of the cartridges and balls were too large for the cannon, and that it was necessary to break the cartridges before they could be of use. In addition, Callender as a Massachusetts officer apparently did not feel bound to obey Putnam, who at that time was a general only in the Connecticut service. Putnam was supported in the essentials of his account by several officers, and he threatened to quit the army if Callender was not severely punished. The defeat of that day, Putnam declared, was owing to the ill-behaviour of those that conducted the artillery. . . . the reenforcements ordered up the hill could not be prevailed upon to go; the plea was, the Artillery was gone, and they stood no chance for their lives in such circumstances, declaring they had no officers to lead them (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Peter Force, ed. &lt;i&gt;American Archives&lt;/i&gt;. 9 vols. Washington, D.C., 183753. ]">Force, <span class="hi-italic" style="font-style: italic;">American Archives</span></span>, 4th ser., 2:1438). Callender soon reentered the army as a volunteer artillery cadet, and at the Battle of Long Island in August 1776, he redeemed his reputation. Taking command of his units guns after his superiors were killed, Callender continued to fire, despite being wounded, until he was taken prisoner. He was exchanged in 1777 and served in the Continental artillery as a captain-lieutenant until 1784.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0002-ptr" id="GEWN-03-01-02-0040-fn-0002">2</a>
+
+   <p>This paragraph is based on the suggestions that Joseph Hawley made to GW in his letter of 5 July 1775.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0003-ptr" id="GEWN-03-01-02-0040-fn-0003">3</a>
+  
+   <p>Col. Paul Dudley Sargent (17451828) of Salem commanded a regiment of Massachusetts infantry until the end of 1776. Capt. William Scott <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from '(17421796)' &lt;span style='font-size: 90%'&gt;[[2005-12-13]]&lt;/span&gt; ]">(17441815)</span> of Peterborough, N.H., transferred to the 1st New Hampshire Regiment in the fall of 1776 and was wounded at the Battle of Saratoga the following year. He retired with the rank of major in January <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from '1781' &lt;span style='font-size: 90%'&gt;[[2005-12-13]]&lt;/span&gt; ]">1783</span>. Capt.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0075">[75]</span>
+Jeremiah Stiles (c.17441800) of Keene, N.H., commanded a company at the Battle of Bunker Hill.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0004-ptr" id="GEWN-03-01-02-0040-fn-0004">4</a>
+
+   <p>Col. William Henshaw <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2014-02-11]]&lt;/span&gt; ]">(1735-1820)</span>, adjutant general of the Massachusetts forces, acted as GWs adjutant general until Horatio Gates assumed that office on 9 July.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0005-ptr" id="GEWN-03-01-02-0040-fn-0005">5</a>
+
+   <p>The quartermaster general at this time was apparently Joseph Pearse Palmer (17501797) who had held that position in the Massachusetts service since 1 May 1775. A Continental quartermaster general was not named until Thomas Mifflin was appointed to the office on 14 August.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0006-ptr" id="GEWN-03-01-02-0040-fn-0006">6</a>
+	
+   <p>Disputes over conflicting enlistments are referred to the brigade commanders in <a href="default.xqy?keys=GEWN-print-03-01-02-0100" class="document">General Orders, 25 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0007-ptr" id="GEWN-03-01-02-0040-fn-0007">7</a>
+
+   <p>Jonathan Ward of Southborough became lieutenant colonel of Maj. Gen. Artemas Wards Massachusetts regiment in June 1775 after a dispute over the position with William Henshaw was resolved by the provincial congress. When GW decided in September that generals could not have regiments (see <a href="default.xqy?keys=GEWN-print-03-01-02-0150" class="document">GW to Hancock, 45 Aug.</a> and <a href="default.xqy?keys=GEWN-print-03-02-02-0025" class="document">21 Sept. 1775</a>), Jonathan Ward assumed the colonelcy of General Wards regiment and served as a regimental commander until the end of 1776, at which time he left the army.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0008-ptr" id="GEWN-03-01-02-0040-fn-0008">8</a>
+
+   <p>The Reed copy reads The Company &amp; Regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0040-fn-0009-ptr" id="GEWN-03-01-02-0040-fn-0009">9</a>
+
+   <p>This paragraph is a copy of the resolution that the Massachusetts provincial congress passed on 1 July 1775 with minor wording changes. See <a href="default.xqy?keys=GEWN-print-03-01-02-0034&amp;expandNote=GEWN-03-01-02-0034-fn-0001#GEWN-03-01-02-0034-fn-0001" class="document">Massachusetts Provincial Congress to GW, 5 July 1775, n.1</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0040 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0039" title="From the Pennsylvania Delegates, 6 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0041" title="General Orders, 8 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

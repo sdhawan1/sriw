@@ -1,0 +1,204 @@
+To John St. Clair, 12 April 1758
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To John St. Clair, 12 April 1758</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-05-02-0089&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1758-04-12-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0088" title="From James Baker, 10 April 1758"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-05-02-0090" title="To Francis Halkett, 12 April 1758"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-05&amp;mode=TOC">Volume 5 (5 October 17573 September 1758)</a>&gt; <a href="?keys=GEWN-print-02-05-02&amp;mode=TOC">Documents</a>&gt; To John St. Clair, 12 April 1758</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-05-02-0089&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0088" title="From James Baker, 10 April 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0090" title="To Francis Halkett, 12 April 1758"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0122">122</span><div id="Col05d87" class="doc">
+
+
+<h1>To John St. Clair</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Fort Loudoun 12th of April 1758</td>
+	      </tr>
+      </table>
+</div>
+<p>Your favour of the 7th from Philadelphia I had the pleasure to receive this Evening.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0001" id="GEWN-02-05-02-0089-fn-0001-ptr">1</a> It gave the Officers here present and myself, a very sensible pleasure to find your Sentiments corrispond with ours on the measures taken with the Cherokee Indians. and we are not less pleasd to find you determind to Interest yourself for the well ordering of these Important matters; on the good regulation of which so much depends.</p>
+<p>Great pains has already been taken to encourage the Indian Scouts to preserve their Prisoners. some Officers and Volunteers in the Regiment have gone out to War with these Parties for this salutary end; but the hard Frosts, and exceeding deep Snows upon the Aligany Mountains, has forcd most of them back again.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0002" id="GEWN-02-05-02-0089-fn-0002-ptr">2</a></p>
+<p>I have desird Mr Gist deputy Agent of Indian Affairs to transmit you an exact return of the Number of Indians that have Marchd from this to War. what now remain here. and such as he has undoubted reason to expect; together with a Succinct Account of Indian Affairs in general that you may thereby be enabled to judge of our Situation, &amp; to enform General Forbes of it.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0003" id="GEWN-02-05-02-0089-fn-0003-ptr">3</a></p>
+<p>As yet I have receivd no Orders from Mr Blair on the head you mention; nor have we receivd any advice of the arrival of our two Companies from Carolina.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0004" id="GEWN-02-05-02-0089-fn-0004-ptr">4</a> A return of our Strength for February, and how the Troops are Posted, you will find inclosd: the returns from the Out Posts for March are not yet come to hand, but I believe little alteration has happend since the last.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0005" id="GEWN-02-05-02-0089-fn-0005-ptr">5</a> Those Men returnd upon Command are small Parties detachd among the Country People to encourage them to Plant and improve their Farms; without this precaution the whole Country woud have been depopulated.<a class="ptr" href="#GEWN-02-05-02-0089-fn-0006" id="GEWN-02-05-02-0089-fn-0006-ptr">6</a> I shall communicate your desires on the Score of Forrage and Waggons to the Inhabitants of this Neighbourhood; but at the same time I woud not advise you to put much dependance on them. the cold backward Spring has causd a great scarcity of Provender (Hay especially). and the Country dont abound much in Waggons.</p>
+<p>We are highly pleasd at the prospect of seeing Sir John<a class="ptr" href="#GEWN-02-05-02-0089-fn-0007" id="GEWN-02-05-02-0089-fn-0007-ptr">7</a> once
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0123">[123]</span>
+more among us: The Officers have desird me to testifie this, and very heartily join with me in offering their best good wishes to you. I have the pleasure to subscribe myself Yr most Obedt &amp; most Hble Servt</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-05-02-0089-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, Scottish Record Office; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ This is the first of a series of letters to John St. Clair in GWs hand preserved in the Scottish Record Office. Because receivers copies of letters written by GW in this period are rare, it may be useful for anyone interested to compare the texts of the first five of these letters printed here and the texts of the same letters in GWs recopied letter book (as printed in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John C. Fitzpatrick, ed. &lt;i&gt;The Writings of George Washington from the Original Manuscript Sources, 17451799&lt;/i&gt;. 39 vols. Washington, D.C., 193144. ]">Fitzpatrick, <span class="hi-italic" style="font-style: italic;">Writings of Washington</span></span>, 2:17476, 18889, 18990, 19192, and 2012) in order to get some sense of the nature and extent of the changes GW made in his (missing) original letter books before having them recopied. For a description of how GW corrected and then had recopied the letter books he kept during the French and Indian War, see PrefaceThe Letter Book for the Braddock Campaign, 2 March14 August 1755, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ W. W. Abbot et al., eds. &lt;i&gt;The Papers of George Washington, Colonial Series&lt;/i&gt;. 10 vols. Charlottesville, Va., 198395. ]"><span class="hi-italic" style="font-style: italic;">Papers, Colonial Series</span></span>, I:xviiixx, 23640. Even more useful than these letters to St. Clair for getting at how the letters that GW wrote and sent are related to the copies of these letters in his letter books are nearly two dozen of GWs letters to Bouquet that have survived from July and August 1758. Not only do we have the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr> and recopied letter-book copies of these letters to Bouquet, but the original letter-book copies in GWs hand have also survived. For a discussion of the original letter book, see <a href="default.xqy?keys=GEWN-print-02-05-02-0159&amp;expandNote=GEWN-02-05-02-0159-sn#GEWN-02-05-02-0159-sn" class="document">GW to St. Clair, 14 June 1758, source note</a>; for a discussion of the three versions of GWs letters to Bouquet, see <a href="default.xqy?keys=GEWN-print-02-05-02-0199&amp;expandNote=GEWN-02-05-02-0199-sn#GEWN-02-05-02-0199-sn" class="document">GW to Bouquet, 3 July 1758 (first letter), source note</a>.</p>
+
+
+   <p>John St. Clair (Sinclair, d. 1767), a lieutenant colonel in the Royal American Regiment (60th), as deputy quartermaster general was chief commissary for Braddocks expedition in 1755 and in 1758 served in the same capacity for Forbess campaign in Pennsylvania.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0001-ptr" id="GEWN-02-05-02-0089-fn-0001">1</a>
+
+   <p>St. Clairs letter of 7 April has not been found, but he wrote Gen. John Forbes on that date: Capt. Bullet complains loudly of their being no Necessaries to equip the Indians (which are daily coming in) for war.... The principal things wanted is Match coats &amp; light Fuzees, both which may be had at this place [Philadelphia], and I know no where else (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers). For the letter Thomas Bullitt wrote on 31 Mar. 1758 as senior officer at Fort Loudoun to Lt. Gov. William Denny, see <a href="default.xqy?keys=GEWN-print-02-05-02-0079&amp;expandNote=GEWN-02-05-02-0079-fn-0004#GEWN-02-05-02-0079-fn-0004" class="document">Denny to GW, 25 Mar., nn.4</a> and <a href="default.xqy?keys=GEWN-print-02-05-02-0079&amp;expandNote=GEWN-02-05-02-0079-fn-0005#GEWN-02-05-02-0079-fn-0005" class="document">5</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0002-ptr" id="GEWN-02-05-02-0089-fn-0002">2</a>
+
+   <p>For a discussion of the arrival of numerous Cherokee warriors in Winchester, see <a href="default.xqy?keys=GEWN-print-02-05-02-0087" class="document">GW to John Stanwix, 10 April</a>. For a return of the Indians who came to Virginia before 21 April, see <a href="default.xqy?keys=GEWN-print-02-05-02-0089&amp;expandNote=GEWN-02-05-02-0089-fn-0003#GEWN-02-05-02-0089-fn-0003" class="document">note 3</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0003-ptr" id="GEWN-02-05-02-0089-fn-0003">3</a>
+
+   <p>Christopher Gist, Edmond Atkins deputy agent for Indian affairs at Winchester, wrote to St. Clair from Winchester on 12 April: At the desire of Colo. Washington I make free to inform your Honour how the Indian affair stands at this time, we have now in this Town 174 Indians I have aquipt (but not according to the Colonys agreement) 343 which how ever is gone to war
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0124">[124]</span>
+on the Frotiers of this Colony &amp; Maryland, Some of the Parties I Make no doubt will see Fort Du Quesne, my son Lieut. Gist of the Virginia Regiment, with 30 Indians &amp; 32 men is gone from the South Branch a bout 10 days, &amp; I bleive will See the French Fort. I desired them if Possible to get a Prisoner.</p>
+
+
+   <p>Ther is now 110 Cherokees, on the road between this Town and Augusta, 52 of which, is this night with in five miles of this place.</p>
+
+
+   <p>I have a Letter from John Watts, who is one of my Interpreters, that he with a Large Party will be at this place in this month....</p>
+
+
+   <p>P.S. I have just recd advice that Mr Henry Russell &amp; my Son Thos Gist of the Regiment with Party 48 Cherokees they Marcht with, (Some time before Lieut. Gist &amp; his Party went out) is returnd to South Branch Last week &amp; is Setting out agin now.</p>
+
+
+   <p>The government of Maryland Who have had a Party of 50 or 60 Cherokees at their Request Sence the 22d of Novr Last ... (Scottish Record Office: Dalhousie Muniments).</p>
+
+
+   <p>Capt. Abraham Bosomworth of the 2d Battalion, Royal American Regiment, submitted to General Forbes A Return of the Southern Indians Winchester April 21st 1758 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers), from a return made by Christopher Gist. The return indicates that 652 Indians had come to Virginia, 58 on 16 Nov. 1757 and the rest between 28 Feb. and 21 April 1758. One party of 26 on 18 Mar. and another of 24 on 20 Mar. arrived at Augusta, while the other twenty-one parties arrived at Winchester (ibid.). One hundred and sixty-five warriors in six parties had gone from Winchester to Fort Frederick, Md.; 174 in four parties had gone from Winchester to the South Branch; one party of 26 had gone down from Augusta to the James River and one party of 24 to the South Branch; and one party of 25 had left Winchester for Fort Loudoun in Pennsylvania. A total of 23 parties ranging in size from 7 to 75 with a median size of 41 made up the total of 652 who had come. Twenty of the parties came from one or another Cherokee town, two parties were Catawba and one party contained Indians of both tribes. The return names the commander of each party. By 21 April eleven parties totaling 364 warriors had left Winchester; 238 men in ten parties remained in town.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0004-ptr" id="GEWN-02-05-02-0089-fn-0004">4</a>
+
+   <p>For the arrival in Virginia of the two companies of the Virginia Regiment which had gone to Charleston, S.C., at the end of May 1757, see <a href="default.xqy?keys=GEWN-print-02-05-02-0100" class="document">Adam Stephen to GW, 22 April 1758</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0005-ptr" id="GEWN-02-05-02-0089-fn-0005">5</a>
+
+   <p>In addition to the signed copy in the Scottish Record Office there is a copy of the February return of the Virginia Regiment, dated 1 Mar., in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. The information on the two manuscripts varies slightly. For a summary of the regimental returns for January and February, see <a href="default.xqy?keys=GEWN-print-02-05-02-0085" class="document">GW to John Blair, 9 April</a>. Only two of the ten companies of the Virginia Regiment were in Winchester at this time, GWs and Robert Stewarts. The men in Capt. Joshua Lewiss company were in the small forts to the north of Winchester; Capt. Thomas Waggeners and Capt. Robert McKenzies men were in forts on the South Branch to the west; Maj. Andrew Lewis, Capt. Henry Woodward, and Capt. John McNeill were with their companies to the south in Augusta County; and the men in Lt. Col. Adam Stephens and Capt. George Mercers
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0125">[125]</span>
+companies were en route from South Carolina. The February return reported 675 effective soldiers in the regiment, 30 sergeants, and 15 drummers.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0006-ptr" id="GEWN-02-05-02-0089-fn-0006">6</a>
+
+   <p>GW returned 201 men Upon Command.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0089-fn-0007-ptr" id="GEWN-02-05-02-0089-fn-0007">7</a>
+   
+   <p>St. Clairs fellow officers in America assumed that he had the title of a Scottish baronet. See <a href="default.xqy?keys=GEWN-print-02-01-02-0147&amp;expandNote=GEWN-02-01-02-0147-fn-0001#GEWN-02-01-02-0147-fn-0001" class="document">GWs Memorandum, 30 May11 June 1755, n.1.</a></p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-05-02-0089 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 5 (5 October 17573 September 1758)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0088" title="From James Baker, 10 April 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0090" title="To Francis Halkett, 12 April 1758"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

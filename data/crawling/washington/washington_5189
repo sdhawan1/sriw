@@ -1,0 +1,173 @@
+General Orders, 2 June 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 2 June 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0337&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-06-02-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0336" title="From Lord Stirling, 1 June 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0338" title="From Major General Israel Putnam, 2 June 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; General Orders, 2 June 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0337&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0336" title="From Lord Stirling, 1 June 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0338" title="From Major General Israel Putnam, 2 June 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0425">425</span><div id="Rev04d320" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, New York, June 2nd 1776.</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Fitch.</td>
+		<td class="csigns">Countersign Babcock</td>
+	      </tr></table>
+
+</div>
+<p>General Greene to order all arms in his brigade which want repairs to be immediately brought in to the Armourers shop, where they will be fitted up properly after which, all repairs will be stopped out of the mens wages.<a class="ptr" href="#GEWN-03-04-02-0337-fn-0001" id="GEWN-03-04-02-0337-fn-0001-ptr">1</a></p>
+<p>Capt. Oliver Soaper of the 13th or Colonel Reads regiment, tried at the General Court Martial, [(]whereof Col. Nixon is President) On Complaint of Lieut. Thomas Williams of said Company, for defrauding the public, in knowingly and willingly drawing pay, for more men than he had belonging to his companyThe Court are of opinion, that Capt. Soper, is not guilty of the charge brought against him, therefore do acquit him.<a class="ptr" href="#GEWN-03-04-02-0337-fn-0002" id="GEWN-03-04-02-0337-fn-0002-ptr">2</a></p>
+<p>The General approves of the proceedings of the above Court Martial, and orders, that Capt. Soper be immediately released from his arrest.</p>
+<p>Lieut. Thomas Williams of Capt. Sopers Company, and Col. Reads regiment, also tried at the above Court Martial, for Impeaching and falsly asserting that Capt. Soper of the said regiment, had knowingly and designedly defrauded the public, in making up, and drawing pay, for more men than he had in his company: Also for signing Returns of the Company expressly against the orders of Capt. SoperAlso for refusing to repair to his Tent, when ordered by Capt. Soper: The Court are of opinion, that the prisoner is guilty of the charge brought against him, and unanimously adjudge that he be <span class="hi-italic" style="font-style: italic;">cashiered</span> for the said offence.</p>
+<p>The General approves of the sentence of the above Court Martial, and orders that Mr Williams, late a Lieutenant in Col.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0426">[426]</span>
+Reeds Regiment, immediately depart the Camp by the way of Kingsbridge, or on board a vessel going up the sound.</p>
+<p>John Quinn, of Capt. Allens Company and Col. Wards Regiment, tried at the above Court Martial for Desertionis found guilty, and sentenced to receive Thirty-nine Lashes, on his bare back for said offence.</p>
+<p>John Suby and James Johnston, both of Captain Kings Company, and Col. Wards Regiment,<a class="ptr" href="#GEWN-03-04-02-0337-fn-0003" id="GEWN-03-04-02-0337-fn-0003-ptr">3</a> tried severally at the above Court Martial, for Desertionare each found guilty, and sentenced severally, to be whipped Thirty-nine Lashes, on their bare back.</p>
+<p>The General approves of the several Sentences above, &amp; orders them to be put in execution, to morrow morning at Guard mounting.</p>
+<p>Hugh Killbreath, of Capt. Rosses Company, in Col. Hands Regiment,<a class="ptr" href="#GEWN-03-04-02-0337-fn-0004" id="GEWN-03-04-02-0337-fn-0004-ptr">4</a> tried at the above Court Martial, for []Assaulting, beating and wounding Assa Baker, and David Avery, of the Artilleryis found guilty of the Charge, brought against him, &amp; sentenced to be whipped Thirty-nine Lashes on his bare back.</p>
+<p>The General approves of the above sentence, and orders the prisoner to be transmitted to his Corps, and that the punishment be inflicted on him at the head of the regiment at Guard mounting, on the first morning The Commanding Officer shall find suitable for the purpose.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0337-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0337-fn-0001-ptr" id="GEWN-03-04-02-0337-fn-0001">1</a>
+
+   <p>On 7 June Greene directed the regimental commanders in his brigade on Long Island to send all arms needing repair to the armorers in New York City and not to receive them Again Unless an Alarm should Happen untill they are well repaired [and] fit for use. At the same time Greene ordered pikes to be placed in various defensive works and instructed the regiments to Clean the spears once a week at least. Guards at the ferry and the Church were directed to stop all arms coming to Long Island from the city and to report the names and abodes of the persons carrying them (Dodge, Orderly Book, 22021; see also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Richard K. Showman et al., eds. &lt;i&gt;The Papers of General Nathanael Greene&lt;/i&gt;. 13 vols. Chapel Hill, N.C., 19762005. ]">Showman, <span class="hi-italic" style="font-style: italic;">Greene Papers</span></span>, 1:230).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0337-fn-0002-ptr" id="GEWN-03-04-02-0337-fn-0002">2</a>
+
+   <p>Oliver Soper (17401821) served as a captain in Col. Timothy Walkers Massachusetts regiment from May to December 1775 and in Col. Joseph Reads 13th Continental Regiment from 1 Jan. to 31 Dec. 1776, when he apparently left the army. Thomas Williams (d. 1828) was a second lieutenant in Walkers regiment before becoming a first lieutenant in the 13th Continental Regiment on 1 Jan. 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0337-fn-0003-ptr" id="GEWN-03-04-02-0337-fn-0003">3</a>
+
+   <p>William King served as a captain in Col. John Fellowss Massachusetts regiment during the previous year and in Col. Jonathan Wards 21st Continental
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0427">[427]</span>
+Regiment during this year. He apparently resigned from the army at the end of 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0337-fn-0004-ptr" id="GEWN-03-04-02-0337-fn-0004">4</a>
+
+   <p>James Ross (17521808) raised a rifle company in Lancaster County, Pa., in June 1775 and subsequently served at the siege of Boston as a captain in Col. William Thompsons rifle regiment, which was designated the 1st Continental Regiment on 1 Jan. 1776 and taken over by Col. Edward Hand in March of this year. Promoted to major of the 1st Continental Regiment on 25 Sept. 1776, Ross continued as major of Hands 1st Pennsylvania Regiment from 1 Jan. to 12 Mar. 1777 when he was named the regiments lieutenant colonel. The following June Ross transferred to the 8th Pennsylvania Regiment and on 22 Sept. 1777 he resigned his commission.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0337 [accessed 26 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0336" title="From Lord Stirling, 1 June 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0338" title="From Major General Israel Putnam, 2 June 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

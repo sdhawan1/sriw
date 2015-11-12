@@ -1,0 +1,160 @@
+none 9
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>III. Instructions as Printed in the Massachusetts Gazette, 10 October 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0054-0004&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1765-10-10-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0054&amp;mode=TOC" title="Instructions to Braintrees Representative concerning the Stamp Act: [ante 24 September]  10 October 1765"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0054-0003" title="II. Instructions Adopted by the Braintree Town Meeting, 24 September 1765"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 11px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0054&amp;mode=TOC">Instructions to Braintrees Representative concerning the Stamp Act: [ante 24 September]  10 October 1765</a>&gt; III. Instructions as Printed in the <span class="italic">Massachusetts Gazette</span>, 10 October 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0054-0004&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0054-0003" title="II. Instructions Adopted by the Braintree Town Meeting, 24 September 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0140">140<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0140.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d074" class="doc letter">
+
+     <h2>III. Instructions as Printed in the <span class="hi-italic" style="font-style: italic;">Massachusetts Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">10 October 1765</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>We hear from Braintree that the Freeholders and other Inhabitants of that Town, legally assembled on Tuesday the Twenty fourth of September last, unanimously voted, that Instructions should be given their Representative, for his Conduct in General Assembly, on this great OccasionThe Substance of these Instructions is as follows:</p>
+      <div class="ab docsub">To EBENEZER THAYER, E<span class="hi-small-caps" style="font-variant: small-caps;">sq</span>.</div>
+      <p>SIR,</p>
+      <p>In all the Calamities which have ever befallen this Country, we have never felt so great a Concern, or such alarming Apprehensions,<a class="ptr" href="#PJA01d074n1" id="PJA01d074n1-ptr">1</a> as on this Occasion.Such is our Loyalty to the King, our Veneration for both Houses of Parliament, and our Affection for all our Fellow subjects in Britain, that Measures, which discover any Unkindness in that Country towards Us, are the more sensibly and intimately felt. And we can no longer forbear complaining, that many of the Measures of the late Ministry, and some of the late Acts of Parliament, have a Tendency, in our Apprehension, to divest us of our most essential Rights and Liberties.We shall confine ourselves, however, chiefly to the Act of Parliament, commonly called the Stamp-<span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0141">[141<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0141.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Act, by which a very burthensome, and in our Opinion, unconstitutional Tax, is to be laid upon us all; and we subjected to numerous and enormous Penalties, to be prosecuted, sued for, and recovered, at the Option of an Informer, in a Court of Admiralty without a Jury.</p>
+      <p>We have called this a burthensome Tax, because the Duties are so numerous and so high, and the Embarrassments to Business in this infant, sparsely-settled Country, so great, that it would be totally impossible for the People to subsist under it, if we had no Controversy at all about the Right and Authority of imposing it. Considering the present Scarcity of Money, we have Reason to think, the Execution of that Act for a short Space of Time would drein the Country of its Cash, strip Multitudes of all their Property, and reduce them to absolute Beggary. And what the Consequence would be to the Peace of the Province, from so sudden a Shock and such a convulsive Change, in the whole Course of our Business and Subsistence, we tremble to consider.We further apprehend this Tax to be unconstitutional: We have always understood it to be a grand and fundamental Principle of the Constitution, that no Freeman should be subjected to any Tax, to which he has not given his own Consent, in Person or by Proxy. And the Maxims of the Law as we have constantly received them, are to the same Effect, that no Freeman can be separated from his Property, but by his own Act or Fault. We take it clearly, therefore, to be inconsistent with the Spirit of the Common Law, and of the essential fundamental Principles of the British Constitution, that we should be subjected to any Tax, imposed by the British Parliament: because we are not represented in that Assembly in any Sense, unless it be by a Fiction of Law, as insensible in Theory as it would be injurious in Practice, if such a Taxation should be grounded on it.</p>
+      <p>But the most grievous Innovation<a class="ptr" href="#PJA01d074n2" id="PJA01d074n2-ptr">2</a> of all, is the alarming Extension of the Power of Courts of Admiralty. In these Courts, one Judge presides alone! No Juries have any Concern there!The Law, and the Fact, are both to be decided by the same single Judge, whose Commission is only during Pleasure, and with whom, as we are told, the most mischievous of all Customs has become established, that of taking Commissions on all Condemnations; so that he is under a pecuniary Temptation always against the Subject. Now, if the Wisdom of the Mother Country has thought the Independency of the Judges, so essential to an impartial Administration of Justice, as to render them independent of every Power on Earth, independent of the King, the Lords, the Commons, the People, nay independent, in Hope and Expectation, of the Heir apparent, by continuing their Commissions <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0142">[142<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0142.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>after a Demise of the Crown; What Justice and Impartiality are we, at 3000 Miles distance from the Fountain to expect from such a Judge of Admiralty? We have all along thought the Acts of Trade in this Respect a Grievance: but the Stamp-Act has opened a vast Number of Sources of new Crimes, which may be committed by any Man, and cannot, but be committed by Multitudes, and prodigious Penalties are annexed, and all these are to be tried by such a Judge of such a Court!What can be wanting, after this, but a weak or wicked Man for a Judge, to render Us the most sordid and forlorn of Slaves? We mean the Slaves of <span class="hi-italic" style="font-style: italic;">a Slave</span> of the Servants of a Minister of State:We cannot help asserting therefore, that this Part of the Act will make an essential Change in the Constitution of Juries, and is directly repugnant to the Great Charter itself. For by that Charter No Amerciament shall be assessed, but by the Oath of honest and lawful Men of the Vicinage.And No Freeman shall be taken, or imprisoned, or disseized of his Freehold, or Liberties, or free Customs, nor passed upon, nor condemned, but by lawful Judgment of his Peers, or by the Law of the Land.<a class="ptr" href="#PJA01d074n3" id="PJA01d074n3-ptr">3</a>So that this Act will make such a Distinction, and create such a Difference between the Subjects in Great-Britain, and those in America as we could not have expected from the Guardians of Liberty in Both.</p>
+      <p>As these, <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span>, are our Sentiments of that Act, We, the Freeholders and other Inhabitants, legally assembled for this Purpose, must enjoin it upon you, to comply with no Measures or Proposals for countenancing the same, or assisting in the Execution of it, but by all lawful Means, consistent with our Allegiance to the King, and Relation to Great Britain, to oppose the Execution of it, till we can hear the Success of the Cries and Petitions of America for Relief.</p>
+      <p>We further recommend the most clear and explicit Assertion and Vindication of our Rights and Liberties, to be entered on the Public Records; that the World may know, in the present and all future Generations, that we have a clear Knowledge and a just Sense of them, and, with Submission to Divine Providence, that we never can be Slaves.</p>
+      <p>Nor can we think it adviseable to agree to any Steps for the Protection of stamped Papers, or Stamp-Officers.Good and wholsome Laws we have already, for the Preservation of the Peace: And we apprehend there is no further Danger of Tumult and Disorder,to which we have a well-grounded Aversion; and that any extraordinary and expensive Exertions, would tend to exasperate the People and endanger the public Tranquility, rather than the contrary.Indeed we cannot <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0143">[143<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0143.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>too often inculcate upon you our Desires, that all extraordinary Grants and expensive Measures, may, upon all Occasions, as much as possible be avoided.The Public Money, of this Country, is the Toil and Labour of the People, who are under many uncommon Difficulties and Distresses, at this Time: So that all reasonable Frugality ought to be observed. And we would recommend particularly, the strictest Care, and the utmost Firmness to prevent all unconstitutional Draughts upon the Public Treasury.</p>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA1d074sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType">Reprinted</span> from  (Drapers <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Massachusetts Gazette: and the Boston Weekly&lt;/i&gt; News-Letter. ]"><span class="hi-italic" style="font-style: italic;">Massachusetts Gazette</span></span>, 10 Oct. 1765).</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d074n1-ptr" id="PJA01d074n1">1</a>
+       
+   <p>The occurrence of Apprehensions here as well as in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s draft but its absence in the voted Instructions suggests that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> may have influenced the wording of the newspaper version. See also <a href="default.xqy?keys=ADMS-print-06-01-02-0054-0004&amp;expandNote=PJA01d074n2#PJA01d074n2" class="document">note 2</a>, below.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d074n2-ptr" id="PJA01d074n2">2</a>
+       
+   <p>The significant word Innovation occurs in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s draft but not in Braintrees Instructions.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d074n3-ptr" id="PJA01d074n3">3</a>
+       
+   <p>The preceding two sentences do not follow the order of the text of the Braintree Instructions.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0054-0004 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0054-0003" title="II. Instructions Adopted by the Braintree Town Meeting, 24 September 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.240.172</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

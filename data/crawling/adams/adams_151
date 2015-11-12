@@ -1,0 +1,220 @@
+none 15
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>II. To the Boston Gazette, 18 January 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0096-0003&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1773-01-18-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC" title="On the Independence of the Judges: 11 January  22 February 1773"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0002" title="I. To the  Boston Gazette , 11 January 1773"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC">On the Independence of the Judges: 11 January  22 February 1773</a>&gt; II. To the <span class="italic">Boston Gazette</span>, 18 January 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0096-0003&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0002" title="I. To the  Boston Gazette , 11 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0261">261<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0261.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d147" class="doc published">
+
+     <h2>II. To the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To the PRINTERS,</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">Monday, January 18, 1773</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>It has been said already, that the common law of England has not determined the judges to have an estate for life in their offices provided they behaved well. The authorities of Lord Coke and Lord Holt have been produced, relative to the judges of the Kings bench. And indeed authorities, still more ancient than Coke might have been adduced. For example, the learned Chancellor Fortescue, in his book in praise of the laws of England,<a class="ptr" href="#PJA01d147n1" id="PJA01d147n1-ptr">1</a> 1 chap. 51. says, When any one judge of the Kings bench dies, resigns, or is superceded, the King, with the advice of his council, makes choice of one of the <span class="hi-italic" style="font-style: italic;">Serjeants at law</span>, whom he constitutes a judge, by his letters patent, in the room of the judge so deceased, resigning or superceded: And afterwards he says it is no degree in law, but only an office and a branch of magistracy, determinable on the Kings good pleasure. I have quoted a translation in this place, as I choose to do whenever I can obtain one, but I dont venture to translate passages myself, lest I should be <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0262">[262<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0262.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>charged, with doing it unfairly. The original words of Fortescue are, unusual and emphatical. Ad nutum regis duratura.</p>
+      <p>The judges of the court of common pleas, held their offices, by a tenure as precarious. 4 Inst. 100.<a class="ptr" href="#PJA01d147n2" id="PJA01d147n2-ptr">2</a> The chief justice of the common pleas is created by letters patents. Rex, &amp;c. Sciatis quod constituimus dilectum et fidelem E.C. militem, capitalem justiciarium de communi banco. <span class="hi-italic" style="font-style: italic;">Habendum quam diu nobis placuerit</span>, cum vadiis et feodis ab antique debitis et consuetis. In cujus rei testimonium has literas nostras fieri fecimus patentes, teste, &amp;c. And each of the justices of this court hath letters patents. Sciatis quod constituimus dilectum et fidelem P. W. militem, unum justiciariorum nostrorum de communi banco, &amp;c., and this &amp;c. implies the <span class="hi-italic" style="font-style: italic;">Habendum quam diu nobis placuerit</span>, as in the patent of the chief justice.</p>
+      <p>It is true, that in the same fourth institute 117, we read, that the chief baron (i.e. of the exchequer) is created by letters patents, and the office is granted to him quam diu se bene gesserit, wherein he hath a more fixed estate (it being an estate for life) than the justices of either bench, who have their offices but at will: And quam diu se bene gesserit must be intended in matters concerning his office, and is no more than the law would have implied, if the office had been granted for life. And in like manner are the rest of the barons of the exchequer constituted, and the patents of the attorney general and solicitor are also quam diu se bene gesserit.</p>
+      <p>It is also true, that by the law of this provincea superior court of judicature, court of assize, and general goal delivery, is constituted over this whole province, and by one chief justice, and four other justices to be appointed and <span class="hi-italic" style="font-style: italic;">commissionated</span> for the same; who shall have cognizance of all pleas, real, personal or mixt, as well as pleas of the crown, &amp;c. and generally of all other matters as fully and amply to all intents and purposes whatsoever, as the court of Kings bench, common pleas and exchequer within his Majestys kingdom of England, have, or ought to have, &amp;c.<a class="ptr" href="#PJA01d147n3" id="PJA01d147n3-ptr">3</a></p>
+      <p>Will it be said that this law, giving our judges cognizance of all matters, of which the court of exchequer has cognizance, gives them the same estate in their offices, which the barons of exchequer had? or will it be said, that by the judges, General Brattle meant the barons of the exchequer?</p>
+      <p>The passages already cited will afford us great light in considering the case of Harcourt and Fox.<a class="ptr" href="#PJA01d147n4" id="PJA01d147n4-ptr">4</a> Sir Thomas Powis, who was of council in that case for the plantiff, indeed says, I take it, by the common law, and the ancient constitution of the kingdom, all officers of courts <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0263">[263<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0263.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>of justice, and immediately relating to the execution of justice, were in for their lives, only removeable for misbehaviour in their offices. Not only my lords the judges of the court in Westminster Hall were anciently, as they now are, since this revolution, quam diu se bene gesserint, but all the officers of note in the several courts under them, were so, and most of them continue so to this day, as the clerks of the crown in this court, and in the chancery, the chief clerk on the civil side in this court, the prothonotaries in the common pleas, the master of the office of pleas in the exchequer, and many others; I think generally speaking, they were all in for their lives, by the common law, and are so still to this day.<a class="ptr" href="#PJA01d147n5" id="PJA01d147n5-ptr">5</a></p>
+      <p>And in this particular the wisdom of the law is very great, for it was an encouragement to men to fit and prepare themselves for the execution and performance of those offices, that when by such a capacity they had obtained them, they might act in them safely, without fear or dependance upon favour; and when they had served in them faithfully and honestly, and done their duty, they should not be removed at pleasure. And on the other side the people were safe, for injustice, corruption or other misdemeanours in an office were sufficient causes for removal and displacing the offenders.</p>
+      <p>And Serjeant Levinz, says, If any judicial or ministerial office be granted to any man to hold, so long as he behaves himself well in the office, that is an estate for life, unless he lose it for misbehaviour. So was Sir John Wallers [<ins title="editorial addition or explanation" class="ed">Walters</ins>] case, as to the office of chief baron of the exchequer; and so was Justice Archers case in the time of King Charles the second. He was made a judge of the common pleas quam diu se bene gesserit, and though he was displaced, as far as they could, yet be continued judge of that court to the time of his death; and his name was used in all the fines and other records of the court: And so it is in all cases of grants from the King, or from any other person.</p>
+      <p>And afterwards, It is a grievance that runs through the whole common law,<a class="ptr" href="#PJA01d147n6" id="PJA01d147n6-ptr">6</a> as to ministerial offices; for all the offices in this court in the chancery, in the exchequer, in the common pleas, and generally all over the kingdom, relating to the administration of justice, and even the judges themselves, are officers for life; and why there should be more of a grievance in this case, than in theirs, I do not see: In general they are all for life, though some few particular ones may be excepted indeed.</p>
+      <p>I have repeated at length these sayings of Sir Thomas Powis, and Serjeant Levinz, because they are music in my ears, and I sincerely <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0264">[264<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0264.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>wish they were well supported, and because, I suspect the General Brattle derived much of his learning, relative to the judges offices, from them.</p>
+      <p>But alas! so far as they make for his purpose, the whole stream of law and history is against them. And indeed Mr. Hawles who was of council for Mr. Fox, seems to have given a true and sufficient answer to them, in these words, whatsoever the common law was <span title="text unclear" class="unclear">[as]</span> to officers [<ins title="editorial addition or explanation" class="ed">offices</ins>] that were so ancient, is no rule in this matter; tho tis we know, that as our books tell us, some offices were for life. And the office of Chancellor of England, my Lord Coke says, could not be granted to any one for life. And why? Because it never was so granted. <span class="hi-italic" style="font-style: italic;">Custom and nothing else prevails and governs in all these cases</span>;<span title="text unclear" class="unclear">[of]</span> those offices that were usually granted for life, a grant of such an office for life was good, and of these that were not usually granted for life, a grant of such an office for life was void.</p>
+      <p>The judges indeed did not expressly deny any of these sayings of Sir Thomas Powis, or of Serjeant Levinz who spoke after him, on the same side, but the reason of this is plain, because, it was quite unnecessary, in that case to determine, what was common law, for both the office of custos rotolorum, and that of clerk of the peace, were created by statute, not erected by common law, as was clearly agreed, both on the bench and at the bar.</p>
+      <p>Nevertheless, my lord Holt seems to have expressed his opinion, when he said, I compare it to the case which my Lord Chief Justice Hobart puts of himself in his book 153.Colt and Glovers case.<a class="ptr" href="#PJA01d147n7" id="PJA01d147n7-ptr">7</a> Saith he, I cannot grant the offices of my gift as chief justice for less time than for life, and he puts the case there of a mans assigning a rent for dower out of the lands dowable, that it must be for no less estate than life; for the estate was by custom, and it cannot be granted for a lesser estate <span class="hi-italic" style="font-style: italic;">than what the custom appoints</span>; and in that case of the chief justice, <span title="text unclear" class="unclear">[in]</span> his granting offices in his gift, all that he had to do, <span class="hi-italic" style="font-style: italic;">was to point out the person that should have the office, the custom settled his estate in it.</span></p>
+      <p>Thus we see that the sentiments of Lord Coke and of Lord Holt, concur with those of Mr. Hawles that the custom, was the criterion, and that alone. So that if the King should constitute a Baron of the Exchequer during pleasure, he would have an estate for life in his office, or the grant would be void. Why? Because the custom had so settled itIf the King should constitute a Judge of the Kings bench, or common bench, during good behavior, he would have only an estate at will of the grantor. Why? Because the custom hath deter-<span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0265">[265<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0265.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>mined it so. And that custom could not be annulled or altered but by act of parliament.</p>
+      <p>But I go on with my delightful work of quotation, 1. Black. Com.<a class="ptr" href="#PJA01d147n8" id="PJA01d147n8-ptr">8</a> 267, 8In order to maintain both the dignity and independency of the judges in the superior courts, it is enacted by the stat. 13 W. 3. c. 2. that their commissions shall be made (not as formerly, durante beneplacito, but) quam diu bene se gesserint and their salaries ascertained and established; but that it may be lawful to remove them on the address of both houses of Parliament. And now, by the noble improvements of that law in the statute of 1 G. 3. c. 23. enacted at the earnest recommendation of the King himself from the throne, the judges are continued in their offices during their good behavior, not-withstanding any demise of the crown (which was formerly held, see Lord Ray. 747 immediately to vacate their seats), and their full salaries are absolutely secured to them during the continuance of their commissions: His Majesty having been pleased to declare that he looked upon the independence and uprightness of the judges, as essential to the impartial administration of justice; as one of the best securities of the rights and liberties of his subjects; and as most conducive to the honor of the crown.</p>
+      <p>It would be endless to run over all the passages in English history, relating to this subject, and the examples of judges displaced by Kings. It may not be amiss to turn our attention to a very few however. The oracle himself was silenced by this power in the crown. Croke Jac. 407.<a class="ptr" href="#PJA01d147n9" id="PJA01d147n9-ptr">9</a> upon the 18th Nov. this term Sir Henry Montague was made chief justice of the Kings bench, in the place of Sir Edward Coke the late chief justice, who being in the Kings displeasure was removed from his place by a writ from the King, reciting that whereas he had appointed him by writ to that place, that he had now amoved him, and appointed him to desist from the further execution thereof: And now this day, Egerton Lord Chancellor came into the Kings bench, and Sir Henry Montague one of the Kings Serjeants being accompanied with Serjeant Hutten [<ins title="editorial addition or explanation" class="ed">Hutton</ins>] and Serjeant Francis Moore, came to the middle of the bar, and then the Lord Chancellor delivered unto him the Kings pleasure to make choice of him to that Place.</p>
+      <p>There is a passage in Humes history of England, which I cannot forbear transcribing, The Queens (Eliz.) menace, says he, of trying and punishing Hayward for treason, could easily have been executed, let his book have been ever so innocent. While so many terrors hung over the people, no jury durst have acquitted a man whom the court was resolved to have condemned, &amp;c. indeed there scarce occurs an <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0266">[266<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0266.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>instance, during all these reigns, that the Sovereign, or the ministers, were ever disappointed in the issue of a prosecution. Timid juries, and <span class="hi-italic" style="font-style: italic;">judges who held their offices during pleasure never failed to second all the views of the court</span>[<ins title="editorial addition or explanation" class="ed">crown</ins>].<a class="ptr" href="#PJA01d147n10" id="PJA01d147n10-ptr">10</a></p>
+      <p>Serjeant Levinz in the argument of Harcourt against Fox, speaking of the first parliament under King William says, the parliament might observe, that some years before there had been great changing of offices that usually were for life into offices quam diu placuerit, this is very well known in Westminster Hall, and I did know some of them myself, particularly the judges of the courts of common law, for I myself (among others) lost my judges place by it, &amp;c.<a class="ptr" href="#PJA01d147n11" id="PJA01d147n11-ptr">11</a></p>
+      <p>Mr. Hume in the reign of James II, says, the people had entertained such violent prepossessions against the use, which James here made of his prerogative, that he was obliged before he brought on Haless cause, to displace four of the judges, Jones, Montague, Charlton and Nevil.<a class="ptr" href="#PJA01d147n12" id="PJA01d147n12-ptr">12</a></p>
+      <p>There is not in history a more terrible example, of judges perishing at the royal nod, than this; nor a stronger evidence that, the power and prerogative of amoving judges at pleasure, was allowed to be by law in the crown: It was loudly complained of as a grievance, no doubt and an arbitrary exertion of prerogative, but it was allowed to be a legal prerogative still. And it cannot be doubted that the legality of it would have been denied every where, if the sense of the nation, as well as the body of the law, had not been otherwise, when the circumstances of that case of Sir Edward Hales are considered. And they ought to be remembered, and well considered by every well-wisher to the public; because they shew the tendency, of a precarious dependent tenure of the judges offices. Sir Edward Hales was a Papistyet the King gave him a commission as a colonel of footand he refused to receive the sacrament, and to take the oaths and teste, within the time prescribed by an act of parliament 25. Car. 2. c. 2. by which refusal and that statute he forfeited . 500. By concert between King James and Sir Edward, his coachman was employed to bring an action against him upon that stat. for the penalty. Sir Edward appears and pleads a dispensation under the broad seal, to act non obstante that statute. To this the plaintiff demurs. When this action was to be brot to trial, the judges were secretly closeted by the king, and asked their opinions. Such as had scruples about judging as the court directed, were plainly told, by the king himself, that he would have twelve judges of his own opinion, and turned out of their offices. The judges mentioned by Hume, were thus displaced, to their lasting <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0267">[267<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0267.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>honour, and one of them Jones had the fortitude and integrity to tell the king to his face, that he might possibly, make twelve judges, but <span class="hi-italic" style="font-style: italic;">he would scarcely find twelve lawyers of his opinion.</span> Bedingfield, Atkins, Lutwitche and Heath, to their disgrace and infamy were created judges. And Westminster Hall thus garbled, became the sanctuary of despotism and injustice; all the judges excepting one, gave their opinions for the king, and made it a general rule in law. 1. That the laws of England are the kings laws. 2. That therefore it is an incident, inseparable prerogative of the kings of England as of all other sovereign princes, to dispense with all penal laws, in particular cases, and upon particular necessary reasons. 3. That of these reasons and necessities the king is the sole judge; consequently, 4. That this is not a trust invested in and granted to the king, but the ancient remains of the sovereign power of the kings of England, which never was yet taken from them, nor can be. In consequence of this decision, the papists, with the kings permission, set up every where in the kingdom, in the free and open exercise of their religion. See Rapin, Burnet, Skinner, Comberbeck, St. Fr. <span title="text unclear" class="unclear">[Tr.]</span> and Sir Edward Herberts vindication of himself.<a class="ptr" href="#PJA01d147n13" id="PJA01d147n13-ptr">13</a></p>
+      <p>To enumerate all the struggles of the people, the petitions and addresses to Kings, praying that the judges commissions might be granted during good behaviour, the bills which were actually brought into one or the other house of parliament for that purpose, which failed of sucess until the final establishment in the 12 &amp; 13. Wm. 3. would be too tedious, and indeed I anxiously fear I have been so already.</p>
+      <p>I also fear the proofs that the common law of England has not determined the judges to have estates for life in their offices, appear to be very numerous and quite irresistable. I very heartily wish General Brattle success, in his researches after evidence of the contrary position, and while he is thus engaged, if I should find neither business more profitable, nor amusement more inviting, I shall be preparing for your Press, a few other observations on his first Publication.</p>
+      <div class="closer">
+       <p class="signed">JOHN ADAMS</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d147n1-ptr" id="PJA01d147n1">1</a>
+       
+   <p>Sir John Fortescues <span class="hi-italic" style="font-style: italic;">De Laudibus Legum Angliae</span>, 2d edn., London, 1741. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n2-ptr" id="PJA01d147n2">2</a>
+       
+   <p>That is, Cokes <span class="hi-italic" style="font-style: italic;">Institutes.</span></p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n3-ptr" id="PJA01d147n3">3</a>
+       
+   <p>An Act for the Establishing a Superiour Court of Judicature, Court of Assize and General Goal Delivery within this Province, passed 26 June 1699 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Acts and Resolves, Public and Private, of the Province of the Massachusetts Bay&lt;/i&gt;, Boston, 18691922; 21 vols. ]">Mass., <span class="hi-italic" style="font-style: italic;">Province Laws</span></span>, 1:370371).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n4-ptr" id="PJA01d147n4">4</a>
+       
+   <p>In the passage which follows, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> quotes the arguments and decisions as given in Shower, <span class="hi-italic" style="font-style: italic;">Reports</span>, 1:426440, 506536. Sir Thomas Powys and Sir John Hawles argued before Justice Sir William Dolben on 8 Feb. 1692; Serjeant Creswell Levinz offered additional arguments for the plaintiff on 13 May 1693. The judges opinions were delivered 30 June 1693.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n5-ptr" id="PJA01d147n5">5</a>
+       
+   <p>Here <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> omitted one sentence from Powys argument: So it was, and is with the <span class="hi-italic" style="font-style: italic;">clerks of assize</span>, and so I take <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0268">[268<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0268.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>it, before the statute of 37 <span class="hi-italic" style="font-style: italic;">Hen.</span>, 8 c. 1. it was with the <span class="hi-italic" style="font-style: italic;">clerk of the peace</span> (same, 1:429).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n6-ptr" id="PJA01d147n6">6</a>
+       
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> omitted some of Levinzs prefatory remarks on this point. In speaking of the statute of Henry VIII which ended life grants to clerks of the peace, the serjeant explained that such grants were considered grievances for that statute itself says so, and sets it forth for a grievance, that sure must be that it was granted to unskilful persons for life, or else the mere grant for life is a strange kind of grievance; and it is a grievance, if it be one, that runs through the whole common law (same, 1:512).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n7-ptr" id="PJA01d147n7">7</a>
+       
+   <p>This is known more familiarly as the case of <span class="hi-italic" style="font-style: italic;">commendams.</span> It is reported in <span class="hi-italic" style="font-style: italic;">The Reports of . . . Sir H. Hobart Resolved and Adjudged by Himselfe and Others in the Reign of James I, with Some Few Cases in the Reign of Queen Elizabeth</span>, London, 1641. For editions of this work owned by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n8-ptr" id="PJA01d147n8">8</a>
+       
+   <p>Sir William Blackstone, <span class="hi-italic" style="font-style: italic;">Commentaries on the Laws of England.</span> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s four-volume set of this work, London, 17681770, contained volumes from both the 3d and 4th editions. See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n9-ptr" id="PJA01d147n9">9</a>
+       
+   <p>Sir George Croke, <span class="hi-italic" style="font-style: italic;">Reports . . . of the Court of Kings-Bench, and . . . of Common-Bench . . . </span>, 3 vols., London, 1683. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n10-ptr" id="PJA01d147n10">10</a>
+       
+   <p>David Hume, <span class="hi-italic" style="font-style: italic;">History of England.</span> In the Boston edition of 1854, this passage appears in 4:190. The newspaper mistakenly has court for crown.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n11-ptr" id="PJA01d147n11">11</a>
+       
+   <p>Shower, <span class="hi-italic" style="font-style: italic;">Reports</span>, 1:514.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n12-ptr" id="PJA01d147n12">12</a>
+       
+   <p>Hume, <span class="hi-italic" style="font-style: italic;">England</span>, 6:257258.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d147n13-ptr" id="PJA01d147n13">13</a>
+       
+   <p>Thomas Salmon, ed., <span class="hi-italic" style="font-style: italic;">A New Abridgement and Critical Review of the State Trials and Impeachments for High-Treason, from the Reign of King Richard</span> II, London, 1738. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>. A condensation of Herberts Vindication of his course in Hales case appears at p. 568571.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0096-0003 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0002" title="I. To the  Boston Gazette , 11 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0004" title="III. William Brattle to the  Boston Gazette , 18 January 1773"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.137</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

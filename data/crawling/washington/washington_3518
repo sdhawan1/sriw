@@ -1,0 +1,169 @@
+From Major General Philip Schuyler, 18 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 18 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0076&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-18-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0075" title="From Lewis Morris, 18 July 1775 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0077" title="To Jonathan Trumbull, Sr., 18 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 18 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0076&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0075" title="From Lewis Morris, 18 July 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0077" title="To Jonathan Trumbull, Sr., 18 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0129">129</span><div id="Rev01d72" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Tionderoga [N.Y.] July 18th 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>I do myself the Honor to inform Your Excellency of my Arrival at this Place early this Morning; and, as a Person is just going to Hartford, I sit down to give you the little Information I have procured.</p>
+<p>A Canadian, who twelve days ago left St Johns, advises me that General Carlton has about four hundred men at that place; that he has thrown up a strong intrenchment, covered with Chevaux de Frise; picketted the ditch, and secured it with an Abbatis;<a class="ptr" href="#GEWN-03-01-02-0076-fn-0001" id="GEWN-03-01-02-0076-fn-0001-ptr">1</a> that he has an advanced post of fifty men, intrenched a league on this side; that there are many Indians in Canada, but believes neither they or the Canadians will join him: the latter he is sure will not unless compelled by force.</p>
+<p>You will expect that I should say something about this place and the troops here. Not one earthly thing for offence or defence has been done; <span class="hi-italic" style="font-style: italic;">the Commanding officer had no orders: he only came to reinforce the garrison, and he expected the General</span>:<a class="ptr" href="#GEWN-03-01-02-0076-fn-0002" id="GEWN-03-01-02-0076-fn-0002-ptr">2</a> But this, my dear General, as well as what follows in this paragraph I pray may be entre nous for reasons I need not suggest. About ten last night I arrived at the Landing place the north end of Lake George; a post occupied by a Captain and 100 men. A Centinel on being informed I was in the boat quitted his post to go and awake the guard, consisting of three men, in which he had no success. I walked up and came to another, a serjeants Guard. Here the centinel challenged, but suffered me to come up to him, the whole guard, like the first, in the soundest sleep. With a penknife only I could have cut off both guards, and then
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0130">[130]</span>
+have set fire to the blockhouse, destroyed the stores, and starved the people here. At this post I have pointedly recommended vigilance and Care; as all the stores from Fort George must necessarily be landed thereBut I hope to get the better of this inattention. The officers and men are all good looking people, and decent in their deportment, and I really believe will make good soldiers as soon as I can get the better of this non-chalance of theirs. Bravery I believe they are far from wanting. As soon as I am a little settled, I shall do myself the Honor to send you a return of my strength both on land and water.</p>
+<p>Inclose your Excellency a Copy of a letter from Col. Johnson, with Copy of an Examination of a person lately from Canada, contradictory of the accounts I gave you in my last from Saratoga. You will perceive that he is gone to Canada.<a class="ptr" href="#GEWN-03-01-02-0076-fn-0003" id="GEWN-03-01-02-0076-fn-0003-ptr">3</a> I hope Carlton, if he should be able to procure a body of Indians, will not be in a hurry to pay us a visit. I wish to be a little more decently prepared to receive himin doing which be assured I shall lose no time.</p>
+<p>I have no way of sending you any letters, with a probable hope of their coming to hand, unless by express, or by the circuitous rout of Hartford; by which only I can expect to be favored with a line from you.</p>
+<p>Generals Lee and Gates share with you in my warmest wishes. I shall devote the first hour I can call my own to do myself the honor to write them. I am Most sincerely, Your Excellencys Obedient, and Humble Servant,</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+<div class="postscript">
+<p>Permit me, Sir, thro. you to enquire the health of Colo. Read, Major Mifflin and Mr Griffin.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0076-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0076-fn-0001-ptr" id="GEWN-03-01-02-0076-fn-0001">1</a>
+
+   <p>An abatis is a defensive obstacle formed by felled trees with sharpened branches facing the enemy.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0076-fn-0002-ptr" id="GEWN-03-01-02-0076-fn-0002">2</a>
+
+   <p>The commanding officer at Ticonderoga was Col. Benjamin Hinman (17201810), who arrived in the area on 17 June 1775 with 1,400 Connecticut troops. On 7 July Hinman wrote to Schuyler: I wait Sr with Impatance for your Arivel as I find myself very unAble to stere in this Stormy Cituation[.] Sumtimes wee have no Flower and a constant crye for Rum and want Melases for bear which was engagd to Our people[.] the falliour of those who provide gives grate Uneasayness to the Men[.] hope for better times on your Arivel (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 153).</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0131">[131]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0076-fn-0003-ptr" id="GEWN-03-01-02-0076-fn-0003">3</a>
+
+   <p>Col. Guy Johnsons letter, dated at Ontario on 8 July, is addressed to the president of the New York provincial congress, Peter Van Brugh Livingston. I trust, Johnson wrote in response to insinuations that he was inciting Indians to attack the colonists, I shall always manifest more humanity than to promote the destruction of the innocent inhabitants of a Colony to which I have been always warmly attached a declaration that must appear perfectly suitable to the character of a man of honour and principle who can on no account neglect those duties that are consistent therewith however they may differ from sentiments now adopted in so many parts of America (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). The enclosed examination contains statements made to the Albany committee of safety on 15 July by Gerrit Roseboom, an Albany resident who left Montreal on 26 June and was at Oswego about 7 July. Roseboom reported that the British authorities in Canada were failing in their attempts to secure the services of either Indians or Canadians. At Oswego he observed Guy Johnson holding a council with several Indian tribes and learned that Johnson intended to go to Oswegatchie [Ogdensburg, N.Y.] to confer with Canadian Indians. The Indians at Oswego told Roseboom that they did not intend to fight against the Americans, but in his opinion, Considering the Fickleness of their Disposition and probably the Over Persuasion of our Enemies no great Dependance can be made on their Assurances. Both enclosures are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0076 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0075" title="From Lewis Morris, 18 July 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0077" title="To Jonathan Trumbull, Sr., 18 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

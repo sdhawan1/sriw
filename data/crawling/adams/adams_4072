@@ -1,0 +1,239 @@
+From Adriaan van Zeebergh [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Adriaan van Zeebergh [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0126&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0125" title="From James Sullivan, 24 July 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0127" title="From Antoine Marie Cerisier [document with translation]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-13-02-0126-0001&amp;mode=TOC" title="Adriaan van Zeebergh to John Adams, with van Zeeberghs Notes on the Dutch-American Treaty"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Adriaan van Zeebergh [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0126&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0125" title="From James Sullivan, 24 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0127" title="From Antoine Marie Cerisier [document with translation]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0206">206</span><div id="PJA13tg16" class="transgroup">
+
+<div id="PJA13eg4" class="encgroup">
+
+<h2>Adriaan van Zeebergh to John Adams, with van Zeeberghs Notes on the Dutch-American Treaty</h2>
+<div id="PJA13d149" class="doc letter">
+
+<h3>From Adriaan van Zeebergh</h3>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		    <td class="salutationLeft">Monsier</td>
+		    <td class="salutationRight">
+17 7./25. 82
+</td>
+		  </tr>
+      </table>
+</div>
+<p>Jai lhonner de faire parvenir ci joint a votre Excellence les considerations, que jeus le plaisir de li communiqer hier de boche.</p>
+<p>En eclaircissant ainsi mes ides et celles de ma ville quant aux Articles differentiax d projet Trait entre les dex Republiqes, jespere, qe cela pourra contriber en quelqe Sorte a n accommodement Saltaire, Sr n point, dont nos convenous entierement; Si je ne me trompe, eu principe.</p>
+<p>Je Sis tres flatt davoir cette occasion por temoigner a votre Excellence le respect, avec lequel jai lhonner detre, Monsier, Votre tres humble et tres obeissant Serviter,</p>
+<div class="closer">
+<p class="signed">A: Van Zeebergh<a class="ptr" href="#PJA13d151n1" id="PJA13d151n1-ptr">1</a></p>
+</div>
+</div>
+</div>
+<div id="PJA13d150" class="enclosure letter">
+
+<h3>Encosure: Van Zeeberghs Notes on the Dutch-American Treaty</h3>
+
+<div class="docbody" xml:lang="nld">
+<p>Consideratien op Art. 22. &amp; 23. van het project Tractaat tusschen Haar Hoog Mog. en de Vereenigde Staaten van America.</p>
+<p>Wanneer men den generaalen inhoud van die twee Artt. admitteerde, en ds van wegens Hn Hoog Mog. toegaf, dat dit geheele Tractaat in alle zyne Clausulen en Artt. n en voor t vervolg verstaan zal moeten worden niet te contrarieren aan de Stiplatien, voorkomende in de twee Tractaaten, door de vereenigde Staaten van America met zyne Majesteit den Koning van Frankryk reeds gemaakt &amp;c.; zoo zouden daar it dan resulteren dezer twee inconvenienten:</p>
+<p><span class="hi-italic" style="font-style: italic;">Voor eerst</span>, dat wij telkens bij t gebrik maaken van elk Art. met angstvalligheid zouden moeten consuleren alle de Artt. it den Tractaaten met Frankrijk, om ds na te gaan, of in dezelven iets gevonden wierd, t welk eenige limitatie aan het Art. it ons Tractaat zoude toebrengen.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0207">[207]</span>
+<p>Iets zeker, dat veel moeyelykheid, en teffens dubieteit, altoos veroorzaaken zo; te meer noch, wanneer onbekende Secrete Artt. daar onder begrepen zyn.</p>
+<p><span class="hi-italic" style="font-style: italic;">Ten tweede</span>, dat wij ten aanzien van den zin en t verstand van ons Tractaat, bij vervolg van tijd, en wanneer onverhooptelijk eenige verwijderingen tusschen deze Republiek en Frankrijk of Spanje ontstaan mogten, zouden worden geexponeerd aan discssien met de gen. Mogenheden: discssien, die voor deze Republiek altoos te nadeeliger zouden moeten uitvallein, om dat zij zich door het admitteren der voorz. twee Artt. in effecte zouden hebben verbonden, om haar geheel Tractaat it de gemaakte Tractaaten met de gen. Mogenheden ten allen tijde explicaties te doen ontfangen.</p>
+<p>Deze zwarigheden liggen in de letter van de twee Artt. in quaestien volstrekt opgesloten, en zijn voor deze Republiek al te gewigtig, dan dat aan de <span class="hi-italic" style="font-style: italic;">mogelykheid</span> zelfs om in vervolg van tijd daar aan blootgesteld te worden eenige plaats kan of behoort te worden overgelaaten.</p>
+<p>Het kan ook nooit de intentie van den Heer Adams geweest zijn om deze Repbliek aan diergelijke mogelijke gevolgen van de voors. gemaakte bedenkingen te exponeren, maar zijne Excellentie moet daar mede alleen bedoeld hebben <span class="hi-italic" style="font-style: italic;">zekere bepaalde Stiplatien</span> uit de Tractaaten met Frankrijk, die direct <span class="hi-italic" style="font-style: italic;">eenige exclsive concessien</span> in zich bevatten.</p>
+<p>Zeker is het, dat zoodanigen Stipulatien, als door het formeel Sliten der Tractaaten, waar in ze voorkomen, haar volledig beslag gekregen hebbende, niet kunnen of behooren te worden geinfringeerd of verminderd door posterieuren Tractaaten met andere Mogenheden; maar dat het compleet effect van zlke Stiplatien Speciaal by het maaken van anderen Tractaaten moet worden in t oog gehoden en geconserveerd.</p>
+<p>Hierom zo het zeker vrgteloos weezen, indien deze Republiek de werking van dergelyke particuliere Stipulatien, of expresselijk, of Stilzwijgend, wilden itsliten of verminderen.</p>
+<p>En gelijk derhalve het <span class="hi-italic" style="font-style: italic;">primitief oogmerk van den Heer Adams</span>, op zich zelve beschouwd, moet worden <span class="hi-italic" style="font-style: italic;">gebillijkt</span>, maar den voorgeslagen <span class="hi-italic" style="font-style: italic;">wijze</span>, waar op het zelve bereikt zode worden, <span class="hi-italic" style="font-style: italic;">merkelijke zwarigheden voor deze Repbliek bevat</span>; zoo is de vraag, of dit niet door het inslaan van zekeren <span class="hi-italic" style="font-style: italic;">middelweg</span>, die aan de wederzydsche bedoelingen genoegsaam voldoen kan, te vereffenen zouden zijn.</p>
+<p>Het eenvouwigste middel hier toe zode weezen:</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0208">[208]</span>
+<p>Indien den Heer Adams konde goedvinden van de Speciaale Artt. en Stiplatien, die eenige privative concessie voor Frankrijk (en casqus ook voor Spanje) behelzen, en door zijn Excellentie bij het projecteren van de twee Artt. in quaestie bedoeld zijn, <span class="hi-italic" style="font-style: italic;">optegeeven</span>; als knnende dan, met betrekking tot die alzoo nominatien opgegeeven Artt. en poincten, in het Tractaat met deze Republiek, of, zoo zlks gepraefereerd wierd, by een Separaat en Secreet Art., worden geconvenieerd, <span class="hi-italic" style="font-style: italic;">dat ons Tractaat niet gerekend zode worden eenigzins contrarie te zijn aan de zelve poincten, of daar aan in t minst te derogeren</span>: met verdere byvoeging, <span class="hi-italic" style="font-style: italic;">dat even dit zelfde plaats zal hebben ten aanzien van zyne Catholiqe Majesteit den Koning van Spanje, voor zoo verre hoogst de zelve tot de voors. twee Tractaaten, en byzonder tot de gen. opgegeeven particulieren Stiplatien, zode willen accederen</span>.</p>
+<p>Of men zo bij het Tractaat in generaalen woorden kunnen zeggen: <span class="hi-italic" style="font-style: italic;">Dat de inhoud van het zelve niet zal worden gerekend contrarie te zijn aan de particliere Stipulatien, uit kragte der twee gemaakte Tractaaten met Zijne AllerChristelykste Majesteit, en waar toe het aan Zijne Catholicque Majesteit, moet vrij blyven te accederen, voort vloeijende, noch daar aan in t minste te derogeren</span>:</p>
+<p>Terwijl dan vervolgens bij <span class="hi-italic" style="font-style: italic;">een Secreet Art</span>. het gen. te maaken Art. indien voege zouden moeten worden <span class="hi-italic" style="font-style: italic;">gelcideerd</span>, dat men met betrekking tot de <span class="hi-italic" style="font-style: italic;">waare intenties</span> daar van zo dienen op te geeven de <span class="hi-italic" style="font-style: italic;">Speciaale gevallen en Artt</span>. uit de Tractaaten met Frankrijk, bij dat beding eigenlijk en alleen bedoeld, <span class="hi-italic" style="font-style: italic;">en het zelve daar toe nominaten te stringeren</span>.</p>
+</div>
+</div>
+</div>
+<div id="PJA13eg5" class="encgroup">
+
+<div id="PJA13d151" class="trans letter">
+
+<h3>Adriaan van Zeebergh to John Adams: A Translation</h3>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		    <td class="salutationLeft">Sir</td>
+		    <td class="salutationRight">
+25 July 1782
+</td>
+		  </tr>
+      </table>
+</div>
+<p>I have the honor of enclosing to your excellency the considerations we discussed yesterday.</p>
+<p>By clarifying my ideas and those of my city regarding the differentiating articles in the treaty plan between the two republics, I hope this can contribute in some way toward a good compromise on a point that, if I am not mistaken, we agree on entirely in principle.</p>
+<p>I am delighted to have this opportunity to express to your excellency the respect with which I have the honor to be, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">A: Van Zeebergh<a class="ptr" href="#PJA13d151n1" id="PJA13d151n1-ptr">1</a></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d151sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> and enclosure  (<span class="ref-terms">Adams Papers</span>); the recipients copy is filmed at 25 Sept. (<span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 358); enclosure endorsed: Mr Van Zeebergs Observations on the 22 &amp; 23 Articles and, accompanied by C. W. F. Dumas French translation, is filmed at [<ins title="editorial addition or explanation" class="ed">2229 Aug.</ins>] (same, Reel No. 357).</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d151n1-ptr" id="PJA13d151n1">1</a>
+
+   <p>For <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s good opinion of Adriaan van Zeebergh, a lawyer and the pensionary of Haarlem, see his letter of <a href="default.xqy?keys=ADMS-print-06-13-02-0176" class="document">4 Sept.</a> to Robert R. Livingston, below. Van Zeeberghs observations on Arts. 22 and 23 constitute the most detailed explanation available of the reasons why the Dutch wanted them removed from the treaty. Equally important is the fact that Van Zeebergh suggested a means to overcome the Dutch objections. For the ultimate resolution of the problem posed by the two articles, see The Negotiation of the Dutch-American Treaty of Amity and Commerce, 22 Aug.  8 Oct., Nos. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003" class="document">II</a>, <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0004" class="document">III</a>, and I<a href="default.xqy?keys=ADMS-print-06-13-02-0162-0007" class="document">V</a>, below.</p>
+
+</div>
+</div>
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0209">[209]</span>
+<div id="PJA13d152" class="trans letter">
+
+<h3>Enclosure: Van Zeeberghs Notes on the Dutch-American Treaty: A Translation</h3>
+
+<div class="docbody">
+<p>Considerations on Articles 22 &amp; 23 of the draft treaty between their High Mightinesses and the United States of America.</p>
+<p>If one admitted the general content of those two articles, and thus because their High Mightinesses conceded that this complete treaty, in all its clauses and articles, now and henceforth should be understood not to go against the stipulations of the two treaties already concluded between the United States of America and His Majesty the King of France, etc., then these two inconveniences would be the result:</p>
+<p><span class="hi-italic" style="font-style: italic;">First</span>, that every time we made use of any article, we would have to painstakingly consult all the articles from the treaties with France to check accordingly whether something were to be found in the treaties which would involve some limitations regarding the article in our treaty.</p>
+<p>This would surely always cause much difficulty and uncertainty, especially if unknown, secret articles would be included there.</p>
+<p><span class="hi-italic" style="font-style: italic;">Secondly</span>, that regarding the sense and logic of our treaty, with the passage of time and if unforeseen disagreements might arise between this Republic and France or Spain, we would be exposed to discussions with those powers: discussions that would always turn out to be more disadvantageous for this republic because, in effect, by admitting the said two articles she would have committed herself to receive interpretations of her own treaty based on those already concluded with the aforementioned powers.</p>
+<p>These objections lie expressly and literally in the two articles in question, and are of such importance to this republic that <span class="hi-italic" style="font-style: italic;">in case</span> it would be exposed to this in the future, room should be made in the treaty.</p>
+<p>Also, it can never have been Mr. Adams intention to expose this republic to such possible consequences of the aforementioned objections, but his excellency must have therewith intended <span class="hi-italic" style="font-style: italic;">certain stipulations</span> in the treaties with France containing <span class="hi-italic" style="font-style: italic;">some exclusive concessions</span>.</p>
+<p>It is certain that such stipulations, which have acquired their force by the formal conclusion of the treaties in which they are found, cannot be or ought not to be infringed upon or reduced by later treaties with other powers, but that the complete effect of such stipulations should be kept in mind and preserved especially when making other treaties.</p>
+<p>Because of this, it would certainly be fruitless for this republic, explicitly or implicitly, to exclude or reduce the effect of such particular stipulations.</p>
+<p>And likewise, <span class="hi-italic" style="font-style: italic;">Mr. Adams primary goal</span>, taken on its own, must be <span class="hi-italic" style="font-style: italic;">approved</span>, but the proposed <span class="hi-italic" style="font-style: italic;">manner</span> by which it would be attained <span class="hi-italic" style="font-style: italic;">contains considerable objections for this republic</span>; thus, the question is whether this could not be settled by taking a certain <span class="hi-italic" style="font-style: italic;">middle road</span> that would satisfy the mutual intentions.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0210">[210]</span>
+<p>The simplest way to go about this would be:</p>
+<p>That Mr. Adams could indicate the special articles and stipulations that contain some private concessions to France (and as the case may be also for Spain), and if his excellency in drafting the two articles in question could, relative to the articles and points so indicated, agree in the treaty with this republic or, if preferred, in a separate and secret article, <span class="hi-italic" style="font-style: italic;">that our treaty would not be deemed in anyway to be contrary to these points, or to deviate therefrom in the least: with further addition that the same would take place with regard to his Catholic Majesty, the King of Spain, in so far as the said Majesty would have acceded to the two above mentioned treaties and particularly to the particular stipulations so indicated</span>.</p>
+<p>Or one could say in general terms in the treaty: <span class="hi-italic" style="font-style: italic;">that its contents will not be deemed in any way to be contrary to or derogate from the particular stipulations which have precedence by virtue of the two treaties concluded with his Most Christian Majesty to which his Most Catholic Majesty retains the freedom to accede</span>.</p>
+<p>While then, by a <span class="hi-italic" style="font-style: italic;">secret article</span>, the article placed in the treaty could be <span class="hi-italic" style="font-style: italic;">explained</span>, indicating in order to make known <span class="hi-italic" style="font-style: italic;">the true intention</span> of said article, <span class="hi-italic" style="font-style: italic;">the special cases and articles</span> from the treaties with France that it has properly and uniquely in view and <span class="hi-italic" style="font-style: italic;">that is only intended to regulate the references thereto</span>.</p>
+</div>
+<div class="docback">
+ <div class="note-alert">
+   <p>The content of all or some notes that appeared on this page in the printed volume has been moved to the end of the preceding document.</p>
+</div>
+<div class="note-source" id="PJA13d152sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> and enclosure  (<span class="ref-terms">Adams Papers</span>); the recipients copy is filmed at 25 Sept. (<span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 358); enclosure endorsed: Mr Van Zeebergs Observations on the 22 &amp; 23 Articles and, accompanied by C. W. F. Dumas French translation, is filmed at [<ins title="editorial addition or explanation" class="ed">2229 Aug.</ins>] (same, Reel No. 357).</span>
+</p>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0126 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0125" title="From James Sullivan, 24 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0127" title="From Antoine Marie Cerisier [document with translation]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,1493 @@
+Fairfax County Poll Sheet, 16 July 1765
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Fairfax County Poll Sheet, 16 July 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-07-02-0241&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1765-07-16-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0240" title="Memorandum List of Tithables and Taxable Land and Property, 2 July 1765"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-07-02-0242" title="Vestry Elections in Truro and Fairfax Parishes, 2225 July 1765"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-07&amp;mode=TOC">Volume 7 (1 January 176115 June 1767)</a>&gt; <a href="?keys=GEWN-print-02-07-02&amp;mode=TOC">Documents</a>&gt; Fairfax County Poll Sheet, 16 July 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-07-02-0241&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0240" title="Memorandum List of Tithables and Taxable Land and Property, 2 July 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0242" title="Vestry Elections in Truro and Fairfax Parishes, 2225 July 1765"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0377">377</span><div id="Col07d212" class="doc">
+
+<h1>Fairfax County Poll Sheet</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[16 July 1765]</td>
+	      </tr>
+      </table>
+</div>
+<p>A Copy of the Poll taken at an Election of Burgesses for Fairfax County the 16th of Julyand Candidates Names.</p>
+<table class="bodytext" id="Col07d212t1">
+<tr class="label">
+	      <td><span class="hi-border-bottom" style="border-bottom: 1px solid black;">George Washington</span></td>
+	      <td><span class="hi-border-bottom" style="border-bottom: 1px solid black;">John West</span></td>
+	      <td><span class="hi-border-bottom" style="border-bottom: 1px solid black;">John Posey</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Robert Alexander</td>
+	      <td style="white-space: nowrap;">Robert Alexander</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Bryan Allison</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Bryan Allison</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benjamin Adams</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benjamin Adams</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Butler Ashford</td>
+	      <td style="white-space: nowrap;">Butler Ashford</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Anderson</td>
+	      <td style="white-space: nowrap;">John Anderson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Richard Arrol</td>
+	      <td style="white-space: nowrap;">Richard Arrol</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Alexander Senr</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Alexander Senr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Philip Alexander</td>
+	      <td style="white-space: nowrap;">Philip Alexander</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Adams</td>
+	      <td style="white-space: nowrap;">James Adams</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Michael Ashford</td>
+	      <td style="white-space: nowrap;">Michael Ashford</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Askins</td>
+	      <td style="white-space: nowrap;">John Askin</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Silvester Adams</td>
+	      <td style="white-space: nowrap;">Silvester Adams</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Adams</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Charles Alexander</td>
+	      <td style="white-space: nowrap;">Charles Alexander</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Asbury</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Boggess</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Boggess</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Marmaduke Beckwith</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Marmaduke Beckwith</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0378" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0378">[378]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Samuel Berkley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Samuel Berkley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Barker</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Barker</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Boylston</td>
+	      <td style="white-space: nowrap;">William Boylston</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Bronaugh</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Bronaugh</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Owen Brady</td>
+	      <td style="white-space: nowrap;">Owen Brady</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Baylis</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Baylis</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Bronaugh</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Bronaugh</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Bowling</td>
+	      <td style="white-space: nowrap;">John Bowling</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Ball</td>
+	      <td style="white-space: nowrap;">John Ball</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Barrey</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Barry</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Joseph Bennett</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Joseph Bennet</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Berkley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benja. Berkley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Abraham Barnes</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Abraham Barnes</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Charles Broadwater</td>
+	      <td style="white-space: nowrap;">Charles Broadwater</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Berk</td>
+	      <td style="white-space: nowrap;">William Berk</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Brawner</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Beach</td>
+	      <td style="white-space: nowrap;">Thomas Beach</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Moses Ball</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Francis Bellenger</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Gerrard Bowling</td>
+	      <td style="white-space: nowrap;">Gerrard Bowling</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Edward Blackburn</td>
+	      <td style="white-space: nowrap;">Edward Blackburn</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Bryan</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Ballenger</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Edward Bates</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Brownley</td>
+	      <td style="white-space: nowrap;">Thomas Brownley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Cockburn</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Cockburn</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Connell</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Connell</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Cotton</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Cotton</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thos Withers Coffer</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thos Withers Coffer</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Colvill</td>
+	      <td style="white-space: nowrap;">Thomas Colvill</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Crump</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Crump</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Carney</td>
+	      <td style="white-space: nowrap;">John Carney</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Presley Cox</td>
+	      <td style="white-space: nowrap;">Presley Cox</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Carlyle</td>
+	      <td style="white-space: nowrap;">John Carlyle</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Eli Cleveland</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Eli Cleveland</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Joseph Cockrill</td>
+	      <td style="white-space: nowrap;">Joseph Cockrill</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Collum</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Collum</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Cash</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Cash</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Connell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Connell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thos Wilman</td>
+	      <td style="white-space: nowrap;">Thoms Wilman</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">Culverhouse</td>
+	      <td style="white-space: nowrap; text-indent: 1em;">Culverhouse</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0379" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0379">[379]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Douglass</td>
+	      <td style="white-space: nowrap;">Thomas Douglass</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Deneal</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Deneal</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Donaldson</td>
+	      <td style="white-space: nowrap;">James Donaldson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Darnes</td>
+	      <td style="white-space: nowrap;">William Darnes</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Dyall</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Dyall</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Donaldson</td>
+	      <td style="white-space: nowrap;">William Donaldson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Robert Douglass</td>
+	      <td style="white-space: nowrap;">Robt Douglass</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Douglass</td>
+	      <td style="white-space: nowrap;">William Douglass</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Townshend Dade</td>
+	      <td style="white-space: nowrap;">Townshend Dade</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Darnes</td>
+	      <td style="white-space: nowrap;">Henry Darnes</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Blansflower Duncan</td>
+	      <td style="white-space: nowrap;">Blansflower Duncan</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Edward Davis</td>
+	      <td style="white-space: nowrap;">Edward Davis</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Isaac Davis</td>
+	      <td style="white-space: nowrap;">Isaac Davis</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Sampson Darrell</td>
+	      <td style="white-space: nowrap;">Sampson Darrell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Dalton</td>
+	      <td style="white-space: nowrap;">John Dalton</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Edward Dulan</td>
+	      <td style="white-space: nowrap;">Edward Dulan</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Francis Dade</td>
+	      <td style="white-space: nowrap;">Francis Dade</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Doudle</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Dulan</td>
+	      <td style="white-space: nowrap;">John Dulan</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Lewis Ellzey</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Lewis Ellzey</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Philip Ellis</td>
+	      <td style="white-space: nowrap;">Phillip Ellis</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">America Earp</td>
+	      <td style="white-space: nowrap;">America Earp</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Ellison</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Daniel French</td>
+	      <td style="white-space: nowrap;">Daniel French</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Ford</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Ford</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Foxworthy</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Foxworthy</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Ford</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Ford</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Joshua Ferguson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Joshua Ferguson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Fleming</td>
+	      <td style="white-space: nowrap;">Thomas Fleming</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Geo: Wm Fairfax</td>
+	      <td style="white-space: nowrap;">William Ferguson</td>
+	      <td style="white-space: nowrap;">Geo: Wm Fairfax</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Gray</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Gray</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Grimsley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Grimsley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Gardener</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Gardener</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Grayson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benja. Grayson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Gunnel Senr</td>
+	      <td style="white-space: nowrap;">Henry Gunnel Senr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Lucas Garvey</td>
+	      <td style="white-space: nowrap;">Lucas Garvey</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Philip Grymes</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Philip Grymes</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Matthew Gour</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Matthew Gowin</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Nicholas Garret</td>
+	      <td style="white-space: nowrap;">Nicholas Garret</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Gladding</td>
+	      <td style="white-space: nowrap;">William Gladding</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Graffort</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Abraham Hargiss</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Abraham Hargiss</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0380" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0380">[380]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Hough</td>
+	      <td style="white-space: nowrap;">John Hough</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Heartshorn</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Heartshorn</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Halley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Halley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Hereford</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Hereford</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Alexander Henderson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Alexander Henderson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Halley Junr</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Halley Junr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benoni Halley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benoni Halley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Halbert</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Halbert</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Michael Hall</td>
+	      <td style="white-space: nowrap;">Michael Hall</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Halley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Halley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Hurst</td>
+	      <td style="white-space: nowrap;">John Hurst</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Adam Hunter</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Adam Hunter</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Nathaniel Harrison</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Nathaniel Harrison</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Hunter</td>
+	      <td style="white-space: nowrap;">John Hunter</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Jervis Hammond</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Jervis Hammond</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Halley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Hammond</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Hawkins</td>
+	      <td style="white-space: nowrap;">William Hawkins</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Hereford</td>
+	      <td style="white-space: nowrap;">John Hereford</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Horseman</td>
+	      <td style="white-space: nowrap;">William Horseman</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Harden</td>
+	      <td style="white-space: nowrap;">William Harden</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Johnston</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Johnston</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Joseph Jacobs Junr</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Joseph Jacobs Junr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Jennings</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Jennings</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Joshua Jordan</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Joshua Jordan</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Johnston</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Johnston</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Jenkins</td>
+	      <td style="white-space: nowrap;">James Jenkins</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Jenkins</td>
+	      <td style="white-space: nowrap;">John Jenkins</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Samuel Johnston</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Daniel Jennings</td>
+	      <td style="white-space: nowrap;">Daniel Jennings</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Johnson</td>
+	      <td style="white-space: nowrap;">William Johnston</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Richard Kent</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Richard Kent</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Kent</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Kent</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Keen</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Keen</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. King</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benja. King</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Keen</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Keen</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Nicholas Keen</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Nicholas Keen</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Lucas</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Lucas</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Gowin Lamphire</td>
+	      <td style="white-space: nowrap;">Gowin Lamphire</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Lewis</td>
+	      <td style="white-space: nowrap;">Thomas Lewis</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Mason Junr</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Mason Junr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Peter Mauzey</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Peter Mauzey</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Moore</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Moore</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0381" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0381">[381]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Moore</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Moore</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Jno. McIntosh</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John McIntosh</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Jno. McClaughlin</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John McClaughlan</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Harrison Manley</td>
+	      <td style="white-space: nowrap;">Harrison Manley</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Minor</td>
+	      <td style="white-space: nowrap;">John Minor</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Moxley</td>
+	      <td style="white-space: nowrap;">James Moxley</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Martin</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Martin</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Martin</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Martin</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Martin</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Martin</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">French Mason</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Mason</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Mason</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Daniel McCarty</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Daniel McCarty</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Muir</td>
+	      <td style="white-space: nowrap;">John Muir</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Daniel Mills</td>
+	      <td style="white-space: nowrap;">Daniel Mills</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Joseph Moxley</td>
+	      <td style="white-space: nowrap;">Joseph Moxley</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Monroe</td>
+	      <td style="white-space: nowrap;">John Monroe</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Solomon Nichols</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Solomon Nichols</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Harry Piper</td>
+	      <td style="white-space: nowrap;">Harry Piper</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Patterson</td>
+	      <td style="white-space: nowrap;">John Patterson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Pearson</td>
+	      <td style="white-space: nowrap;">Thomas Pearson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Payne Junr</td>
+	      <td style="white-space: nowrap;">William Payne Junr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Edward Payne</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Edward Payne</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Nathaniel Popejoy</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Simon Pearson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Peter Ryley</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Peter Ryley</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Reardon</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Reardon</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Reid</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Reid</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Ross</td>
+	      <td style="white-space: nowrap;">George Ross</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Rogers</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Rogers</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Michael Reagan</td>
+	      <td style="white-space: nowrap;">Michael Reagan</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Nicholas Reagan</td>
+	      <td style="white-space: nowrap;">Nicholas Reagan</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Robinson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Robinson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Hector Ross</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Hector Ross</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Robinson</td>
+	      <td style="white-space: nowrap;">James Robinson</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Ratcliff</td>
+	      <td style="white-space: nowrap;">John Ratcliff</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Rhodes</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Richards</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Ramsay</td>
+	      <td style="white-space: nowrap;">John Ramsay</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Rusin</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Sanford Reamy</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Moses Simpson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Moses Simpson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Southward</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benja. Southward</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0382" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0382">[382]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Simpson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Simpson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Lewis Saunders</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Lewis Saunders</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Francis Summers</td>
+	      <td style="white-space: nowrap;">Francis Summers</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Wm Shortridge</td>
+	      <td style="white-space: nowrap;">William Shortridge</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Sarter</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Sarter</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Robert Speake</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Robert Speake</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Baxter Simpson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Baxter Simpson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Peter Smith</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Peter Smith</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Summers Senr</td>
+	      <td style="white-space: nowrap;">John Summers Senr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Gilbert Simpson Senr</td>
+	      <td style="white-space: nowrap;">Gilbert Simpson Senr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Shaw</td>
+	      <td style="white-space: nowrap;">Thomas Shaw</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Summers</td>
+	      <td style="white-space: nowrap;">William Summers</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Summers Junr</td>
+	      <td style="white-space: nowrap;">John Summers Junr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Francis Summers</td>
+	      <td style="white-space: nowrap;">Francis Summers</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Daniel Summers</td>
+	      <td style="white-space: nowrap;">Daniel Summers</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Sewell</td>
+	      <td style="white-space: nowrap;">William Sewell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Scott</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Scott</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Stone</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Stone</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Eli Stone</td>
+	      <td style="white-space: nowrap;">Eli Stone</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Smith</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Smith</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Richard Sanford</td>
+	      <td style="white-space: nowrap;">Richard Sanford</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Gilbert Simpson Junr</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Gilbert Simpson Junr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Robert Sanford</td>
+	      <td style="white-space: nowrap;">Robert Sanford</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Simpson</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Simpson</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Sheridine</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Sebastian Junr</td>
+	      <td style="white-space: nowrap;">Benja. Sebastian Junr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Seale</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Sadd</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Tillet</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Tillet</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Talbot</td>
+	      <td style="white-space: nowrap;">Benja. Talbot</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Taylor</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Taylor</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Gerrard Trammel Senr</td>
+	      <td style="white-space: nowrap;">Gerrard Trammell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Robert Thomas</td>
+	      <td style="white-space: nowrap;">Robert Thomas</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Triplet</td>
+	      <td style="white-space: nowrap;">Thomas Triplet</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Paul Turley</td>
+	      <td style="white-space: nowrap;">Paul Turley</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Thrift</td>
+	      <td style="white-space: nowrap;">George Thrift</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George Tillet</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">George Tillet</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">William Talbot</td>
+	      <td style="white-space: nowrap;">William Talbot</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Samuel Talbot</td>
+	      <td style="white-space: nowrap;">Samuel Talbot</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Daniel Talbot</td>
+	      <td style="white-space: nowrap;">Daniel Talbot</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Taylor</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Taylor</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Sampson Turley</td>
+	      <td style="white-space: nowrap;">Sampson Turley</td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0383" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0383">[383]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Tunnell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">David Thomas</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Turley</td>
+	      <td style="white-space: nowrap;">James Turley</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Peter Turley</td>
+	      <td style="white-space: nowrap;">Peter Turley</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Charles Thrift</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Michael Vanlandingham</td>
+	      <td style="white-space: nowrap;">Michael Vanlandingham</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Edward Voilette</td>
+	      <td style="white-space: nowrap;">Edward Voilette</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John West Junr</td>
+	      <td style="white-space: nowrap;">John West Junr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Tyler Waugh</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Tyler Waugh</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Benja. Wickliff</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Benja. Wickliff</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Drummond Wheeler</td>
+	      <td style="white-space: nowrap;">Drummond Wheeler</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Hugh West</td>
+	      <td style="white-space: nowrap;">Hugh West</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Williams</td>
+	      <td style="white-space: nowrap;">John Williams</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Edward Williams</td>
+	      <td style="white-space: nowrap;">Edward Williams</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Edward Washington</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Edward Washington</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thomas Windsor</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Windsor</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">George West</td>
+	      <td style="white-space: nowrap;">George West</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Williams (Run)</td>
+	      <td style="white-space: nowrap;">John Williams (Run)</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Henry Wingate</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Wingate</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Owen Williams</td>
+	      <td style="white-space: nowrap;">Owen Williams</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Peter Wagener</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Peter Wagener</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Wren</td>
+	      <td style="white-space: nowrap;">James Wren</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Wren</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William Wren</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Thomas Wren Junr</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Wisheart</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">David Young</td>
+	      <td style="white-space: nowrap;">David Young</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Kirkpatrick</td>
+	      <td style="white-space: nowrap;">John Kirkpatrick</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Marcellus Littlejohn</td>
+	      <td></td>
+	      <td style="white-space: nowrap;">Marcellus Littlejohn</td>
+	    </tr>
+</table>
+<table class="bodytext" id="Col07d212t2" style="margin-left: auto; margin-right: auto;">
+<tr>
+	      <td style="white-space: nowrap;">Geo: Washington</td>
+	      <td></td>
+	      <td class="num">201</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John West</td>
+	      <td></td>
+	      <td class="num">148</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Posey</td>
+	      <td></td>
+	      <td class="num" style="padding-right: 1.5em;">131<a class="ptr" href="#GEWN-02-07-02-0241-fn-0001" id="GEWN-02-07-02-0241-fn-0001-ptr">1</a></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Single votes to Colo. Wn</td>
+	      <td></td>
+	      <td class="num">4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Ditto to Colo. West</td>
+	      <td></td>
+	      <td class="num">27</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Ditto to Captn Posey</td>
+	      <td></td>
+	      <td class="num" style="padding-right: 1.5em;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">1</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="num frac"></td>
+	      <td class="num">512</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">No. of Voters</td>
+	      <td></td>
+	      <td class="num">256</td>
+	    </tr>
+</table>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-07-02-0241-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document: a document (not a letter) neither in the author's handwriting nor signed by the author ]">D</abbr>, in the hand of GW, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document: a document in the handwriting of the author ]">AD</abbr> (incomplete), <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ In both documents, which are copies that GW made of the actual poll sheet, he lists the names under letters of the alphabet. In the complete copy, printed here, he
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0384">[384]</span>
+places a T or an F, standing for Truro and Fairfax parishes, after the names of seventeen of the first nineteen men who voted for him, down through the name John Ball. Seven were from Fairfax Parish and ten from Truro (see <a href="default.xqy?keys=GEWN-print-02-07-02-0226" class="document">Vestry Elections in Truro and Fairfax Parishes, 2528 Mar.</a>, <a href="default.xqy?keys=GEWN-print-02-07-02-0242" class="document">2225 July 1765</a>). Neither the letters of the alphabet nor the Fs and Ts have been retained.</p>
+
+
+   <p>Gov. Francis Fauquier dissolved the House of Burgesses on 1 June 1765, the day after it had adopted modifications of Patrick Henrys resolutions against the Stamp Act. When writs went out later in the month for the election of a new House, George Johnston declined to stand for reelection from Fairfax County, and GW decided to enter the poll in Fairfax County rather than to seek reelection in Frederick County. Posey apparently hoped to unseat the incumbent Col. John West, the uncle of John West, Junior. Fauquier did not call the House into session until 6 Nov. 1766.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0241-fn-0001-ptr" id="GEWN-02-07-02-0241-fn-0001">1</a>
+
+   <p>It should be noted that 103 of those voting for Posey also voted for GW and only 27 voted for both Posey and West.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-07-02-0241 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 7 (1 January 176115 June 1767)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0240" title="Memorandum List of Tithables and Taxable Land and Property, 2 July 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0242" title="Vestry Elections in Truro and Fairfax Parishes, 2225 July 1765"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

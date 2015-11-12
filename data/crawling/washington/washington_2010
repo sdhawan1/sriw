@@ -1,0 +1,625 @@
+To Robert Cary & Company, 1–6 August 1761
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Robert Cary &amp; Company, 16 August 1761</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-07-02-0036&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1761-08-01-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0035" title="To George William Fairfax, 1 August 1761 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-07-02-0037" title="From Robert Cary &amp; Co., 10 August 1761 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-07&amp;mode=TOC">Volume 7 (1 January 176115 June 1767)</a>&gt; <a href="?keys=GEWN-print-02-07-02&amp;mode=TOC">Documents</a>&gt; To Robert Cary &amp; Company, 16 August 1761</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-07-02-0036&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0035" title="To George William Fairfax, 1 August 1761 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0037" title="From Robert Cary &amp; Co., 10 August 1761 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0061">61</span><div id="Col07d28" class="doc">
+
+<h1>To Robert Cary &amp; Company</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Gentn</td>
+		<td class="salutationRight">Mount Vernon August 1st[6] 1761</td>
+	      </tr>
+      </table>
+</div>
+<p>When I wrote to you on the 14th Ulto neither your Letters nor my Goods by Captn Johnston were come to hand. now both are receivd; and I must beg leave to point out some mistakes which I have discoverd in them. and first in regard to the Accounts which you sent. In these there are several Errors which need rectifying as you will perceive by perusing the Inclosd Accounts<a class="ptr" href="#GEWN-02-07-02-0036-fn-0001" id="GEWN-02-07-02-0036-fn-0001-ptr">1</a>Copied from my Books, but taken in a manner altogether from your own writingsfor it is to be observd here, that the Estate is debited for some Articles which ought to be placd to me, and for some others which shoud go to Account of Master CustisYou will likewise perceive that both the Estate and I, are chargd with the Goods sent by Captn Yates amounting to 151.5.10<a class="ptr" href="#GEWN-02-07-02-0036-fn-0002" id="GEWN-02-07-02-0036-fn-0002-ptr">2</a> and that I have given you credit for a Draft in favr of Wm Clifton for Thirty pounds imagining it was paid as the Bill passd my hands sometime before that of Brents did<a class="ptr" href="#GEWN-02-07-02-0036-fn-0003" id="GEWN-02-07-02-0036-fn-0003-ptr">3</a>these sevl Alterations being made the Ballances will stand</p>
+<table class="bodytext" id="Col07d28t1">
+<tr>
+	      <td style="white-space: nowrap; text-align: right;">against G. Washington</td>
+	      <td class="curr">1871.8.8</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: right;">against Jno. P. Custis</td>
+	      <td class="curr">144.0.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: right;">against M. P. Custis</td>
+	      <td class="curr">54.7.2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr"><span class="hi-border-top" style="border-top: 1px solid black;">2069.16.4</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: right;">andin favour of the Estate</td>
+	      <td class="curr">2038.8.4</td>
+	    </tr>
+<tr>
+	      <td class="par">so that the Balle due you upon the whole will be only</td>
+	      <td class="curr">31.8.0</td>
+	    </tr>
+</table>
+<p>After you have made these necessary alterations the Accts may remain as stated till it be known in what manner the Estate Balle will be disposd of, and this I fancy will be determined at our next General Court in October<a class="ptr" href="#GEWN-02-07-02-0036-fn-0004" id="GEWN-02-07-02-0036-fn-0004-ptr">4</a>having some hopes of getting a finish put to these matters at that timehowever you shall be timely advisd whenever any of these alterations happen.</p>
+<p>I have now to inform you of a very great mistake which you have committed in sending me 2 dozn whip saws, when I only wanted, and wrote for two; what I shall do with the abundant overplus I really know not as I apprehend it will be a difficult matter to dispose of such a quantity in this part of the Country.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0062">[62]</span>
+and here while I am mentioning this Affair, another thing occurs which must not escape unnoticedand that is, A Case bought of Phil Bell at the price of 17 GuineasSurely, here must be as great a mistake, or as great an Imposition as ever was offerd by a Tradesman. The Case is a plain one, and such as I coud get made in this Country (where work of all kinds is very dear) of the same stuff, and equally as neat for less than four Guineasis it possible then that 16 Galln Bottles with ground Stoppers can cost 13 Guineas? I think I might safely answer No. I woud have sent it back immediately, but being convinced that there must be some mistake in the Case I have postpond that resolution till you can make a proper enquiry into it, and advice me thereon.<a class="ptr" href="#GEWN-02-07-02-0036-fn-0005" id="GEWN-02-07-02-0036-fn-0005-ptr">5</a></p>
+<p>Please to order me a Pipe of good old Madeira from that Island, let it be well securd, and direct it to be sent by some Vessell bound to this River (Potomack)<a class="ptr" href="#GEWN-02-07-02-0036-fn-0006" id="GEWN-02-07-02-0036-fn-0006-ptr">6</a>Your Corrispondants in Liverpool, I must beg leave to say, are a little negligent of your Orders and I am the Sufferer by itfor I have never receivd any Salt from thence notwithstanding my repeated applications for these two years past.<a class="ptr" href="#GEWN-02-07-02-0036-fn-0007" id="GEWN-02-07-02-0036-fn-0007-ptr">7</a> I am Gentn Yr Most Obedt Hble Servtt</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+</div>
+<div class="postscript">
+<p>Augt 6</p>
+<p>Postscript to the above Letter. Since writing the above, I have found occasion to draw a Bill upon you to the amt of 259 Sterg, payable at Sixty days sight to Messrs Chs Graham, Wm Fitzhugh, &amp; Benja. FendallIt being the Considn Money of Sundry Slaves wch I bought of those Gentn Yesterday<a class="ptr" href="#GEWN-02-07-02-0036-fn-0008" id="GEWN-02-07-02-0036-fn-0008-ptr">8</a>I hope the Bill will meet with due Acceptance &amp; I am as beforeGentn Yr &amp;ca</p>
+
+</div>
+<div class="closer"><p class="signed">G. Washington</p></div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-07-02-0036-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Book ]">ALB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ GW noted at the end of his copy of the letter, Sent by the SarahCaptn [Norrisson] Coverdale. Copy pr the PhnixCaptn [William] McGachin.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0001-ptr" id="GEWN-02-07-02-0036-fn-0001">1</a>
+
+   <p>The accounts (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>) with Robert Cary &amp; Co. as compiled by GW and enclosed in this letter were:</p>
+
+
+   <p>. . . Estate of D[aniel] P[arke] Custis Esqr. Decd:</p>
+
+<table class="bodytext" id="Col07d28t2">
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Drs</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1759</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 6</td>
+		<td class="par">To Sundrys pr Captn [Richard] Yates for the use of<br/>G: Washingtonbut chargd to the above Estate</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 151.5.10</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0063" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0063">[63]</span></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Do 22d</td>
+		<td class="par">To Balle pr Acct Currt renderd of this date</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">835.18.4</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Septr</td>
+		<td class="par">To 6 Mo. Dividend on 1650 Bankstock due this<br/>Michaelmas</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">37.2.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1760</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Mar.</td>
+		<td class="par">To Ditto on Dittodue this Lady day</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">37.2.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt</td>
+		<td style="white-space: nowrap;">To 600 loss on the Cary</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">577.17.2</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Septr</td>
+		<td class="par">To Intt on Bankstock due this Micha[elma]s</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">37.2.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td class="par">To proceeds of 15 hhds Tobo pr the Fair American</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">267.15.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Mar.</td>
+		<td class="par">To Intt on Bankstock due this Lady day</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">37.2.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Do 31st</td>
+		<td class="par">To proceeds of 15 hhds T. pr the Russia Mercht</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">177..</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">2158.6.4</span></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Cr</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1759</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Novr 22</td>
+		<td class="par">By fees at the Bank for Services done there</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1760</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Feby 14</td>
+		<td class="par">By Premio on 648 Insd on 54 hhds in the Cary</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">71.10.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Mar. 4</td>
+		<td style="white-space: nowrap;">By Goods from Scotland</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">13.7.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June 19</td>
+		<td class="par">By premo on 180 Insd on 15 hhds by [John] Boyce</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">29.9.6</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 6</td>
+		<td class="par">By Impost &amp; Cocket on the 50 hhds lost in the Cary</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 1st</td>
+		<td style="white-space: nowrap;">By Balle due the Estate</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2038.8.4</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">2158.6.4</span></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Virginia August 1st 1761.</td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">E. Excepted pr</td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Go: Washington</td>
+	      </tr>
+<tr>
+		<td colspan="2" style="white-space: nowrap;">. . . Geo. Washington:</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Drs</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1760</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Apl</td>
+		<td class="par">To 3 pr Ct return of premio on 150 Insd in Yates</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.10.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Do.</td>
+		<td class="par">To Henry Churchills Draft on Bosworth &amp; Griffeth for</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">32.3.3</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Novr</td>
+		<td class="par">To Phil Johnsons Ditto on Concannon &amp; Jordan</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">102..</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 1st</td>
+		<td class="par">To Balle due R. Cary Esqr. &amp; Co.</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1871.8.8</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">2010.1.11</span></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Cr</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="white-space: nowrap;">By Sundry Goods pr Captn Yates</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">151.5.10</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td class="par">By my draft in favr of Jno. Addison</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">364.19.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td class="curr">20. 1760</td>
+		<td style="white-space: nowrap;">By Ditto Wm Digges</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">304.15.3</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Ditto</td>
+		<td style="white-space: nowrap;">By Goods pr the Charming Polly</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">353.15.9</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td class="par">By Ditto sent Mrs [Frances] Dandridge pr Hoopr</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">13.16.3</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0064" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0064">[64]</span></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 20</td>
+		<td class="par">By my Draft in favr of Wm Clifton</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">30..</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td class="par">By Hill Lamar and Hill for a Pipe of Madeira</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">29.3.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Sepr 24</td>
+		<td class="par">By my Draft in favr of Geo. Brent</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">200..</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="white-space: nowrap;">By Henry Churchills Billreturnd under Protest</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">32.3.3</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="white-space: nowrap;">By Charges of noting the Protest</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.9</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Apl 1761</td>
+		<td class="par">By Goods pr Captn [Judson] CoolageMrs [George William] Fairfaxs orders</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">79.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td style="white-space: nowrap;">By Ditto pr the Argo</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">31.15.1</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="white-space: nowrap;">By Ditto pr the MollyJno. Johnston</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">316.16.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">July</td>
+		<td style="white-space: nowrap;">By Phil Johnson Excha: returnd Protested</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">102..</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="white-space: nowrap;">By Charges of protesting</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.9</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">2010.1.11</span></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">[Drs]</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">May</td>
+		<td class="par">To 18 hhds Tobo pr the Bland[Hugh] Wylie</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td style="white-space: nowrap;">To 12 ditto pr the SarahCoverdale</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">July</td>
+		<td style="white-space: nowrap;">To 30 ditto pr the ArgoBoyce</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">[Cr]</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 1st</td>
+		<td style="white-space: nowrap;">By the Contra Balle</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1871.8.8</td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Virginia August 1st 1761.</td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">E. Excepted pr</td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Go: Washington</td>
+	      </tr>
+<tr>
+		<td colspan="2" style="white-space: nowrap;">. . . Jno Parke Custis:</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Cr</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1760</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td style="white-space: nowrap;">By Sundrys pr the Charming Polly</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">23.19.7</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td style="white-space: nowrap;">By 2 Seins pr the LetitiaMeredith</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">28.5.4</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td class="par">By Goods for his Plantns on Y[or]k Rivr</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">72.3.1</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">July</td>
+		<td style="white-space: nowrap;">By Ditto pr the MollyJno. Johnstn</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">19.12.6</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">144.0.6</span></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Dr</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">July</td>
+		<td class="par">To 40 hhds Tobo Shipd you in the Argo</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Cr</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Augt 1st</td>
+		<td style="white-space: nowrap;">By Amount of the above Acct</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">144.0.6</td>
+	      </tr>
+<tr>
+		<td class="par" colspan="2">. . . Miss Martha Parke Custis:</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td colspan="3" style="white-space: nowrap; text-align: center;">Cr</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1760</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">June</td>
+		<td style="white-space: nowrap;">By Sundrys pr the Charmg Polly</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">30.6.</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0065" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0065">[65]</span></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">1761</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">July</td>
+		<td style="white-space: nowrap;">By Ditto pr the MollyJohnston</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">24.1.2</span></td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.0em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">54.7.2</span></td>
+	      </tr>
+</table>
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0002-ptr" id="GEWN-02-07-02-0036-fn-0002">2</a>
+
+   <p>These are goods that <a href="default.xqy?keys=GEWN-print-02-06-02-0178" class="document">GW ordered from Cary on 6 Aug. 1759.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0003-ptr" id="GEWN-02-07-02-0036-fn-0003">3</a>
+
+   <p>For the bills that GW drew in favor of George Brent and William Clifton when he purchased land from them on Cliftons Neck, see <a href="default.xqy?keys=GEWN-print-02-06-02-0259-0001&amp;expandNote=GEWN-02-06-02-0259-0001-fn-0010#GEWN-02-06-02-0259-0001-fn-0010" class="document">GW to Cary, 10 Aug. 1760, n.16.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0004-ptr" id="GEWN-02-07-02-0036-fn-0004">4</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0018" class="document">doc. IV, in Settlement of the Daniel Parke Custis Estate, 20 April 17595 Nov. 1761.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0005-ptr" id="GEWN-02-07-02-0036-fn-0005">5</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-07-02-0011" class="document">Carys invoice, 31 Mar. 1761</a>, published above.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0006-ptr" id="GEWN-02-07-02-0036-fn-0006">6</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-07-02-0065" class="document">Hill, Lamar, &amp; Hill to GW, 28 Feb. 1762.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0007-ptr" id="GEWN-02-07-02-0036-fn-0007">7</a>
+
+   <p>For the salt sent by the Liverpool merchant, John Backhouse, see <a href="default.xqy?keys=GEWN-print-02-07-02-0083&amp;expandNote=GEWN-02-07-02-0083-fn-0003#GEWN-02-07-02-0083-fn-0003" class="document">GW to Cary, 20 June 1762, n.3.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0036-fn-0008-ptr" id="GEWN-02-07-02-0036-fn-0008">8</a>
+
+   <p>Charles Grahame (Graham; c.17211779), a Scottish merchant acting as the principal agent of the London merchant James Russell, lived in Lower Marlboro, Calvert County, Maryland. Washingtons friend William Fitzhugh (17211798) was a planter in Calvert County, Maryland. Benjamin Fendall (d. 1764) lived in Charles County, Md., where he served as clerk from 1752 to 1756.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-07-02-0036 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 7 (1 January 176115 June 1767)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0035" title="To George William Fairfax, 1 August 1761 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0037" title="From Robert Cary &amp; Co., 10 August 1761 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

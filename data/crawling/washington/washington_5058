@@ -1,0 +1,158 @@
+From John Langdon, 10 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Langdon, 10 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0206&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-05-10-5">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0205" title="From John Hancock, 10 May 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0207" title="From Major General Charles Lee, 10 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; From John Langdon, 10 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0206&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0205" title="From John Hancock, 10 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0207" title="From Major General Charles Lee, 10 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0255">255</span><div id="Rev04d196" class="doc">
+
+<h1>From John Langdon</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Portsmouth New Hampshire 10th May 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>This will be handed you, by George Marchant who says hes one of the Riflemen that went from Cambridge, under General Arnold to Attack Quebeck, was taken prisoner, crossing the river at that place, sent to England in Irons, has just returnd, by way of Hallifax, from whence he made his Escape with some others in a small Boat, he arrived at Old York,<a class="ptr" href="#GEWN-03-04-02-0206-fn-0001" id="GEWN-03-04-02-0206-fn-0001-ptr">1</a> yesterday, when he informd the Committee of that place, of his having Letters from England, which he had Concealed in the Waistband of his Britches, they thot fit to open the letters; and sent them on to the Committee of this place, who have directed me to dispatch the Man, with the Letters to Congress, after having called on you, in the way there, Ive therefore Furnished him with Necessaries,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0256">[256]</span>
+and given strict directions to proceed with all possible dispatch to Head quarters at New York, as Express to your Excellency, with the inclosd Letters, and as they contain matters of Importance, no doubt youll think proper, to forward them to Congress.<a class="ptr" href="#GEWN-03-04-02-0206-fn-0002" id="GEWN-03-04-02-0206-fn-0002-ptr">2</a></p>
+<p>This Man informs us, that the Troops at Hallifax, are in a most deplorable Condition, for want of Provision, this is Confirmd by several others, who have Escaped from thence, and arrived at this place within this few Days. I am with the greatest Respect Your most Obedt Servant</p>
+<div class="closer">
+<p class="signed">Jno. Langdon</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0206-sn">
+
+   <p>
+	<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, enclosed in <a href="default.xqy?keys=GEWN-print-03-04-02-0271" class="document">GW to Hancock, 18 May 1776</a>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 78; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: John G.M. Stone Collection.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0206-fn-0001-ptr" id="GEWN-03-04-02-0206-fn-0001">1</a>
+
+   <p>Langdon is referring to York in the District of Maine.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0206-fn-0002-ptr" id="GEWN-03-04-02-0206-fn-0002">2</a>
+
+   <p>George Merchant, a soldier in Capt. Daniel Morgans rifle company, was captured while on guard duty outside Quebec on 14 Nov. 1775, the day after most of Arnolds detachment crossed the St. Lawrence River (John Joseph Henrys Journal in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Kenneth Roberts, ed. &lt;i&gt;March to Quebec: Journals of the Members of Arnolds Expedition&lt;/i&gt;. New York, 1938. ]">Roberts, <span class="hi-italic" style="font-style: italic;">March to Quebec</span></span>, 35354). According to an account of Merchants captivity related by a delegate to Congress later this month, he was sent to London and put in Bridewell in Irons. Sawbridge (the Lord Mayor) went to him, Examined him and had him immediately discharged &amp; sent down to Bristol, Where a number [<span class="hi-italic" style="font-style: italic;">of</span>] Gentn. procured him a passage to Hallifax. He left Bristol the 24th of March, . . . And tho Searched at Hallifax two or three times, brought undiscovered a Number of Letters and Newspapers to the Congress, by which we are possessed of all their plans for the destruction of America (Caesar Rodney to Thomas Rodney, 22 May 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul H. Smith et al., eds. &lt;i&gt;Letters of Delegates to Congress, 17741789&lt;/i&gt;. 26 vols. Washington, D.C., 19762000. ]">Smith, <span class="hi-italic" style="font-style: italic;">Letters of Delegates</span></span>, 4:6163; see also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Don Higginbotham. &lt;i&gt;Daniel Morgan: Revolutionary Rifleman&lt;/i&gt;. Chapel Hill, N.C., 1961. ]">Higginbotham, <span class="hi-italic" style="font-style: italic;">Morgan</span></span>, 3839 and note 15, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Danske Dandridge. &lt;i&gt;Historic Shepherdstown&lt;/i&gt;. Charlottesville, Va., 1910. ]">Dandridge, <span class="hi-italic" style="font-style: italic;">Shepherdstown</span></span>, 142). Merchant arrived in Philadelphia on the evening of 20 May, and on 30 May Congress rewarded him with pay from the time of his captivity to 15 June and a gratuity of $100 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:405).</p>
+
+
+   <p>Merchant brought copies of the treaties that the British crown had made with various German princes to obtain mercenary troops, English newspapers as recent as 20 Mar., and several letters to Congress and private individuals (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:369; Thomas Stone to James Hollyday?, 20 May 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul H. Smith et al., eds. &lt;i&gt;Letters of Delegates to Congress, 17741789&lt;/i&gt;. 26 vols. Washington, D.C., 19762000. ]">Smith, <span class="hi-italic" style="font-style: italic;">Letters of Delegates</span></span>, 4:4654). Among those letters were some from Arthur Lee, a Virginian living in London and acting as Massachusettss agent there, whom Congresss secret committee of correspondence had recently asked to serve as one of its agents. Lees letters, all of which are unsigned, include a short note of 13 Feb. 1776 addressed to Benjamin Franklin at Philadelphia, covering a long letter of the same date addressed to Cadwallader Colden at New York, and a similar letter addressed to Colden dated 14 Feb., which may have been covered by a note of that date to his brother Richard Henry Lee (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 83; see also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Peter Force, ed. &lt;i&gt;American Archives&lt;/i&gt;. 9 vols. Washington, D.C., 183753. ]">Force, <span class="hi-italic" style="font-style: italic;">American Archives</span></span>, 4th ser., 4:112528,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0257">[257]</span>
+and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed. &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;. 6 vols. Washington, D.C., 1889. ]">Wharton, <span class="hi-italic" style="font-style: italic;">Diplomatic Correspondence</span></span>, 2:7178). The two letters addressed to Colden contain detailed intelligence about the strength of the British troops and German mercenaries being sent to America, the dates of their departures from Europe, and their destinations. By addressing those letters to Colden, the former royal lieutenant governor of New York, and by wording them ambiguously, Lee hoped to get them past British authorities in the event they were intercepted on the way to America. The context of both letters and the covering letter addressed to Franklin suggest that they were intended for Richard Henry Lee. For a further discussion of these letters, see <a href="default.xqy?keys=GEWN-print-03-04-02-0272&amp;expandNote=GEWN-03-04-02-0272-fn-0001#GEWN-03-04-02-0272-fn-0001" class="document">GW to Richard Henry Lee, 18 May 1776, n.1</a>; see also GW to Franklin, <a href="default.xqy?keys=GEWN-print-03-04-02-0283" class="document">20 May</a>, <span>17 June</span>, and <a href="default.xqy?keys=GEWN-print-03-05-02-0036" class="document">Franklin to GW, 21 June 1776</a>. For the forwarding of the other papers brought by Merchant, see <a href="default.xqy?keys=GEWN-print-03-04-02-0271&amp;expandNote=GEWN-03-04-02-0271-fn-0001#GEWN-03-04-02-0271-fn-0001" class="document">GW to Hancock, 18 May 1776, n.1</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0206 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0205" title="From John Hancock, 10 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0207" title="From Major General Charles Lee, 10 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

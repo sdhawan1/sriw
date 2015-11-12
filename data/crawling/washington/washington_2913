@@ -1,0 +1,186 @@
+From Jonathan Boucher, 8 April 1773
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Boucher, 8 April 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-09-02-0159&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1773-04-08-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-09-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0158" title="To Benedict Calvert, 3 April 1773"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-09-02-0160" title="From Benedict Calvert, 8 April 1773"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-09&amp;mode=TOC">Volume 9 (8 January 177218 March 1774)</a>&gt; <a href="?keys=GEWN-print-02-09-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Boucher, 8 April 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-09-02-0159&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0158" title="To Benedict Calvert, 3 April 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0160" title="From Benedict Calvert, 8 April 1773"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0211">211</span><div id="Col09d141" class="doc">
+
+<h1>From Jonathan Boucher</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Prince Georges County [Md.] 8th Apl 1773.</td>
+	      </tr>
+      </table>
+</div>
+<p>I hardly remember ever to have been more surprisd, than I was a few days ago, on being informed by the Governor of the Engagement that had taken Place between Mr Custis, &amp; Miss Nelly Calvert; and, I beg Leave to assure You, on my Word &amp; Honour, that, never till that moment, had I the most distant Suspicion of any such Things being in Agitation. It gives Me great Uneasiness to learn, from the same Authority, that You think Me, in some measure, to blame. To this, I can only reply, that, if I have errd, the Error was of the Head, &amp; not of the Heart. Mr Custis will do Me the Justice to own, that I have repeatedly warnd Him of the Hazard every Man must necessarily run, who precipitates Himself into so important an Attachment, ere the Judgement be fully matured. He has Reason to be thankful, that He runs as little as any One can. The peculiar &amp; extraordinary Merits of the Lady He fortunately, has singled out to place his Affections on, assure Me He never will have Cause to repent it, from Her: I wish, I coud be half so sure, that his own future Conduct &amp; altered opinions, may never tempt Him to wish, that He had let it alone, a little longer.</p>
+<p>You will remember, I always thought, that He was enamoured of Miss Betsey;<a class="ptr" href="#GEWN-02-09-02-0159-fn-0001" id="GEWN-02-09-02-0159-fn-0001-ptr">1</a> tho even in that, I suspected not, that there was any Likelihood of its becoming so serious, without my first knowing more of it. Why, He has carried it so far, without ever deigning to pay Me that common Compliment, which, I think, my Friendship for Him well entitled Me to, He best can tell: I will not, however, impute it to a worse Cause than a false Shame. If He had consulted Me, He would have found Me in that, as I hope, He has, in other Things, candid &amp; indulgent. But, when I recollect, that He neglected also to inform You, I forbear my Murmurings, ashamd to insist too much on a Breach of Friendship,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0212">[212]</span>
+with your Example before Me, who have Forgiven a Breach of Duty.</p>
+<p>I beg You to recall to your Mind, what my Conduct has been in other Instances respecting this young Gentleman: and I am sure You will do Me the Justice to own, that my not having advertisd You of This also, has been owing solely to my not knowing it, myself. However infatuated I may have been in my political Pursuits, I woud not have been wanting in so essential an Instance of Duty. I therefore, will hope, that, You will not continue to judge harshly of my Negligence, in as much as I again assure You, that, if I have been to blame, I have been so unintentionally.</p>
+<p>I shoud belie my real Opinion, were I not to say, that, I think, it had been better for Mr Custis not to have engagd Himself: but, since This could not be, I should hardly belie it less, not to own, that I think He coud nowhere have enterd into a more prudent Engagement. Miss Nelly Calvert has Merit enough to fix Him, if any Woman can: and I do, from the fullness of a warm Heart, most cordially congratulate his Mother &amp; Yourself, as well as Him, on the Happiness of his having made this most pleasing of all Connexions, with this the most amiable young Woman I have almost ever known. I know Her well, and can truly say, She is all that the fondest Parent can wish for a darling child. Warmed with the Ideas of her Merit, I can almost persuade myself to believe, that the Advantages which may be derivd to his Morals from this Engagement, rash as it has been, are enough to compensate for the ill Influence it may be supposed to have on his intellectual Pursuits. There is a Generosity, a Fortitude, a Manliness &amp; Elevation of Mind, which such true Gallantry inspires, that is not so easily otherwise taught. As I will not suffer myself to think, but for a Moment, that He will ever be wanting in Honour or Integrity, so as to tempt Him to shrink from an honourable Engagement, I trust, He will also consider Himself as not less bound in Honour, to avoid all those sordid &amp; less noble Pursuits, which woud debase, &amp; render Him unworthy of Her. Nay, I trust, that He will find Himself enabled to collect the dissipated Powers of his Mind, &amp; apply with Earnestness to his Studies, which, it seems, He now confesses, He has not been able to do these twelve months, owing to the Impression of this Passion. Upon the whole, it appears to Me, considering
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0213">[213]</span>
+his Temper &amp; Situation, that his Friends have rather Reason to rejoice, than be uneasy, at this Engagement.</p>
+<p>I enclose You a Letter from Dr Cooper, which, I assure myself, will not be displeasing to You. He is a Man of True Merit, in every Sense of the Word; and You may safely depend on his doing every thing becoming such a Man.<a class="ptr" href="#GEWN-02-09-02-0159-fn-0002" id="GEWN-02-09-02-0159-fn-0002-ptr">2</a> You see, You have all this &amp; the next Month before You: He shoud be there, before their Commencement in June, that He may not lose a Term And, as his Friend &amp; old Companion Carr, has some thoughts of accompanying Him thither, on the same Errand, I will be obliged to You, if without Inconvenience to Yourself, You can give Him three weeks or a Month, to consult his Friends, &amp; get ready.<a class="ptr" href="#GEWN-02-09-02-0159-fn-0003" id="GEWN-02-09-02-0159-fn-0003-ptr">3</a></p>
+<p>I am told, You have Business to our Provincial Court, the next week; I hope to see You either agoing, or returning. The Govr, Mr Calvert, the chief Justice, &amp; Mr Dulany dine here on Monday: shoud You set out on that Day, You know, You can be here in Time to Dinner.<a class="ptr" href="#GEWN-02-09-02-0159-fn-0004" id="GEWN-02-09-02-0159-fn-0004-ptr">4</a> I am, most truly &amp; cordially, Dr sir, Yr most obedt Hble servt</p>
+<div class="closer">
+<p class="signed">Jonan Boucher</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-09-02-0159-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0159-fn-0001-ptr" id="GEWN-02-09-02-0159-fn-0001">1</a>
+
+   <p>Miss Betsey is probably Elizabeth Calvert, eldest daughter of Benedict Calvert.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0159-fn-0002-ptr" id="GEWN-02-09-02-0159-fn-0002">2</a>
+
+   <p>Coopers letter to Boucher is dated 22 Mar. 1773, although it is dated 1770 in the Washington Papers at the Library of Congress and in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Stanislaus Murray Hamilton, ed. &lt;i&gt;Letters to Washington and Accompanying Papers&lt;/i&gt;. 5 vols. Boston and New York, 18981902. ]">Hamilton, <span class="hi-italic" style="font-style: italic;">Letters to Washington</span></span>, 4:58. Coopers threes look very much like zeros. The letter, dated from Kings College, reads: My dear Sir, I hold myself much obliged to you for good Will, as well as good Offices, towards this College, as instanced in your Conduct respecting Mr Custis: and I am under still weightier Obligation, when I consider your very friendly Suspension of Belief, with Regard to some Reports, which, You tell me, have been circulated in your Parts to our prejudice. I am conscious that we have Enemies in Abundancethat every Dissenter of high principles, upon the Continent is our Enemythat many of their Missionaries, from the northern into the southern provinces, make it their Business, nay, have it in Charge from their Masters, to decry this Institution by all <span class="hi-italic" style="font-style: italic;">possible</span> Means; <span class="hi-italic" style="font-style: italic;">because</span> they are convinced, from its very Constitution(being in the Hands only of Churchmen, which is very far indeed from being the Case of any other College to the northward of Virginiaand I know of none to the southward of itthey are convinced) that it must eventually prove one of the firmest Supports to the Church of England in America.</p>
+
+
+   <p>Hence there arose an Opposition coeval with the College itselfor, rather, with the very first Mention of an Institution so circumstanced; which
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0214">[214]</span>
+hath been continued, without Interruption, to this very Day, with much Resentment, Inveteracy and Malice. The College of New-Jerseyand those of New-Englandwere already in their own sole Direction and yet they could not be satisfied that the poor Church should have any Influence in one: not that Dissenters of any Denomination are excluded from either Learning or Teaching; nay, we have educated many and have several at this very Time, who do Honour both to us and themselves.</p>
+
+
+   <p>However, oweing either to the very Opposition, or to our own Care &amp; Circumspection, which may perhaps, have arisen from the former, our Numbers yearly increase, and our present Apartments overflow. It would ill become any one, to boast of the Advantages enjoyd by a Seminary over which he himself presides; but I will venture to affirm that, with Respect to <span class="hi-italic" style="font-style: italic;">Discipline</span> (which, it seems, is one heavy Accusation exhibited against us,) we are far from being outdone by any College on the American Continent: and I <span class="hi-italic" style="font-style: italic;">know</span> of none in Europe, to which in this Article we are really inferior. Add to this, that the Expencehowever such things may be magnified by our Adversaries, is not half so much as at any of the latter; and, I believe very little, if at all, more, than at most of the former. Our Tuition is only five poundsone Dolr passing for 8 ShillingsNew York Currency; Room-rent four; and Board, including Breakfast, Dinner and Supper, at the Rate of eleven Shillings a week, for the Time each Student is actually in College. These, (saving Firewood, Candles &amp; Washing which must be had every where) are the principal Expences, indeed almost the only ones, of the truly Collegiate Kind. <span class="hi-italic" style="font-style: italic;">Others</span> indeed, <span class="hi-italic" style="font-style: italic;">may</span> run higheras in Dress, and <span class="hi-italic" style="font-style: italic;">sometimes</span> in Company, than they do at Colleges in the Country; tho even These will not be materially different to a Student of <span class="hi-italic" style="font-style: italic;">real Gentility</span>: For such a one will chuse to appear handsomely-habited in all Situations; and when he <span class="hi-italic" style="font-style: italic;">does</span> go into Company, he will chuse the best for his Associates.</p>
+
+
+   <p>With Regard to our plan of Education, it is copied, in the most material parts, from Queens College in Oxford; with the wh<span class="hi-italic" style="font-style: italic;">mutilated</span> System of which, (having been for many Years both Learner and <span class="hi-italic" style="font-style: italic;">illegible</span> in that Seminary, with the Character of which You are by no Means unacquainted;) I looked upon myself as perfectly familiar.</p>
+
+
+   <p>The young Gentlemans Guardian may rely on every Thing in my Power for his Wards Emolument: but as to my turning <span class="hi-italic" style="font-style: italic;">private Tutor</span> as it wereit seems to me so inconsistent with my Office (whatever others in my Situation may think fit) that I must beg to be excused. But I repeatThat I will shew Mr Custis every Mark of Care &amp; Attention, and see that his other Teachers shall do the same.</p>
+
+
+   <p>I have only to add, that I <span class="hi-italic" style="font-style: italic;">wish</span> he may be here in June, as we do not enter pupils when absentthat I beg my best Respects to Coll Washington, whom I shall be exceedingly happy to wait upon in New-York (yourself, I hope, in Company)and that I am, Dr Sr yr affte Friend and very obedt Servant &amp;c. M. Cooper. The postscript says: I hope you will have patience with me, at present I suffer much by a severe fit of the Gravel.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0159-fn-0003-ptr" id="GEWN-02-09-02-0159-fn-0003">3</a>
+
+   <p>Overton Carr did not accompany GW and John Parke Custis to New York in May.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0215">[215]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0159-fn-0004-ptr" id="GEWN-02-09-02-0159-fn-0004">4</a>
+   
+   <p>GW and Custis arrived at Bouchers on Monday, 12 April, in time to dine and lodge at Mr. Bouchers with Govr. Eden &amp; others (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-03-02-0003-0008#GEWN-01-03-02-pb-0172" class="document">3:172</a>). For references to GWs suit against Daniel Jenifer Adams in the Maryland provincial court, see <a href="default.xqy?keys=GEWN-print-02-09-02-0135" class="document">Robert Hanson Harrison to GW, 12 Feb. 1773</a> and <a href="default.xqy?keys=GEWN-print-02-09-02-0135&amp;expandNote=GEWN-02-09-02-0135-fn-0002#GEWN-02-09-02-0135-fn-0002" class="document">note 2</a> of that document.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-09-02-0159 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 9 (8 January 177218 March 1774)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0158" title="To Benedict Calvert, 3 April 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0160" title="From Benedict Calvert, 8 April 1773"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

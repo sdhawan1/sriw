@@ -1,0 +1,165 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0156&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0155" title="From John Foster Williams, 15 February 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0157" title="To Robert R. Livingston, 19 February 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0156-0001" title="From C. W. F. Dumas, 18 February 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0156&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0155" title="From John Foster Williams, 15 February 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0157" title="To Robert R. Livingston, 19 February 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0239">239</span><div id="PJA12tg17" class="transgroup">
+
+<div id="PJA12d177" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">La Haie 18e. Fevr. 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Jai fait ce matin les dmarches dont jai eu lhonneur de vous parler. Leffet en question sera mis demain 19e. en vente publique, pour savoir qui en offrira le plus. Nous laisserons offrir, sans nous en mler. Jai envoy un Expert, dont le rapport est satisfaisant quant  lessentiel: Cest--dire que lEffet est bon et sain; quil a seulement t nglig, et que les rparations comme peinture double, et autres, pour remettre lEffet dans tout ltat requis, pourront aller de 600  1000 selon quon voudra tendre ou borner ces rparations. La taxe publique ordinaire de lEffet, est de 83.7: or, selon lusage, il faut doubler toujours cela,  cause de la taxe extraordinaire, qui est dautant: ainsi lEffet doit payer par an au pays 166.14s. de taxe quon appelle <span class="hi-italic" style="font-style: italic;">Verponding</span>. Jai fait faire sous main une offre au Propritaire; mais comme il se tient roide et fier, nous le laisserons exprimenter sa fortune demain, et ce qui lui aura t offert, le rendra plus traitable probablement, et nous servira  nous de guide. Vendredi prochain, si nous ne nous accordons pas lui et nous pour acheter de la main  la main, leffet sera ajug finalement  celui qui criera  propos <span class="hi-italic" style="font-style: italic;">mine</span> ( moi) pendant que le Crieur ira en descendant dune somme par laquelle il commencera. Soit que nous tombions daccord avec le propritaire entre demain et vendredi prochain, Soit quil veuille encore courir les risques de ce jour-l, vous pouvez compter, Monsieur, que je me tiendrai dans les limites des ordres que vous mavez donns, et que jaurai lhonneur de vous informer par la poste de Samedi prochain,<a class="ptr" href="#PJA12d178n1" id="PJA12d178n1-ptr">1</a> si lEffet est  vous ou non. Jajouterai seulement ici, que le rapport de lexpert que jai employ, me rassure tout--fait sur la bont de lemplette, en me donnant la certitude, que vous ne laurez nullement trop chere, quand mme le prix iroit jusquau dernier terme de vos ordres.</p>
+<p>Permettez que je place ici nos respects et complimens pour Mr. Barclai. Nous esperons que vous avez fait le voyage heureusement. Je suis avec le respect le plus sincere, Monsieur Votre trs-humble &amp; trs-obissant serviteur</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0240">[240]</span>
+<div id="PJA12d178" class="trans letter">
+
+ <h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 18 February 1782</td>
+		</tr>
+      </table>
+</div>
+<p>This morning I took the necessary steps that we talked about. The property in question will be up for public sale tomorrow, the 19th, to see who will make the highest offer. We will let them offer without interfering. I sent an expert whose report is satisfactory concerning the essentials, that is to say that the property is good and desirable, that it has solely been neglected, and that it needs only some repairs like painting and other things in order to return it to the required state. The price for this would range from 600 to 1000 florins depending on how extensive the repairs are. The basic public tax for the property is 83.7, but according to practice that number should be doubled because of the extraordinary tax, which is just as much. Therefore a tax of 166.14s must be paid for tax they call <span class="hi-italic" style="font-style: italic;">Verponding</span>. I made a secret offer to the owner, but since he is stiff and proud, we will let him try his own luck tomorrow, and that which will be offered to him will probably make him more manageable and serve to guide us. Next Friday, if we are not in agreement to buy it directly from him, it will be awarded to whoever shouts <span class="hi-italic" style="font-style: italic;">mine</span> while the auctioneer descends in price from where he started. Whether we reach an agreement with the owner between tomorrow and next Friday, or whether he wants to take a risk of that day, you can be sure, sir, that I will stay within the limitations of your orders and I will be able to inform you of the outcome by next Saturdays post.<a class="ptr" href="#PJA12d178n1" id="PJA12d178n1-ptr">1</a> I will simply add here, that the experts report has reassured me that it is a good purchase and that you will have it for a fair price even if it goes for your top price.</p>
+<p>Permit me to add here my regards for Mr. Barclay. We hope you have had a good journey. I am with the most sincere respect, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d178sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA12d178n1-ptr" id="PJA12d178n1">1</a>
+<p>That is, 23 February. See Dumas letter of that <a href="default.xqy?keys=ADMS-print-06-12-02-0164-0002" class="document">date</a>, below.</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0156 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0155" title="From John Foster Williams, 15 February 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0157" title="To Robert R. Livingston, 19 February 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

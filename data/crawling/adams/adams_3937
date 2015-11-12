@@ -1,0 +1,374 @@
+I. John Thaxter’s Inventories of Household Furnishings, 14 May – 16 October 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>I. John Thaxters Inventories of Household Furnishings, 14 May  16 October 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0019-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-05-14-6">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02-0019&amp;mode=TOC" title="Household Inventories of the U.S. Legation at The Hague: 14 May 1782  24 June 1784"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0019-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0019-0003" title="II. Marie Dumas Inventory of Household Furnishings [document with translation]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 11px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13-02-0019&amp;mode=TOC">Household Inventories of the U.S. Legation at The Hague: 14 May 1782  24 June 1784</a>&gt; I. John Thaxters Inventories of Household Furnishings, 14 May  16 October 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0019-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0019-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0019-0003" title="II. Marie Dumas Inventory of Household Furnishings [document with translation]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0026">26</span><div id="PJA13d027" class="doc other">
+
+<h2>I. John Thaxters Inventories of Household Furnishings</h2>
+
+<div class="docbody">
+<h3>Inventory</h3>
+<div class="opener">
+<div class="openerSeg">A true copy of the Inventory made by Mr. John Thaxter</div>
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">
+14 may 1782<br/>16 octr. 1782
+</td>
+	      </tr>
+      </table>
+</div>
+<ul class="simple">
+	    <li>12 chafing Dishes</li>
+	    <li>30 Bocale Goblets<a class="ptr" href="#PJA13d027n1" id="PJA13d027n1-ptr">1</a>2 broken</li>
+	    <li>4 salt sellers, Ghrystal</li>
+	    <li>22 English Wine Glasses flat10 Wanting</li>
+	    <li>9 Dozen and 2 Wine Glasses small14 gone<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0027">[27]</span></li>
+	    <li>4. Dcanters</li>
+	    <li>11. dito flat</li>
+	    <li>23 Wine glasses bought by mad: dumas</li>
+	    <li>19 Rhenish Glasses.</li>
+	    <li>12 small Dcanters bought by mad: Dumas</li>
+	    <li>2 Castors.</li>
+	    <li>12 Liqueur Glasses bt by Mad: Dumas.</li>
+	    <li>1 Lantern.</li>
+	    <li>5 Beer Glasses.</li>
+	  </ul>
+<p>this received in good order</p>
+<p>(was signed) Lotter.<a class="ptr" href="#PJA13d027n2" id="PJA13d027n2-ptr">2</a></p>
+<ul class="simple">
+	    <li>8 yellow metal candlesticks</li>
+	    <li>4 Weights of Copper</li>
+	    <li>3 little Bells.</li>
+	    <li>12 Water plates.</li>
+	    <li>1 pair scales.</li>
+	    <li>3 Wash Basons, Quens, Ware</li>
+	    <li>6 Blue spitting pots.</li>
+	  </ul>
+<p class="listHead">Quens Ware.</p><ul class="simple">
+	    <li>3 Doz. and 9. Quens Ware soop Plates9 Wanting</li>
+	    <li>8 Doz. et 3. dito flat plates12 Wanting</li>
+	    <li>6. Great round Dishes.</li>
+	    <li>3. dito round Dishes.</li>
+	    <li>8. dito.</li>
+	    <li>2. dito oval</li>
+	    <li>3. dito round and Deep1. broken</li>
+	    <li>2 dito round &amp;c.</li>
+	    <li>1 Turen and its Plate.</li>
+	    <li>4 paniers avec leurs assiettes [<ins title="editorial addition or explanation" class="ed">baskets with their plates</ins>] for strawberrys</li>
+	    <li>5 butter boats2. Wanting</li>
+	    <li>2. Three cornered plates</li>
+	    <li>3. sous coup [<ins title="editorial addition or explanation" class="ed">saucers</ins>]</li>
+	    <li>2. fait a coeur [<ins title="editorial addition or explanation" class="ed">heart shaped</ins>]</li>
+	    <li>4. cal.</li>
+	    <li>14. little dessert plates1 wanting</li>
+	    <li>2. Trouels. [<ins title="editorial addition or explanation" class="ed">fish knives</ins>]</li>
+	  </ul>
+<p>this Articles received in good order</p>
+<p>(Was signed) Lotter.</p>
+<ul class="simple">
+	    <li>1 faire soupe.</li>
+	    <li>3 Doz. et 9. small Bowls5. Wanting</li>
+	    <li>5 Doz. Plates for the Bowls6. wanting<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0028">[28]</span></li>
+	    <li>5 Bowls for chocolate</li>
+	    <li>13 Sugar Pots.</li>
+	    <li>4 Doz. and 8. large cups.</li>
+	    <li>5. Doz. saucers and 2.</li>
+	    <li>3. Doz. and 8 ordinary Tea cups11. Wanting</li>
+	    <li>4. Doz. and 4. Saucers.2. Wanting</li>
+	    <li>10 Tea pots3 little broken</li>
+	    <li>5 mugs</li>
+	    <li>6 cream Pots</li>
+	    <li>2 Larger Sorts Pots a crme</li>
+	    <li>9. pieds aux oeufsEgg Pots</li>
+	    <li>8 pepper Pots</li>
+	    <li>5 Salt Sellers.</li>
+	    <li>4. mustard pots</li>
+	    <li>1 coffee potbroken</li>
+	    <li>2 Sallad Plates.</li>
+	  </ul>
+<p>received this above Articles in good Order</p>
+<p>(Was Signed) Lotter.</p>
+<p class="listHead">Porcelaine Blue service</p><ul class="simple">
+	    <li>4 Great Dishes deep</li>
+	    <li>4 dito flat.1 broken</li>
+	    <li>8 dito flat.</li>
+	    <li>7 Small.</li>
+	    <li>8 Small dito</li>
+	    <li>4 Dgoutieres [<ins title="editorial addition or explanation" class="ed">strainers</ins>]</li>
+	    <li>4. Turens with their tops</li>
+	    <li>47. Soop plates</li>
+	    <li>9. Doz. and 8 plates flat5 Wanting</li>
+	    <li>23 little flat plates</li>
+	    <li>22 little deep plates</li>
+	    <li>12 Sallad plates.</li>
+	    <li>8 butter boats</li>
+	    <li>8. Salt Sellers.</li>
+	  </ul>
+<p>the full content of this received in good order</p>
+<p>(Was Signed) F. Lotter.</p>
+<p class="listHead">Porcelaine de saxe</p><ul class="simple">
+	    <li>1 Tea pot and its saucer</li>
+	    <li>1 tea canister</li>
+	    <li>1 cream pot With its Saucer</li>
+	    <li>1 Bowl with its Saucer</li>
+	    <li>1 Sugar pot With its Saucer<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0029">[29]</span></li>
+	    <li>6 coffee cups.</li>
+	    <li>12 tea cups</li>
+	    <li>12 Saucers.</li>
+	  </ul>
+<p class="listHead">another Set of porcelaine</p><ul class="simple">
+	    <li>1 tea pot</li>
+	    <li>1 cream pot</li>
+	    <li>2 sugar pots</li>
+	    <li>12 tea cups</li>
+	    <li>12 saucers</li>
+	    <li>12 coffee cups</li>
+	    <li>12 saucers</li>
+	    <li>1 Bowl with its saucer</li>
+	    <li>1 tea pot</li>
+	    <li>1 cream pot</li>
+	    <li>1 bowl</li>
+	    <li>12 cups</li>
+	    <li>12 saucers.</li>
+	    <li>1 Punch Bowl.</li>
+	  </ul>
+<p>this I have received in good order</p>
+<p>(was signed) Lotter.</p>
+<p class="listHead">Blue porcelaine</p><ul class="simple">
+	    <li>1 tea pot with its Saucer</li>
+	    <li>1 tea canister</li>
+	    <li>1 Bowl with its saucer</li>
+	    <li>1 sugar pot with its dito</li>
+	    <li>11 cups one broken.</li>
+	    <li>8 saucers.</li>
+	  </ul>
+<p>this Articles received in good order.</p>
+<ul class="simple">
+	    <li>2 oval affairs for Wine glasses</li>
+	    <li>2 round dito for Tea</li>
+	    <li>6 plattes for Bottles</li>
+	    <li>17. dito for Wine glasses</li>
+	    <li>16 Blac</li>
+	  </ul>
+<p>this 5 articles received in good order</p>
+<p>(was signed) Lotter</p>
+<p class="listHead">Bought by Madam Dumas.</p><ul class="simple">
+	    <li>3 Grand compotschrystal [<ins title="editorial addition or explanation" class="ed">3 large crystal fruit-bowls</ins>]</li>
+	    <li>6 dito avec leurs couveriles [<ins title="editorial addition or explanation" class="ed">6 ditto with their lids</ins>]</li>
+	    <li>4 dito Sans couverts [<ins title="editorial addition or explanation" class="ed">4 ditto without lids</ins>]</li>
+	    <li>2 Pots de moutarde avec Leurs cuilleres [<ins title="editorial addition or explanation" class="ed">2 mustard pots with their spoons</ins>]</li>
+	  </ul>
+<p>received this Articles in a good order</p>
+<p>(Was Signed) F: Lotter.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0030">[30]</span>
+<p class="listHead">Mr. A.</p><ul class="simple">
+	    <li>1 Feather Bed</li>
+	  </ul>
+<p class="listHead">Mr. T.</p><ul class="simple">
+	    <li>3 Feather Beds</li>
+	    <li>2 Feather Bedschamber opposite</li>
+	    <li>1 little chamber</li>
+	    <li>1 good Feather</li>
+	    <li>2 for Servants.</li>
+	    <li>10</li>
+	  </ul>
+
+<p class="listHead">Mr. A.</p><ul class="simple">
+	    <li>1 matrass</li>
+	    <li>3 little chamber</li>
+	    <li>m. T.</li>
+	    <li>2</li>
+	    <li>6.</li>
+	  </ul>
+
+<p class="listHead">Bolsters.</p><ul class="simple">
+	    <li>1chamber</li>
+	    <li>3 little chamber</li>
+	    <li>mr. T.</li>
+	    <li>2</li>
+	    <li>mr. A.</li>
+	    <li>1</li>
+	    <li>2 Servants</li>
+	    <li>9</li>
+	  </ul>
+
+<p class="listHead">pillows</p><ul class="simple">
+	    <li>8 little chamber</li>
+	    <li>2 mr. T.</li>
+	    <li>1 mr. A.</li>
+	    <li>4 servants.</li>
+	    <li>15</li>
+	  </ul>
+
+<p class="listHead">Strawbeds</p><ul class="simple">
+	    <li>mr. A.</li>
+	    <li>2.</li>
+	    <li>2. m. T.</li>
+	    <li>4. servants</li>
+	    <li>8.</li>
+	  </ul>
+
+<p class="listHead">Blankets.</p><ul class="simple">
+	    <li>1 mr. a.</li>
+	    <li>5 little chamber<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0031">[31]</span></li>
+	    <li>1 little chamber</li>
+	    <li>3 mr.T.</li>
+	    <li>4 jacob and john</li>
+	    <li>2 girls.</li>
+	    <li>16.</li>
+	  </ul>
+
+<p class="listHead">Coverlids</p><ul class="simple">
+	    <li>1 chamber</li>
+	    <li>1 mr. A.</li>
+	    <li>2 mr. T. chamber</li>
+	    <li>1 little chamber</li>
+	    <li>1 girls</li>
+	    <li>6.</li>
+	  </ul>
+
+<p>Alle the Beddings received <br/>as in the Lst mentioned</p>
+<p>(Was Signed) F: Lotter.</p>
+<ul class="simple">
+	    <li>52 Draps [<ins title="editorial addition or explanation" class="ed">52 sheets</ins>]</li>
+	    <li>13 nappes fines [<ins title="editorial addition or explanation" class="ed">13 fine tablecloths</ins>]</li>
+	    <li>5 nappes pour la cuisine [<ins title="editorial addition or explanation" class="ed">5 tablecloths for the kitchen</ins>]</li>
+	    <li>53 <del title="deleted text">&lt;nappes&gt;</del> serviettes fines dito 3 more [<ins title="editorial addition or explanation" class="ed">53 fine napkins ditto 3 more</ins>]</li>
+	    <li>11 Essuimains [<ins title="editorial addition or explanation" class="ed">11 towels</ins>]</li>
+	    <li>3 petits dito [<ins title="editorial addition or explanation" class="ed">3 small ditto</ins>]</li>
+	    <li>19 toits de lits [<ins title="editorial addition or explanation" class="ed">19 canopies</ins>]</li>
+	    <li>4 tablier pour Les Domestiques [<ins title="editorial addition or explanation" class="ed">4 aprons for the servants</ins>]</li>
+	    <li>34 grosse Serviettes, [<ins title="editorial addition or explanation" class="ed">34 large napkins</ins>] (ceci nest pas sur Linventaire de mr. J. Thaxter) [<ins title="editorial addition or explanation" class="ed">This is not on Mr. J. Thaxters inventory</ins>].</li>
+	    <li>7 Russen sloopen [<ins title="editorial addition or explanation" class="ed">Russian pillow-cases</ins>]</li>
+	    <li>6 white waiscoats and 3 pair of breeches.</li>
+	  </ul>
+<p>received all Well<br/>(was signed) F: Lotter.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d027sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ file copy (Ordinarily a copy of a letter retained by a correspondent &lt;i&gt;other than an Adams&lt;/i&gt;; for example, Jeffersons press copies and polygraph copies, since all three of the Adams statesmen systematically entered copies of their outgoing letters in letterbooks.) ]">FC</abbr></span> in an unknown hand  (<span class="ref-terms">Adams Papers</span>) This document consists of fourteen numbered pages and was done sometime after 24 June 1784. It is a compendium of four inventories of the household goods of the U.S. legation at The Hague that were taken by John Thaxter and Marie Dumas between 14 May 1782 and 24 June 1784, the originals of which have not been found. John Thaxters inventories are dated 14 May and 16 Oct. 1782 and appear on pages 1 through 6 of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ file copy (Ordinarily a copy of a letter retained by a correspondent &lt;i&gt;other than an Adams&lt;/i&gt;; for example, Jeffersons press copies and polygraph copies, since all three of the Adams statesmen systematically entered copies of their outgoing letters in letterbooks.) ]">FC</abbr>. Since they cannot be definitively distinguished from each other, they are printed here as one document. Marie Dumas inventories of 22 and 24 June 1784 (Nos. II and III, below) appear, respectively, on pages 7 through 12 and 13 and 14 of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ file copy (Ordinarily a copy of a letter retained by a correspondent &lt;i&gt;other than an Adams&lt;/i&gt;; for example, Jeffersons press copies and polygraph copies, since all three of the Adams statesmen systematically entered copies of their outgoing letters in letterbooks.) ]">FC</abbr>. Where Thaxter uses a French or Dutch term to describe an item and it can be identified, a translation has been provided in brackets.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d027n1-ptr" id="PJA13d027n1">1</a>
+
+   <p>In this and other entries where it is indicated that items are broken or missing, the first portion was likely part of the original 14 May inventory, with the remainder resulting from Thaxters review on 16 October.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d027n2-ptr" id="PJA13d027n2">2</a>
+
+   <p>Lotters name, usually F. Lotter, appears throughout the inventories. He is otherwise unidentified but was presumably related to Christian Lotter who served as <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s steward at The Hague from 1784 or earlier (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Adams Family Correspondence&lt;/i&gt;, ed. L. H. Butterfield, Marc Friedlaender, Richard Alan Ryerson, Margaret A. Hogan, and others, Cambridge, 1963?. ]"><span class="hi-italic" style="font-style: italic;">AFC</span></span>, <a href="default.xqy?keys=ADMS-print-04-06-02-0067&amp;expandNote=AFC06d069n2#AFC06d069n2" class="document">6:197</a>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0019-0002 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0019-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0019-0003" title="II. Marie Dumas Inventory of Household Furnishings [document with translation]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

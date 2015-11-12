@@ -1,0 +1,181 @@
+General Orders, 9 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 9 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0179&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-09-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0178" title="From Jonathan Trumbull, Sr., 8 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0180" title="Instructions to John Goddard, 9 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 9 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0179&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0178" title="From Jonathan Trumbull, Sr., 8 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0180" title="Instructions to John Goddard, 9 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0277">277</span><div id="Rev01d167" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, August 9th 1775.</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Rochester.</td>
+		<td class="csigns">Countersign, Plymouth.</td>
+	      </tr></table>
+
+</div>
+<p>The Commanding Officer of each Regiment, or Corps, is to send a Return at Orderly time, to morrow to the Adjutant General, of the number of Tents or boards, which are wanted to cover the men, that they may be provided as soon as possible. They are also to give in the Names of such of their men, who neither have received Blankets, or who lost them in the engagement, on Bunkers-hill.</p>
+<p>As there are several Vacancies in the different Regiments, if there are any particular Gentlemen, who signalized themselves
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0278">[278]</span>
+in the Action on Bunkers hill, by their spirited behaviour and good conduct, and of which, sufficient proof is adduced to the General; He will, in filling up the Commissions, use his endeavours to have them appointed (if not already Commissiond) to some Office, or promoted if they are; as it will give him infinite pleasure at all times to reward Merit, wherever it is to be found.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0001" id="GEWN-03-01-02-0179-fn-0001-ptr">1</a></p>
+<p>Col. Learnerds Regiment to join General Thomass Brigade, and Col. Huntingtons to join General Spencers brigade.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0002" id="GEWN-03-01-02-0179-fn-0002-ptr">2</a></p>
+<p>Capt. Ballard of Col. Fryes Regiment tried by the late General Court Martial for profane swearing and for beating, and abusing his men: The Court find the Prisoner guilty, in two Instances of profane swearing and of beating his men, and therefore sentence him to pay, a Fine of Four Shillings, for each Offence.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0003" id="GEWN-03-01-02-0179-fn-0003-ptr">3</a></p>
+<p>Capt. Jesse Saunders of Col. Sargeants Regiment, tried by the late General Court Martial for frequently drawing more Provisions, than he had men in his Company to consume; for forcing the Sentry, and taking away a Gun, the property of William Turner; and threatening the Life of Serjeant Connor, Cocking and presenting his Gun at him, when in the execution of his dutyThe Court are unanimously of Opinion, that the prisoner is <span class="hi-italic" style="font-style: italic;">guilty</span> of the whole of the Charge, exhibited against him, and unanimously adjudge that he be forthwith cashiered. The General approves the above sentence, and orders them to be put in immediate execution.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0004" id="GEWN-03-01-02-0179-fn-0004-ptr">4</a></p>
+<p>To morrow the Rules and Articles formd by the Hon: the Continental Congress for the Government of the Troops of the Twelve United Colonies; will be delivered out, to be distributed through the several Corps of the ArmyThey are to be signed by the several Officers of each Regiment, beginning with the Colonels, and then by the Soldiers; in the blank Leaves left for that purpose; and after they are so subscribed, they are to be deposited with the Captain of each CompanyIf there are any Officers, or Soldiers, who refuse to sign them, their Names, the Companys &amp; Regiments to which they respectively belong, are to be reported to the Commander in Chief without delay.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0005" id="GEWN-03-01-02-0179-fn-0005-ptr">5</a></p>
+<p>Mr John Goddard is appointed by the Commander in Chief; Waggon Master General to the Army of the Twelve United Colonies, and is to be obeyed as such.<a class="ptr" href="#GEWN-03-01-02-0179-fn-0006" id="GEWN-03-01-02-0179-fn-0006-ptr">6</a></p>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0279">[279]</span>
+<div class="note-source" id="GEWN-03-01-02-0179-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0001-ptr" id="GEWN-03-01-02-0179-fn-0001">1</a>
+
+   <p>GW received recommendations of such persons in letters of 10 Aug. 1775 from the officers and men of Capt. Levi Spauldings company, from Artemas Ward, and from Jonathan Ward.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0002-ptr" id="GEWN-03-01-02-0179-fn-0002">2</a>
+	
+   <p>Col. Ebenezer Learneds Massachusetts regiment, which was assigned to Brig. Gen. Joseph Spencers brigade at Roxbury in <a href="default.xqy?keys=GEWN-print-03-01-02-0091" class="document">General Orders, 22 July 1775</a>, was transferred to Brig. Gen. John Thomass brigade, which was also at Roxbury, in order to make room for Col. Jedediah Huntingtons newly raised Connecticut regiment. Only part of Huntingtons regiment apparently was at Roxbury at this time (<a href="default.xqy?keys=GEWN-print-03-01-02-0364" class="document">Jonathan Trumbull, Sr., to GW, 15 Sept. 1775</a>). Ebenezer Learned (17281801) of Oxford, Mass., served as a captain in a provincial regiment during the French and Indian War and represented his town in the provincial congress before being commissioned a colonel of a Massachusetts regiment on 20 May 1775. In March 1776 he acted as an intermediary between GW and Gen. William Howe during the British evacuation of Boston, and he is said to have personally opened the gates to the city. Although illness obliged Learned to leave the army in the spring of 1776, he returned a year later when the Continental Congress appointed him a brigadier general. Learned commanded a brigade during the Saratoga campaign but resigned his commission in March 1778 on account of recurrent ill health.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0003-ptr" id="GEWN-03-01-02-0179-fn-0003">3</a>
+
+   <p>William Hudson Ballard (d. 1814) of Amesbury, Mass., continued to serve in the Continental army until 1 Jan. 1781. He was promoted to major of the 15th Massachusetts Regiment on 1 July 1779.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0004-ptr" id="GEWN-03-01-02-0179-fn-0004">4</a>
+
+   <p>For GWs particular remarks on this case, see <a href="default.xqy?keys=GEWN-print-03-01-02-0182" class="document">General Orders, 10 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0005-ptr" id="GEWN-03-01-02-0179-fn-0005">5</a>
+
+   <p>Hancock sent printed copies of the Continental articles of war with his letter to GW of 5 July 1775. For a discussion of them, see <a href="default.xqy?keys=GEWN-print-03-01-02-0022&amp;expandNote=GEWN-03-01-02-0022-fn-0003#GEWN-03-01-02-0022-fn-0003" class="document">Richard Henry Lee to GW, 29 June 1775, n.3</a>. The first article required all present and future members of the Continental army to sign the Continental articles of war. But, it went on to say, if any of the officers or soldiers, now of the said army, do not subscribe these rules and regulations, then they may be retained in the said army, subject to the rules and regulations under which they entered into the service, or be discharged from the service, at the option of the Commander in chief (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:112). GW chose the first option when many officers and soldiers declined to sign for fear that this might obligate them to serve for a longer time than they had originally agreed. See <a href="default.xqy?keys=GEWN-print-03-01-02-0254" class="document">General Orders, 24 Aug. 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0025" class="document">GW to Hancock, 21 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0179-fn-0006-ptr" id="GEWN-03-01-02-0179-fn-0006">6</a>
+
+   <p>John Goddard (17301816) of Brookline served in the first Massachusetts provincial congress, and on 24 Feb. 1775 the committees of safety and supplies made him wagon master for the Massachusetts forces. Goddard remained Continental wagon master general until the spring of 1776, when he resigned rather than go to New York with the army. He served in the Massachusetts house of representatives from 1776 to 1777, from 1784 to 1789, and in 1792.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0179 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0178" title="From Jonathan Trumbull, Sr., 8 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0180" title="Instructions to John Goddard, 9 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

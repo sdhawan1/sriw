@@ -1,0 +1,201 @@
+Orders and Instructions for Major General Artemas Ward, 4 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Orders and Instructions for Major General Artemas Ward, 4 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0029&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-04-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0028" title="To Richard Henry Lee, 4 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0030" title="Expenses of Journey to New York, 413 April 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; Orders and Instructions for Major General Artemas Ward, 4 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0029&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0028" title="To Richard Henry Lee, 4 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0030" title="Expenses of Journey to New York, 413 April 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0036">36</span><div id="Rev04d28" class="doc">
+
+
+<h1>Orders and Instructions for Major General Artemas Ward</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Head Quarters Cambridge 4th April 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>You are hereby Ordered and directed to take upon you the Command of the Continental Forces remaining in the Province of the Massachusetts Bay for the defence and security of the same and for the protection of the Continental Stores. You are therefore to observe the following Orders and Instructions. Vizt:</p>
+<p>1st You will comply with any requisition of the General Court or Council of said Province respecting the Troops under your Command, if not incompatible with any Order receivd from me, or which has been or may be sent you from Congress.</p>
+<p>2d All Provisions and Military Stores of every kind are to be collected together and sufficiently guarded. You will also afford every necessary protection to the Stores and Vessells which lay at Beverly.</p>
+<p>3d If it should be found more convenient to have the Regiments Quarterd in the Barracks at Roxbury, and in those erected by the Enemy on the Neck, and it should be agreeable to the General Court, or Council I shall have no objection to it. Some Men should be kept on Bunkers Hill, and should be employed in levelling the lower Lines of that Work next Prospect and Winter Hills.<a class="ptr" href="#GEWN-03-04-02-0029-fn-0001" id="GEWN-03-04-02-0029-fn-0001-ptr">1</a> All the Lines upon Boston Neck ought also in my opinion to be demolished, as it is a defence against the Country and no Security to the Town. The Flches at West Boston ought also to be demolished.</p>
+<p>4th All the Troops are to be employed in compleating such Works as are already begun, and such as may be resolved on by the General Court or Council, for the defence of the Harbour &amp;c. Colonel Gridley will be left to construct and superintend these Works; an Exact Account is to be kept, and a particular Valuation made of all the Materials, whether Old or New, that may be used in these Works, to be ready whenever it may be called for. This is by no means to be neglected.</p>
+<p>5 The Work upon Beacon Hill should be repaired, and, in my opinion, be made strong, as it commands Fort Hill and all the lower Works, and would endanger the loss of them, if it
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0037">[37]</span>
+should be possessed by the Enemy. No time should be lost in fixing with the General Court or Council upon proper Signals for alarming the Country upon the appearance of a Fleet. For the purpose of gaining as much time as possible I think the Alarm ought to be given from Cape Ann or Marblehead, and forwarded by (agreed) Signals to Boston and thence into the Country. This matter should not be delayed.<a class="ptr" href="#GEWN-03-04-02-0029-fn-0002" id="GEWN-03-04-02-0029-fn-0002-ptr">2</a></p>
+<p>6th A Guard should be kept over the Powder Magazine which I think would be safer in Boston.<a class="ptr" href="#GEWN-03-04-02-0029-fn-0003" id="GEWN-03-04-02-0029-fn-0003-ptr">3</a> The powder should be often Shifted. A Commissary or Conductor of Artillery Stores will be left who is to deliver nothing without an Order from you, or the Commanding Officer.</p>
+<p>7th Mr Quarter Master Parke, and a Commissary of Provisions will remain here till the Affairs of their respective departments are arranged, and proper Persons fixed upon to do the duties of their several Offices.</p>
+<p>8th The Paymaster General<a class="ptr" href="#GEWN-03-04-02-0029-fn-0004" id="GEWN-03-04-02-0029-fn-0004-ptr">4</a> will probably continue here till some regulation is adopted. Money will be left in his hands to answer the pay of the Troops and Contingent Expences of this department, which may be drawn for by your Warrant, but with respect to Accounts and transactions of which you have had no knowledge, let them be specially reported and paid by particular Order.</p>
+<p>9 All Captures made by the Continental Armed Vessells are to be immediately Libelld in the Court of Admiralty of the District to which they may be carried. All Officers, Soldiers and Men of Wars Men are considered as Prisoners, the former to be sent and confined to some Town<a class="ptr" href="#GEWN-03-04-02-0029-fn-0005" id="GEWN-03-04-02-0029-fn-0005-ptr">5</a> the others sent to such Goals as the General Court shall direct. No Condemnd property to be sold till the day of sale is three times advertized, and a particular enumeration of the Cargo in the News Papers of Boston or Cambridge, Watertown &amp; Worcester, and a special report thereof made to you, that if any thing is wanted in the Commissary or Quarter Masters departments they may be notified thereof.</p>
+<p>10 Every possible method is to be used for the preservation of the Barracks. If any of them are wanted for any of the new Works they may be taken after valuation thereof.</p>
+<p>11th The Vessells which were left in Boston by the Enemy,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0038">[38]</span>
+some with and some without Cargoes, and which I am told various Claims are laid to, must not be delivered up unless the Person claiming will give proper Security to abide the determination of Congress respecting them. In that Case an exact Inventory to be taken in Order to ascertain the Value. The Wheat left by the Kings troops is to be attended to and preserved as much as possible from damage. It ought either to be sold, or converted into Flour for the use of the Army. The Quarter Master &amp; Commissary may be consulted on this Head.</p>
+<p>12 The Regiments should be kept as much together as possible for the purpose of disciplining the Men when they are not upon fatigue duty. No Furloughs should be granted but in Cases of extreme necessity, and both Officers and Men kept strictly to their duty. The utmost frugality must be consulted in all expences of the Army.</p>
+<p>13 The flat bottomd Boats, Whale Boats and floating Batteries, are to be continued in the care of Captain Sylvanus DrewThey must be hawld into a convenient place of safety, and proper care taken to prevent their being destroyed or suffering damage from the Heat of the WeatherTheir Oars, paddles &amp;c. are to be put into some safe Store.</p>
+<p>14 All Officers and Seamen taken in Transport Vessells employed in the Enemys Service are to be released on Condition they give a very strict parole not to act against the American Colonies during the present Contest.</p>
+<p>Lastly I would recommend to your particular attention the keeping up a Strict discipline among both Officers and Soldiers. I need not mention that the reputation of the Army and perhaps the Salvation of the Province depends upon your exertions to preserve due Order and decorum among the Troops. All attempts to Mutiny, or disobedience of Orders should be severely punished. Any matters not particularly specified in the foregoing Instructions must be submitted to your own Judgement &amp; discretionI must desire you to advise me from time to time of your proceedings and of any public matters you may think worth communicating.<a class="ptr" href="#GEWN-03-04-02-0029-fn-0006" id="GEWN-03-04-02-0029-fn-0006-ptr">6</a> I am Sir Your most obedt Servant</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+</div>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0039">[39]</span>
+<div class="note-source" id="GEWN-03-04-02-0029-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document Signed: a document not in the authors handwriting, but signed by the author  ]">DS</abbr>, in William Palfreys writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Boston Public Library, Main Branch, Boston, Mass. ]">MB</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Draft: a draft of a letter or document in the handwriting of the author ]">ADf</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Draft: a draft of a letter or document in the handwriting of someone other than the author ]">Df</abbr>, in Palfreys writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Harvard University, Cambridge, Mass. ]">MH</span>: Palfrey Family Papers; 
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Secretary of State, Archives Division, Boston ]">M-Ar</span>: Revolution Letters; 
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Heath Papers; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+
+   <p>The draft in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> is in GWs writing except for its last three paragraphs and an insertion, which are in Palfreys writing. The text of that draft is a rough preliminary version of GWs orders and instructions for Ward. It does not include the opening paragraph, the last sentence in item four, or the first three sentences of the last paragraph, nor are items numbered in it. In some places GWs draft differs considerably from the text of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document Signed: a document not in the authors handwriting, but signed by the author  ]">DS</abbr> in wording and arrangement, but it conveys essentially the same meaning. A notable example is item two, which in GWs draft reads: The Stores of every kind, Provisions &amp; Military, are to be drawn together and sufficiently guardedThose at Beverley with the Vessels are also to be protected. Palfreys draft at Harvard University is nearly identical to the text of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document Signed: a document not in the authors handwriting, but signed by the author  ]">DS</abbr>.</p>
+
+
+   <p>The copy in the Massachusetts Archives was read by the Massachusetts council on 5 April and by the house of representatives the following day. Both chambers ordered the document to be entered into the files of the General Court (see the resolutions of those dates on the copy in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Secretary of State, Archives Division, Boston ]">M-Ar</span>; see also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ In &lt;i&gt;Journals, Minutes, and Proceedings, State of Massachusetts Bay, 17751780&lt;/i&gt;. (Microfilm Collection of Early State Records.) ]">Mass. Council Journal, Mar.Sept. 1776 sess.</span>, 89, 94, 12021; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 8586, 90, 99, 137). The copy at the Massachusetts Historical Society was written and attested to by Artemas Wards aide-de-camp Joseph Ward.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0001-ptr" id="GEWN-03-04-02-0029-fn-0001">1</a>
+
+   <p>The General Court resolved on 16 April that 160 officers and men be stationed on Bunker Hill and that all of Col. John Glovers regiment at Beverly, except for 160 officers and men, be moved to Boston to assist with the fortifications (Mass. Council Journal, Mar.Sept. 1776 sess., 12021; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 137).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0002-ptr" id="GEWN-03-04-02-0029-fn-0002">2</a>
+
+   <p>The erection of beacons at Cape Ann, Marblehead, Boston, and in the Blue Hills near Milton or Stoughton was authorized by the General Court on 16 April (Mass. Council Journal, Mar.Sept. 1776 sess., 121; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 137).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0003-ptr" id="GEWN-03-04-02-0029-fn-0003">3</a>
+
+   <p>In its resolutions of 16 April the General Court stipulated that not more than a quarter of the gunpowder was to be kept in Boston until the harbor was well fortified. The rest of the supply was to be stored in magazines at Charlestown, Cambridge, and Watertown (Mass. Council Journal, Mar.Sept. 1776 sess., 121; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives. At a Great and General Court or Assembly for the Colony of Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span></span>, Mar.May 1776 sess., 137).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0004-ptr" id="GEWN-03-04-02-0029-fn-0004">4</a>
+
+   <p>The draft in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> reads Mr Warren.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0005-ptr" id="GEWN-03-04-02-0029-fn-0005">5</a>
+
+   <p>Both of the drafts include here the words, upon their Paroles.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0029-fn-0006-ptr" id="GEWN-03-04-02-0029-fn-0006">6</a>
+
+   <p>On the draft in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>, Palfrey wrote below this paragraph: 2 Compani[e]s of artillery to remove the Guns from Cambridge &amp;c. to Boston. The number 2 was subsequently changed to 1.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0029 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0028" title="To Richard Henry Lee, 4 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0030" title="Expenses of Journey to New York, 413 April 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

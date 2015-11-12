@@ -1,0 +1,625 @@
+IV-B. John Parke Custis's Estate Account, c. November 1761
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>IV-B. John Parke Custis's Estate Account, c. November 1761</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1761-11-00-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-06-02-0164&amp;mode=TOC" title="Settlement of the Daniel Parke Custis Estate"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0164-0019" title="IV-A. General Account of the Estate, c.November 1761"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0021" title="IV-C. Martha Parke Custis's Estate Account, c.November 1761"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-06&amp;mode=TOC">Volume 6 (4 September 175826 December 1760)</a>&gt; <a href="?keys=GEWN-print-02-06-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-06-02-0164&amp;mode=TOC">Settlement of the Daniel Parke Custis Estate</a>&gt; IV-B. John Parke Custis's Estate Account, c. November 1761</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-06-02-0164-0020&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0164-0019" title="IV-A. General Account of the Estate, c.November 1761"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0021" title="IV-C. Martha Parke Custis's Estate Account, c.November 1761"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0270">270</span><div id="Col06d169" class="doc">
+          
+<h2 class="main">IV-B</h2>
+<h3 class="sub">John Parke Custiss Estate Account, 17591761</h3>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[c. November 1761]</td>
+	      </tr>
+      </table>
+</div>
+<table class="bodytext" id="Col06d169t1" style="margin-left: 0; margin-right: 0; width: 95%;">
+<tr>
+	      <td colspan="3" style="white-space: nowrap; text-align: center;">Dr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Mr John Parke Custis 1759</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">Currt Mony</td>
+	      <td style="white-space: nowrap; text-align: center;">Sterling</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;"> s. d.</td>
+	      <td style="white-space: nowrap; text-align: center;"> s. d.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1759 Oct.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Balle of your Acct Currt then settled &amp; approvd of by the Genl Court [and] 435 lib. Tobo</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">617.7. 1/2<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0001" id="GEWN-02-06-02-0164-0020-fn-0001-ptr">1</a></td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0271" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0271">[271]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">To the said 435 lib. Tobacco @ 20/ prCt</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.7.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To James Gildart Esqr. for  of 151.0.4 for Negroes Cloathing<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0002" id="GEWN-02-06-02-0164-0020-fn-0002-ptr">2</a></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 3.0em; vertical-align: bottom;"> 100.13.7</td>
+	    </tr>
+<tr>
+	      <td class="par">To 4 pair Cotton Sheets and Beds for Overseers and Workmen</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">17.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">1760</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Sundrys for his own use Vizt 8 yds Irish Linnen 3.14.3[;] Cambrick 12/6[;] 1 yds Linnen 3/1[;] Toys 3/9[;] Books and Marbles 3/11[;] Callico for a double Gown 20[;] 1 Yard fustian 2/.A pair of Silver Buckles 15s.A Suit of Cloaths for his Man 3.15.1. 7 yards <span class="hi-italic" style="font-style: italic;">illegible</span>las 12/6 and a pair of Shoes for ditto 4/.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">11.6.2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Joseph Valentine for Sundrys allowed him at Settlement Vizt for his own Wages 70 paid the Mill Right 10 15/.the Taylor 2.4.10. The Weaver 1.13.4.the Glazier 9/9for building a Boat 25s. Mending Seines 20s.taking up Jemmy 39/6.15 Bushels of Oats to Sow 21/3.Toys 4/.an Augur 1/3.Tobo Knives 7/6.Milk pans 26/7horse Collars 3/6</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">92.11.6 1/2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Mrs Washingtons [share] of the Rents on the other side<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0003" id="GEWN-02-06-02-0164-0020-fn-0003-ptr">3</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">43.2.6</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Sundrys for his own use Vizt Shipd by Robert Cary Esqr. &amp; Co. 23.19.7 School Books 5/. a pair of Shoes for his Man 4/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">9.6</td>
+	      <td class="curr" style="padding-right: 3.0em; vertical-align: bottom;"> &amp;23.19.7</td>
+	    </tr>
+<tr>
+	      <td class="par">To two Saines for Fishing at your Plantations</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 3.0em; vertical-align: bottom;">28.5.4</td>
+	    </tr>
+<tr>
+	      <td class="par">To Joseph Valentine for Sundrys allowed him at Settlement Vizt Paid Roger Tandys Wages 40.Benja. Piggots 8Lewis Smith 5for James Mercies share of Corn 8.16.10 for David Goddens ditto 7.4.for Wm Bates ditto 6 Doctr Amsons Acct 1.1.6Doctr Jas Carters 18.13.10.Doctr Wm Carter 13s.Mr [Andrew] Franks
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0272">[272]</span>
+      1.2.6.The Smiths 3.9.3.The Taylors 19/2.The Midwife 10/for bringing things over the Bay 20s. for 2 pr Wool Cards 5s.for 2 horse Collars 2/6for fixing the Seines 3/9.for a Barrel of Tar 12/6.for the Poll and Land Tax to the Sheriff of York 9.6.8</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">113..7 3/4</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Law Charges for one half of 5 and 2/3 of 187.9. paid Mr Mercer pr Acct</td>
+	      <td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">127.9.4<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0004" id="GEWN-02-06-02-0164-0020-fn-0004-ptr">4</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">April [1761]</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">To Balle now due to John Parke Custis besides 1/3 of 51 hhds Tobo Contra</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0; vertical-align: bottom;">1456.19.5 5/12<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0005" id="GEWN-02-06-02-0164-0020-fn-0005-ptr">5</a></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">1026.13.8 3/4</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">1609.17.11 5/12</span></td>
+	    </tr>
+</table>
+<table class="bodytext" id="Col06d169t2">
+<tr>
+	      <td style="white-space: nowrap;">Contra</td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">Cr.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1759 Oct.</td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">Currt Money</td>
+	      <td style="white-space: nowrap; text-align: center;">Sterling</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">s. d.</td>
+	      <td style="white-space: nowrap; text-align: center;">s. d.</td>
+	    </tr>
+<tr>
+	      <td class="par">By Balle of your Acct then settled</td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 1.0em; vertical-align: bottom;">1046.13.10 1/2<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0006" id="GEWN-02-06-02-0164-0020-fn-0006-ptr">6</a></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">By an allowance on damaged Linnen</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 1.5em; vertical-align: bottom;">15.11.7 1/2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">By Joseph Valentine for Sundrys accounted for as disposd of &amp; recd by him Vizt</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Pork 12036 lib.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">110.7.9</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Wheat 53 bushls</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">11.7.4 1/2</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Corn 30 Barrels</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">17..</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Sheep 12 &amp; 5</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Lambs</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">9.14.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">A Horse</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">21.10.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Wool 48 lib.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.2.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Hair</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.7.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">For haling the Sein</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3..</td>
+	      <td class="curr" style="padding-right: 1.5em; vertical-align: bottom;">176.9.1 1/2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">Rents for 1758 of Saml Hollars 30.7.6Jas Yates 5Rent of a Field 30s.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 37.7.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0273" colspan="4"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0273">[273]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">for 1759 of John</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Warrington 20</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Rispass 12</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thos Wethers 10</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Geo. Chaplain 10</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Peter Scott 10</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Emery Hughs 8.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">James Yates 5</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">John Ashwell 5.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Thos Wilkens 5</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Abraham Cole</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">4 and George</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Jones 3</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">92.</span></td>
+	      <td class="curr" style="padding-right: 3.5em; vertical-align: bottom;">129.7.6</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1761 Apl</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">By 720 Bushels of Oats at 10d.</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 3.5em; vertical-align: bottom;">30.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">By Joseph Valentine for Sundrys accounted for as disposd of by him Viz.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Pork 8544 lib.</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;"> 72.17.9 1/2</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Beeves</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">62.2.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">butter 437 lib.</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">20.9.4 1/2</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">illegible</span> 253 1/2</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Bushels</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">55.19.9</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">illegible</span> Meal 54</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Bushels</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.8.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">illegible</span> 28 lib.</td>
+	      <td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">.17.6.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">illegible</span> 2 &amp; 1</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Lamb</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.10.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">leather 2 hides 12s.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">a skin 2.6.a pr of</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Shoes 5s.</td>
+	      <td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">.19.6.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">illegible</span> Chests</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3..</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">pd James Biggs for</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Sundries he sold</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">on the E. Shore</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">7.11.9 1/2</span></td>
+	      <td class="curr" style="padding-right: 1.5em; vertical-align: bottom;">230.15.8 1/2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">Rents for 1760 <span class="hi-italic" style="font-style: italic;">illegible</span> Jones 3Abra. Cole 4 Peter Scott 10.Jno. Warrington [George] Chaplin 5for
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0274">[274]</span>
+Smiths Island 12</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">54..</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">for 1761 <span class="hi-italic" style="font-style: italic;">illegible</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">5..</span></td>
+	      <td class="curr" style="padding-right: 3.5em; vertical-align: bottom;">59..</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">By one third of the Balle <span class="hi-italic" style="font-style: italic;">illegible</span> settled</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 1.0em; vertical-align: bottom;">92.6.9 5/12</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">&amp;563.4.0 11/12</td>
+	    </tr>
+<tr>
+	      <td class="par">By one third of 51 hhds Tobo <span class="hi-italic" style="font-style: italic;">illegible</span> for</td>
+	      <td></td>
+	      <td class="curr" style="text-align: center;"><span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span><a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0007" id="GEWN-02-06-02-0164-0020-fn-0007-ptr">7</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">By Balle now due from Jno.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Parke Custis <span class="hi-italic" style="font-style: italic;">illegible</span> Washington</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0; vertical-align: bottom;">293.2.11 10/12<a class="ptr" href="#GEWN-02-06-02-0164-0020-fn-0008" id="GEWN-02-06-02-0164-0020-fn-0008-ptr">8</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">1026.13.8 3/4</span></td>
+	      <td class="curr" style="padding-right: 1.0em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">1609.17.11 5/12</span></td>
+	    </tr>
+</table>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-06-02-0164-0020-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document: a document in the handwriting of the author ]">AD</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Washington and Lee University, Lexington, Va. ]">ViLxW</span>: Washingtons Account Book.
+   See the source line notes in <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0018" class="document">docs. IV</a> and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0019" class="document">IV-A</a>.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0001-ptr" id="GEWN-02-06-02-0164-0020-fn-0001">1</a>
+   
+   <p>In the general account of the personal property in the Custis estate (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>), it was determined that each of the three heirs was entitled to property valued at 1,617.18.0 5/12 sterling and 7,618.7.11 current money. In OctoberNovember 1759 John Parke Custis was assigned property (slaves and goods) valued at 571.4.1 sterling and 8,235.15 current (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">doc. III-C2</a>). The latter figure is 617.7.0 more than was due him as his one-third share, and it is carried over as a debit to this account.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0002-ptr" id="GEWN-02-06-02-0164-0020-fn-0002">2</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0188" class="document">GW to James Gildart, 20 Sept. 1759, n.1</a>. The other one-third would have been charged to the dower account.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0003-ptr" id="GEWN-02-06-02-0164-0020-fn-0003">3</a>
+
+   <p>The other side refers to the credit side of the account, where the total rent is 129.7.6, of which Mrs. Washington was entitled to one-third.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0004-ptr" id="GEWN-02-06-02-0164-0020-fn-0004">4</a>
+   
+   <p>This may be part of the final settlement with John Mercer for his handling the Dunbar case. See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0001" class="document">Editorial Note, 20 April 17595 Nov. 1761</a>. Mercer in his account book has this entry for June 1760 under George Washington: Colo. [John] Robinsons order for a State. of Custiss Case187.9, followed by For Colo. Custiss Estate (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: John Mercers Account Book, 64).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0005-ptr" id="GEWN-02-06-02-0164-0020-fn-0005">5</a>
+   
+   <p>The figure 1,456.19.5 5/12 as the sterling balance due from the estate to John Parke Custis April 1761 is the amount assigned to him in the two estate accounts (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">docs. III-C2</a>, 1,617.18 sterling, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0019" class="document">IV-A</a>, 563.4. 11/12 sterling) less the sterling liabilities charged to him in his estate accounts (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">docs. III-C2</a>, 571.4.1 sterling to October 1759, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020" class="document">IV-B</a>, 152.18.6 sterling for October 1759 to April 1761).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0006-ptr" id="GEWN-02-06-02-0164-0020-fn-0006">6</a>
+   
+   <p>This is the total sterling amount due John Parke Custis from the estate after the initial settlement in October 1759. It is carried over from his individual estate account printed here as <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">doc. III-C2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0007-ptr" id="GEWN-02-06-02-0164-0020-fn-0007">7</a>
+
+   <p>The blank is a reminder that John Parke Custis will be credited with onethird of the 51 hogsheads not yet accounted for.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0020-fn-0008-ptr" id="GEWN-02-06-02-0164-0020-fn-0008">8</a>
+
+   <p>The balance of 293.2.11 10/12 current money is struck on the Contra side
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0275">[275]</span>
+to show John Parke Custis in debt to the estate of this amount, which is carried forward to the Debit side of his next account. See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020&amp;expandNote=GEWN-02-06-02-0164-0020-fn-0001#GEWN-02-06-02-0164-0020-fn-0001" class="document">note 1</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-06-02-0164-0020 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 6 (4 September 175826 December 1760)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0164-0019" title="IV-A. General Account of the Estate, c.November 1761"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0021" title="IV-C. Martha Parke Custis's Estate Account, c.November 1761"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

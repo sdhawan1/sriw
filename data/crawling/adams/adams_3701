@@ -1,0 +1,167 @@
+From Robert R. Livingston, 5 March 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert R. Livingston, 5 March 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0182&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-03-05-7">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0181" title="From C. W. F. Dumas [document with translation]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0183" title="From C. W. F. Dumas [document with translation]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Robert R. Livingston, 5 March 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0182&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0181" title="From C. W. F. Dumas [document with translation]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0183" title="From C. W. F. Dumas [document with translation]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0295">295</span><div id="PJA12d212" class="doc letter">
+
+<h1>From Robert R. Livingston</h1>
+
+<div class="docbody">
+<div class="opener">
+<div class="openerSeg">No 5.<br/> 3plicate</div>
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear sir</td>
+		<td class="salutationRight">Philadelphia 5th March 1782</td>
+	      </tr>
+      </table>
+</div>
+<p>I have now before me your letters of the 15th, 17th and 18th of October last. I am sorry to find that your Health has suffered by the climate, but hope that the setting in of the winter has eer this reestablished itI am not directed to return any answer to your request to come home, should I obtain the sense of Congress upon it before this is closed, it will be transmitted by this conveyance.</p>
+<p>The success of the Allied Arms in America, the recovery of the Dutch Islands, and the avowed superiority of the French in the West Indies, have so changed the face of Affairs, that there is strong reason to believe negotiations will be set on foot this winter. Whether Britain is yet sufficiently humbled to desire peace, is still doubtful, but Whether she is, or is not, She will probably negotiate, in which case your presence in Europe will be necessary, so that I believe you cannot at the most flatter yourself with anything more than a conditional leave to return.</p>
+<p>Your state of the decline of Commerce in the United Provinces agrees exactly with that, we have recieved from other hands. I lament that a nation which has such important reasons for exertion, and such means in their power should want vigor to call them forth. They must and will however sooner or later be brought to it. A separate peace with England is now impossible without degrading the character of the Nation, and exposing it to greater Evils, than they are threatened with from England. Besides, what advantages are to be derived from such a peace? Can Britain restore her Conquests now in the hands of the French? can she give back the plunder of St. Eustatia, or the Cargoes of the Indiamen now divided among the Captors? Can she afford them a compensation for the loss of last years commerce? Or can she draw from her exhausted purse<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0296">[296]</span> sufficient sums to defend the Barrier against the Troops of France, who would certainly avenge herself for such ingratitude?</p>
+<p>The distress of the Nation, then, must in the end force them to exertions, and however reluctantly they may go into the war, they must still go into it with vigour. But, Sir, tho your letters detail the politicks of the Country, tho they very ably explain the nature and general principles of the Government, they leave us in the dark with respect to more important facts. They have not led us into the<a class="ptr" href="#PJA12d212n1" id="PJA12d212n1-ptr">1</a> dock Yards or arsenals, they have not told us what Ships are prepared for Sea, what are preparing, What the naval force will be this Spring, or how it is to be applied. You have not introduced us to any of the leading Members of the great Council. You have not repeated your private conversations with them, from which infinitely more is to be collected, than from all the Pamphlets scattered about the streets of Amsterdam. If they avoid your company and conversation it is a more unfavorable Symtom than any you have mentioned, and shews clearly that your public Character should have been concealed, till your address had paved the way for its being acknowledged. If you have formed Connections with any of these People, and I cannot but presume, that you have attended to so important a point, it will be very interesting to us, to have their most striking features deliniated, their sentiments with respect to us, and our opponents detailed, and the influence of each in the assembly of the States. This will best acquaint us with the principles of the Government and direct our conduct towards them. Among other things I wish to know in what light they view our cause, as just or unjust? What influence they imagine our independence will have upon the general system of Europe, or their own States. What expectations they form from our Commerce? Whether the apprehension of its being altogether thrown into another Channel, if infused with address, would not awaken them into action? What are their Ideas of the comparative power of France and Britain, so far as it may effect them? Whether they have entered into any treaty with France,<a class="ptr" href="#PJA12d212n2" id="PJA12d212n2-ptr">2</a> since the war, if they have, what are its objectsIf they have not, whether any such thing is in contemplation? None of your letters take the least notice of the french Ambassador at the Hague, is there no intercourse between you? If not, to what is it to be attributed? It appears to me that our interests in Holland are similar to those of France. They are interested with us in forwarding our Loans, in procuring a public acknowlegement of our Independance,<a class="ptr" href="#PJA12d212n3" id="PJA12d212n3-ptr">3</a> in urging the States to exertion. They have considerable influence on the Government, as<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0297">[297]</span> appears from the success, that the loan opened under their guarantee met with. I must again therefore request you to spend much of your time at the Hague, that great center of Politicks, to cultivate the acquaintance and friendship of the french Ambassador, to confer with him freely and candidly upon the state of our Affairs, and by his means to extend your acquaintance to the other representatives of Crowned Heads at the Hague. Your having no public Character, together with an avowed contempt for all rank and idle Ceremony, will greatly facilitate your intercourse with them, and enable you to efface the ill impressions, they daily recieve of us from our Enemies. You see, sir, I rely so much upon your good sense as to write with freedom to you, and to mark out that line, which I concieve will best tend to render your mission useful. Should I suggest any thing, which you may not approve, I should be happy to be informed of it, and the reasons upon which you act, so that I may be able fully to justify your measures, if at any time they should not be entirely approved on this side the water. I communicated to Congress the letter from Doctr. Franklin relative to your salary, in consequence of which, they have directed the Superintendant of the Finances to make provision for it in future.<a class="ptr" href="#PJA12d212n4" id="PJA12d212n4-ptr">4</a></p>
+<p>We have no intelligence of importance at this time, but have our Eyes fixed with anxious expectation on the West Indies, from whence we hourly expect to hear the particulars of the Engagement between Count de Grasse and Hood, and the issue of the attack upon St. Christophers.<a class="ptr" href="#PJA12d212n5" id="PJA12d212n5-ptr">5</a> To the southward things remain in the state they were, tho we have some reason to believe the Enemy entertain serious thoughts of withdrawing their Troops from Charles town. Thirty empty transports have sailed from New York, with a view, as is said, to fetch them to that place, which will be the last they quit on the Continent. This we ought not to lament, since there is no situation better adapted to concenter our force, and no part of America so easily defended with inferior force, as the ridge of Hills which shut it in, at the same time that it is totally indefensible against a combined attack by land and water. So that we may reasonably hope, that York will again be fatal to the british Arms, every preparation is making to render it so.</p>
+<p>I write nothing to you on the subject of a negotiation, conveyances to Doctor Franklin being more easily obtained, as well as more secure. Every instruction on that head is sent to him, and will of course be communicated to you, by the time you need it.</p>
+<p>Nothing can be more pleasing after the Chaos into which our Af-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0298">[298]</span>fairs were plunged, than the order which begins now to be established in every department. Paper ceases to be a medium, except the bank paper, which is in equal credit with specie, gold and silver have found their passage into the Country, restrictions on Commerce are removed, it flows in a thousand new Channels, and has introduced the greatest plenty of every necessary, and even every luxury of life. Our harvests have been so abundant, that provisions are in the utmost plenty. All the supplies of the Army are procured by contracts, and the heavy load of purchasing and issuing Commissaries are discharged. In short our Affairs wear such a face here at present, that if we are only supported this year by foreign Loans, we shall not be under the necessity of calling for them again. Would to Heaven the present aspect of Affairs might render your endeavours on this Head successful, the use it would be of to the community would amply compensate you for all the pain and distress which your fruitless endeavours have occasioned you.</p>
+<p>Among other articles of intelligence, I ought to have informed you, that Burgoine is exchanged, and that an exchange is now on foot for Cornwallis, in which it is designed Mr. Laurens shall be included.<a class="ptr" href="#PJA12d212n6" id="PJA12d212n6-ptr">6</a> The British seem extremely anxious to have him, and to give him the command of their Army in Americawe who know him best, have no objection to the measure. If they wish to carry on an active war, his precipitation will lead them into new difficulties. If to defend particular posts, they cannot put them into the hands of a man, who knows less about the matter. His defence of York was a most contemptible series of blunders. We shall besides these derive two decisive advantages from his command. While a detestation of his cruelty has united the Whigs, the tenth article of the capitulation at york, has destroyed the confidence of the Tories.<a class="ptr" href="#PJA12d212n7" id="PJA12d212n7-ptr">7</a></p>
+<div class="closer">
+<p class="salute">I have the honor to be with great respect and esteem Your Excellencys most obedt. humble servant </p>
+<p class="signed">Robt R Livingston</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d212sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>:John Adams, Embassy <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscripts ]">MSS</abbr>); endorsed: Secretary Livingston 5. March 1782. ansd 4 &amp; 6 septr. no 5.</span>
+</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA12d212n1-ptr" id="PJA12d212n1">1</a>
+<p>From this point through the sentence ending streets of Amsterdam, the text is underlined (see also notes 3 and 4). Because the underlining does not appear in another copy of this letter (<span class="ref-terms">Adams Papers</span>) it is likely that it was done by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n2-ptr" id="PJA12d212n2">2</a>
+<p>To this point this sentence is underlined, probably by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n3-ptr" id="PJA12d212n3">3</a>
+<p>From the preceding comma this sentence is underlined, probably by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n4-ptr" id="PJA12d212n4">4</a>
+<p>See Benjamin Franklins letter of <a href="default.xqy?keys=ADMS-print-06-11-02-0328" class="document">6 Aug. 1781</a>, and <a href="default.xqy?keys=ADMS-print-06-11-02-0328&amp;expandNote=PJA11d393n1#PJA11d393n1" class="document">note 1</a> (vol. 11:442).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n5-ptr" id="PJA12d212n5">5</a>
+<p>The troops landed by de Grasse on St. Kitts in early January had, by mid-February, forced the outnumbered and ill-supplied British garrison on Brimstone Hill to surrender. Rear Adm. Samuel Hood lacked the resources to reinforce and resupply the garrison and thus prevent the islands loss, but he was able to mount a brilliant naval defense<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0299">[299]</span> against a larger French fleet. De Grasses inability to defeat Hood, or even to inflict significant losses, meant that in April, after Hoods fleet had joined to Rodneys, he would meet a British fleet at the Battle of the Saints that was larger than his own (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Alfred Thayer Mahan, &lt;i&gt;The Major Operations of the Navies in the War of American Independence&lt;/i&gt;, Boston, 1913. ]">Mahan, <span class="hi-italic" style="font-style: italic;">Navies in the War of Amer. Independence</span></span>, p.197208; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Piers Mackesy, &lt;i&gt;The War for America, 17751783&lt;/i&gt;, Cambridge, 1965. ]">Mackesy, <span class="hi-italic" style="font-style: italic;">War for America</span></span>, p.455456).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n6-ptr" id="PJA12d212n6">6</a>
+<p>On 14 June 1781, Congress authorized Benjamin Franklin to exchange Burgoyne for Henry Laurens (from Franklin, <a href="default.xqy?keys=ADMS-print-06-12-02-0004" class="document">5 Oct. 1781</a>, and <a href="default.xqy?keys=ADMS-print-06-12-02-0004&amp;expandNote=PJA12d006n5#PJA12d006n5" class="document">note 5</a>, above), but on 21 Aug. resolved to authorize George Washington to exchange Burgoyne and the remaining officers subject to the Saratoga Convention as he should judge most conducive to the general interests of the United States (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 21:889). Since Burgoyne might no longer be available, Congress resolved on 23 Feb. 1782 that Cornwallis could be exchanged for Laurens. See also Notes of Debates for 22 Nov. 1782 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]">same</span>, 22:95; 23:852853).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d212n7-ptr" id="PJA12d212n7">7</a>
+<p>As proposed by Cornwallis representatives, Art. 10 declared that natives or inhabitants of different parts of this country, at present in York and Gloucester, are not to be punished on account of having joined the British army. It was refused by Washingtons representatives as being altogether of civil resort (<span class="hi-italic" style="font-style: italic;">Pennsylvania Gazette</span>, 31 Oct. 1781).</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0182 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0181" title="From C. W. F. Dumas [document with translation]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0183" title="From C. W. F. Dumas [document with translation]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

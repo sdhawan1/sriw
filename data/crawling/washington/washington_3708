@@ -1,0 +1,191 @@
+From Major General Philip Schuyler, 27 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 27 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0266&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-27-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0265" title="General Orders, 27 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0267" title="General Orders, 28 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 27 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0266&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0265" title="General Orders, 27 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0267" title="General Orders, 28 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0367">367</span><div id="Rev01d247" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Sunday Albany 27th August 1775. 6 oClock A:M:</td>
+	      </tr>
+      </table>
+</div>
+<p>Your Excellencys favors of the 14th and 20th Inst: were delivered me last night.</p>
+<p>I left Tionderoga on thursday the 17th Instant and hoped to have returned in four days, but on my arrival at Saratoga I received Information that a large body of Indians of the Six nations were to be here as on tuesday last, And that my presence was Indispensibly necessary. I therefore Attended and on Wednesday the Congratulatory Ceremony was performed, and On Friday the Treaty agreable to their request was opened by them, By giving an Answer to the Messages that had been sent them by the Committee of this place[.] In this speach they Anticipated part of what we had in charge to deliver them, being (as we concieved) Apprehensive that we should request them to take Arms in our Cause; they explicitly declared that as It was a family quarrel, they would not Interfere, but remain neuter and hoped we would not desire more of them; we have not got above half thro. what we are directed to say to them, and Altho. I hardly know how to leave them, yet such is the nature of the Intelligence Contained In the papers which I do myself the honor to Inclose your Excellency, that I consider myself under the necessity of leaving the Indian business to my Colleagues, and repairing Immediately to the Army.<a class="ptr" href="#GEWN-03-01-02-0266-fn-0001" id="GEWN-03-01-02-0266-fn-0001-ptr">1</a></p>
+<p>That Governor Carlton and his agents Are exerting themselves to procure the Savages to act against us I have reason to believe from the various accounts which I have received, but I do not believe he will have any Success with the Canada tribes, tho. I make no doubt but he is Joined by some of the more remote Indians who I believe will assist him, and who have already
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0368">[368]</span>
+served him as Scouts from St Johns. I should therefore not hesitate one moment to Employ any Indians that might be willing to Join us.</p>
+<p>I thank your Excellency for the honor you have done me in communicating me your plan for an Expedition Into Canada.<a class="ptr" href="#GEWN-03-01-02-0266-fn-0002" id="GEWN-03-01-02-0266-fn-0002-ptr">2</a> The Inclosed Information of Frs which Corroborates not only the Information of Major Brown; that Contained in the two Affidavits of Duguid &amp; Shatford;<a class="ptr" href="#GEWN-03-01-02-0266-fn-0003" id="GEWN-03-01-02-0266-fn-0003-ptr">3</a> but Every other we have had leaves not a trace of doubt on my mind as to the propriety of going into Canada And to Do It, has been my determined resolution (unless prevented by my Superiors) for some time, And I have Accordingly since my Arrival here, requested Gen: Montgomery<a class="ptr" href="#GEWN-03-01-02-0266-fn-0004" id="GEWN-03-01-02-0266-fn-0004-ptr">4</a> to get every thing in the best readiness he could, for that I would move Immediately, weak and Ill appointed as we were, and I learn with pleasure that he has since the receipt of Gerriffins Information<a class="ptr" href="#GEWN-03-01-02-0266-fn-0005" id="GEWN-03-01-02-0266-fn-0005-ptr">5</a> ordered the Canon to be Imbarked and he will probably be off from Tyconderoga so soon, that I shall only be able to Join him, at Crown point; Such being my Intentions and such the Ideas that I have formed of the necessity of penetrating Into Canada Without delay. Your Excellency will Easily Concieve that I felt happy to learn your Intentions, and only wished that the thought had Struck you sooner[.] The force I shall carry is far short of what I would wish[.] I believe It will not Exceed Seventeen Hundred men, and this will be a body Insufficient to Attempt Quebec with; after leaving the necessary Detatchments (at St Johns, Chamble, and Montreal should we Succeed and Carry those places,) which must be respectable to keep an open &amp; free Communication with Crown point &amp;ca. having now given your Excellency the time, force, and latest Intelligence I have had, together with my Opinion of the Sentiments of the Canadiens, I proceed to Inform you of the Enemys Strength as far as I have been able to learn It. 350 or 400 at St Johns 150 or 200 at Chambl About 50 at Montreal, and one Company at Quebec, these are regular troops, besides between three and five hundred Indians, Scotchmen &amp; some few Canadians with Colo: Johnson at La Chene,<a class="ptr" href="#GEWN-03-01-02-0266-fn-0006" id="GEWN-03-01-02-0266-fn-0006-ptr">6</a> Of this party the Indians that are at St Johns are a part. wether any Ships of war are at Quebec, I cannot sayas none have been mentioned to me I am rather Induced to believe there are none, Should the detachment of Your body penetrate Into
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0369">[369]</span>
+Canada and we meet with Success Quebec must Inevitably fall into our hands, should we meet with a repulse, which can only happen from foul play in the Canadiens I shall have An Opportunity to Inform your party of It, that they may Carry into Execution any orders you may give In case such an Unfortunate Event should arise.<a class="ptr" href="#GEWN-03-01-02-0266-fn-0007" id="GEWN-03-01-02-0266-fn-0007-ptr">7</a></p>
+<p>Your Excellency will be pleased to be particular in your orders to the Officer that may Command the detatchment that there may be no Clashing Should we Join.</p>
+<p>I shall leave orders at Tionderoga to forward all the lead that Can be Spared.</p>
+<p>Excuse these Scraps of paper, necessity obliges me to use them, having no other fit to write on.</p>
+<p>Be pleased to make my Compliments to the Gentlemen of your Suit, Colo. Read will be so good as to Excuse my not Answering his letter as I really cannot find time. I am Dr Sir with the most respectful Sentiments Your Excellencys Obedient Hume Servt</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0266-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0001-ptr" id="GEWN-03-01-02-0266-fn-0001">1</a>
+
+   <p>As one of the Indian commissioners appointed by the Continental Congress for the northern department, Schuyler was required to attend the conference with representatives of the Six Nations which began at Albany on Wednesday, 23 August. The other commissioners were Turbot Francis, Volckert P. Douw, and Oliver Wolcott. For the speech that the Continental Congress instructed the commissioners to deliver to the Six Nations, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:17883. The commissioners concluded a treaty of neutrality with the Six Nations on 1 Sept., but Schuyler did not attend after the session of 26 Aug. (Proceedings of the Commissioners Appointed to Negotiate a Treaty with the Six Nations of Indians, 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 134).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0002-ptr" id="GEWN-03-01-02-0266-fn-0002">2</a>
+
+   <p>For Benedict Arnolds planned expedition against Quebec, see <a href="default.xqy?keys=GEWN-print-03-01-02-0233&amp;expandNote=GEWN-03-01-02-0233-fn-0006#GEWN-03-01-02-0233-fn-0006" class="document">GW to Schuyler, 20 Aug. 1775, n.6</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0003-ptr" id="GEWN-03-01-02-0266-fn-0003">3</a>
+
+   <p>In the enclosed affidavit, taken at Ticonderoga on 18 Aug., John Baptist Fn of Chambly said that a council of some of the towns inhabitants had sent him to Ticonderoga to enquire whether the Army was coming down to Canada to relieve them or not. The Canadians, Fn reported, were anxious to release several persons imprisoned at Montreal for expressing views friendly to the Americans &amp; therefore wish the Army to come into that Country, That they may have a Pretext for taking up Arms &amp; will upon Arrival of the Continental Army, summons the Town of Montreal for the Discharge of the Prisoners. . . . about 1500 Men can be raised by the Friends of America on the River of Chamblee in 24 Hours &amp; double that Number in 48 Hours, but not all with Arms. The affidavit also includes intelligence about the strength
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0370">[370]</span>
+of the British at St. Jean and the intention of the Canadian Indians to remain neutral in the struggle between the mother country and the colonists (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). John Duguid and John Shatforths affidavits, both dated 2 Aug. 1775, were enclosed in <a href="default.xqy?keys=GEWN-print-03-01-02-0130" class="document">Schuyler to GW, 31 July2 Aug. 1775</a>. See note 2 to that document. For Major John Browns report on his recent reconnaissance into Canada, see <a href="default.xqy?keys=GEWN-print-03-01-02-0130&amp;expandNote=GEWN-03-01-02-0130-fn-0001#GEWN-03-01-02-0130-fn-0001" class="document">Schuyler to GW, 31 July2 Aug. 1775, n.1</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0239&amp;expandNote=GEWN-03-01-02-0239-fn-0006#GEWN-03-01-02-0239-fn-0006" class="document">Jonathan Trumbull, Sr., to GW, 21 Aug. 1775, n.6</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0004-ptr" id="GEWN-03-01-02-0266-fn-0004">4</a>
+
+   <p>Richard Montgomery (17381775) of New York was appointed a brigadier general by Congress on 22 June, and at this time he was Schuylers second in command. A native of Ireland, Montgomery joined the British army in 1756 as an ensign in the 17th Regiment of Foot and served in Canada and the West Indies during the French and Indian War, rising to the rank of captain by 1762. He sold his commission ten years later and moved to New York, where he married Robert R. Livingstons daughter and settled on her estate near Rhinebeck. In the spring of 1775 Montgomery was elected to the New York provincial congress, which on 7 June recommended him to the Continental Congress as a brigadier general. Montgomery apparently received his commission from GW when GW stopped at New York on 2526 June. With Schuyler ill throughout most of the fall of 1775, the command of the Canadian invasion devolved on Montgomery. He captured St. Jean, Chambly, and Montreal, but in an unsuccessful assault against Quebec on 31 Dec. he was killed.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0005-ptr" id="GEWN-03-01-02-0266-fn-0005">5</a>
+
+   <p>The information that Peter Griffin, a soldier in Col. James Eastons Connecticut regiment, obtained on a scouting expedition into Canada between 12 and 24 Aug. is contained in an affidavit taken at Ticonderoga on 25 Aug., a copy of which Schuyler enclosed with this letter. Griffen saw the British fortifications at St. Jean on 21 Aug. and reported that the two vessels under construction there appeared to be nearly ready for launching. Like Fn, he gave a favorable account of the Canadians readiness to assist the Americans. The French &amp; English Inhabitants along the Lake [Champlain], Griffin said, are very impatient to have the Army down the Lake, . . . they declared their Willingness to supply the Army to the Utmost with Greens &amp; Sauce (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0006-ptr" id="GEWN-03-01-02-0266-fn-0006">6</a>
+
+   <p>Lachine is near Montreal.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0266-fn-0007-ptr" id="GEWN-03-01-02-0266-fn-0007">7</a>
+
+   <p>See the eighth paragraph in <a href="default.xqy?keys=GEWN-print-03-01-02-0355" class="document">GWs Instructions to Benedict Arnold, 14 Sept. 1775</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0266 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0265" title="General Orders, 27 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0267" title="General Orders, 28 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

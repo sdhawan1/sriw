@@ -1,0 +1,167 @@
+From Jonathan Boucher, 6 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Boucher, 6 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0164&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-06-5">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0163" title="From Lieutenant Colonel Loammi Baldwin, 6 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0165" title="From Joseph Palmer, 6 August 1775 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Boucher, 6 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0164&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0163" title="From Lieutenant Colonel Loammi Baldwin, 6 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0165" title="From Joseph Palmer, 6 August 1775 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0252">252</span><div id="Rev01d153" class="doc">
+
+<h1>From Jonathan Boucher</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">The Lodge, Aug. 6th, 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>Dear Sir,I thought it far from the least pleasing circumstance attending my removal hither that it placed me in your immediate neighbourhood. For having now been happy in your acquaintance several years, I could not help considering myself, nor indeed help hoping that I was considered by you, as an old friend; and of course I counted on our living together in the pleasing intercourse of giving and receiving the mutual good offices of neighbourhood and friendship.</p>
+<p>That things have turned out much otherwise I need not inform you. Mortified and grieved as I confess myself to be at this disappointment, I am by no means prepared to say that you are wholly to be blamed for it; nor, as I would fain hope you in your turn will own, is it entirely owing to any fault of mine. I can easily suppose at least that we neither of us think ourselves to blame; and yet I cannot help thinking that had I been in your place I should, in this as well as in other things, have taken a different part from that which you have chosen. Permit me, sir, as one who was once your friend, and at any rate as one not likely to be soon troublesome to you again in the same way, once more as a friend freely to expostulate with you. If I am still in the wrong, I am about to suffer such punishment as might satisfy the malice of even the most vindictive enemy; and if you are wrong, as in some degree I think you are, it is my duty frankly to tell you so, and yours to listen to me with patience.</p>
+<p>On the great points so long and so fruitlessly debated between us it is not my design now again to solicit your attention. We have now each of us taken and avowed our side, and with
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0253">[253]</span>
+such ardour as becomes men who feel themselves to be in earnest in their convictions. That we should both be in the right is impossible, but that we both think we are we must in common candour allow. And this extreme difference of opinion between ourselves, where we have no grounds for charging each other with being influenced by any sinister or unworthy motives, should teach us no less candour in judging of and dealing by others in a similar predicament. There cannot be anything named of which I am more strongly convinced than I am that all those who with you are promoting the present apparently popular measures are the true enemies of their country. This persuasion, however, will by no means justify me, should I be so weak and wicked as to molest them while they do not molest me. I do not say this because I happen to be in what is called the minority, and therefore without any power of acting otherwise; it is the decision of truth and justice, and cannot be violated without doing violence to every system of ethics yet received in any civilized country. The true plan in such cases is for each party to defend his own side as well as he can by fair argument, and also, if possible, to convince his adversary: but everything that savours of, or but approaches to, coercion or compulsion is persecution and tyranny.</p>
+<p>It is on this ground that I complain of you and those with whom you side. How large a proportion of the people in general think with you or think with me it is in none of our powers to ascertain. I believe, because I think I can prove it, that your party, to serve an obvious party purpose, exceedingly magnify the numbers of those whom they suppose to take part with you, and you tax us with doing the same. But there is this great, manifest, and undisputed difference between us. No Tory has yet in a single instance misused or injured a Whig merely for being a Whig. And whatever may be the boasted superiority of your party, it will not be denied that in some instances at least this has been in our power. With respect to Whigs, however, the case has been directly the reverse; a Tory at all in the power of a Whig never escapes ill treatment merely because of his being a Tory. How contrary all this is to all that liberty which Whigs are for ever so forward to profess need not be insisted on; it is so contrary to all justice and honour, that were there no other reasons to determine me against it, as there are thousands, I would
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0254">[254]</span>
+not be a Whig, because their principles, at least as I see them exemplified in practice, lead so directly to all that is mean and unmanly.</p>
+<p>It is a general fault in controversial writers to charge all the errors of a party on every individual of that party. I wish to avoid the disgrace of so indiscriminate a judgment; and therefore have a pleasure in acknowledging that I know many Whigs who are not tyrants. In this number it is but doing you common justice to place you. I wish I could go on, and with equal truth declare that, whilst you forbear yourself to persecute your fellow subjects on the score of their political creeds, you had been as careful to discourage such persecution in others. Scorning to flatter, as much as I scorn to tax you wrongfully, I am bold thus openly to tell you I think you have much to answer for in this way. It is not a little that you have to answer for with respect to myself.</p>
+<p>You know, and have acknowledged, the sincerity and the purity of my principles; and have been so candid as to lament that you could not think on the great points that now agitate our common country as I do. Now, sir, it is impossible I should sometimes avow one kind of principles and sometimes another. I have at least the merit of consistency; and neither in any private or public conversation, in anything I have written, nor in anything I have delivered from the pulpit, have I ever asserted any other opinions or doctrines than you have repeatedly heard me assert both in my own house and yours. You cannot say that I deserved to be run down, vilified, and injured in the manner which you know has fallen to my lot, merely because I cannot bring myself to think on some political points just as you and your party would have me think. And yet you have borne to look on, at least as an unconcerned spectator, if not an abettor, whilst, like the poor frogs in the fable, I have in a manner been pelted to death.<a class="ptr" href="#GEWN-03-01-02-0164-fn-0001" id="GEWN-03-01-02-0164-fn-0001-ptr">1</a> I do not ask if such conduct in you was friendly: was it either just, manly, or generous? It was not: no, it was acting with all the base malignity of a virulent Whig. As such, sir, I resent it: and oppressed and overborne as I may seem to be by popular obloquy, I will not be so wanting in justice to myself as not to tell you, as I now do with honest boldness, that I despise the man who, for any motives, could be induced to act so mean a part. You are no longer worthy of my friendship: a man of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0255">[255]</span>
+honour can no longer without dishonour be connected with you. With your cause I renounce you; and now for the last time subscribe myself, sir,</p>
+<div class="closer">
+<div class="signed-multiple">
+    <p class="signed multiple">Your humble servant,<a class="ptr" href="#GEWN-03-01-02-0164-fn-0002" id="GEWN-03-01-02-0164-fn-0002-ptr">2</a><br/> Jonathan Boucher.</p>
+  </div>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0164-sn">
+
+   <p>
+
+Jonathan Boucher, Reminiscences of an American Loyalist, <span class="hi-italic" style="font-style: italic;">Notes and Queries</span>, 5th ser., 6 (JulyDec. 1876), 16162.
+
+</p>
+
+
+   <p>Jonathan Boucher (17381804) was an Anglican clergyman who taught GWs stepson John Parke Custis between 1768 and 1773, first in Virginia, where Boucher was rector of St. Marys Parish in Caroline County from 1764 to 1770, and later in Maryland, where he was rector of St. Annes Parish in Annapolis from 1770 to 1771 and of Queen Annes Parish in Prince Georges County from 1771 to 1775. During those years GW and Boucher were guests in one anothers houses on many occasions, but after 1774, when Boucher moved to The Lodge on the Potomac River across from Alexandria, the two men parted paths politically. Boucher, who was born and raised in England, became an outspoken Loyalist, which made him highly unpopular in Queen Annes Parish. The Revd. Mr Boucher, Deputy Governor Robert Eden of Maryland reported to the earl of Dartmouth on 27 Aug. 1775, is driven from his parish and possessions here and goes home in the <span class="hi-italic" style="font-style: italic;">Choptank Frigate</span> from Patowmack in about ten days (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ K. G. Davies, ed. &lt;i&gt;Documents of the American Revolution, 17701783; (Colonial Office Series)&lt;/i&gt;. 21 vols. Shannon and Dublin, 197281. ]">Davies, <span class="hi-italic" style="font-style: italic;">Documents of the American Revolution</span></span>, 11:8588). Boucher spent the remainer of his life in England, serving as vicar of Epsom from 1785 to 1804.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0164-fn-0001-ptr" id="GEWN-03-01-02-0164-fn-0001">1</a>
+
+   <p>The allusion is to Aesops fable of a boy stoning frogs for amusement.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0164-fn-0002-ptr" id="GEWN-03-01-02-0164-fn-0002">2</a>
+	
+   <p>Boucher again wrote to GW on <a href="default.xqy?keys=GEWN-print-04-01-02-0271" class="document">25 May 1784</a> and <a href="default.xqy?keys=GEWN-print-06-01-02-0413" class="document">8 Nov. 1797</a>, and in the latter year he also dedicated a volume of his political sermons to GW. I was once your neighbour and your friend, Boucher wrote to GW in his dedication, the unhappy dispute, which terminated in the disunion of our respective countries, also broke off our personal connexion: but I never was more than your political enemy; and every sentiment even of political animosity has, on my part, long ago subsided (Jonathan Boucher, <span class="hi-italic" style="font-style: italic;">A View of the Causes and Consequences of the American Revolution</span> . . . [London, 1797]). GW replied to Boucher with <a href="default.xqy?keys=GEWN-print-06-02-02-0422" class="document">a cordial letter of thanks on 15 Aug. 1798</a> but remarked that he had not read the book.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0164 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0163" title="From Lieutenant Colonel Loammi Baldwin, 6 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0165" title="From Joseph Palmer, 6 August 1775 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

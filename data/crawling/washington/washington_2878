@@ -1,0 +1,193 @@
+From Jonathan Boucher, 19 January 1773
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Boucher, 19 January 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-09-02-0124&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1773-01-19-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-09-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0123" title="To George William Fairfax, 19 January 1773"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-09-02-0125" title="From George William Fairfax, 19 January 1773 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-09&amp;mode=TOC">Volume 9 (8 January 177218 March 1774)</a>&gt; <a href="?keys=GEWN-print-02-09-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Boucher, 19 January 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-09-02-0124&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0123" title="To George William Fairfax, 19 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0125" title="From George William Fairfax, 19 January 1773 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0161">161</span><div id="Col09d110" class="doc">
+
+
+<h1>From Jonathan Boucher</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Castle-Magruder,<a class="ptr" href="#GEWN-02-09-02-0124-fn-0001" id="GEWN-02-09-02-0124-fn-0001-ptr">1</a> Janry the 19th 1773.</td>
+	      </tr>
+      </table>
+</div>
+<p>It is certainly expedient to remove Mr Custis to some Place of publick Education, and speedily. And when there is so noble, so princely an Institution of this sort, in his own Country, it is lamentable to find there still shoud be a Necessity for sending Him to Another. I had, as You know, been endeavouring to believe the many Stories We are perpetually hearing of the Mismanagement at Wm &amp; Mary as partial &amp; exaggerated: but, the Carefulness of your Enquiries on the Spot precludes all further Doubt about the matter.<a class="ptr" href="#GEWN-02-09-02-0124-fn-0002" id="GEWN-02-09-02-0124-fn-0002-ptr">2</a></p>
+<p>I can truly say, I do not differ from You in Opinion, but with Diffidence of the Rectitude of my own; nor woud I venture to mention my differing with You at all, had I not long ago experienced your Candor in allowing for the prepossessions or Prejudices of your Friends. I will therefore yet again take the Liberty of declaring my Opinion in favour of N. York, rather than Philada. It is but justice to premise, that I am not personally acquainted either with the one Place or the other. You, I believe, are; &amp; can therefore better judge, whether what I say on the Report of others, be well or ill-founded.</p>
+<p>Philada is a large, populous, thriving, commercial City: &amp; so is N. York. The Former, is this only; the latter is more. It is inhabited by some People of the most considerable Rank &amp; Fortune. it is a Place of the greatest Resort for Strangers of Distinction; it is the Head-Quarters of the Military; &amp;, on all these Accounts, is, I am told, generally reckond the most fashionable &amp; polite Place on the Continent. As a Situation, therefore, for a young Gentleman, who is to be Educated a little in the World, as well as in Books, it woud seem, that it deserves the Preference. In fact, a little Residence in such a City is the best Substitute I know of for the Tour that was once projected:<a class="ptr" href="#GEWN-02-09-02-0124-fn-0003" id="GEWN-02-09-02-0124-fn-0003-ptr">3</a> as He stands a better Chance for acquiring that Liberality of Manners, which is one of the best Uses of Travel, by mixing occasionally with truly well-bred People. This, tho I have not Leisure to pursue it farther, is of some Importance in the Determination of this matter.</p>
+<p>Confident that my Letter is for, &amp; will be kept to, Yourself
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0162">[162]</span>
+alone, I will not be afraid to speak out, tho. perhaps I may be mistaken, persuaded that I shall be pardoned, if wrong. I woud not rashly reflect either on any Bodies of Men, or Individuals: what, therefore, I am about to say, must be read with great Candor, &amp; large Allowances. From the best Observations I have been able to make on young Gentlemen educated in America, one general Fault is, that They come out into the World, furnishd with a kind of smattering of Every Thing, &amp;, with very few Exceptions, arrant Coxcombs. Were it not too invidious, I coud name to You Individuals, who are really clever, but hurt One by this silly Humour. And, I think, as Many have brought away this Sort of Spirit from the Coll. of Philada, as any other I have taken notice of. I know not a Fault one woud more earnestly wish to avoid; nor one, considering the Character &amp; manners of your Ward, that You shoud more guard against. How far this may be owing to any peculiar Discipline, or Mode of Instruction in these Colleges, I presume not to say: certainly, however, the Fact is, as I have hinted, &amp; I have heard the observation made by others as well as myself. That This is not also the Case with Respect to Kings College in New York, is more than I have any authority positively to assert: I have, however, some Reason to believe, that it is not, at least, not in so great a degree. Most other Colleges are formed on the Plans of Those in Scotld, Leyden, Gottingen, Geneva: Wm &amp; Mary, &amp; Kings College resemble more Those of Oxford &amp; Cambridge. In the former, Men often may become Scholars, if They will; in the latter, They must often be made so, whether They will or no. The Presidt of the Coll: of Philada, whose Abilities are unquestionable, was himself brought up in Scotland, in a less regular manner, than is the Fortune of Scholars in general: &amp;, in spite of his great merit, This must be some disadvantage to Him, in the office He holds. By dint of superior Genius, He has himself arrivd at Eminence in Literature, by a nearer Cut, as it were: but, the Bulk of Men, must be enforced to travel thither, along the beaten Track. It is therefore, in some sort, necessary that He who undertakes to guide Us, shoud himself have travelled the Road He is to shew Us. The President of Kings College is allowd to be as sound &amp; sensible a Scholar as any in America: He was first traind up regularly in a large School in England, &amp;
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0163">[163]</span>
+afterwards completed his Education by a ten or twelve Years Residence in Oxford. I do not, however, lay much Stress on the comparative Merits of the Professors: both of Those I have namd possess extraordinary Merit. But, were the Matter to be so determined, no Reason coud be given for his leaving his own Country, as I know very few better Scholars, than either Mr Camm, or Mr Johnson.<a class="ptr" href="#GEWN-02-09-02-0124-fn-0004" id="GEWN-02-09-02-0124-fn-0004-ptr">4</a></p>
+<p>It is but Fair in Me, to advertise You, that I have, &amp; long have had, a very warm &amp; close Friendship with Dr Cooper, Presidt of the N. York College, that He is my Countryman, &amp; constant Correspondent, &amp; that, moreover, I am under some Obligations to the Trustees of his College for an honorary Degree, They were pleased to confer on Me some time ago.<a class="ptr" href="#GEWN-02-09-02-0124-fn-0005" id="GEWN-02-09-02-0124-fn-0005-ptr">5</a> How far, these Things may have biasd my Judgement, You will judge better than I can. I profess, however, that I have not willingly suffered private Friendship or Attachments to warp my Judgement. And I the less suspect myself, inasmuch as I know, that the Dulanys &amp; the Revd Mr Addison, by far the best educated Men, &amp; best Judges of Education in this Province, agree, in this Matter, in Opinion with Me. The Last of these Gentlemen proposes to give this least equivocal Proof of his Judgement on the Matter, the sending of his own Son thither, his youngest, I mean, whenever the ill-Health of Mrs Addison shall permit Him to take Him from Her. And, I think I have heard Mr Walter Dulany also talk of sending his youngest Son, tho. Mrs Dulany is, I believe, a Native of Philada, &amp; has many Relations there.<a class="ptr" href="#GEWN-02-09-02-0124-fn-0006" id="GEWN-02-09-02-0124-fn-0006-ptr">6</a></p>
+<p>The Difference in point of Distance, I shoud imagine too inconsiderable to deserve much Attention, even from a fond Parent. He may write every Week, from the one Place as well as the other: &amp; as his Visits neither can, nor ought to be very frequent, a Day or twos difference in the Journey can make but little odds.</p>
+<p>And now, my dear Sir, relying on your believing what I have said, to have been delivered with the best Intention, I beg Leave to refer the Determination of the matter, where doubtless it ought to be left, entirely with Yourself. I have not now to inform You of my Regard for the Youth: his Welfare, believe me, is the only Motive that I wish to influence my Judgement; and were I not persuaded, that That woud be more effectually promoted
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0164">[164]</span>
+by sending Him to York rather than Philada I had never taken the Liberty of troubling You with this long Letter.</p>
+<p>Whenever You have finally determined the matter, I beg the Favour of You to let Me know: and, if it be for Philada, as I happen to have no personal Acquaintance with Dr Smith, for whose Character, however, I profess the highest Respect, I will give You the Letter You ask.</p>
+<p>I have a Wish indeed, a strong one, to accompany You on this little Tour: the Indisposition of my Eye makes it almost absolutely necessary for Me to seek assistance somewhere, &amp; which, They tell Me, can only be found to the Northward. But, whether I shall be able to <span class="hi-italic" style="font-style: italic;">set my House in such order</span>, as that my Absence so long may be dispensed with, is more than I can now judge. This only I know, that if I possibly can, I will.</p>
+<p>A very disagreeable Controversy with two of our patriot Lawyers, which I was too easily persuaded to enter into, seems likely to cut Me out a good deal of Work: This, however, if other Matters can be got over, is certainly not of moment enough to detain Me.<a class="ptr" href="#GEWN-02-09-02-0124-fn-0007" id="GEWN-02-09-02-0124-fn-0007-ptr">7</a></p>
+<p>Mrs Boucher begs her aff. Compts to Mrs Washington &amp; Miss Custis, to which I request mine may be joind. I am, Dr sir, very truly Yr much obliged Frd &amp; Servt</p>
+<div class="closer">
+<p class="signed">Jonan Boucher</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-09-02-0124-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ Mutilated words in angle brackets have been taken from <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Stanislaus Murray Hamilton, ed. &lt;i&gt;Letters to Washington and Accompanying Papers&lt;/i&gt;. 5 vols. Boston and New York, 18981902. ]">Hamilton, <span class="hi-italic" style="font-style: italic;">Letters to Washington</span></span>, 4:17580.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0001-ptr" id="GEWN-02-09-02-0124-fn-0001">1</a>
+
+   <p>Castle-Magruder was a name given to Mount Lubentia, Bouchers home, by his young scholars. The house belonged to one of the Magruder family.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0002-ptr" id="GEWN-02-09-02-0124-fn-0002">2</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-09-02-0116" class="document">GW to Boucher, 7 January</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0003-ptr" id="GEWN-02-09-02-0124-fn-0003">3</a>
+
+   <p>For Bouchers proposal to conduct John Parke Custis on a three-year tour of Europe, see particularly <a href="default.xqy?keys=GEWN-print-02-08-02-0227" class="document">Boucher to GW, 9 and 21 May 1770</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0004-ptr" id="GEWN-02-09-02-0124-fn-0004">4</a>
+
+   <p>William Smith was president of the college in Philadelphia. As president of Kings College in New York, the Rev. Myles Cooper (17371785) was in the process of making the college conform more closely to the Oxford model. GW met with him when he took young Custis to enroll at Kings in May 1773. The Rev. John Camm, professor of divinity, had taught at the College of William and Mary for more than two decades, and the Rev. Josiah Johnson, master of the grammar school at the college, became rector in 1772 and died in April 1773.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0005-ptr" id="GEWN-02-09-02-0124-fn-0005">5</a>
+
+   <p>Boucher was awarded the honorary degree of Master of Arts in 1771 by Kings College in recognition of his part in an effort to establish a resident
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0165">[165]</span>
+bishop in America, an act which garnered him much ill will, including that of his friends and patrons Governor Eden and the Dulanys.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0006-ptr" id="GEWN-02-09-02-0124-fn-0006">6</a>
+
+   <p>Grafton Dulany was the youngest son of Walter Dulany and his wife Mary Grafton Dulany of Annapolis, and Daniel Dulany Addison was the younger son of Henry Addison. Both boys were at some time Bouchers students, but no record of their attending Kings College has been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0124-fn-0007-ptr" id="GEWN-02-09-02-0124-fn-0007">7</a>
+
+   <p>On 31 Dec. 1772 the <span class="hi-italic" style="font-style: italic;">Maryland Gazette</span> (Annapolis) published Bouchers letter of the same date in which he savagely attacked William Paca and Samuel Chase for their stand on the levying of taxes for clergymens salaries. On 14 Jan. Paca and Chase counterattacked in the <span class="hi-italic" style="font-style: italic;">Gazette</span> with equal savagery (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Anne Y. Zimmer. &lt;i&gt;Jonathan Boucher: Loyalist in Exile&lt;/i&gt;. Detroit, 1978. ]">Zimmer, <span class="hi-italic" style="font-style: italic;">Boucher</span></span>, chapter 6).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-09-02-0124 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 9 (8 January 177218 March 1774)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0123" title="To George William Fairfax, 19 January 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0125" title="From George William Fairfax, 19 January 1773 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

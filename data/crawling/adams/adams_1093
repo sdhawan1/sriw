@@ -1,0 +1,196 @@
+From James Lovell, 8 December 1777
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From James Lovell, 8 December 1777</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-05-02-0210&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1777-12-08-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-05-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-05-02-0209" title="From Elbridge Gerry, 8 December 1777"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-05-02-0211" title="To Elbridge Gerry, 9 December 1777"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-05&amp;mode=TOC">Volume 5, August 1776March 1778</a>&gt; <a href="?keys=ADMS-print-06-05-02&amp;mode=TOC">Papers of John Adams</a>&gt; From James Lovell, 8 December 1777</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-05-02-0210&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-05-02-0209" title="From Elbridge Gerry, 8 December 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-05-02-0211" title="To Elbridge Gerry, 9 December 1777"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-05-02-pb-0350">350<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-05/ADMS-06-05-02-pb-0350.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA05d214" class="doc letter">
+
+    <h1>From James Lovell</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">
+       Decr. 8th. [<ins title="editorial addition or explanation" class="ed">1777</ins>]
+      </td>
+	      </tr>
+      </table>
+     </div>
+     <p>Since my signing a letter to you with Colo. Lee<a class="ptr" href="#PJA05d214n1" id="PJA05d214n1-ptr">1</a> an excellent opportunity of sending to France presented; and the Colonel in his way home has carried a Packet to Baltimore, which will go to the Commissioners in a swift sailing armed Vessel.</p>
+     <p>No: 1 contained</p>
+     <p>Triplicates of Letters dated Octr. 31st. Novr. 1st. and Novr 8th<a class="ptr" href="#PJA05d214n2" id="PJA05d214n2-ptr">2</a></p>
+     <p>No. 2</p>
+     <p>A Letter of Decr. 1st. and Resolves respecting Frenchmen<a class="ptr" href="#PJA05d214n3" id="PJA05d214n3-ptr">3</a></p>
+     <p>Sept. 8. 13. 14. 14</p>
+     <p>Oct 4. 10. 13. 21</p>
+     <p>Novr. 7. 7 14. 15. 7</p>
+     <p>No. 3</p>
+     <p>Letter of Decr. 2d. with a Commission for F. L. A. with a Scheme of Genl. Conways approved by the marine Committee.<a class="ptr" href="#PJA05d214n4" id="PJA05d214n4-ptr">4</a></p>
+     <p>Resolve to recall S. D:<a class="ptr" href="#PJA05d214n5" id="PJA05d214n5-ptr">5</a> Appointment of J. A.Do. Carmichael 3 Resolves and Instructions Novr. 22. One of Novr. 10 for Importation of Sundries. One of Decr. 3 Loan 2,000,000</p>
+     <p>Triplicate of Sepr. 10 Interest on Loan Certificates</p>
+     <p>Triplicate of Octr. 18. respecting Georgia giving commission to raise men in France.</p>
+     <p>Triplicate of Octr. 21 Power over commercial Agents<a class="ptr" href="#PJA05d214n6" id="PJA05d214n6-ptr">6</a></p>
+     <span class="pb center" title="page number in print edition" id="ADMS-06-05-02-pb-0351">[351<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-05/ADMS-06-05-02-pb-0351.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+     <p>Duplicate Letter to S. D. conveying Resolve of Recall.</p>
+     <p>Letter of Decr. 8th. to S. D. directing his Return to America.</p>
+     <p>I now send you copies of No. 3 except Conways scheme and the triplicate Resolves, which you will carry yourself or seal and forward agreable to the request mentioned by Colo. Lee Decr. 3d.</p>
+     <p>It is not possible for me to send Copies of No. 2 by this opportunity. I will send them by way of Sth. Carolina or Boston shortly.</p>
+     <p>You will make use of the letter to the marine Board herewith sent,<a class="ptr" href="#PJA05d214n7" id="PJA05d214n7-ptr">7</a> when you think proper; and you will, in a joint consultation with the Gentlemen of that Board, make every thing convenient and agreable to yourself.</p>
+     <p>Having opposed several attempts of <span class="hi-italic" style="font-style: italic;">Jemmy</span><a class="ptr" href="#PJA05d214n8" id="PJA05d214n8-ptr">8</a> to <span class="hi-italic" style="font-style: italic;">do away</span> the resolve of Recall, I found a necessity to offer something this day myself, as no limited time had been fixed to Deans Powers. I send a letter for you to seal.<a class="ptr" href="#PJA05d214n9" id="PJA05d214n9-ptr">9</a> I think I have spread as small a Plaister as possible for a great Sore.</p>
+     <p>Mr. Dana is a most <span class="hi-italic" style="font-style: italic;">thorough</span> and active member; has been put into the Board of War, marine Committee, and afterward put at the head of the Treasury by the sollicitation of the members of that Board at Duanes Departure; upon which Mr. Dana was excused from the Board of War. Mr. Geary is yet at Head Quarters. We hope there was a general Engagement last friday.<a class="ptr" href="#PJA05d214n10" id="PJA05d214n10-ptr">10</a></p>
+     <p>Mr. Read<a class="ptr" href="#PJA05d214n11" id="PJA05d214n11-ptr">11</a> has refused to go a Commissioner to the western Frontiers. He is greatly chagrined at not being put upon the new Board of war, after his name had been mentioned to Genl. Washington.</p>
+     <p>If you should refuse to go over the water, which I pray you may not, He or Livingston would be chosen.</p>
+     <p>Excuse me to Mr. S. Adams. I am obliged to sit steadily in Congress to make up 9 Colonies,<a class="ptr" href="#PJA05d214n12" id="PJA05d214n12-ptr">12</a> and I have a deal of drudgerey to go through from a deficiency of Clerks.</p>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA05d214sn1">
+      <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: Honourable John Adams Esqr Boston; docketed: Letter Mr Lovell to me. contg. a List of the Papers he had sent me; in another hand: Dec 8 1777; additional and much later docketing.</span>
+      </p>
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA05d214n1-ptr" id="PJA05d214n1">1</a>
+      <p>That of <a href="default.xqy?keys=ADMS-print-06-05-02-0203" class="document">3 Dec.</a> (above).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n2-ptr" id="PJA05d214n2">2</a>
+      <p>Letters from the Committee for Foreign Affairs of 31 Oct. and 8 Nov. are in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed., &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, Washington, 1889; 6 vols. ]">Wharton, ed., <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 2:421423. The letter dated 1 Nov. has not been found, but it was apparently a letter of introduction for Col. Ewen [Ewing?] (Lovell to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, <a href="default.xqy?keys=ADMS-print-06-05-02-0218-0001" class="document">21 Dec.</a>, second letter, below).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n3-ptr" id="PJA05d214n3">3</a>
+      <p>The letter dated 1 Dec. is in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed., &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, Washington, 1889; 6 vols. ]">Wharton, ed., <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 2:437438. All the resolutions respecting French officers <span class="pb" title="page number in print edition" id="ADMS-06-05-02-pb-0352">[352<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-05/ADMS-06-05-02-pb-0352.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>are in the Journals on the dates listed, except that none was found for 21 Oct. The repetition of dates signifies that more than one resolve was adopted on that day (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 8:721722, 740, 743744; 9:765, 792, 799, 875878, 902905, 930931). The resolutions provided for pay to various French officers for serving in the Continental Army and, for those returning to France, travel expenses to and from the United States.</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n4-ptr" id="PJA05d214n4">4</a>
+      <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed., &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, Washington, 1889; 6 vols. ]">Wharton, ed., <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 2:438441. F. L. A. means Franklin, Lee, and Adams. In the letter of 2 Dec. it was suggested that American frigates use Mauritius as a base from which to cruise off the Coromandel coast to prey upon Indias internal trade and British ships headed for China. Prizes would be sold in Mauritius. In the letter Conways name is not associated with this scheme, but it is the only proposal that would have involved the approval of the Marine Committee.</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n5-ptr" id="PJA05d214n5">5</a>
+      <p>The recall of Silas Deane was voted on 21 Nov. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 9:946947).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n6-ptr" id="PJA05d214n6">6</a>
+      <p>All the resolves mentioned are in the Journals (same, 9:952, 883, 989990; 8:730731; 9:821, 825).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n7-ptr" id="PJA05d214n7">7</a>
+      <p>Henry Laurens to the president of the Navy Board in Boston (<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> to Committee for Foreign Affairs, <a href="default.xqy?keys=ADMS-print-06-05-02-0222" class="document">24 Dec.</a>, below).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n8-ptr" id="PJA05d214n8">8</a>
+      <p>James Duane of New York, one of Deanes supporters (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edmund C. Burnett, ed., &lt;i&gt;Letters of Members of the Continental Congress&lt;/i&gt;, Washington, 19211936; 8 vols. ]">Burnett, ed., <span class="hi-italic" style="font-style: italic;">Letters of Members</span></span>, 2:582, note 2).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n9-ptr" id="PJA05d214n9">9</a>
+      <p>Not identified.</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n10-ptr" id="PJA05d214n10">10</a>
+      <p>See Elbridge Gerry to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, <a href="default.xqy?keys=ADMS-print-06-05-02-0209" class="document">8 Dec.</a> (above).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n11-ptr" id="PJA05d214n11">11</a>
+      <p>Joseph Reed was appointed on 20 Nov. one of three commissioners to go to Fort Pitt; his refusal to accept caused George Clymer to be chosen as a replacement (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 9:944945, 1001, 1018). Reed had been elected to the congress in Sept. but did not take his seat until 1778 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edmund C. Burnett, ed., &lt;i&gt;Letters of Members of the Continental Congress&lt;/i&gt;, Washington, 19211936; 8 vols. ]">Burnett, ed., <span class="hi-italic" style="font-style: italic;">Letters of Members</span></span>, 2:lxiv; 3:lix).</p>
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA05d214n12-ptr" id="PJA05d214n12">12</a>
+      <p>Since Massachusetts had authorized any two of its delegates to cast a vote for the state (Amended Credentials, <a href="default.xqy?keys=ADMS-print-06-05-02-0042" class="document">4 Feb.</a>, above), and Gerry was temporarily absent, Lovells presence for voting purposes was essential. The reference to nine probably means that with absences and tie votes in other delegations, effective votes by nine states were about all that could be expected, and nine votes were required for important legislation. In late 1777 Delaware had no representation, and for a few weeks between mid-November and mid-December, New Jersey had none either. In this period the Virginia delegation alone tied on three occasions (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edmund C. Burnett, ed., &lt;i&gt;Letters of Members of the Continental Congress&lt;/i&gt;, Washington, 19211936; 8 vols. ]">Burnett, ed., <span class="hi-italic" style="font-style: italic;">Letters of Members</span></span>, 2:xlxlii, livlvi; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 9:970, 980, 1010). On the use of the term colonies instead of states, see Jefferson to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, 16 May, <a href="default.xqy?keys=ADMS-print-06-05-02-0118&amp;expandNote=PJA05d121n2#PJA05d121n2" class="document">note 2</a> (above).</p>
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-05-02-0210 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 5, August 1776March 1778
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-05-02-0209" title="From Elbridge Gerry, 8 December 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-05-02-0211" title="To Elbridge Gerry, 9 December 1777"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,190 @@
+School Exercises
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>School Exercises</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-01-02-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-01-02-0002" title="Deed for Ferry Farm Land, 7 July 1748"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-01&amp;mode=TOC">Volume 1 (7 July 174814 August 1755)</a>&gt; <a href="?keys=GEWN-print-02-01-02&amp;mode=TOC">Documents</a>&gt; School Exercises</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-01-02-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0002" title="Deed for Ferry Farm Land, 7 July 1748"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0001">1</span><div id="Col01d1" class="docsummary">
+
+
+<h1>School Exercises</h1>
+
+<div class="docbody">
+<p>[<span class="hi-italic" style="font-style: italic;">Ferry Farm, 17441748</span>]. The earliest manuscripts among GWs surviving papers are the schoolwork of his boyhood, amounting to 218 pages of exercises, mostly in mathematics and surveying. Because of the special character of these documents and because with appropriate annotation they will fill a volume in themselves, the exercises have been set aside for separate publication.</p>
+<p>At his death GW bequeathed his papers, including his surviving schoolwork manuscripts, to Bushrod Washington. When Jared Sparks took large numbers of GWs manuscripts from Mount Vernon to Boston in 182728 there seem to have been some of the school exercise manuscripts among them. As with other of GWs documents, Sparks apparently distributed parts of exercises as mementos for his friends.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0001" id="GEWN-02-01-02-0001-fn-0001-ptr">1</a> After Bushrods death in 1829 the school papers were probably among those moved by Col. George Corbin Washington to his law office in Georgetown, Md. There the main body of GWs papers remained until 1836 when Colonel Washington sold them to the United States government, retaining only those he considered to be private papers, which included GWs schoolboy exercises. Most of the exercise manuscripts remained with the so-called private papers, which were bought by the federal government in Mar. 1849.</p>
+<p>In preparing a descriptive list of GWs private papers George Corbin Washington included in his 1st vol. Miscellaneous a listing of transcripts in his [GWs] handwriting at from 10 to 13 years of age; of various legal instruments and forms, 20 pages. Rules of good behaviour at same age, 20 pages. His cyphering book at 13 years old, 178 pages.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0002" id="GEWN-02-01-02-0001-fn-0002-ptr">2</a> This description of the 218 pages (or 109 leaves), now bound in three exercise books in the Papers of George Washington at the Library of Congress, suggests that the schoolwork manuscripts were, when acquired by the federal government, in two or perhaps three books or groupings. In any case, the State Department in the mid1880s gave Arabic numbers to the 109 leaves of these manuscripts and divided them into three parcels for binding in separate volumes.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0003" id="GEWN-02-01-02-0001-fn-0003-ptr">3</a> The first two volumes were bound in 1892. The first of these incorporated leaves 1 through 17 (34 pages); the second, leaves 18 through 47 (58 pages). The third volume, not bound until the 1930s, includes leaves 48 through 107, leaf 48A, and leaf 72a, for a total of 61 leaves (122 pages).<a class="ptr" href="#GEWN-02-01-02-0001-fn-0004" id="GEWN-02-01-02-0001-fn-0004-ptr">4</a></p>
+<p>The first of the volumes, combining the forms of writing and rules
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0002">[2]</span>
+of civility, included: legal forms, 21 pages; a poem, entitled On Christmas Day, 30 lines; a poem, entitled True Happiness, 17 lines; a formula, To Keep Ink from Freezing or Moulding; Rules . . . of Civility &amp; Decent Behaviour in Company and Conversation, 10 pages.</p>
+<p>The second volume was composed of: geometry lessons (which were dated 13 Aug. 1745, signed by GW, and included definitions, illustrations, theorems, and 29 problems), 19 pages; surveying of Wood Land, 8 pages; gauging of solids and liquids in various-sized containers, 15 pages; Mensuration of Plain Superfices, 4 pages; problems in figuring the Ecclesiastical and civil Kalender, 5 pages; geographical definitions and problems, 6 pages.</p>
+<p>The contents of the third volume included: multiplication, 2 pages; Mensuration of Superficies, 2 pages; decimals, 22 pages; simple interest, 8 pages; compound interest, 7 pages; money conversion and exchange, examples and problems, 9 pages; scratch paper, 2 pages; geometrical definitions, 3 pages; geometrical problems, 10 pages; rules and problems for the square root, 6 pages; rules and problems of plane trigonometry, 10 pages; rules and examples for surveying land, 6 pages; surveying problems, 10 pages; practice surveys and accompanying notes, 22 pages; notes on measurements, 1 page.</p>
+<p>The material presented in GWs schoolboy exercises provides a fair sample of the sort of early schooling that the son of an eighteenth-century planter in Virginia was likely to receive. The 28 legal forms that GW copied include such standard ones as deeds, wills, indentures, and notes, but the forms are specifically designed for Virginia, with the accounts being given in tobacco and the names of specific Virginia counties being used. The first of the two sets of geometry exercises begins with drills in the basic principles of geometry and then applies the principles in an elementary way to surveying, to gauging the contents of various types of containers, to measuring plank, and the like. The title of the section devoted to the calendar suggests the scope of these particular exercises: A Description of the Leap year, Dominical Letter, Golden Number, Cycle of the Sun, Roman Indiction, Epact, &amp;c. With Memorial Verses on the Ecclesiastical and civil Kalender. The section on geography is filled with Geographical Definitions of an island, a continent, etc., as well as of the countries in each continent. The 52 pages of exercises in arithmetic and accounts embody the training that any planter or merchant would need to deal with some of the complexities of such things as currency, credit, and rates of exchange in colonial Virginia. The second set of geometry exercises overlaps but seems to bear no direct relation to the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0003">[3]</span>
+first. It includes 17 problems in constructing triangles, the extraction and use of square roots, and an introduction to Plain Trigonometry Geometrical and Logarithmetical. This is followed by 39 pages on the Art of Surveying and Measuring of Land. The exercises devoted to surveying constitute a practical course in surveying Virginia Wood Land; they also include a number of practice surveys.</p>
+<p>Sources from which these exercises of GWs may have been drawn in some cases can be identified.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0005" id="GEWN-02-01-02-0001-fn-0005-ptr">5</a> Charles Moore, for instance, has laid bare the origins of the <span class="hi-italic" style="font-style: italic;">Rules of Civility</span>, which appear in GWs exercise books.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0006" id="GEWN-02-01-02-0001-fn-0006-ptr">6</a> The poem On Christmas Day can be found in the issue of the <span class="hi-italic" style="font-style: italic;">Gentlemans Magazine</span> (London) for Feb. 1743. True Happiness, another poem, appeared in the Feb. 1734 issue of the same magazine, having been printed earlier in the <span class="hi-italic" style="font-style: italic;">Universal Spectator</span>.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0007" id="GEWN-02-01-02-0001-fn-0007-ptr">7</a> His recipe To Keep Ink from Freezing or Moulding repeats almost verbatim one appearing in the 1727 edition of George Fishers <span class="hi-italic" style="font-style: italic;">The Instructor: or, Young Mans Best Companion</span> (London, 1727). Parts of the gauging and solid measurement exercises duplicate passages in the same edition of Fishers work. Some of the geometrical problems that GW solves appear in William Leybourns <span class="hi-italic" style="font-style: italic;">The Compleat Surveyor</span>, 2d ed., 1657.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0008" id="GEWN-02-01-02-0001-fn-0008-ptr">8</a></p>
+<p>Dates appearing within individual exercises sometimes give a clue to the date that GW may have written the exercise. In the legal forms in the first volume, for instance, the dates run from 1741 to 1745. At the beginning of the second volume, on leaf 18, appears the date August 13th 1745. An exercise on leaf 43 refers to the Present year 1746, while the dates given in the last two calendar exercises in leaf 44, for figuring the moons age, are 17 Mar. 1746 and 18 June 1746. The practice surveys (leaves 100, 101, 103) carry several dates in Aug. and Oct. 1747, and one (leaf 104) is dated 27 Feb. 1747/48.</p>
+<p>Unfortunately neither the original sequence of the pages of the exercise books nor the exact date of most of them can be determined. In GWs youth, blank books, or paperbooks, of varying sizes and qualities of paper were used for all sorts of record keeping. Such paperbooks were made simply by folding a series of sheets of paper and sewing them loosely in the fold. When using them for schoolwork, the student would first work out his exercises on scrap paper and then enter them in the paperbook, thereby creating handy and long-lasting textbooks. It is not certain that GW wrote his exercises in paperbooks, or, if he did, that they remained either in paperbook form or in their original order until the Arabic numerals were written on each leaf in the 1880s. It is worth noting, however, that some of the earlier numbered leaves have one watermark and some of the later ones have a different mark.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0004">[4]</span>
+<p>Neither is there any firsthand evidence as to who GWs instructor or instructors were. Many instructors taught from their own manuscript copies of books they had used, with their own emendations and additions, literally creating their own instruction manuals. Students copied from printed and handwritten texts and from oral instruction; GW probably did both. While parts of his work suggest oral instruction, some of it was certainly copied from written or printed sources. On one page (leaf 50) of instruction on decimals, for instance, he wrote: as you were taught in the foregoing Chapter.</p>
+<p>It is likely that the extant exercises were created in several separate sessions of schooling, and they may have been taught by several different teachers. GW himself seems never to have alluded to his schooling or his schoolboy writings. When correcting and commenting on the draft of his biography that David Humphreys submitted to him in 1786, GW passed over without comment the one reference to his schooling: his education was principally conducted by a private tutor.<a class="ptr" href="#GEWN-02-01-02-0001-fn-0009" id="GEWN-02-01-02-0001-fn-0009-ptr">9</a> His silence here may or may not be revealing.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-01-02-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document: a document in the handwriting of the author ]">AD</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0001-ptr" id="GEWN-02-01-02-0001-fn-0001">1</a>
+
+   <p>Sparks was not alone in this practice. Bushrod Washington and George Corbin Washington also gave away snippets of the exercises. Of those located, there is one each in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Cornell University, Ithaca, N.Y. ]">NIC</span>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Morristown National Historical Park, Morristown, N.J. [[former abbreviation: NjMoHP]] ]">NjMoHP</span>, and <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ American Philosophical Society, Philadelphia, Pa. ]">PPAmP</span>, Feinstone Collection, and three in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Historical Society of Pennsylvania, Philadelphia ]">PHi</span>, one of which is in the Dreer Collection and two in the Etting Papers.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0002-ptr" id="GEWN-02-01-02-0001-fn-0002">2</a>
+
+   <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ J. M. Toner. &lt;i&gt;Some Account of George Washingtons Library and Manuscript Records and Their Dispersion from Mount Vernon, with an Excerpt of Three Months from His Diary in 1774 While Attending the First Continental Congress, with Notes&lt;/i&gt;. Washington, D.C., 1893. In &lt;i&gt;Annual Report of the American Historical Association for the Year 1892&lt;/i&gt;, pages 73169. ]">Toner, Account,</span> 91.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0003-ptr" id="GEWN-02-01-02-0001-fn-0003">3</a>
+
+   <p><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Andrew Hussey Allen. The Historical Archives of the Department of State. In &lt;i&gt;Annual Report of the American Historical Association for the Year 1894&lt;/i&gt;, 281-98. Washington, D.C., 1895, pages 281-98. ]">Allen, Historical Archives,</span> 281.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0004-ptr" id="GEWN-02-01-02-0001-fn-0004">4</a>
+ 
+   <p>These three volumes still have on their spines the numbers 338, 339, and 340, but they have, since 1964, become volumes 1, 2, and 3, subseries A, first series, of the George Washington Papers in the Library of Congress. John C. Fitzpatricks suggestion that the original first pages of the third volume are missing was based on a mistake in the numbering of the leaves (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John C. Fitzpatrick, ed. &lt;i&gt;The Writings of George Washington from the Original Manuscript Sources, 17451799&lt;/i&gt;. 39 vols. Washington, D.C., 193144. ]"><span class="hi-italic" style="font-style: italic;">Writings of Washington</span></span>, 1 : 1, n. 1; note by Fitzpatrick on binding sheet inside volume 3, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0005-ptr" id="GEWN-02-01-02-0001-fn-0005">5</a>
+
+   <p>Although it has been suggested that GW learned his lessons from a copy of the twelfth edition of William Mathers <span class="hi-italic" style="font-style: italic;">The Young Mans Companion: or, Arithemetick Made Easy</span>, a page-by-page comparison of this edition with the exercise books shows no correspondence between the two.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0006-ptr" id="GEWN-02-01-02-0001-fn-0006">6</a>
+
+   <p>Charles Moore, ed., <span class="hi-italic" style="font-style: italic;">George Washingtons Rules of Civility, and Decent Behaviour in Company and Conversation</span> (Boston and New York, 1926).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0007-ptr" id="GEWN-02-01-02-0001-fn-0007">7</a>
+
+   <p>See the <span class="hi-italic" style="font-style: italic;">Gentlemans Magazine</span> (London), 13 : 96.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0008-ptr" id="GEWN-02-01-02-0001-fn-0008">8</a>
+
+   <p>A 1679 edition appears in the inventory of GWs estate taken in 1800 but with no indication of when it was acquired.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0001-fn-0009-ptr" id="GEWN-02-01-02-0001-fn-0009">9</a>
+
+   <p>David Humphreys biographical sketch of GW, c.1786, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Rosenbach Museum and Library, Philadelphia, Pa. ]">PPRF</span>; GWs Biographical Memorandum on David Humphreyss biography, c.1786, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Mount Vernon Ladies Association of the Union, Mount Vernon, Va. [[former abbreviation: ViMtV]] ]">ViMtvL</span>, photostats.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-01-02-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 1 (7 July 174814 August 1755)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0002" title="Deed for Ferry Farm Land, 7 July 1748"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

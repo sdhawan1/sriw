@@ -1,0 +1,271 @@
+General Orders, 22 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 22 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0091&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-22-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0090" title="To Jonathan Trumbull, Sr., 21 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0092" title="From Captain Joshua Davis, 22 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 22 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0091&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0090" title="To Jonathan Trumbull, Sr., 21 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0092" title="From Captain Joshua Davis, 22 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0153">153</span><div id="Rev01d86" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, July 22nd 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Nantasket.</td>
+		<td class="csigns">Countersign Mississipi.</td>
+	      </tr></table>
+
+</div>
+<p>A Court of Enquiry to sit forthwith, President Doctor Foster, Doctor Warren, and Doctor Eustace, Members, to examine into a Complaint exhibited by Mr John Spalding, surgeon to General Putnams regiment against Mr Penuel ChineySurgeons Mate of the said regiment: All Evidences to attend the Court.<a class="ptr" href="#GEWN-03-01-02-0091-fn-0001" id="GEWN-03-01-02-0091-fn-0001-ptr">1</a></p>
+<p>Capt. Israel Putnam and Lieut. Samuel Webb, being appointed Aids-de-Camp to Major General Putnam; they are to be obeyd as such.<a class="ptr" href="#GEWN-03-01-02-0091-fn-0002" id="GEWN-03-01-02-0091-fn-0002-ptr">2</a></p>
+<p>Regularity and due Subordination, being so essentially necessary, to the good Order and Government of an Army, and without it, the whole must soon become a Scene of disorder and confusion. The General finds it indispensibly necessary, without waiting any longer for dispatches from the General Continental Congress, immediately to form the Army into three Grand Divisions, and of dividing each of those Grand Divisions into two Brigades: He therefore orders that the following Regiments vizt
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0154">[154]</span>
+<table class="bodytext" id="Rev01d86t1" style="margin: auto;">
+          <tr>
+		<td style="white-space: nowrap;">Genl Wards</td>
+		<td style="white-space: nowrap;">Col. Cottons</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Gen. Thomass</td>
+		<td style="white-space: nowrap;">Col. Danielsons</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Fellows</td>
+		<td style="white-space: nowrap;">Col. Dad Brewers</td>
+	      </tr>
+        </table>
+compose one Brigade, and be under the Command of Brigadier Genral Thomas; that
+<table class="bodytext" id="Rev01d86t2" style="margin: auto;">
+          <tr>
+		<td style="white-space: nowrap;">Genl Spencers.</td>
+		<td style="white-space: nowrap;">Col. Walkers</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Parsons.</td>
+		<td style="white-space: nowrap;">Col. J: Reads.</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Learneards.</td>
+		<td style="white-space: nowrap;">Independents.<a class="ptr" href="#GEWN-03-01-02-0091-fn-0003" id="GEWN-03-01-02-0091-fn-0003-ptr">3</a></td>
+	      </tr>
+        </table>
+compose another Brigade, to be commanded by Brigadier Genl Spencer: That these two Brigades compose the right wing or division of the army; and be under the command of Major General Ward, and remain at Roxbury, and its southern dependencies. That
+<table class="bodytext" id="Rev01d86t3" style="margin-left: 1.5em;">
+          <tr>
+		<td style="white-space: nowrap;">Col. Starks</td>
+		<td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+		<td rowspan="3" style="white-space: nowrap; vertical-align: middle;">New<br/>Hampshire.</td>
+		<td style="white-space: nowrap;">Col. Nixons.</td>
+		<td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+		<td rowspan="3" style="white-space: nowrap; vertical-align: middle;">Massachusetts.</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Poors</td>
+		<td style="white-space: nowrap;">Col. Mansfield.</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Reeds</td>
+		<td style="white-space: nowrap;">Col. Doolittles.</td>
+	      </tr>
+        </table>
+be formed into another Brigade under the Command of Brigadier General Sullivan, and posted on Winter-hill. That
+<table class="bodytext" id="Rev01d86t4" style="margin-left: 1.5em;">
+          <tr>
+		<td style="white-space: nowrap;">Col. Varnums</td>
+		<td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+		<td rowspan="3" style="white-space: nowrap; vertical-align: middle;">Rhode<br/>Island.</td>
+		<td style="white-space: nowrap;">Col. Whitecombes</td>
+		<td class="brace" rowspan="4"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 5em; width: 19px;"/></td>
+		<td rowspan="4" style="white-space: nowrap; vertical-align: middle;">Massachusetts.</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Hitchcocks</td>
+		<td style="white-space: nowrap;">Col. Gardners</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Churchs</td>
+		<td style="white-space: nowrap;">Col. J. Brewers</td>
+	      </tr>
+          <tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td style="white-space: nowrap;">Col. Littles.</td>
+	      </tr>
+        </table>
+be formed into another Brigade, and commanded by Brigadier Genl Green, and posted upon Prospect Hill; and these two Brigades compose the left wing or second division of the army under the Command of Major Genl Lee.</p>
+<p>[That General Heaths, Colonel Pattersons, Colonel Scammonss, Colonel Gerrishs, Colonel Phinneys, Colonel Prescotts, be formed into another brigade, and commanded by Brigadier-General Heath, and be posted between Cambridge River and Prospect Hill.]<a class="ptr" href="#GEWN-03-01-02-0091-fn-0004" id="GEWN-03-01-02-0091-fn-0004-ptr">4</a> That
+<table class="bodytext" id="Rev01d86t5" style="margin: auto;">
+          <tr>
+		<td style="white-space: nowrap;">Genl Putnams</td>
+		<td style="white-space: nowrap;">Col. Bridges</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Glovers</td>
+		<td style="white-space: nowrap;">Col. Woodbridges</td>
+	      </tr>
+          <tr>
+		<td style="white-space: nowrap;">Col. Fryes.</td>
+		<td style="white-space: nowrap;">Col. Serjeants.</td>
+	      </tr>
+        </table>
+be formed into another Brigade, under the Command of the Senior Officer therein, and until the pleasure of the Continental Congress be known:<a class="ptr" href="#GEWN-03-01-02-0091-fn-0005" id="GEWN-03-01-02-0091-fn-0005-ptr">5</a> These two Brigades to be under the Command of Major General Putnam, also a Corps-de-reserve, for the defence of the several posts, north of Roxbury, not already named.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0155">[155]</span>
+<p>The Arrangement now ordered to take place, is to be made as speedily as possible, and the Majors General are to see it done accordingly, some inconveniencies may arise to certain Individuals by this change, but as the good of the service requires it to be made an alert and ready compliance is expected.</p>
+<p>All applications from henceforward, by Officers or Soldiers for leave of absence, are to be made to the Major General commanding each division, who is to judge of the propriety of the application and grant Furloughs where they see cause, without applying to the Commander in Chief, provided it be not contrary to General orders.</p>
+<p>General Heaths Regiment is to take post at No. 2 in lieu of General Wards, Col. Pattersons remains at No. 3: Col. Scammons to occupy No. 1: and the Redoubt between that and No. 2:<a class="ptr" href="#GEWN-03-01-02-0091-fn-0006" id="GEWN-03-01-02-0091-fn-0006-ptr">6</a> Col. Prescotts regiment to take post at the redoubt upon Sewells point, Col. Gerrishes Regiment to furnish the Companies for Chelsea, Malden, and medford.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0091-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0001-ptr" id="GEWN-03-01-02-0091-fn-0001">1</a>
+	
+   <p>Penuel Cheney (Cheeney), who became a surgeons mate in the 3d Connecticut Regiment on 1 May 1775, was accused by John Spalding of making fraudulent Draughts upon the Commissarys Store and other malpractices (<a href="default.xqy?keys=GEWN-print-03-02-02-0235" class="document">GW to Jonathan Trumbull, Sr., 29 Oct. 1775</a>). Instead of being court-martialed, Cheney was allowed to leave the army (<a href="default.xqy?keys=GEWN-print-03-01-02-0304" class="document">Cheney to GW, 4 Sept. 1775</a>), but on 4 Oct. the Connecticut council appointed him surgeon of his old regiment. New charges were subsequently raised against Cheney, and he was cashiered on 21 Nov. 1775 (<a href="default.xqy?keys=GEWN-print-03-02-02-0292" class="document">Jonathan Trumbull, Sr., to GW, 6 Nov. 1775</a>; <a href="default.xqy?keys=GEWN-print-03-02-02-0378" class="document">General Orders, 21 Nov. 1775</a>). Spalding continued as a surgeon in the Continental army until 31 Dec. 1776. Isaac Foster (d. 1781), John Warren (17531815), and William Eustis (17531825) were all Massachusetts surgeons. Foster served as deputy director general of the hospital for the eastern department from 1777 to 1780, when he retired from the army. Warren, who was wounded at the Battle of Bunker Hill, and Eustis remained as surgeons until the end of the war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0002-ptr" id="GEWN-03-01-02-0091-fn-0002">2</a>
+
+   <p>Israel Putnam, Jr., a son of Maj. Gen. Israel Putnam, was commissioned a captain in the 3d Connecticut Regiment on 1 May 1775. He served his father as an aide-de-camp until 3 June 1783. Samuel Blachley Webb (17531807), of Wethersfield, Conn., was the stepson and private secretary of Silas Deane, who took credit for obtaining this appointment for him. Webb remained with General Putnam until 21 June 1776, when he was appointed aide-de-camp to GW with the rank of lieutenant colonel. Wounded at the Battle of Bunker Hill while leading a Wethersfield militia company, Webb was twice more wounded during his service with GW, first at the Battle of White Plains and later at the Battle of Trenton. In January 1777 Webb became colonel of one of the additional
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0156">[156]</span>
+Continental regiments. He was captured during an attack on Long Island in December 1777 and was exchanged a year later. Resuming command of his regiment, he served until the end of the war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0003-ptr" id="GEWN-03-01-02-0091-fn-0003">3</a>
+
+   <p>These four independent infantry companies were from Massachusetts.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0004-ptr" id="GEWN-03-01-02-0091-fn-0004">4</a>
+
+   <p>This paragraph, omitted in the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, is taken from William Henshaw, Orderly Book, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt;. Boston, 1859. ]">Mass. Hist. Soc., <span class="hi-italic" style="font-style: italic;">Proceedings</span></span>, 1st ser., 15 (187677), 129.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0005-ptr" id="GEWN-03-01-02-0091-fn-0005">5</a>
+
+   <p>Col. James Frye (17091776) of Andover, Mass., apparently commanded this Cambridge brigade as senior colonel until his death on 8 Jan. 1776. His cousin Brig. Gen. Joseph Frye was given command of the brigade on 17 Feb. 1776. See GW to <a href="default.xqy?keys=GEWN-print-03-01-02-0285" class="document">Hancock, 31 Aug. 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0234" class="document">General Orders, 17 Feb. 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0091-fn-0006-ptr" id="GEWN-03-01-02-0091-fn-0006">6</a>
+
+   <p>The redoubts were between the Charles River and the foot of Prospect Hill to protect Cambridge from attacks coming from Boston. Redoubt number one stood near the Charles; number three was near Prospect Hill; and number two lay in the middle. William Heaths regiment, which was moved from Roxbury to Cambridge by these orders, replaced Artemas Wards regiment at redoubt number two because Wards regiment was transferred to Roxbury.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0091 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0090" title="To Jonathan Trumbull, Sr., 21 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0092" title="From Captain Joshua Davis, 22 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,189 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-11-02-0295&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-11-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0294" title="From Benjamin Franklin, 30 June 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-11-02-0296" title="From J. Rocqette, Th. A. Elsevier, &amp; P. Th. Rocqette, 3 July 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-11-02-0295-0001" title="From C. W. F. Dumas, 3 July 1781"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-11&amp;mode=TOC">Volume 11, JanuarySeptember 1781</a>&gt; <a href="?keys=ADMS-print-06-11-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-11-02-0295&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0294" title="From Benjamin Franklin, 30 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0296" title="From J. Rocqette, Th. A. Elsevier, &amp; P. Th. Rocqette, 3 July 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-11-02-pb-0400">400<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0400.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA11tg50" class="transgroup">
+
+<div id="PJA11d353" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monseiur</td>
+		  <td class="salutationRight">Lahaie 3 Juillet 1781</td>
+		</tr>
+      </table>
+</div>
+<p>Jai t mortifi dernierement, de vous trouver justement parti lorsque je passai  votre Auberge, pour vous rendre mes devoirs aprs avoir vu quelques patriotes. Jespere tre dedommag lorsque vous ferez une autre tourne ici. En attendant, je me hte de vous faire passer lincluse, non seulement pour que vous ayiez la bont de la faire partir par premiere occasion avec vos Dpeches, mais aussi pour que vous la lisiez.</p>
+<p>Tout ce quelle contient est aussi sr quinteressant. Le troisieme Article est encore plus directement important pour lAmrique, et pour vous personnellement,  cause de votre Commission de Minre. Plenipo: en cas de Pacification gnrale. Jai tenu en mes mains et lu toute la Dpeche, dont la mienne donne la substance.<a class="ptr" href="#PJA11d354n1" id="PJA11d354n1-ptr">1</a> Ainsi je vous suis garant de la chose. Jignore, au reste, Si les Cours belligrantes Sont dj convenues de certains prliminaires avec les Cours Impriales, ou Si ce nest encore quune ngociation entame par ces deux dernieres seules. Le temps nous dveloppera cela.</p>
+<p>Mes respects, S. V. p.  Mrs. Dana, Searle, Gilon et Jennings. Je suis avec bien du respect, Monsieur, Votre trs humble &amp; trs obeisst. servit.</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>P.S. Je vous fais mon compliment, Monsieur, sur la victoire remporte par Mr. De Grasse prs de la Martinique contre Hood.<a class="ptr" href="#PJA11d354n2" id="PJA11d354n2-ptr">2</a> Voil Rodney bien mortifi. Ce brigand le mrite. Mais ny a-t-il donc personne en Amrique qui puisse prendre et pendre la felon Arnold?</p>
+<p>Je prends la libert de tirer sur vous, Monsieur,  lordre de Mrs. De Neufv. &amp; fils, les 20 Ducats pour les fraix de publication du Memoire dans les 3 Langues, selon le Mmoire que vous aurez trouv dans le paquet des 150 Exemples. du Meme. en Anglois, qui doit vous avoir t remis par Mrs. De Neufville.<a class="ptr" href="#PJA11d354n3" id="PJA11d354n3-ptr">3</a></p>
+</div>
+</div>
+</div>
+<span class="pb center" title="page number in print edition" id="ADMS-06-11-02-pb-0401">[401<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0401.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div id="PJA11d354" class="trans letter">
+
+<h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 3 July 1781</td>
+		</tr>
+      </table>
+</div>
+<p>I was mortified to find that you had just left your inn, when I came to call on you after having met with some patriots. I hope we can make up for it on your next trip here. Meantime, I hasten to give you the enclosed, not only for you to be so kind as to forward it, with your dispatches, but also so that you may read it.</p>
+<p>Everything it contains is as reliable as it is interesting. The third article is more directly important for America, and for you personally, because of your commission as minister plenipotentiary for a general peace. I held the dispatch in my hands and read it in its entirety, of which mine gives a summary.<a class="ptr" href="#PJA11d354n1" id="PJA11d354n1-ptr">1</a> As far as it is concerned, you can rely on me. Besides, I do not know if the belligerent courts have agreed on certain preliminaries with the imperial courts, or if it is still only a negotiation initiated by these last two only. Time will tell.</p>
+<p>My respects, if you please, to Messrs. Dana, Searle, Gillon and Jenings. I am with great respect, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>P.S. My compliments, sir, on Mr. Grasses victory against Hood near Martinique.<a class="ptr" href="#PJA11d354n2" id="PJA11d354n2-ptr">2</a> How Rodney is mortified. That brigand deserves it. But isnt there anyone in America who can capture and hang the felon Arnold?</p>
+<p>I take the liberty of asking you, sir, for twenty ducats, payable to Messrs. Neufville, for the publication cost of the memorial in three languages. This fee is indicated on the bill that you will have found in the package they sent to you containing 150 English copies.<a class="ptr" href="#PJA11d354n3" id="PJA11d354n3-ptr">3</a></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA11d354sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA11d354n1-ptr" id="PJA11d354n1">1</a>
+
+   <p>The enclosure was almost certainly a copy of Dumas letter of 4 July to the president of Congress (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Miscellaneous Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 9 reels. Cited in the present work from the microfilms by reel and folio number.&lt;/expan&gt; ]">PCC, Misc. Papers</span>, Reel No. 2, f. 433436). In the third paragraph of that letter Dumas refers to a dispatch from the Dutch minister at St. Petersburg that he had been shown on 3 July. Dumas indicated that the Russian government believed that although its offer to mediate the Anglo-Dutch war had been rejected, it might still be possible to settle the conflict at a general peace conference to be held at Vienna under the mediation of Russia and Austria. It would be advantageous, therefore, if the States General approved such a course of action so that efforts in pursuit of a peace settlement could proceed expeditiously. Dumas included the full text of this proposal as an enclosure in his letter of 10 July to the president of Congress (same, f. 440442). He sent a copy of that letter as an enclosure in his letter to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of 11 July (not found), which John Thaxter indicated on 18 July that he had copied and forwarded to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> at Paris (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 101, II, f. 202).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d354n2-ptr" id="PJA11d354n2">2</a>
+
+   <p>On 29 April fleets commanded by Samuel Hood and the Comte de Grasse engaged in a battle off Martinique. It was a French victory in the sense that Grasse was able to protect his transports and get them into harbor unscathed. But as a fleet action it was indecisive (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Piers Mackesy, &lt;i&gt;The War for America, 17751783&lt;/i&gt;, Cambridge, 1965. ]">Mackesy, <span class="hi-italic" style="font-style: italic;">War for America</span></span>, p. 417; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Alfred Thayer Mahan, &lt;i&gt;The Major Operations of the Navies in the War of American Independence&lt;/i&gt;, Boston, 1913. ]">Mahan, <span class="hi-italic" style="font-style: italic;">Navies in the War of Amer. Independence</span></span>, p. 163168).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d354n3-ptr" id="PJA11d354n3">3</a>
+
+   <p>Thaxter replied to this letter on 5 July and indicated that he had written to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> in Paris concerning the twenty ducats (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 101, II, f. 201). Thaxters letter to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> has not been found.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-11-02-0295 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 11, JanuarySeptember 1781
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0294" title="From Benjamin Franklin, 30 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0296" title="From J. Rocqette, Th. A. Elsevier, &amp; P. Th. Rocqette, 3 July 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

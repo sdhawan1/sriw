@@ -1,0 +1,154 @@
+I. Fragmentary Notes for “A Dissertation on the Canon and the Feudal Law”, May – August 1765
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law, May  August 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0052-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1765-05-00-1">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0052&amp;mode=TOC" title="A Dissertation on the Canon and the Feudal Law: May  21 October 1765"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0003" title="II. Draft of A Dissertation on the Canon and the Feudal Law, August 1765"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 11px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0052&amp;mode=TOC">A Dissertation on the Canon and the Feudal Law: May  21 October 1765</a>&gt; I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law, May  August 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0052-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0003" title="II. Draft of A Dissertation on the Canon and the Feudal Law, August 1765"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0106">106<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0106.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d064" class="doc published">
+
+     <h2>I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law</h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">MayAugust 1765</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>Liberty, that has been compelled to skulk about in Corners of the Earth, and been everlastingly persecuted by the great, the rich, the noble, the Reverend, the proud, the Lasey, the Ambitious, avaricious, and Revengeful, who have from the beginning constituted almost all the sons of Adam. Liberty, that complication of real Honour, Piety, Virtue Dignity, and Glory, which has never been enjoyd, in its full Perfection, by more than ten or twelve Millions of Men at any Time, since the Creation, will reign in America, over hundreds and Thousands of Millions at a Time.</p>
+      <p>In future ages, when the Bones and sinews that now direct this Pen, shall become indistinguishable from the rest of Mother Earth, and perhaps incorporate into some Plant or other Animal, Man shall make his true Figure, upon this Continent, He shall make that great and happy Figure among Intellectual and sensible reigns that his great Creator intended he should in other Countries before his Ruin was effected by the Lust of Tyrants.</p>
+      <p>When science, Literature, Civility, Politeness, Humanity, <span title="unclear; reading uncertain" class="unclear">[every?]</span> Christian grace and Virtue shall be well understood by all Men, when <del title="deleted text">&lt;a few&gt;</del> one shall not be able to deceive a Thousand and two because 10,000 of their Souls and Bodies then will be the Aera of human Happiness.</p>
+      <p>Knowledge monopolized, or in the Possession of a few, is a Curse to Mankind. We should dispense it among all Ranks. We should educate our children. Equality should be preserved in knowledge.</p>
+      <p>Property monopolized or in the Possession of a few is a Curse to Mankind. We should preserve not an Absolute Equality.this is unnecessary, but preserve all from extreme Poverty, and all others from extravagant Riches.<a class="ptr" href="#PJA01d064n1" id="PJA01d064n1-ptr">1</a></p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0107">[107<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0107.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>The Happiness of a Milion is in the sight of God, and in the Estimation of every honest and humane Mind, of more Importance, than that of 20 or an Hundred. Even tho the former may be called the Mob, the Vulgar, or the Herd, and tho the former may be called the reverd or right reverend, the honourable, or excellent, or noble, or puissant, or royalfor Happiness is Happiness to every human Creature, and they all feel nearly the Like Sensations from Hunger, Frost, from broken Bones, and bruised Flesh, notwithstand<span title="text unclear" class="unclear">[ing]</span> all such Accidental Titles of Dignity or Reproach.</p>
+      <p>Let us reverence, with hearty Gratitude, the Memory of the late Chief Justice Dudley,<a class="ptr" href="#PJA01d064n2" id="PJA01d064n2-ptr">2</a> for his noble Foundation of a Lecture on the Validity of Presbyterian ordinations, an Institution, that will redound more to his Honor and that of his family, than all the offices, that could have been bestowd upon him by the Crown or the People, an Institution that has given every Friend to unsullied Liberty, a great Idea both of his foresight and Public Spirit.</p>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d064sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr></span> (<span class="ref-terms">Adams Papers</span>). These notes are located amidst a group of draft newspaper letters which <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> wrote in 1763 and which <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Francis Adams (18071886), son of John Quincy Adams and Louisa Catherine Adams ]">CFA</abbr> docketed: Original Draughts of Newspaper Articles, signed U. 1763 (<span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 343). However, internal evidence, particularly that of a thematic nature, indicates that they were actually written by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> in 1765 in conjunction with the composition of A Dissertation on the Canon and the Feudal Law. Like the published Dissertation, although in much more summary style, the notes deal with the themes of the natural dichotomy between power and liberty and the role of popular education in the preservation of freedom. Also like the published Dissertation, they pay tribute to the institution of the Dudleian Lecture at Harvard College. Because <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> was heavily influenced by the Dudleian Lecture delivered by Jonathan Mayhew on 8 May 1765 (see below, No. IV, <a href="default.xqy?keys=ADMS-print-06-01-02-0052-0005&amp;expandNote=PJA01d067n3#PJA01d067n3" class="document">note 3</a>, and No. V, <a href="default.xqy?keys=ADMS-print-06-01-02-0052-0006&amp;expandNote=PJA01d068n2#PJA01d068n2" class="document">note 2</a>), there are good grounds for assuming that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> jotted down these notes no earlier than that date.</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d064n1-ptr" id="PJA01d064n1">1</a>
+       
+   <p>Although <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> expounded at some length in his draft and in the finished version on the dangers of monopolized knowledge, he did not develop the theme of the dangers of monopolized property and of the extremes of wealth and poverty. His concentration on the monopolization of knowledge probably grew out of concern over the Stamp Act with its taxes on newspapers, college diplomas, and the like.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d064n2-ptr" id="PJA01d064n2">2</a>
+       
+   <p>Paul Dudley (16751751) graduated from Harvard in 1690. He served as attorney general of Massachusetts from 1702 to 1718, Superior Court justice from 1718 to 1745, and chief justice of the same court from 1745 until his death. In his will he endowed Harvard with the funds for an annual lecture, soon known as the Dudleian Lecture, every fourth one of which was to be devoted to the detecting and convicting and exposing the Idolatry of the Romish Church, Their Tyranny, Usurpations, damnable Heresies, fatal Errors, abominable Superstitions, and other crying Wickednesses in their high Places; And Finally that the Church of Rome is that mystical Babylon, that Man of Sin, That Apostate Church spoken of, in the New-Testament (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Langdon Sibley and Clifford K. Shipton, &lt;i&gt;Biographical Sketches of Graduates of Harvard University, in Cambridge, Massachusetts&lt;/i&gt;, Cambridge and Boston, 1873. ]">Sibley-Shipton, <span class="hi-italic" style="font-style: italic;">Harvard Graduates</span></span>, 4:4253).</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0052-0002 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0003" title="II. Draft of A Dissertation on the Canon and the Feudal Law, August 1765"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.250.94</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

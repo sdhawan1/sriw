@@ -1,0 +1,186 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-11-02-0288&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-11-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0287" title="To Franois AdriaanVan der Kemp,, 24 June 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-11-02-0289" title="To the President of Congress, 26 June 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-11-02-0288-0001" title="From C. W. F. Dumas, 25 June 1781"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-11&amp;mode=TOC">Volume 11, JanuarySeptember 1781</a>&gt; <a href="?keys=ADMS-print-06-11-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-11-02-0288&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0287" title="To Franois AdriaanVan der Kemp,, 24 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0289" title="To the President of Congress, 26 June 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-11-02-pb-0389">389<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0389.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA11tg49" class="transgroup">
+
+<div id="PJA11d345" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Lahaie 25 Juin 1781</td>
+		</tr>
+      </table>
+</div>
+<p>Je me proposois davoir lhonneur de vous crire demain. Mais S. E. M. lAmbassadeur de France, mayant fait chercher dans ce moment, pour me dire de vous ecrire, que comme vous aviez demand  Mr. De Berenger, Charg des Affaires de France, les raisons pour lesquelles on souhaitoit votre prsence et un entretien avec vous en France, il savoit ces raisons, et que si vous voulez vous donner la peine de venir ici  la Haie, il vous les communiquera.<a class="ptr" href="#PJA11d346n1" id="PJA11d346n1-ptr">1</a></p>
+<p>On ma dit et demand les fraix dImpression de votre Mmoire <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0390">[390<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0390.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>dans les 3 Langues. Jen vais dresser le montant, que ma premiere vous portera, et je vous demanderai la permission de pouvoir le tirer Sur vous pour Satisfaire ces gens.</p>
+<p>Jai lhonneur dtre avec grand respect Monsieur Votre trs-humble &amp; trs-obissant serviteur</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>Tornez S. v. p.</p>
+<p>P.S. Il se passe ici des choses trs-interessantes touchant letat interne de cette Rep., dont vous avez sans doute oui parler. Cest une vrais crise,<a class="ptr" href="#PJA11d346n2" id="PJA11d346n2-ptr">2</a> qui se dcidera cette semaine, ou la prochaine. Je ne crois pas sr de confier rien de plus au papier fut une affaire aussi dlicate, ou dailleurs lAmrique nest point intresse, si ce nest par les suites que peut avoir sa dcision. Nous pourrons en causer, si vous venez ici.</p>
+</div>
+</div>
+</div>
+<div id="PJA11d346" class="trans letter">
+
+<h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 25 June 1781</td>
+		</tr>
+      </table>
+</div>
+<p>I intended to have the honor of writing to you tomorrow, but His Excellency, the French ambassador, has just this moment asked me to write to you. He says that you had asked Mr. Brenger, French charg des affaires, what reasons warranted your presence and an interview with you in France, and that he knows these reasons. If you can take the trouble to come here to the Hague, he will communicate them to you.<a class="ptr" href="#PJA11d346n1" id="PJA11d346n1-ptr">1</a></p>
+<p>I have been asked for the printing costs for your memorial in the three languages. I will add up the total, which my first one will bring to you, and I will ask your permission to draw on your account for it in order to satisfy these gentlemen.</p>
+<p>I have the honor to be with great respect, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>Please turn.</p>
+<p>P.S. Some very interesting things are happening here concerning the internal affairs of the republic, of which I am sure you have heard talk. It is a real crisis<a class="ptr" href="#PJA11d346n2" id="PJA11d346n2-ptr">2</a> that will be decided on either this week or next week. I do not believe I should confide anymore to you about it on paper since it is such a delicate affair, or, moreover, America is not at all involved except that it is only by the outcome that decisions can be made. We can discuss it if you come here.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA11d346sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA11d346n1-ptr" id="PJA11d346n1">1</a>
+
+   <p>See the letter of <a href="default.xqy?keys=ADMS-print-06-11-02-0263-0002" class="document">5 June</a> from Laurent Brenger and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reply of <a href="default.xqy?keys=ADMS-print-06-11-02-0270" class="document">8 June</a>, both above. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> probably met with the French ambassador on either <a href="default.xqy?keys=ADMS-print-03-01-02-0003-0001-0020" class="document">28</a> or <a href="default.xqy?keys=ADMS-print-03-01-02-0003-0001-0021" class="document">29</a> June. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Quincy Adams (17671848), son of John and Abigail Adams ]">JQA</abbr>s Diary indicates that on those days <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> was at Leyden, a short distance from The Hague. The meeting with La Vauguyon convinced <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> that he had no choice but to meet with Vergennes at Versailles about the proposed Austro-Russian mediation. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reluctance to go is clear from his letter to Brenger of 8 June and his comments in 1809 when he published the documents relating to his visit to Paris in the <span class="hi-italic" style="font-style: italic;">Boston Patriot</span>. In the <span class="hi-italic" style="font-style: italic;">Patriot</span> he stated: I was minister <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0391">[391<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0391.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>plenipotentiary for making peace: minister plenipotentiary for making a treaty of commerce with Great Britain: minister plenipotentiary to their High Mightinesses the States general: minister plenipotentiary to his serene highness the Prince of Orange and Stadtholder: minister plenipotentiary for pledging the faith of the United States to the Armed Neutrality: and what perhaps at that critical moment was of as much importance to the United States as any of those powers, I was commissioner for negociating a loan of money to the amount of ten millions of dollars, and upon this depended the support of our army at home and our ambassadors abroad.</p>
+
+
+   <p>While I was ardently engaged and indefatigably occupied in studies and efforts to discharge all these duties, I was suddenly summoned to Versailles, to consult with the Comte de Vergennes, upon something relative to peace. What should I do? My country and the world would consider my commission for peace as the most important of all my employments, and the first to be attended. I hesitated not a moment, left all other business in as good a train as I could, and set off for Paris. He added, Though I thought I was <span class="hi-italic" style="font-style: italic;">negociating for peace</span>, to better purpose in Holland than I could in France, yet as I could not be responsible for that, I was obliged to depart (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Correspondence of the Late President Adams. Originally Published in the Boston Patriot. In a Series of Letters&lt;/i&gt;, Boston, 1809[[1810]]; 10 pts. ]">JA, <span class="hi-italic" style="font-style: italic;">Corr. in the Boston Patriot</span></span>, p. 106107).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d346n2-ptr" id="PJA11d346n2">2</a>
+
+   <p>On 8 June, Amsterdams regents called on William V to dismiss Louis Ernst, Duke of Brunswick-Wolfenbttel as his chief advisor. See <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s first letter of <a href="default.xqy?keys=ADMS-print-06-11-02-0289" class="document">26 June</a> to the president of Congress, below.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-11-02-0288 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 11, JanuarySeptember 1781
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0287" title="To Franois AdriaanVan der Kemp,, 24 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0289" title="To the President of Congress, 26 June 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

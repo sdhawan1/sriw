@@ -1,0 +1,188 @@
+General Orders, 24 December 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 24 December 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0555&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-12-24-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0554" title="From William Watson, 23 December 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0556" title="From Phillips Callbeck, 24 December 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; General Orders, 24 December 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0555&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0554" title="From William Watson, 23 December 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0556" title="From Phillips Callbeck, 24 December 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0597">597</span><div id="Rev02d519" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, Decr 24th 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Alfred.</td>
+		<td class="csigns">Countersign Hopkins</td>
+	      </tr></table>
+
+</div>
+<p>By order of his Excellency General Washington, a Board of General Officers sat yesterday in Cambridge, and unanimously recommended the following Rations to be delivered in the manner hereby directed.<a class="ptr" href="#GEWN-03-02-02-0555-fn-0001" id="GEWN-03-02-02-0555-fn-0001-ptr">1</a> Viz:</p>
+<p>Cornd Beef and Pork, four days in a week.</p>
+<p>Salt Fish one day, and fresh Beef two days.</p>
+<p>As Milk cannot be procured during the Winter Season, the Men are to have one pound and a half of Beef, or eighteen Ounces of Pork Pr day.<a class="ptr" href="#GEWN-03-02-02-0555-fn-0002" id="GEWN-03-02-02-0555-fn-0002-ptr">2</a></p>
+<p>Half pint of Rice, or a pint of Indian Meal Pr Week.</p>
+<p>One Quart of Spruce Beer Pr day, or nine Gallons of Molasses to one hundred Men <img class="char" src="images/char-per-trans.png" alt="[per]"/> week.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0598">[598]</span>
+Six pounds of Candles to one hundred Men Pr week, for guards.<a class="ptr" href="#GEWN-03-02-02-0555-fn-0003" id="GEWN-03-02-02-0555-fn-0003-ptr">3</a></p>
+<p>Six Ounces of Butter, or nine Ounces of Hogs-Lard Pr week.<a class="ptr" href="#GEWN-03-02-02-0555-fn-0004" id="GEWN-03-02-02-0555-fn-0004-ptr">4</a></p>
+<p>Three pints of Pease, or Beans Pr Man Pr Week, or Vegetables equivalent, allowing Six Shillings Pr Bushel for Beans, or Peasetwo and eight pence Pr Bushel for OnionsOne and four pence Pr Bushel for Potatoes and Turnips.</p>
+<p>One pound of Flour Pr Man each dayHard Bread to be dealt out one day in a week, in lieu of Flour.</p>
+<p>The above allowance is ordered to be issued by the Commissary General to all the Troops of the United Colonies, serving in this department; until the Honble the Continental Congress, or the Commander in Chief thinks proper to alter it.</p>
+<p>Capt. Wentworth Stewart of Col. Phinneys Regt tried at a General Court Martial whereof Col. Bricket was president, for disobedience of Orders, and gross abuse to Lieut. Col. March, of the said RegimentThe Court are unanimously of opinion that Capt. Stewart is guilty of repeated abuse to Lieut. Col. March, and therefore adjudge that he ask pardon of Col. March, before all the Officers of the regiment, and at the same time receive a severe reprimand from Col. Phinney.<a class="ptr" href="#GEWN-03-02-02-0555-fn-0005" id="GEWN-03-02-02-0555-fn-0005-ptr">5</a></p>
+<p>John Wales in Capt. Williams Company,<a class="ptr" href="#GEWN-03-02-02-0555-fn-0006" id="GEWN-03-02-02-0555-fn-0006-ptr">6</a> Col. Greatons Regiment, tried at the above Court Martial for robbing the Qr Master Generals Store; The Court find the Prisoner guilty of a Breach of the 49th Article for regulating the Massachusetts Army, and therefore adjudge him to receive Ten Lashes upon the bare back, with a Cat Onine-tails.</p>
+<p>The General approves the above Sentences &amp; Orders them to be executed the first fair day.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-02-02-0555-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0001-ptr" id="GEWN-03-02-02-0555-fn-0001">1</a>
+	
+   <p>For the rations authorized by Congress, see <a href="default.xqy?keys=GEWN-print-03-01-02-0173" class="document">General Orders, 8 Aug. 1775</a>, and the minutes for 19 Oct. in the Proceedings of the Committee of Conference, 1824 Oct. 1775, <a href="default.xqy?keys=GEWN-print-03-02-02-0175-0003" class="document">Document II, Minutes of the Conference</a>. See also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span>,</span> 3:322.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0002-ptr" id="GEWN-03-02-02-0555-fn-0002">2</a>
+
+   <p>The normal ration was one pound of beef or twelve ounces of pork.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0003-ptr" id="GEWN-03-02-02-0555-fn-0003">3</a>
+
+   <p>Congress allowed three pounds of candles to 100 men per week.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0004-ptr" id="GEWN-03-02-02-0555-fn-0004">4</a>
+
+   <p>Neither butter nor lard is included in the rations allowed by Congress, but Congress did authorize soap, which is not mentioned here.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0005-ptr" id="GEWN-03-02-02-0555-fn-0005">5</a>
+
+   <p>Wentworth Stewart (Stuart) served under Col. Edmund Phinney until
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0599">[599]</span>
+sometime in 1776. Samuel March, an innkeeper and shoemaker from Scarborough, District of Maine, represented his town in the Massachusetts provincial congress before becoming lieutenant colonel of Phinneys regiment in the spring of 1775. March left the army at the end of 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0555-fn-0006-ptr" id="GEWN-03-02-02-0555-fn-0006">6</a>
+
+   <p>Artemas Wards orderly book gives the name of the accused man as John Wallis (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>). Edward Payson Williams (d. 1777) served during 1776 as a captain in Col. John Greatons regiment of Continental infantry and on 1 Jan. 1777 became major of Greatons 3d Massachusetts Regiment. Williams died on 25 May 1777.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0555 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0554" title="From William Watson, 23 December 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0556" title="From Phillips Callbeck, 24 December 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

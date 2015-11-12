@@ -1,0 +1,122 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-08-02-0358-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-08-02-0358&amp;mode=TOC" title="Petition to Governor and Council"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0002" title="Document I, 14 November 1771"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-08&amp;mode=TOC">Volume 8 (24 June 176725 December 1771)</a>&gt; <a href="?keys=GEWN-print-02-08-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-08-02-0358&amp;mode=TOC">Petition to Governor and Council</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-08-02-0358-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0002" title="Document I, 14 November 1771"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0533">533</span><div id="Col08dg1df" class="docgroup_front">
+
+   <h2>Editorial Note</h2>
+   
+
+   <p style="text-indent: 0;">After GW in December 1769 secured from Governor Botetourt and the Virginia council authorization to survey, in no more than twenty parcels, 200,000 acres in the Ohio Valley for the officers and soldiers of the Virginia Regiment of 1754, he and the officers met in Fredericksburg in August 1770 to decide how they should proceed. It was agreed that GW should accompany their surveyor, William Crawford, to the Great Kanawha River and search out eligible tracts of land. See <a href="default.xqy?keys=GEWN-print-02-08-02-0188" class="document">GW to Botetourt, 8 Dec. 1769</a>, and notes; <a href="default.xqy?keys=GEWN-print-02-08-02-0189" class="document">Petition to Botetourt, 15 Dec. 1769</a>, which includes in <a href="default.xqy?keys=GEWN-print-02-08-02-0189&amp;expandNote=GEWN-02-08-02-0189-fn-0001#GEWN-02-08-02-0189-fn-0001" class="document">note 1</a> the minutes of the Virginia council for that date; and <a href="default.xqy?keys=GEWN-print-02-08-02-0190&amp;expandNote=GEWN-02-08-02-0190-fn-0001#GEWN-02-08-02-0190-fn-0001" class="document">Advertisement, 16 Dec. 1769, n.1</a>. GW went down the Ohio with Crawford in the fall of 1770 (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-02-02-0005-0026#GEWN-01-02-02-pb-0276" class="document">2:276328</a>), and on his return he called a second meeting of the officers, which was held at Winchester in early March 1771. The officers decided that Crawford should proceed with the surveying (<a href="default.xqy?keys=GEWN-print-02-08-02-0302" class="document">Minutes of the Meeting of the Officers of the Virginia Regiment of 1754, 5 Mar. 1771</a>), and in June 1771 Crawford made ten surveys for the regiment on the Little and Great Kanawha rivers, covering 61,796 acres. Crawford was at Mount Vernon from 10 to 22 Oct. 1771, when he and GW drafted from his field notes surveys of the ten tracts. GW left for Williamsburg on 23 Oct. to ask the governor and council to alter the terms of their 200,000-acre grant to the Virginia Regiment (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-03-02-0001-0025#GEWN-01-03-02-pb-0061" class="document">3:6163</a>). On 4 Nov. GW presented a memorial on behalf of the regiment asking that the limit of twenty surveys be removed from the grant of December 1769, leaving it to the individual officer or soldier to locate and have surveyed the portion of 200,000 acres to which he was entitled. GW also asked that those who had paid for Crawfords surveying be allowed to apportion among themselves the unallotted 61,796 acres that Crawford had surveyed. On 6 Nov. the council informed GW that it
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0534">[534]</span>
+would not remove the limit of twenty on the number of surveys, and then it set out what acreage men of each rank should receive (<a href="default.xqy?keys=GEWN-print-02-08-02-0358-0003" class="document">doc. II</a>).</p>
+<p>No copy of the petition, or memorial, of 4 Nov. 1771 that GW gave to the council has been found, and so it is not known exactly what form the petition took. Printed here as doc. I is GWs revised version of a memorial followed by GWs revised version of another memorial drawn up by James Mercer. One follows the other in the manuscript as they do here. Because GWs two memorials overlap at some points and are contradictory at others, GW certainly did not present both. On the other hand, since the words of the council in its minutes of 6 Nov. are responsive to particular portions of each memorial, GW could not have presented only one or the other. It is likely, therefore, that the petition that GW did present was a blending of the two drafts printed here. James Mercers draft from which GW constructed his second draft may be found in the Bushrod Washington Papers in the Library of Congress. At the end of the manuscript, Mercer wrote and signed this notation: I mean this to begin at Figure 1. in the first Page &amp; from thence to the endBut the whole or part be received or rejected by Colo. Washington as to him shall seem Right. Figure 1 may have been placed at some point in a memorial drafted by GW which perhaps Mercer had before him.</p>
+<p><a href="default.xqy?keys=GEWN-print-02-08-02-0358-0003" class="document">Doc. II</a> includes the minutes of the council for 4 and 6 Nov. in which is recorded the councils reception of GWs petition and the actions it took regarding the petition.</p>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-08-02-0358-0001 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 8 (24 June 176725 December 1771)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0002" title="Document I, 14 November 1771"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

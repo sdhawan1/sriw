@@ -1,0 +1,123 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-16-02-0076-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-16-02-0076" title="Proposed Prussian-American Treaty of Amity and Commerce, 9 Aprilpost 5 May 1784"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-16-02-0076-0002" title="I. Draft Proposed Prussian-American Treaty of Amity and Commerce, with a Contemporary Translation, 9 April 1784"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-16&amp;mode=TOC">Volume 16, February 1784March 1785</a>&gt; <a href="?keys=ADMS-print-06-16-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=ADMS-print-06-16-02-0076&amp;mode=TOC">Proposed Prussian-American Treaty of Amity and Commerce, 9 Aprilpost 5 May 1784</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-16-02-0076-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0076-0002" title="I. Draft Proposed Prussian-American Treaty of Amity and Commerce, with a Contemporary Translation, 9 April 1784"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-16-02-pb-0132">132<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0132.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div class="editorial">
+        
+        <h2>Editorial Note</h2>
+        <div class="docbody">
+          <p style="text-indent: 1.5em; text-align: left;">The draft Prussian-American commercial treaty that the Baron von Thulemeier submitted to John Adams with his <a href="default.xqy?keys=ADMS-print-06-16-02-0075" class="document">letter of 9 April</a> was the product of their meeting on 19 February, which Adams describes in his letter of the following day to <a href="default.xqy?keys=ADMS-print-06-16-02-0078" class="document">Benjamin Franklin and John Jay</a>, both above. Based on the Swedish-American treaty of 3 April 1783, the draft is interesting as the first effort by the two nations to establish a formal commercial relationship, but it was not the source for the 10 September 1785 Prussian-American Treaty of Amity and Commerce. That proceeded from the draft treaty submitted to Thulemeier by the American commissionersAdams, Franklin, and Thomas Jeffersonon 10 November 1784. For that draft, which proceeded from a model treaty prepared by Jefferson, and the exchanges that followed, see the <a href="default.xqy?keys=ADMS-print-06-16-02-0242" class="document">group document</a> dealing with the opening of negotiations for the <a href="default.xqy?keys=ADMS-print-06-16-02-0242" class="document">Prussian-American Treaty of Amity and Commerce, 10 November 1784 - 14 March 1785</a>, below.</p>
+          <p style="text-indent: 1.5em; text-align: left;">The failure of the initiative undertaken by Thulemeier at the behest of the foreign ministry in Berlin was owing to the fact that while he possessed plenipotentiary powers, Adams and his colleagues did not. This meant that while the commissioners offered some suggestions for changes in the draft treaty (<a href="default.xqy?keys=ADMS-print-06-16-02-0076-0003" class="document">No. II, below</a>), no substantive negotiations on their part took place. Thus, in early June 1784, when the Prussian response to the commissioners proposals was received, Adams simply sent their suggestions and the Prussian reply to Congress for its consideration together with the draft that Adams had sent previously. Congress would determine the treatys final form, and that document would then be returned to Adams and his colleagues with a commission permitting them to sign the treaty (<a href="default.xqy?keys=ADMS-print-06-16-02-0133" class="document">to the president of Congress, 7 June</a>, below). But no such treaty approved by Congress was forthcoming because when Adams letter and its enclosures
+<span class="pb" title="page number in print edition" id="ADMS-06-16-02-pb-0133">[133<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-16/ADMS-06-16-02-pb-0133.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+            arrived, Congress was in recess. The Committee of the States sitting in the interim <a href="default.xqy?keys=ADMS-print-06-16-02-0177" class="document">wrote on 9 July</a>, below, that it had no power to appoint foreign Ministers, or to form Treaties and thus could not grant such a Commission, as you request or make any alterations in the proposed Treaty, or give any Instructions relative thereto. The committee noted also that any action that it took would be irrelevant since Congress resolution of 7 May had constituted Adams, Franklin, and Jefferson a joint commission fully empowered to conduct negotiations and conclude a treaty with Prussia. When Adams received the committees letter he enclosed it with his 18 September letter to Thulemeier, thereby ending the first effort to conclude a treaty (<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ letterbook copy (Letterbook copies are normally unsigned, but any such copy is assumed to be in the hand of the person responsible for the text unless it is otherwise described.) ]">LbC</abbr>, <span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Formerly, Adams Papers, Microfilms. The corpus of the Adams Papers, 16391889, as published on microfilm by the Massachusetts Historical Society, 19541959, in 608 reels. Cited in the present work, when necessary, by reel number. Available in research libraries throughout the United States and in a few libraries in Canada, Europe, and New Zealand.&lt;/expan&gt; ]">APM</span> Reel 107).</p>
+          <p style="text-indent: 1.5em; text-align: left;">The nature of the documents printed below, as well as their annotation, requires some explanation. The French text of the draft treaty (<a href="default.xqy?keys=ADMS-print-06-16-02-0076-0002" class="document">No. I</a>, below) is from Adams copy of the original draft that he returned to Thulemeier as requested. John Quincy Adams made two additional copies. The first was enclosed with <a href="default.xqy?keys=ADMS-print-06-16-02-0077" class="document">his fathers letter to the president of Congress dated 10 April</a>, while the second was sent with <a href="default.xqy?keys=ADMS-print-06-16-02-0078" class="document">John Adams 10 April letter to Franklin and Jay</a>, both below. Franklin and Jay returned their copy, with suggestions for revisions to the draft entered in Jays hand, with their <a href="default.xqy?keys=ADMS-print-06-16-02-0094" class="document">letter of 29 April</a>, below. On 5 May, Adams sent that copy with his colleagues proposals to Thulemeier, who returned it to Adams, presumably when the Prussian sent his memorandum (<a href="default.xqy?keys=ADMS-print-06-16-02-0076-0003" class="document">No. II</a>, below). Adams then sent the Franklin-Jay copy to Congress with his <a href="default.xqy?keys=ADMS-print-06-16-02-0115" class="document">letter of 13 May</a>, below. The translation done for Congress by John Pintard and printed here was made from the Franklin-Jay copy because in numerous instances the suggestions made by Franklin and Jay are incorporated into the translation, although most were later canceled, apparently in an effort to make the translation agree with the first copy sent by Adams <a href="default.xqy?keys=ADMS-print-06-16-02-0077" class="document">to Congress on 10 April</a>. The annotation of the draft treaty and of Pintards translation compares the proposed treaty to the Swedish-American treaty of 1783, indicating the similarities and differences between the two documents, and also indicating the changes entered by Franklin and Jay on the copy sent to them.</p>
+          <p style="text-indent: 1.5em; text-align: left;">Thulemeiers memorandum (<a href="default.xqy?keys=ADMS-print-06-16-02-0076-0003" class="document">No. II</a>, below) is of his conversation with Adams on the evening of 5 May 1784, in which the American discussed changes in the draft, his own and those of Franklin and Jay. The French text is in Thulemeiers hand, and Pintards translation is from a copy by C. W. F. Dumas that Adams enclosed with his <a href="default.xqy?keys=ADMS-print-06-16-02-0133" class="document">letter to the president of Congress of 7 June</a>, below. The annotation focuses on the reasons why the Americans sought the changes specified and indicates the Prussian response to the proposed alterations that Thulemeier delivered to Adams in early June. Note also that all references to treaty articles in the annotation are in Arabic numbers, even if, as in the translation of the draft, they appear as Roman numerals.</p>
+        </div>
+      </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-16-02-0076-0001 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 16, February 1784March 1785
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-16-02-0076-0002" title="I. Draft Proposed Prussian-American Treaty of Amity and Commerce, with a Contemporary Translation, 9 April 1784"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.242.147</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

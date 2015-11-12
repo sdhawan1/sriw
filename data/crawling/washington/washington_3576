@@ -1,0 +1,188 @@
+General Orders, 1 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 1 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0134&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-01-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0133" title="From the Massachusetts General Court, JulyAugust 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0135" title="From Richard Henry Lee, 1 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 1 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0134&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0133" title="From the Massachusetts General Court, JulyAugust 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0135" title="From Richard Henry Lee, 1 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0205">205</span><div id="Rev01d126" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, August 1st 1775.</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Gibralter.</td>
+		<td class="csigns">Countersign Fairfield.</td>
+	      </tr></table>
+
+</div>
+<p>The General thanks Major Tupper, and the Officers and Soldiers under his Command, for their gallant and soldierlike behaviour
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0206">[206]</span>
+in possessing themselves of the enemys post at the Light House, and for the Number of Prisoners they took there, and doubts not, but the Continental Army, will be as famous for their mercy as for their valour.<a class="ptr" href="#GEWN-03-01-02-0134-fn-0001" id="GEWN-03-01-02-0134-fn-0001-ptr">1</a></p>
+<p>Two Subs. two serjeants, one Drum and thirty Rank and File, to parade at Head Quarters at Noon; to escort the prisoners to Worcester. The Commanding Officer will receive his orders from the Adjutant General.<a class="ptr" href="#GEWN-03-01-02-0134-fn-0002" id="GEWN-03-01-02-0134-fn-0002-ptr">2</a></p>
+<p>For the satisfaction of all concerned; The General directs the following Resolution of the Legislature of this Colony to be inserted in General Orders. viz:</p>
+<p>In House of Representatives, Watertown 29th July 1775.</p>
+<p>Whereas sundry Complaints have been made, by some of the Soldiers raised by this Colony, that they have not received the allowance pay of Forty Shillings, agreeable to the Resolution of Provincial Congress,<a class="ptr" href="#GEWN-03-01-02-0134-fn-0003" id="GEWN-03-01-02-0134-fn-0003-ptr">3</a> therefore Resolved, that a Committee be appointed forthwith, to apply to the Colonels of the several Regiments, raised by the Colony, and to the Muster Masters and Pay Masters in the Camp, at Cambridge and Roxbury; and obtain of them a compleat List of the Non Commissioned Officers and Soldiers, in their respective regiments, distinguishing those that have been musterd and paid; from those that have not, that such Methods may be pursued, as shall remove all just ground of Complaintread and ordered, that Colonel Cushing and Mr Webster,<a class="ptr" href="#GEWN-03-01-02-0134-fn-0004" id="GEWN-03-01-02-0134-fn-0004-ptr">4</a> with such as the Honorable Board shall join, be a Committee for the purpose above mentioned.</p>
+<p>Sent up for concurrence.</p>
+<p style="text-align: right; margin-right: 1em;">James Warren, speaker.</p>
+<p>In Council, read and concurred, and Col. Lincoln<a class="ptr" href="#GEWN-03-01-02-0134-fn-0005" id="GEWN-03-01-02-0134-fn-0005-ptr">5</a> is joind.</p>
+<p style="text-align: right; margin-right: 1em;">Albt P: Morton, secy.<a class="ptr" href="#GEWN-03-01-02-0134-fn-0006" id="GEWN-03-01-02-0134-fn-0006-ptr">6</a></p>
+<p>The Officers commanding Massachusetts Regiments, will pay all due Attention to the foregoing resolution.</p>
+<p>One Man a Company, to be appointed a Camp Colour man, from every Company in every Regiment in the Army, whose particular duty it must be to attend the Quarter Master and Quarter Master serjeant, to sweep the Streets of their respective encampments, to fill up the old necessary Houses and dig new ones, to bury all Offal, Filth, and Nastiness, that may poison or infect the health of the Troops; and the Quarter Masters are to
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0207">[207]</span>
+be answerable, to their Commanding Officers for a strict observance of this order, and by persevering in the constant and unremitted Execution thereof, remove that odious reputation, which (with but too much reason) has stigmatized the Character of American Troops. The Colonels and Commanding Officers of Regiments, are to be answerable to the General, for all due obedience to this order.</p>
+<p>The General finding it is not uncustomary, for Officers to take the Liberty, of absenting themselves from Camp without leave, and going home; for the future, any Officer found guilty of so glaring an Offence, against all Order and Discipline, and setting so bad an Example to the Non Commissioned Officers and Soldiers, under their Command; such Officer or Officers so offending, may depend upon being punishd with the utmost severity.</p>
+<p>Least the late Successes against the Enemy, should occasion any relaxation in the Alertness of the Troops, the General recommends it in the strongest manner, to all the Officers and Soldiers of the Continental Army; to be the more vigilant in their duty, and watchful of the enemy; as they certainly will take every advantage of any supiness on our part.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0134-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0001-ptr" id="GEWN-03-01-02-0134-fn-0001">1</a>
+	
+   <p>This attack on the Lighthouse Island in Boston Harbor occurred early on the morning of 31 July. After Maj. Joseph Voses party burned the lighthouse on 20 July (see <a href="default.xqy?keys=GEWN-print-03-01-02-0089" class="document">William Heath to GW, 21 July 1775</a>), the British began rebuilding it, and by the night of 29 July their work was in such forwardness as Actually to shew a Light (James Warren to John Adams, 31 July2 Aug. 1775, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:10812). To destroy the new light and stop further construction, Maj. Benjamin Tupper set out with 300 men in whaleboats from Nantasket late on 30 July. They landed on Lighthouse Island about two oclock the next morning, and after subduing the British marines stationed there, they burned all of the buildings on the island. For GWs and Tuppers accounts of the raid, see <a href="default.xqy?keys=GEWN-print-03-01-02-0150" class="document">GW to Hancock, 45 Aug. 1775</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0150&amp;expandNote=GEWN-03-01-02-0150-fn-0014#GEWN-03-01-02-0150-fn-0014" class="document">n.14</a>. Benjamin Tupper (17381792), a resident of Chesterfield who served as an enlisted man during the French and Indian War, was appointed major of Col. John Fellowss Massachusetts regiment in April 1775. During July he participated in three raids: the one of this date on Lighthouse Island, one on Browns house at Boston Neck on 8 July, and one on Long Island on 11 July. See <a href="default.xqy?keys=GEWN-print-03-01-02-0047-0003&amp;expandNote=GEWN-03-01-02-0047-0003-fn-0005#GEWN-03-01-02-0047-0003-fn-0005" class="document">GW to Hancock, 1011 July 1775, Document II. Letter Sent, n.5</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0065&amp;expandNote=GEWN-03-01-02-0065-fn-0005#GEWN-03-01-02-0065-fn-0005" class="document">14 July 1775, n.5</a>. In January 1776 Tupper became lieutenant colonel of the regiment commanded by Col. Jonathan Ward, and in July 1777 he was promoted to colonel. He commanded one or another of the Massachusetts regiments
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0208">[208]</span>
+until the end of the war, fighting at Saratoga and Monmouth among other places.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0002-ptr" id="GEWN-03-01-02-0134-fn-0002">2</a>
+	
+   <p>The prisoners captured on Lighthouse Island consisted of: 2 marine sergeants, 2 marine corporals, 20 marine privates, and 12 Loyalists. In his orders of this date to the officer commanding the guard detachment, Horatio Gates specified that the prisoners were to be delivered to the chairman of the Worcester committee of safety, who was then to order a detachment of the local militia to escort them to Springfield where they were to be Securd, so as to be forthcoming whenever an Exchange of prisoners, or a happy reconciliation between Great Britain and her Colonies shall take place (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). The prisoners marched out of Cambridge about nine oclock this morning and arrived in Worcester on 3 Aug. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ The Revolutionary Journal of James Stevens of Andover, Mass. &lt;i&gt;Essex Institute Historical Collections&lt;/i&gt; 48 (1912): 4171. ]">Stevens Journal,</span> 53).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0003-ptr" id="GEWN-03-01-02-0134-fn-0003">3</a>
+
+   <p>The Massachusetts provincial congress authorized this advance pay for the colonys noncommissioned officers and privates on 20 May 1775 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Lincoln, ed. &lt;i&gt;The Journals of Each Provincial Congress of Massachusetts in 1774 and 1775, and of the Committee of Safety&lt;/i&gt;. Boston, 1838. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. Prov. Congress Journals</span></span>, 246).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0004-ptr" id="GEWN-03-01-02-0134-fn-0004">4</a>
+
+   <p>Joseph Cushing (17321791), a lieutenant colonel in the militia, represented Hanover, and Jonathan Webster, Jr. (17471826), represented Haverhill in the provincial congress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0005-ptr" id="GEWN-03-01-02-0134-fn-0005">5</a>
+
+   <p>Benjamin Lincoln (17331810) of Hingham was a lieutenant colonel in the Suffolk County militia. He served in all three provincial congresses and was elected to the council on 21 July 1775. In February 1776 Lincoln became a brigadier general of the militia, and the following May he was promoted to major general. Lincolns administrative abilities soon attracted GWs attention, and on his recommendation, Lincoln was commissioned a Continental major general in February 1777. He was wounded at Saratoga in the fall of 1777 and was captured at Charleston in the spring of 1780. After his exchange Lincoln participated in the Yorktown campaign, and from 1781 to 1783 he served as secretary at war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0134-fn-0006-ptr" id="GEWN-03-01-02-0134-fn-0006">6</a>
+	
+   <p>Artemas Wards orderly book reads Attest. Perez Morton Secry (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers). The resolution that appears here is nearly identical in wording to the version approved by the Massachusetts council on 29 July (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ In &lt;i&gt;Journals, Minutes, and Proceedings, State of Massachusetts Bay, 17751780&lt;/i&gt;. (Microfilm Collection of Early State Records.) ]">Mass. Council Journal, July 1775Feb. 1776 sess.</span>, 15). The version that the house of representatives passed earlier on that date varies somewhat from the councils, but the differences are minor (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives of the Colony of the Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1775. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span>, JulyNov. 1775 sess</span>., 22). For the General Courts further actions regarding advanced pay, see <a href="default.xqy?keys=GEWN-print-03-01-02-0193&amp;expandNote=GEWN-03-01-02-0193-fn-0002#GEWN-03-01-02-0193-fn-0002" class="document">Committee of the Massachusetts Council to GW, 11 Aug. 1775</a>, n.2. Perez Morton (17511837), a young attorney from Boston, was appointed temporary secretary of the council on 26 July 1775. When Samuel Adams was named permanent secretary on 10 Aug., Morton became his deputy, and because of Adamss long absences, he continued to perform most of the duties of the office until he resigned on 1 June 1776. During the Rhode Island campaign of 1778, Morton acted as an aide-de-camp to John Hancock.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0134 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0133" title="From the Massachusetts General Court, JulyAugust 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0135" title="From Richard Henry Lee, 1 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

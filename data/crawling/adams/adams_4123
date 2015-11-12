@@ -1,0 +1,123 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0162-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02-0162&amp;mode=TOC" title="The Negotiation of the Dutch-American Treaty of Amity and Commerce: 22 August  8 October 1782"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0002" title="I. To Robert R. Livingston, 22 August 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13-02-0162&amp;mode=TOC">The Negotiation of the Dutch-American Treaty of Amity and Commerce: 22 August  8 October 1782</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0162-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0002" title="I. To Robert R. Livingston, 22 August 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0259">259</span><div id="PJA13d192" class="docgroup_front">
+
+<h2>Editorial Note</h2>
+<div class="docbody">
+<p>On 19 April the States General recognized the United States as independent and John Adams as its minister at The Hague. Four days later, to cement the relationship between the United States and a nation he hoped and expected would become an important trading partner, Adams presented a draft treaty of amity and commerce to their High Mightinesses. By 26 April the <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0260">[260]</span>draft was translated into Dutch, printed, and referred to the committee on maritime affairs and to representatives of the admiralties for their consideration. These deliberations resulted, on 21 May, in a new printing of the draft, now accompanied by Remarques en nadere Propositie (Remarks and Further Propositions), for submission to the provincial states and other interested parties for their comments and approval. Three months later, on 22 August, the draft and suggested alterations, now in their final form, were formally submitted to John Adams (No. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003" class="document">II</a>, below). On 27 August the final negotiations began when John Adams presented his response to the Dutch proposals (No. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0004" class="document">III</a>, below), and less than two weeks later, on 6 September, negotiations were complete, with the final texts of the treaty and a convention on recaptures agreed to by both sides (Nos. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0011-0002" class="document">VIII</a> and <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0012-0002" class="document">IX</a>, below). On 17 September, the States General authorized its representatives to sign the treaty and convention (No. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0013-0002" class="document">X</a>, below), and on 8 October John Adams signed the two documents in the Truce Chamber at The Hague.</p>
+<p>John Adams negotiation of the Dutch-American Treaty is being dealt with in a group document placed at 22 August for several reasons, the most obvious being the need to avoid chronicling the negotiations in a piecemeal fashion. Adams letters indicate that he paid close attention to the progress of his draft through various levels of Dutch officialdom, and at various points he discussed the treaty with interested parties, but no substantive negotiations took place until the Dutch formally presented their proposals on 22 August, four months after the draft treaty was presented to the States General.</p>
+<p>The available documentary record also influenced the editors decision. No copy of the draft treaty in English that John Adams submitted to the States General on 23 April has survived in the <span class="ref-terms">Adams Papers</span> nor has one been found in the Dutch archives. This is true despite ample evidence in the States Generals resolutions and Adams own writings that the draft was submitted in English and was subsequently translated into Dutch. The document received by the States General may have been discarded after translation, but the absence of an English text from the <span class="ref-terms">Adams Papers</span> is puzzling because Adams did not read Dutch. C. W. F. Dumas assisted in the negotiations by translating documents received from the Dutch negotiators into French and by probably also translating Adams replies into Dutch, but it is unlikely that he lacked an English text on which to record changes made in the course of negotiations and which would serve as a basis for the English text of the treaty signed on 8 October. Adams wrote on 8 October to Robert R. Livingston that the Papers, in which the whole progress of this Negotiation is contained in Dutch, French and English; make a large bundle, and, after all, they contain nothing worth transmitting to Congress. To copy them would be an immense labor to, no purpose, and to send the Originals, at once, would expose them to loss (No. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0014" class="document">XI</a>, below). This seems to indicate that there were more papers relating to the negotiation than the relatively small number that are in the <span class="ref-terms">Adams Papers</span> and printed here. If this is so, then at some point they were lost, possibly <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0261">[261]</span>in the course of Adams moves between The Hague, Paris, and London or upon his return to the United States.</p>
+<p>There may also be a missing letterbook. From the beginning of his diplomatic career in 1778, Adams took great pains to keep a record of his activities, not only because he was participating in great events of interest to later historians, but also because he needed a means to defend his actions if they were questioned later (vol. <a href="default.xqy?keys=ADMS-print-06-07-02-0281" class="document">7:427</a>). This meant that Adams usually drafted documents like the draft treaty in his letterbook. But there is no extant letterbook in the <span class="ref-terms">Adams Papers</span> containing copies of the documents relating to the Dutch negotiations, which perhaps explains the absence of any account of his negotiations in his letters printed in the <span class="hi-italic" style="font-style: italic;">Boston Patriot</span>, despite his pride in the treaty and the fact that he dealt there in detail with virtually every other facet of his diplomatic career.</p>
+<p>In the absence of an extant copy of John Adams original English draft, the editors have reconstructed the draft because a simple translation of the Dutch text would be inadequate as well as misleading. No matter how skilled the modern translator might be or how accurate the translation, the resulting English text necessarily would deviate significantly from the English text of the treaty signed on 8 October. We, in fact, would be providing an English translation of a Dutch text that itself was a Dutch translation of an English text. Treaties are legal contracts between consenting parties, in this case the Netherlands and the United States. Therefore, the exact wording of the treaty agreed upon during the negotiations is of great importance, for the Dutch and English texts were equally binding, unlike the Franco-American treaties of 1778 where only the French text was official. Note, however, that the capitalization, punctuation, and spelling in the text of the reconstructed draft, as well as in the translations of Dutch text supplied by the editors, conforms to modern standard English usage. For comments on the nature of the reconstruction and its sources, see the editorial and descriptive notes to No. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003" class="document">II</a>, below.</p>
+<p>Finally, the texts of the final versions of the treaty and of the convention on recaptures printed here are taken from the Dutch and English texts agreed to on or about 6 September, rather than from the versions that were copied and signed on 8 October. This is because among the <span class="ref-terms">Adams Papers</span> are copies of the English texts in John Adams hand and Dutch texts in a clerks hand agreed to on 6 September, all of which reflect the last-minute fine-tuning of the documents. For the texts of the treaty and the convention signed on 8 October, as well as the locations of those copies, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Treaties and Other International Acts of the United States of America&lt;/i&gt;, ed. Hunter Miller, Washington, D.C., 19311948; 8 vols. ]">Miller, <span class="hi-italic" style="font-style: italic;">Treaties</span></span>, 2:5995.</p>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0162-0001 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0162-0002" title="I. To Robert R. Livingston, 22 August 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

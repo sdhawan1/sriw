@@ -1,0 +1,168 @@
+From Major General Philip Schuyler, 15 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 15 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0067&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-15-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0066" title="General Orders, 15 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0068" title="General Orders, 16 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 15 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0067&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0066" title="General Orders, 15 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0068" title="General Orders, 16 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0120">120</span><div id="Rev01d64" class="doc">
+
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Saratoga [N.Y.] July 15th 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>Since I did Myself the Honor to write Your Excellency from New York Nothing very material occurred until Yesterday, when I received the Inclosed Letters, the Accounts contained in that marked Number 1 are truly alarming in the present defenceless State of the Counties of Tryon and Albany, and Especially as the Assistance I can afford them either of Men or Money is next to Nothing, the few Troops at Tionderoga &amp;ca being at too great a Distance and not more than sufficient to guard the Posts they occupy. I should have been at Tionderoga this Day had not the Information from Tryon County arrived, which may make my Presence there absolutely necessary. If it should be confirmed; I therefore propose remaining here untill to Morrow, when I hope to be farther informed;<a class="ptr" href="#GEWN-03-01-02-0067-fn-0001" id="GEWN-03-01-02-0067-fn-0001-ptr">1</a> I wish I may be able to proceed to Tionderoga as I am very much wanted there, the Greatest Confusion having taken Place in the Controversy between the Officers claiming the Command in that Quarter, some have taken the Liberty to disband Troops. Others refused to serve unless this or that particular Person Commanded. The Sloop is left without either Captain or Pilot, both of which are dismissed or come away, Much Provision wasted or embezzalled, and on the Seventh instant only one Barrel of Flour at Tionderoga; I shall have an Augean Stable to clean there.<a class="ptr" href="#GEWN-03-01-02-0067-fn-0002" id="GEWN-03-01-02-0067-fn-0002-ptr">2</a></p>
+<p>I do Myself the Honor to inclose a Return of the Forces in this Colony. It is doubtless imperfect as I have been under a Necessity of forming it out of Returns which were evidently so, I hope soon to send You a more compleat one.<a class="ptr" href="#GEWN-03-01-02-0067-fn-0003" id="GEWN-03-01-02-0067-fn-0003-ptr">3</a></p>
+<p>Be assured my General that I shall use my best Endeavours to establish Order and Discipline in the Troops under my Command. I wish I could add That I had a Prospect of much Success in that Way. It is extreamly difficult to introduce a proper Subordination amongst a People where so little Distinction is kept up.</p>
+<p>Our Accounts of the Disposition of the Canadians and Canada Indians continue to be favorable, tho the Intelligence is not very Authentic. I am your Excellencys Most Obedt &amp; Most Humble Servt</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0121">[121]</span>
+<div class="note-source" id="GEWN-03-01-02-0067-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+
+</p>
+
+
+   <p>Schuyler owned a large estate at Saratoga, which included a dwelling house, a store, and mills for lumber, flour, and flax. He left New York City on or shortly after 3 July and on 9 July arrived at Albany. He proceeded a few days later to Saratoga on his way north to Ticonderoga.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0067-fn-0001-ptr" id="GEWN-03-01-02-0067-fn-0001">1</a>
+  
+   <p>Copies of two letters were enclosed: one of 13 July 1775 from the Tryon County committee of safety to the committees of safety at Albany and Schenectady, signed by Christopher P. Yates, and one of 14 July 1775 from the Albany committee to Schuyler, signed by Abraham Yates, Jr. Both are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. The letter from the Tryon County committee (marked number one) reported that the committee had heard that Coll [Guy] Johnson was ready with eight or nine hundred Indians to make an invasion of this County that the same Indians were to be under the Command of Joseph Brandt and Walter Butler and that they were to fall on the inhabitants below the little falls in order to divide the people in two partsand were to march yesterday or the day before. . . . We have sent off a party of people by way of a scout to find out if possible the Rout of the Indians and to give us early intelligence. Our ammunition is so scant that we cannot furnish three hundred men so as to be able to make a stand against so great a numberIn these deplorable circumstances we look up to you for Assistance both in men and ammunition to save this Country from slaughter and desolation which we beg you will not be backward to afford us as soon as possible. The Albany committee forwarded copies of this letter to both the New York provincial congress and Schuyler. In its covering letter of 14 July to Schuyler, the Albany committee inquired whether it will not be advisable to let the Company of Capt. Van Dyck [Cornelius Van <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Dyke' &lt;span style='font-size: 90%'&gt;[[2009-07-10]]&lt;/span&gt; ]">Dyck</span>] (which we find you have ordered up to Lake George) March up the Mohawk river towards their ReliefAnd as that Company has no ammunition (and we have here about three hundred weight) whether you will think it proper to furnish them from the store here And whether you will not think it necessary to send up some of the Remainder to furnish the Inhabitants. Schuyler agreed to all three of these suggestions (Schuyler to Hancock, 15 July 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 153). Early on 16 July, however, Schuyler learned that the reports of an impending Indian attack were unfounded. He left Saratoga later that day and arrived at Ticonderoga on 18 July.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0067-fn-0002-ptr" id="GEWN-03-01-02-0067-fn-0002">2</a>
+
+   <p>The command of Ticonderoga and Crown Point was disputed between Col. Benedict Arnold, who commanded a force of Massachusetts volunteers at the posts, and Col. Benjamin Hinman, who arrived in the area with Connecticut reinforcements on 17 June. Arnold refused to yield the command to Hinman, but six days later a committee from the Massachusetts provincial congress appeared with new instructions which put him under Hinman. Arnold angrily resigned his commission on 24 June and disbanded his little force of two to three hundred men. He arrived at Albany on 11 July and at Schuylers request wrote a report on the conditions at Fort George, Ticonderoga, and Crown Point.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0067-fn-0003-ptr" id="GEWN-03-01-02-0067-fn-0003">3</a>
+
+   <p>The return, dated 15 July 1775 and signed by Schuyler, reports a total of 2,857 officers and men stationed between New York City and Crown Point.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0122">[122]</span>
+In addition, there are eleven staff officers on the return, and ninety men listed as dead, deserted, discharged, or not joined (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0067 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0066" title="General Orders, 15 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0068" title="General Orders, 16 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

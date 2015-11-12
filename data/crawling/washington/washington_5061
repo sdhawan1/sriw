@@ -1,0 +1,198 @@
+From Major General Philip Schuyler, 10 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 10 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0209&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-05-10-8">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0208" title="To George Mason, 10 May 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0210" title="From Major General Philip Schuyler, 10 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 10 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0209&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0208" title="To George Mason, 10 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0210" title="From Major General Philip Schuyler, 10 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0263">263</span><div id="Rev04d199" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Albany Friday May 10th 1776.</td>
+	      </tr>
+      </table>
+</div>
+<p>I had the Honor to receive Your Excellencys Favor of the 3d instant, by Mr Bennet; which was delivered on Wednesday Evening,<a class="ptr" href="#GEWN-03-04-02-0209-fn-0001" id="GEWN-03-04-02-0209-fn-0001-ptr">1</a> General Sullivan arrived here at six that Afternoon, half an Hour before that I returned from Fort George, having embarked General Thompson with the last of his Brigade, on the Morning of the preceeding Day.</p>
+<p>Immediately on the Receipt of your Excellencys Letter of the 29th, I ordered up an Additional Number of Carpenters, some of which have already left this Place, and others are going off
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0264">[264]</span>
+this Day, so that I hope on Sunday and on Every succeeding Day to build Eight Boats,<a class="ptr" href="#GEWN-03-04-02-0209-fn-0002" id="GEWN-03-04-02-0209-fn-0002-ptr">2</a> But as I had Not one left when General Thompson was Moved and could build no more than six a Day, I shall on Saturday Night have only thirty Compleated, So that I fear It will be the 21st instant before the last of General Sullivans Brigade will embark, When I expect to have finished 110 Batteaus Carrying thirty Men Each, Besides the Baggage, Ammunition &amp; Intrenching Tools and about ten Barrels of Pork, If I can get that Quantity at Fort George by that Time, which I doubt Much, as the Troops have such an Amazing Quantity of Baggage, that they Employ Every Carriage I can procure at this Season, when Forrage is scarce, &amp; when the Licentiouness some of the Troops that are gone on, has been such, That few of the Inhabitants have Escaped Abuse Either in their Persons or Property, &amp; fewer still of the Waggoners &amp; Batteaumen employed in the service Many of which have left Us &amp; the whole threaten to do It, unless the future Conduct of the Troops is more becoming; I have done all in my Power to prevent this disgraceful Conduct of the Army, But Court Martials are vain where Officers connive at the Depredations of the Men, I have Ordered Capt. Romans to be sent from Canada for Trial here, as a string of Complaints are Lodged against him, And since My Return from Fort George have issued the most pointed Orders.</p>
+<p>I hope this Day to send off the sixty Barrels of Powder Your Excellency ordered here, the Intrenching Tools have already left this, and about six hundred Barrels of Pork, &amp; the first Regiment of General Sullivans Brigade is Marched this Morning.</p>
+<p>It will be impossible to send more than half of the 300,000 Dollars into Canada, as we are greatly in debt here, &amp; our Creditors Exceedingly Clamorous, that Sum will be fully sufficient in Canada, untill the Canadians agree to take our Paper Currency, Which I am very fearful they will Not and if so, Even the Flour &amp; Peas for the Army must be sent from hence, If It is possible to Convey It there.</p>
+<p>I met Colo: Wynkoop on his Way to Tyonderoga, &amp; soon after Lieut: Colo: Cortlandt with Orders for him to repair to the Highlands, But as from the Arrangement he shewed Me, I concluded that It would be Countermanded, I suffered Colo: Wynkoop to proceed, &amp; in the Evening I was happy to see the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0265">[265]</span>
+Counter Orders.<a class="ptr" href="#GEWN-03-04-02-0209-fn-0003" id="GEWN-03-04-02-0209-fn-0003-ptr">3</a> It is absolutely Necessary that I should leave two of his Companies in Tryon County, and the remaining Six, one of which OHaras is at New York,<a class="ptr" href="#GEWN-03-04-02-0209-fn-0004" id="GEWN-03-04-02-0209-fn-0004-ptr">4</a> will very little exceed 300 Men, One hundred &amp; fifty of which are constantly required upon a Road, where an hundred Carriages, to set out Every Day are to pass, seventy More in Addition to One hundred Batteaumen, are at least wanted to Convey the Provisions, on Part of Hudsons River, so that I shall only have, about one hundred left to transport the Provisions &amp; stores across Lake George, which is not quite a sufficient Number, and none for Lake Champlain, the Garrisons of Crown Point, Tyonderoga, the Landing Place and Fort George, and for opening Wood Creek &amp; Cutting a Road by that Rout, a Work which ought to be executed as soon as possible, But Wishing that as many Troops as possible should go into Canada, I will detain the smallest Number possible of Van Schaicks Regiment.</p>
+<p>The Tents are not Yet arrived, the Distribution shall be made agreeable to Your Excellencys OrdersThe Chain is to go on to day, which I shall forward to General Arnold with Directions to fix It, I suppose It was intended for the Rapids of Richlieu.</p>
+<p>Capt: Wynkoop and his Company of Sailors are at Tyonderoga.<a class="ptr" href="#GEWN-03-04-02-0209-fn-0005" id="GEWN-03-04-02-0209-fn-0005-ptr">5</a></p>
+<p>Surrounded with Indians and under the Necessity of giving a Variety of Directions, as I must return Early to Morrow Morning to Fort George, I must beg General Gatess to dispense with My Answering his Letters until my Arrival there, I am extreamly unhappy that I am not in a situation of Complying with Your Excellencys Orders to make a Return of the State of the Army &amp;ca. I have repeatedly applied to General Wooster for It, &amp; for the several Other Returns which I ought to have had. The Only one I ever received was the imperfect one I lately sent You from Fort George,<a class="ptr" href="#GEWN-03-04-02-0209-fn-0006" id="GEWN-03-04-02-0209-fn-0006-ptr">6</a> this Omission has been the Source of much Embarrassment to me, I hope soon to comply with Your Orders on this Head, as General Thomas promissed to be as regular as possible in these Matters.</p>
+<p>Mr Price arrived at Fort George the Day before I left It, with a Resolution of Congress, the subject Matter of which is Contained in the Enclosed Orders I have given to Mr Price; Your Excellency will Easily perceive that they are very crude, the Necessity of Sending him immediately into Canada &amp; the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0266">[266]</span>
+Other pressing Concerns which then occupied Me, did not permit me Time to reflect with that Attention so important a Buisiness required.<a class="ptr" href="#GEWN-03-04-02-0209-fn-0007" id="GEWN-03-04-02-0209-fn-0007-ptr">7</a></p>
+<p>Inclose Your Excellency a Return of the Arms in Mr Rensselaers Store, a Considerable Number of General Sullivans Brigade are still to be furnished, Most of Wynkoops Regiment and the seven hundred unfit for Service, are Arms that have been exchanged and very few are Capable of being made Useful.<a class="ptr" href="#GEWN-03-04-02-0209-fn-0008" id="GEWN-03-04-02-0209-fn-0008-ptr">8</a></p>
+<p>I shall do Myself the Honor to write You from Fort George, where I shall be better able to determine with Certainty when the last Troops will leave It. I am Dear Sir With the most respectful Sentiments Your Excellencys Most Obedient &amp; Most Humble servant</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0209-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0001-ptr" id="GEWN-03-04-02-0209-fn-0001">1</a>
+
+   <p>The previous Wednesday was 8 May.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0002-ptr" id="GEWN-03-04-02-0209-fn-0002">2</a>
+
+   <p>The following Sunday was 12 May.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0003-ptr" id="GEWN-03-04-02-0209-fn-0003">3</a>
+
+   <p>Philip Van Cortlandt (17491831), the eldest son of the chairman of the New York committee of safety Pierre Van Cortlandt, became lieutenant colonel of Col. James Holmess 4th New York Regiment in June 1775 and continued serving in that capacity when Cornelius D. Wynkoop was named colonel of the regiment in March 1776. In November 1776 Van Cortlandt was appointed colonel of the 2d New York Regiment, which he commanded until the end of the war. Van Cortlandt participated in the Saratoga, Sullivan, and Yorktown campaigns, and in September 1783 he was brevetted a brigadier general. For the arrangement of Wynkoops regiment and GWs recent orders regarding it, see <a href="default.xqy?keys=GEWN-print-03-04-02-0135&amp;expandNote=GEWN-03-04-02-0135-fn-0002#GEWN-03-04-02-0135-fn-0002" class="document">the New York Committee of Safety to GW, 29 April, n.2</a>, <a href="default.xqy?keys=GEWN-print-03-04-02-0158&amp;expandNote=GEWN-03-04-02-0158-fn-0006#GEWN-03-04-02-0158-fn-0006" class="document">GW to Schuyler, 3 May (first letter), n.6</a>, and <a href="default.xqy?keys=GEWN-print-03-04-02-0162" class="document">GW to Wynkoop, 3 May 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0004-ptr" id="GEWN-03-04-02-0209-fn-0004">4</a>
+
+   <p>Capt. Henry OHara reported to the provincial congress on this date that his company at New York consisted of 1 captain, 1 ensign, 8 noncommissioned officers, and 37 privates and that he had recruited enough additional men in Albany and Charlotte counties to complete his company (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Provincial Congress, Provincial Convention, Committee of Safety, and Council of Safety of the State of New-York, 177517761777&lt;/i&gt;. 2 vols. Albany, 1842. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">N.Y. Prov. Congress Journals</span></span>, 1:437). OHaras company reached Albany by 28 May when Lt. Col. Philip Van Cortlandt detached a party from it to guard provisions at Half Moon and ordered the remainder to Stillwater (Van Cortlandt to Schuyler, 28 May 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jacob Judd, comp. and ed. &lt;i&gt;Correspondence of the Van Cortlandt Family of Cortlandt Manor, 17481800&lt;/i&gt;. Tarrytown, N.Y., 1977. ]">Judd, <span class="hi-italic" style="font-style: italic;">Van Cortlandt Family Correspondence</span></span>, 1:11114). During the following winter OHara joined Col. Moses Hazens 2d Canadian Regiment as a captain and served until September 1777 when he resigned his commission.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0005-ptr" id="GEWN-03-04-02-0209-fn-0005">5</a>
+
+   <p>For a discussion of Jacobus Wynkoop and the naval command on Lake Champlain, see <a href="default.xqy?keys=GEWN-print-03-04-02-0103&amp;expandNote=GEWN-03-04-02-0103-fn-0001#GEWN-03-04-02-0103-fn-0001" class="document">GW to Schuyler, 24 April 1776, n.1</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0006-ptr" id="GEWN-03-04-02-0209-fn-0006">6</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-04-02-0120" class="document">Schuyler to GW, 27 April 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0007-ptr" id="GEWN-03-04-02-0209-fn-0007">7</a>
+
+   <p>Schuylers orders of 7 May to James Price, whom the Continental Congress
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0267">[267]</span>
+had appointed commissary general for the American army in Canada on 29 Mar., are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0209-fn-0008-ptr" id="GEWN-03-04-02-0209-fn-0008">8</a>
+
+   <p>Philip Van Rensselaers return of ordnance stores at Albany on 9 May lists 230 muskets fit for service, 700 unfit muskets, 8 wall-pieces, 3 four-pound cannon, 5 swivel guns, and a variety of ammunition supplies and other ordnance items (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0209 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0208" title="To George Mason, 10 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0210" title="From Major General Philip Schuyler, 10 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,177 @@
+General Orders, 11 September 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 11 September 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0344&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-09-11-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0343" title="To John Augustine Washington, 10 September 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0345" title="Council of War, 11 September 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 11 September 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0344&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0343" title="To John Augustine Washington, 10 September 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0345" title="Council of War, 11 September 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0448">448</span><div id="Rev01d317" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, Sept. 11th 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Lancaster.</td>
+		<td class="csigns">Countersign Middleton.</td>
+	      </tr></table>
+
+</div>
+<p>Col. Ebenezer Bridge of the 27th Regt of foot, in the service of the United Colonies; tried at a General Court martial, whereof Brigd. Genl Green was president, for misbehaviour and neglect of duty, in the Action at Bunkers-hill, on the [1]7th of June last; The Court are of opinion that Indisposition of body, renderd the prisoner incapable of action, and do therefore acquit him.<a class="ptr" href="#GEWN-03-01-02-0344-fn-0001" id="GEWN-03-01-02-0344-fn-0001-ptr">1</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0449">[449]</span>
+<p>Ensign Moses Howe of Col. David Brewers Regt tried by a General Court Martial, whereof Col. Alden was presdtfor contempt of the service[]; The Court after due examination of the Evidence, acquit the prisoner.<a class="ptr" href="#GEWN-03-01-02-0344-fn-0002" id="GEWN-03-01-02-0344-fn-0002-ptr">2</a></p>
+<p>Ensign Levi Bowenof the same Regiment, and tried by the same General Court Martial for absenting from his regiment without leaveThe Court find the prisoner guilty of the Crime laid to his Charge, and do therefore sentence him to be <span class="hi-italic" style="font-style: italic;">cashiered</span>.<a class="ptr" href="#GEWN-03-01-02-0344-fn-0003" id="GEWN-03-01-02-0344-fn-0003-ptr">3</a></p>
+<p>General Heaths Brigade to be mustered upon Thursday morning next, at eleven OClock, and Col. Fryes Brigade, upon Saturday morning at the same time.<a class="ptr" href="#GEWN-03-01-02-0344-fn-0004" id="GEWN-03-01-02-0344-fn-0004-ptr">4</a></p>
+<p>Col. Thompsons Battalion of Rifle-men posted upon Prospect-hill, to take their share of all duty of Guard and Fatigue, with the Brigade they encamp with.</p>
+<p>A General Court Martial to sit as soon as possible to try the men of that Regiment, who are now prisoners in the main Guard, and at Prospect-hill, and accused of <span class="hi-italic" style="font-style: italic;">mutiny</span>.</p>
+<p>The Riflemen posted at Roxbury, and towards Letchmores point, are to do duty with the brigade they are posted with.</p>
+<p>The General Court Martial to meet to morrow morning at seven OClock; to consist of <span class="hi-italic" style="font-style: italic;">three</span> Field Officers and <span class="hi-italic" style="font-style: italic;">ten</span> Captains.<a class="ptr" href="#GEWN-03-01-02-0344-fn-0005" id="GEWN-03-01-02-0344-fn-0005-ptr">5</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0344-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0344-fn-0001-ptr" id="GEWN-03-01-02-0344-fn-0001">1</a>
+
+   <p>For a discussion of the charge against Bridge, see <a href="default.xqy?keys=GEWN-print-03-01-02-0230&amp;expandNote=GEWN-03-01-02-0230-fn-0002#GEWN-03-01-02-0230-fn-0002" class="document">General Orders, 20 Aug. 1775, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0344-fn-0002-ptr" id="GEWN-03-01-02-0344-fn-0002">2</a>
+	
+   <p>Moses Howe of Belchertown, Mass., was a second lieutenant in the militia company that marched to Cambridge from Belchertown in April 1775. He served ten months in the army. David Brewer (17321799) became colonel of a Massachusetts regiment on 16 June 1775. A court-martial ordered him to be cashiered in October of this year for committing several frauds (<a href="default.xqy?keys=GEWN-print-03-02-02-0160" class="document">General Orders, 15</a>, <a href="default.xqy?keys=GEWN-print-03-02-02-0194" class="document">23 Oct. 1775</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0344-fn-0003-ptr" id="GEWN-03-01-02-0344-fn-0003">3</a>
+
+   <p>For Bowens admission of guilt and his efforts to avoid being court-martialed on this charge, see <a href="default.xqy?keys=GEWN-print-03-01-02-0319" class="document">Bowen to GW, 7 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0344-fn-0004-ptr" id="GEWN-03-01-02-0344-fn-0004">4</a>
+
+   <p>William Heaths brigade was to be mustered on 14 Sept. and James Fryes on 16 September. Artemas Wards orderly book reads 7 oClock (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0344-fn-0005-ptr" id="GEWN-03-01-02-0344-fn-0005">5</a>
+
+   <p>For a discussion of this mutiny, see <a href="default.xqy?keys=GEWN-print-03-01-02-0341&amp;expandNote=GEWN-03-01-02-0341-fn-0001#GEWN-03-01-02-0341-fn-0001" class="document">Nathanael Greene to GW, 10 Sept. 1775, n.1</a>. For the result of the court-martial, see <a href="default.xqy?keys=GEWN-print-03-01-02-0353" class="document">General Orders, 13 Sept. 1775</a>. The riflemen previously were excused from all working parties, camp guards, camp duty, Jesse Lukens wrote on 13 September. This indulgence, together with the remissness of discipline and care in our young officers, has rendered the men rather insolent for good soldiers. . . . in order that idleness
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0450">[450]</span>
+shall not be a further bane to us, the Generals orders on Monday [11 Sept.], were that Col. Thompsons regiment shall be upon all parties of fatigue, (working parties,) and do all other camp duty with any other regiment (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Samuel Hazard et al., eds. &lt;i&gt;Pennsylvania Archives&lt;/i&gt;. 9 ser., 138 vols. Philadelphia and Harrisburg, 18521949. ]"><span class="hi-italic" style="font-style: italic;">Pa. Archives</span></span>, 2d ser., 10:810).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0344 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0343" title="To John Augustine Washington, 10 September 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0345" title="Council of War, 11 September 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

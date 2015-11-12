@@ -1,0 +1,300 @@
+To Robert Dinwiddie, 11–14 October 1755
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Robert Dinwiddie, 1114 October 1755</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-02-02-0099&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1755-10-11-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0098" title="To John Hardin and Thomas Lemen, 11 October 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-02-02-0100" title="Memorandum, 12 October 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-02&amp;mode=TOC">Volume 2 (14 August 175515 April 1756)</a>&gt; <a href="?keys=GEWN-print-02-02-02&amp;mode=TOC">Documents</a>&gt; To Robert Dinwiddie, 1114 October 1755</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-02-02-0099&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0098" title="To John Hardin and Thomas Lemen, 11 October 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0100" title="Memorandum, 12 October 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0101">101</span><div id="Col02d102" class="doc">
+
+<h1>To Robert Dinwiddie</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Honble Sir</td>
+		<td class="salutationRight">Winchester Saturday Octr the 11th 1755</td>
+	      </tr>
+      </table>
+</div>
+<p>As I think it my indispensible duty to inform you particularly of my proceedings, and to give the most plain and authentic acct from time to time of our situation,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0001" id="GEWN-02-02-02-0099-fn-0001-ptr">1</a> I must acquaint your Honour that immediately after giving the necessary Orders at Fredericksburg and dispatching expresses to hurry the Recruits from Alexandria, I rid post to this place passing by Lord Fairfaxs who was not at home, but here; where I arrivd Yesterday abt Noon, and found every thing in the greatest hurry and confusion by the back Inhabitants flocking in, and those of the Town removing out, which I have prevented as far as it was in my power.</p>
+<p>I was desirous of proceeding immediatelly at the head of some Militia to put a stop to the Ravages of the Enemy believing their Numbers to be few, but was told by Colo. Martin who had attempted to raise the Militia for the same purpose that it was impossible to get above 20 or 25 Men, they having absolutely refusd to stir, choosing as they say to die with their Wives and FamilysFinding this expedient was likely to prove abortive, I sent of expresses to hurry on the Recruits from below, and the Militia from Fairfax, Prince William, &amp;ca which Lord Fairfax had orderedand also hired Spies to go out and see to discover the Numbers of the Enemy, and to encourage the Rangers who we were told, are blocked up by the Indians in small Fortresses<a class="ptr" href="#GEWN-02-02-02-0099-fn-0002" id="GEWN-02-02-02-0099-fn-0002-ptr">2</a>but if I may offer my opinionI believe they are more encompassd by fear than by the Enemy: I have also Impressd
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0102">[102]</span>
+Waggons and sent them to Conogogee for Flour, Musket Shott, and Flints; Powder, and a trifling quantity of Paper bought at extravagent prices for Cartridges, I expect from below.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0003" id="GEWN-02-02-02-0099-fn-0003-ptr">3</a> Six or eight Smiths are now at Work repairing the few Arms that are here, which is all that we have to depend upon[.] A man was hired the 24th of last Month to do the whole but neglected, and was just moving off in Wagns to Pennsylvania; I pressd his Waggons, and compelld him by Force to assist in this Work.</p>
+<p>In all things I meet with the greatest opposition no orders are obeyd but what a Party of Soldiers or my own drawn Sword Enforces; without this a single horse for the most urgent occasion cannot be had, to such a pitch has the insolence of these People arrivd by having every point hitherto sumbitted to them; however, I have given up none where his Majestys Service requires the Contrary, and where my proceedings are justified by my Instructions, nor will I, unless they execute what they threaten i, e, to blow out my brains.</p>
+<p>I have invited the poor distressed People (who were drove from there Habitations) to Lodge their Familys in some place of security, and to join our Partys in Scouring the Woods where the Enemy lie; and beleive some will chearfully assist. I also have, &amp; shall continue to take every previous Step to forward the March of the Recruits &amp;ca so soon as they arrive here, and your Honour may depend that nothing that is in my power to do, shall be wanting for the good of the Service.</p>
+<p>I would again hint the necessity of putting the Militia under better Regulation had I not mentiond it twice before, and a third time may seem Impertinent.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0004" id="GEWN-02-02-02-0099-fn-0004-ptr">4</a> but I must once more beg leave to declare, (for here I am more immediately concernd), that unless the Assembly will Enact a Law, to enforce the Military Law in all its Parts, that I must with great regret decline the Honour that has been so generously intended me. and for this only reason I do itThe foreknowledge I have of failing in every point that might justly be expected from a person invested with full power to exert his Authority. I see the growing Insolence of the Soldiers, the Indolence, and Inactivity of the Officers, who are all sensible how confind their punishments are, in regard to what they ought to be. In fine, I can plainly see that under our present Establishment we shall become a Nusance;
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0103">[103]</span>
+an insupportable charge to our Country, and never answer any one expectation of the Assembly: And here, I must assume the Freedom to express some surprise, that we alone shoud be so tenacious of Liberty as not to invest a power, where Interest, and Politicks so unanswerably demand it; and from whence so much good must consequently ensue: do we not see that every Nation under the Sun find their accd<a class="ptr" href="#GEWN-02-02-02-0099-fn-0005" id="GEWN-02-02-02-0099-fn-0005-ptr">5</a> therein; and without it no Order, no regularity can be observd Why then shoud it be expected from us (who are all young and unexperienced) to govern, and keep up a proper spirit of Discipline witht Laws, when the best, and most experiencd can scarcely do it withthen if we consult our InterestI am sure it is loudly calld for,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0006" id="GEWN-02-02-02-0099-fn-0006-ptr">6</a> For I can confidantly assert that the money expended in Recruiting, Cloathing, Arming, Maintaining, and Subsisting Soldiers who have deserted, has cost the Country an immense Sum, which might have been prevented were we under Restraints, that woud terrifie the Soldrs from such practices: One thing more on this head I will recommend, and then quit the subject, and that is, to have the Inhabitants liable to certain heavy Fines, or Corporal Punishments for Entertaining of Deserters; and a Reward for takg them up; if this was done, it woud be next to an impossibility for a Soldier to Escapebut on the contrary as things now stand, they are not only seducd to run away, but are also harbourd and assisted with every necessary means to make their escape.</p>
+<p style="text-align: right;">Sunday Noon</p>
+<p>Last night at 8 oclock, arrivd an express just spent with fatigue and fear, reporting that a Party of Indians were seen at the Plantation of one Isaac Julians abt 12 Miles off, and that the Inhabitants were flying in the most promiscuous manner from their dwellingsI immediately orderd the Town Guards to be strengthned, Perkinss<a class="ptr" href="#GEWN-02-02-02-0099-fn-0007" id="GEWN-02-02-02-0099-fn-0007-ptr">7</a> Lieut. to be in readiness with his Company, some Recruits (who had only arrivd abt half an hour before) to be Armd, and sent two men will acquainted with the woods to go up that road and lay wait, to see if they coud discover the Numbers &amp; Motion of the Indians, that we might have timely notice of their approach.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0008" id="GEWN-02-02-02-0099-fn-0008-ptr">8</a> This Morning before we coud parade the Men to March upon the last Alarm, arrivd a Second Express ten times more terrified than the former; with information that the Indians had got within four Miles of the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0104">[104]</span>
+Town and were killing and destroying all before them. for that hehimselfhad heard constant Firing, and the Shrieks of the unhappy Murderdupon this I immediately collected what Force I coud, which consisted only of 22 Men recruited for the Rangers, and 19 of the Militia and Marchd therewith directly to the place where these horrid Murders were said to be committedwhen we got there, who shoud we find occasioning all this disturbance, but 3 drunken Soldiers of the Light Horse carousing, firing their Pistols, and uttering the most unheard off Imprecations, these we took and marchd Prisoners to Town where we met the Men I sent out last Night, and learnt that the Party of Indians discovered by Isaac Julian, provd to be a Mulatto and Negro seen hunting of Cattle by his Son, who alarmd the Father, and the Father the neighbourhd[.] These Circumstances are related only to shew, what a panick prevails among the People, how much they are alarmd at the most usual, and customary Crysand yet how impossible it is to get them to act in any respect for their common safetys; an Instance of this then appeardColo. Fairfax<a class="ptr" href="#GEWN-02-02-02-0099-fn-0009" id="GEWN-02-02-02-0099-fn-0009-ptr">9</a> who arrivd in Town while we were upon the Scout, immediately sent to a Noble Captain (not far off) to repair with his Company forthwith to Winchester: with coolness and moderation, this great Captn answerd, that his Wife, Family, and Corn was at stake, so were those of his Soldrs therefore it was not possible for him to come, such is the Example of the Officers! Such the behaviour of the Men! And such the unhappy Circumstances on which our Country depends!<a class="ptr" href="#GEWN-02-02-02-0099-fn-0010" id="GEWN-02-02-02-0099-fn-0010-ptr">10</a></p>
+<p style="text-align: right;">Monday Morning</p>
+<p>The Men I hired to bring Intelligence from the Branch, returnd last Night with Letters from Captn Ashby and the other Partys up there, by which we learn that the Indians are gone off.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0011" id="GEWN-02-02-02-0099-fn-0011-ptr">11</a> Scouts having been dispersd upon those Waters for several days witht discovering tracts, or other Signs of the Enemy. I am also informd that it is believd their numbers amounted to 150that 70 or near it of our People are killd, and missing,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0012" id="GEWN-02-02-02-0099-fn-0012-ptr">12</a> and that several houses and Plantations are destroyd, but not so great havock made as was at first representedThe Rangers, and a small party of Militia ordered up there by Lord Fairfax I am given to understand intend to March down on Wednesday next,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0013" id="GEWN-02-02-02-0099-fn-0013-ptr">13</a> who will be immediately followd by all the Inhabitants of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0105">[105]</span>
+those parts that had gatherd under their protection: I have therefore sent Preemptory Orders to the Contrary, but what obedience will be paid to ita little time will reveal. I have orderd those Men who were recruited for the Rangers to join their Respective Companys, and there is also a party of 20 Militia marchd with them, under the Command of Captn Hardin.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0014" id="GEWN-02-02-02-0099-fn-0014-ptr">14</a></p>
+<p>Captn Waggener is this Instant arrivd with 30 Rec[rui]ts which he marched from Alexandria<a class="ptr" href="#GEWN-02-02-02-0099-fn-0015" id="GEWN-02-02-02-0099-fn-0015-ptr">15</a> in less than three days a great march indeed! Majr Lewis and his Rects from Fredericksburg is expected in Tomorrow, when with these, and 22 Men of Captn Bells now here I shall proceed by quick Marches to Fort Cumberland in order to strengthen the Garrison there. Besides these, I think it absolutely necessary that there should be two or 3 Companys exclusive of Rangers to Guard the Potomack Waters, till such times as our Regiment is compleated; and indeed the Rangers and volunteer Companys in Augusta, with some of their Militia shoud be properly disposd of on those Frontiers for fear of an Attack upon that Quarter: This th<a class="ptr" href="#GEWN-02-02-02-0099-fn-0016" id="GEWN-02-02-02-0099-fn-0016-ptr">16</a> is submitted to your honours Judgement, &amp; waits your Orders for execution if it shoud be thought expedient. Captn Waggener informd me, that it was with difficulty he passd the Ridge for the Crowds of People who were flying, as if every moment was death. he endeavourd, but in Vain to stop them, they firmly believg that Winchester was taken, and in FlamesI have sent expresses<a class="ptr" href="#GEWN-02-02-02-0099-fn-0017" id="GEWN-02-02-02-0099-fn-0017-ptr">17</a> down the several Roads in hopes of bringing back the Inhabitants who are really frighted out of their Senses.</p>
+<p>I dispatchd an express immediately upon my arrival to this place with a Copy of the Inclosd to Andw Montour, who I heard was at a place calld long Island [Great Island] with 300 Indians, to see if I coud engage him and them to join us[.] The Letter favours<a class="ptr" href="#GEWN-02-02-02-0099-fn-0018" id="GEWN-02-02-02-0099-fn-0018-ptr">18</a> a little of flattery &amp; &amp;ca but this I hope is justifiable on such occasionsI also wrote to Gist acquaintg him of the favour your Honour intended him, and desird he woud repair home in order to raise his Company of Scouts.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0019" id="GEWN-02-02-02-0099-fn-0019-ptr">19</a></p>
+<p>I shall defer writing to the Speaker and Committee upon any other head than that of Commissary, still hoping to be down by the time I mentiond in my last (provided no new disturbances happens) having some points to settle that I am uneasy and urgent abtI have been obligd to do dutys quite foreign from
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0106">[106]</span>
+my own, but that I shall never hesitate abt when others do; and the good of the Service requires the ContraryIn a journey from Fort Cumberld to Fort Dinwiddie,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0020" id="GEWN-02-02-02-0099-fn-0020-ptr">20</a> which I made purposely to see the Situation of our Frontiers, how the Rangers were Posted, and how Troops might be disposd off for the defence of the Country, I purchased 650 fine Beeves to be deliverd at Fort Cumberland by the First day of Novr next, at 10/ pr hundd<a class="ptr" href="#GEWN-02-02-02-0099-fn-0021" id="GEWN-02-02-02-0099-fn-0021-ptr">21</a> except a few that I was obligd to give Eleven Shilgs for, and have my own Bonds now out for performance of Covenantsthis being the Commissarys business, who I am sorry to say has hitherto been of no use, but disservice to me, in neglecting my Orders, and leaving this place witht Flour, and Fredericksburg witht any Provisions for the Rects tho their was timely notice given: I must beg that if Mr Dick will not act, that some Person may be appointed that will, for if things remain in this uncertain Situation, the Season will pass witht havg any Provision made for the Winters or Summers Campaign: whoever acts as Comy shoud be sent up immediately abt Salting the Provisions &amp;ca, it will be difficult I believe to provide a quantity of PorkI enquird as I rode thr Hampshire, Augusta, &amp;ca and coud not hear of much for Sale.</p>
+<p>Most of the new appointed Officers have been extreamly difficient in their Dutys by not repairing to their Rendezvouses according to appointment: Captn McKenzie, Lieutt King &amp; Ensigns Milner<a class="ptr" href="#GEWN-02-02-02-0099-fn-0022" id="GEWN-02-02-02-0099-fn-0022-ptr">22</a> and Dean,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0023" id="GEWN-02-02-02-0099-fn-0023-ptr">23</a> who were orderd to send their Recruits to Alexandria by the first of Octr were not arrived when Captn Waggener left that place: nor have we heard any thing of Captn Harrison whose Recruits shoud have been at Fredericksburg by the same time;<a class="ptr" href="#GEWN-02-02-02-0099-fn-0024" id="GEWN-02-02-02-0099-fn-0024-ptr">24</a> and Captn Bell only sent his here on Saturday lastIf these Practices are allowd off, we may as well quit altogether for no duty can ever be carried on, if there is not the greatest punctuality observd, one thing always depending so immediately upon Another.</p>
+<p>I have appointed Captn George Mercer (whose seniority intitled him to it) my Aid de Camp, and Mr Kirkpatrick of Alexandria my Secretary,<a class="ptr" href="#GEWN-02-02-02-0099-fn-0025" id="GEWN-02-02-02-0099-fn-0025-ptr">25</a> a young Man bred to business, of good character, well recommended, and a person whose Abilitys coud not be doubtedI hope your Honour will be kind enough to dispatch Colo. Stephen, with orders to repair here immediately, and excuse the Prolixity of this; I was willing to give a
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0107">[107]</span>
+circumstantial acct of our Situation &amp;ca that you may be the Better enabled to judge what Orders are necessary to give. I am Honble Sir Yr most Obt Servt</p>
+<div class="closer">
+<p class="signed">Go. Washington</p>
+</div>
+<div class="postscript">
+<p>Winchester Octr 14th 1755</p>   
+<p style="text-indent: 0;">Majr Lewis is just arrivd, and on Thursday I shall begin my March to Fort Cumberland allowg the Rects 1 day to Refresh themselves.<a class="ptr" href="#GEWN-02-02-02-0099-fn-0026" id="GEWN-02-02-02-0099-fn-0026-ptr">26</a></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-02-02-0099-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+   The copy of this letter in the corrected letter book has many changes in punctuation, spelling, and capitalization; there are also a number of minor differences in wording and word order between the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr> and the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr> copy. All substantive changes are recorded in the following footnotes. This letter appears in the letter book between <a href="default.xqy?keys=GEWN-print-02-02-02-0102" class="document">GWs Memorandum of 13 Oct. concerning John Campbell</a> and his <a href="default.xqy?keys=GEWN-print-02-02-02-0103" class="document">Memorandum and Advertisement of the same date</a>.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0001-ptr" id="GEWN-02-02-02-0099-fn-0001">1</a>
+
+   <p><a href="default.xqy?keys=GEWN-print-02-02-02-0079" class="document">GW last wrote to Dinwiddie on 8 Oct</a>. from Fredericksburg.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0002-ptr" id="GEWN-02-02-02-0099-fn-0002">2</a>
+
+   <p>For GWs activities since arriving the day before in Winchester from Fredericksburg, see especially <a href="default.xqy?keys=GEWN-print-02-02-02-0091" class="document">GW to Thomas Bryan Martin, 10 Oct. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0003-ptr" id="GEWN-02-02-02-0099-fn-0003">3</a>
+
+   <p>On 10 Oct. John Carlyle was ordered to send up powder and shot from below, and John Jones was sent to Conococheague for flour and ammunition.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0004-ptr" id="GEWN-02-02-02-0099-fn-0004">4</a>
+
+   <p>GW wrote to Dinwiddie of problems with the militia on <a href="default.xqy?keys=GEWN-print-02-02-02-0024" class="document">11 Sept.</a> and <a href="default.xqy?keys=GEWN-print-02-02-02-0079" class="document">8 Oct. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0005-ptr" id="GEWN-02-02-02-0099-fn-0005">5</a>
+
+   <p>The word accd appears as account in GWs revised letter book, but he may have originally intended it as a contraction of accord.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0006-ptr" id="GEWN-02-02-02-0099-fn-0006">6</a>
+
+   <p>The letter-book copy reads: . . . when the best, and most Experienced, can scarcely do it with them? if we consult our interest, I am sure it loudly calls for them.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0007-ptr" id="GEWN-02-02-02-0099-fn-0007">7</a>
+
+   <p>GW may have been referring to Isaac Perkins (Parkins), a captain in the Frederick County militia. Perkins was a leading citizen of Winchester who had attended the House of Burgesses as a representative from Frederick County in the summer of 1755.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0008-ptr" id="GEWN-02-02-02-0099-fn-0008">8</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-02-02-0098" class="document">GW to John Hardin and Thomas Lemen, 11 Oct. 1755</a>. Hardin and Lemen were the two men sent.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0009-ptr" id="GEWN-02-02-02-0099-fn-0009">9</a>
+
+   <p>GWs friend, George William Fairfax, was colonel of the Frederick County militia.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0010-ptr" id="GEWN-02-02-02-0099-fn-0010">10</a>
+
+   <p>The several word changes in the letter-book copy of this paragraph are GWs apparent effort to make it read more smoothly. That he sometimes defeats his own purpose is demonstrated by his substituting in the letter book and upon such circumstances depends the Safety of our Country! for and such the unhappy circumstances on which our Country depends!</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0011-ptr" id="GEWN-02-02-02-0099-fn-0011">11</a>
+
+   <p>Power Hazel and James Sands were the men hired. Ashbys letter has not been found. See <a href="default.xqy?keys=GEWN-print-02-02-02-0089" class="document">GWs Press Warrant, 10 Oct. 1755</a>. In the letter-book copy, we learn is changed to read I learn.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0012-ptr" id="GEWN-02-02-02-0099-fn-0012">12</a>
+
+   <p>The letter-book copy has it that there were about 150 Indians and that Seventy of our men are killed and missing.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0108">[108]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0013-ptr" id="GEWN-02-02-02-0099-fn-0013">13</a>
+
+   <p>In the letter-book copy, party of Militia has become Company of Militia, and Wednesday has become monday.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0014-ptr" id="GEWN-02-02-02-0099-fn-0014">14</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-02-02-0101" class="document">GW to Thomas Lemen, 13 Oct.</a>, and <a href="default.xqy?keys=GEWN-print-02-02-02-0105" class="document">to John Ashby, 14 Oct. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0015-ptr" id="GEWN-02-02-02-0099-fn-0015">15</a>
+
+   <p>The letter-book copy substitutes for Alexandria the earlier name Belhaven.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0016-ptr" id="GEWN-02-02-02-0099-fn-0016">16</a>
+
+   <p>This may instead be thot, a contraction of thought.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0017-ptr" id="GEWN-02-02-02-0099-fn-0017">17</a>
+
+   <p>I have sent expresses is changed to I shall send Expresses in the revised letter book.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0018-ptr" id="GEWN-02-02-02-0099-fn-0018">18</a>
+
+   <p>The word favours becomes savours in the revised letter book.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0019-ptr" id="GEWN-02-02-02-0099-fn-0019">19</a>
+
+   <p><a href="default.xqy?keys=GEWN-print-02-02-02-0096" class="document">GWs letters to Christopher Gist</a> and <a href="default.xqy?keys=GEWN-print-02-02-02-0095" class="document">Andrew Montour</a> are both dated 10 Oct. The revised letter book refers to Gists Companies, not Company, of scouts.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0020-ptr" id="GEWN-02-02-02-0099-fn-0020">20</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-02-02-0052" class="document">GWs Memorandum, 24 Sept. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0021-ptr" id="GEWN-02-02-02-0099-fn-0021">21</a>
+
+   <p>For hundd the revised letter book has Cwt.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0022-ptr" id="GEWN-02-02-02-0099-fn-0022">22</a>
+
+   <p>Once he did show up, Nathaniel Milner was sent recruiting again on 18 Nov. to be gone until Christmas Day. In 1756 he served as ensign first in Thomas Waggeners company of the Virginia Regiment and then in Capt. Robert Spotswoods. He left the regiment for his fathers home in bad health early in 1757 and did not return. By spring 1758 he was dead of what GW supposed to be consumption. The revised letter-book copy gives his name Miller.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0023-ptr" id="GEWN-02-02-02-0099-fn-0023">23</a>
+
+   <p>John Dean (Deane) continued to recruit until the end of the year. On 9 Jan. 1756 GW lists him as ensign in Capt. David Bells company. Dean remained in Bells company until his resignation in late May or early June 1757 when Dinwiddie reorganized the Virginia Regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0024-ptr" id="GEWN-02-02-02-0099-fn-0024">24</a>
+
+   <p>Carter Henry Harrison was ill (<a href="default.xqy?keys=GEWN-print-02-02-02-0124" class="document">Dinwiddie to GW, 18 Oct. 1755</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0025-ptr" id="GEWN-02-02-02-0099-fn-0025">25</a>
+
+   <p>When GW assumed command of the new Virginia Regiment, Dinwiddie stipulated in his instructions to him that GW could appoint an aide-de-camp and secretary. See <a href="default.xqy?keys=GEWN-print-02-02-02-0001-0003" class="document">Documents II,</a> <a href="default.xqy?keys=GEWN-print-02-02-02-0001-0004" class="document">III, in GWs Appointment as Colonel of the Virginia Regiment, 14 Aug. 1755.</a> His secretary, John Kirkpatrick, of Kirkcudbright in the Galloway District of Scotland, was in business in Alexandria. The length of Kirkpatricks service as secretary is uncertain, but the last payment to him in GWs military accounts for 175558 was made on 1 May 1757. GW in 1757 unsuccessfully recommended Kirkpatrick for a combined appointment as ensign and Commissary of Musters (<a href="default.xqy?keys=GEWN-print-02-04-02-0091" class="document">GW to Dinwiddie, 24 May 1757</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0099-fn-0026-ptr" id="GEWN-02-02-02-0099-fn-0026">26</a>
+
+   <p>The postscript does not appear in the revised letter book.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-02-02-0099 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 2 (14 August 175515 April 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0098" title="To John Hardin and Thomas Lemen, 11 October 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0100" title="Memorandum, 12 October 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

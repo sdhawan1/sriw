@@ -1,0 +1,215 @@
+From Major General Philip Schuyler, 5–7 January 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 57 January 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0021&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-01-05-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0020" title="From Major General Charles Lee, 5 January 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0022" title="General Orders, 6 January 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 57 January 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0021&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0020" title="From Major General Charles Lee, 5 January 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0022" title="General Orders, 6 January 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0032">32</span><div id="Rev03d18" class="doc">
+
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Albany Friday January 5th[-7] 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>I do not hesitate a Moment to answer My Dear Generals Question in the Affirmative,<a class="ptr" href="#GEWN-03-03-02-0021-fn-0001" id="GEWN-03-03-02-0021-fn-0001-ptr">1</a> by declaring that now or never, is the Time for Every Virtuous American to exert himself in the Cause of Liberty &amp; his Country, and that it is become a Duty, cheerfully to sacrafice the Sweets of domestic Felicity to attain the Honest &amp; Glorious End, America has in View, &amp; I can with a good Conscience declare, that I have devoted Myself to the Service of my Country, in the firmest Resolution to sink or swim with It, unanxious how I quit the Stage of Life, provided that I leave to my Posterity, the happy Reflection that their Ancestor, was an honest American.</p>
+<p>Here, my Dear Sir, You will ask why then Do You wish to retire from a Public Office?<a class="ptr" href="#GEWN-03-03-02-0021-fn-0002" id="GEWN-03-03-02-0021-fn-0002-ptr">2</a> Not because I am deterred by any Difficulties I have experienced or any that might hereafter present themselves, for I have had repeated Experience in the Course of Life, that what the greater Part of Man kind deem Impossibilities exist only in Idea &amp; are surmountable by a steady Perseverance: But because I think I should Prejudice My Country, by continuing any longer in this Command, the favorable Opinion that You are pleased to entertain of Me, obliges me to an Explanation, which I shall give You in Confidence; I have already informed You of the disagreeable Situation I have been in during the Campaign, but I would wave that, were It not that It has chiefly arisen from Prejudice &amp; Jealousy, For I could point out particular Persons of Rank in the Army, who have frequently declared that the General Commanding in this Quarter ought to be of the Colony from whence the Majority of the Troops came, but It is not from the Opinions or Principles of Individuals that I have drawn the following Conclusion, <span class="hi-italic" style="font-style: italic;">that Troops from the Colony of Connecticut will not bear with a General from another Colony</span>; It is from the daily &amp; Common Conversation of all Ranks of People from that Colony, both in &amp; out of the Army, And I assure You that I sincerely lament, that a People of so much Public Virtue, should be actuated by such an Unbecoming Jealousy founded on such a Narrow Principle, a Principle extremely unfriendly to our Righteous Cause, as It tends to alienate the Affections of Numbers in this Colony, in
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0033">[33]</span>
+Spight of the most favourable Constructions, that prudent Men &amp; Real Americans amongst Us, attempt to put upon It. And Altho I frankly avow that I feel a Resentment, Yet I shall continue to sacrafice It to a Nobler Object, the Weal of that Country, in which I have drawn the Breath of Life, Resolved ever to seek with unwearied Assiduity for opportunities to fulfill my Duty to it.</p>
+<p>I shall to Morrow write to General Montgomery to collect the Evidence in Support of the Charge against Prescott &amp; entreat him to be very particular, As the Prisoners taken on Board the Vessels in the St Lawrence are not yet passed It is probable, That I may be their Means be able to furnish Your Excellency with some Accounts of the Usage Allen received.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0003" id="GEWN-03-03-02-0021-fn-0003-ptr">3</a></p>
+<p>Since the Receipt of Your Excellencys of the 18th Major Rogers is come to this Town. I sent to him &amp; amongst a Variety of Passes he produced a late one from the Committee of New Hampshire to pass unmolested to New York, for which Place he sets out to Day. I believe there is no Truth in the Intelligence sent by Mr Wheelock, for I find upon Enquiry, that Rogers arrived at this Place after St Johns was invested &amp; that he went from hence to New England; I shall however make farther Enquiries.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0004" id="GEWN-03-03-02-0021-fn-0004-ptr">4</a></p>
+<p>I shall forward the Account against Capt. Morgan to Colo: Arnold by next Post.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0005" id="GEWN-03-03-02-0021-fn-0005-ptr">5</a></p>
+<p>You will perceive by the inclosed that the Junction of General Montgomery &amp; Colo: Arnold has taken Place, but their Force is so small, &amp; the Weather has been so severe that I fear they have not been able to possess themselves of Quebec,<a class="ptr" href="#GEWN-03-03-02-0021-fn-0006" id="GEWN-03-03-02-0021-fn-0006-ptr">6</a> should an Attempt have been made to storm It, &amp; have proved fruitless &amp; Accidents have happened to Montgomery &amp; Arnold, I tremble least Canada should be lost, If I could procure any Men, I would send them to Canada immediately, but I know Not where to get any; Even Tyonderoga &amp; Fort George are by this Time I fear left to the Care of the Commissary of Provisions &amp; Conducter of Artillery, the Officers to whom I had issued Warrants to raise four Companies meet with no Success.</p>
+<p>The first of the Cannon arrived here on Wednesday &amp; the whole is on Its Way, but detained by the Weakness of the Ice in Hudsons River, occasioned by the uncommon Mildness of the Weather for several Days past, one frosty Night if not deferred
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0034">[34]</span>
+too long will however put Every Thing in Order, &amp; I hope You will soon have the Pleasure of seeing all at Cambridge.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0007" id="GEWN-03-03-02-0021-fn-0007-ptr">7</a></p>
+<p>To morrow thirteen of the Caghnawaga Tribe, under the Care of Major Wales, will set out for Cambridge on a Visit.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0008" id="GEWN-03-03-02-0021-fn-0008-ptr">8</a></p>
+<p>Your Letter to General Howe gave me great Pleasure, &amp; his Answer must convince Mankind of Your Superiority, his Affectation is trifling &amp; Unbecoming a Gentleman, his Letter I believe will Eventually be a Censure on General Carlton.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0009" id="GEWN-03-03-02-0021-fn-0009-ptr">9</a></p>
+<p>I shall immediately forward to Your Excellency what Clothing can be spared from here, great Part of It is not Yet made up.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0010" id="GEWN-03-03-02-0021-fn-0010-ptr">10</a></p>
+<p>Sunday Jany 7th 1776. Yesterday a Frost came on &amp; this Morning I had the satisfaction to see the first Division of Sleds with Cannon cross the River, should there be Snow all the Way to Cambridge, they will probably arrive there about this Day Week.</p>
+<p>A Mr Gamble who was made Prisoner with Brigadier Prescott and who was a Deputy Quarter Master General in Canada, has entreated me to Intercede with Your Excellency to get him exchanged, he Urges that he must be ruined unless he can get back to Canada, Altho I by no Means wish to prejudice an Individual, Yet I do not think It prudent that he should go to Quebec, Unless It is in our Possession, When that happens I can see no Inconveniency in Exchanging him or permitting him to go &amp; shall esteem It as a Favor If he can then procure your Leave, and If You can get him Exchanged, that he may not loose his Office, he writes to General Lee on the Subject, I have expressly informed him, that I did not think he could be permitted to go to Quebec until after Its Reduction.<a class="ptr" href="#GEWN-03-03-02-0021-fn-0011" id="GEWN-03-03-02-0021-fn-0011-ptr">11</a></p>
+<p>Be pleased to accept the Compliments of the Season &amp; my best Wishes. I have the Honor to be with unfeigned Esteem Your Excellencys most Obedt &amp; most Humble Servant.</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0021-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0001-ptr" id="GEWN-03-03-02-0021-fn-0001">1</a>
+	
+   <p>Schuyler is replying to <a href="default.xqy?keys=GEWN-print-03-02-02-0557" class="document">GWs letter to him of 24 December</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0002-ptr" id="GEWN-03-03-02-0021-fn-0002">2</a>
+	
+   <p>Schuyler expressed his desire to retire from the army in <a href="default.xqy?keys=GEWN-print-03-02-02-0383" class="document">his letter to GW of 22 Nov. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0003-ptr" id="GEWN-03-03-02-0021-fn-0003">3</a>
+
+   <p>GW requested information regarding Richard Prescotts treatment of Ethan Allan in his letter to Schuyler of 18 December. For Prescotts capture by the Americans in Canada, see <a href="default.xqy?keys=GEWN-print-03-02-02-0409&amp;expandNote=GEWN-03-02-02-0409-fn-0002#GEWN-03-02-02-0409-fn-0002" class="document">Schuyler to GW, 28 Nov. 1775, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0004-ptr" id="GEWN-03-03-02-0021-fn-0004">4</a>
+
+   <p>Two soldiers told Eleazar Wheelock that Robert Rogers had been second
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0035">[35]</span>
+in command under Guy Carleton at St. Jean the previous fall (see <a href="default.xqy?keys=GEWN-print-03-02-02-0429" class="document">Wheelock to GW, 2 Dec.</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0531" class="document">GW to Schuyler, 18 Dec. 1775</a>). For Rogerss passes, see <a href="default.xqy?keys=GEWN-print-03-02-02-0505&amp;expandNote=GEWN-03-02-02-0505-fn-0002#GEWN-03-02-02-0505-fn-0002" class="document">Rogers to GW, 14 Dec. 1775, n.2.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0005-ptr" id="GEWN-03-03-02-0021-fn-0005">5</a>
+	
+   <p>GW enclosed the account against Daniel Morgan in <a href="default.xqy?keys=GEWN-print-03-02-02-0531" class="document">his letter to Schuyler of 18 December</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0006-ptr" id="GEWN-03-03-02-0021-fn-0006">6</a>
+
+   <p>Schuyler enclosed a copy of the letter that Richard Montgomery sent to him from Holland House . . . Near the Heights of Abraham on 5 December. The Season, Montgomery wrote, has proved so favourable as to enable me to join Colonel Arnold at Point Aux Trembles, where I arrived with the Vessels Mr [Richard] Prescott made us a Present of, they carried the few Troops about 300 which were equipped for a Winter Campaign, with the Artillery &amp;caColonel [James] Livingston is on his Way with some part of his Regiment of Canadians. Mr [Guy] Carleton who is I suppose ashamed to shew himself in England, is now in Town &amp; puts on the shew of Defence. . . . I propose Amuzing Mr Carleton with a formal Attack erecting Batteries &amp;ca but mean to insult the Works, I believe towards the lower Town, Which is the weakest Part[.] I have this Day written to Mr Carleton &amp; also to the Inhabitants which I hope will have some Effect, I shall be very sorry to be reduced to this Mode of Attack, because I know the Melancholly Consequences, But the approaching severe season &amp; the Weakness of the Garrison together with the Nature of the Works point It out too strongly to be passed by (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). For the failure of the American attack on Quebec and Montgomerys death, see <a href="default.xqy?keys=GEWN-print-03-03-02-0056" class="document">Schuyler to GW, 13 January</a>. Schuyler also enclosed a copy of David Woosters letter to him of 18 Dec. 1775 (see <a href="default.xqy?keys=GEWN-print-03-03-02-0079&amp;expandNote=GEWN-03-03-02-0079-fn-0005#GEWN-03-03-02-0079-fn-0005" class="document">GW to Schuyler, 16 Jan. 1776, n.5</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0007-ptr" id="GEWN-03-03-02-0021-fn-0007">7</a>
+	
+   <p>For another account of the artillery from Ticonderoga, see <a href="default.xqy?keys=GEWN-print-03-03-02-0019" class="document">Henry Knox to GW, this date</a>. The previous Wednesday was 3 January.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0008-ptr" id="GEWN-03-03-02-0021-fn-0008">8</a>
+	
+   <p>This party included Colonel Louis, the chief who had visited GW the previous summer (see <a href="default.xqy?keys=GEWN-print-03-01-02-0150&amp;expandNote=GEWN-03-01-02-0150-fn-0032#GEWN-03-01-02-0150-fn-0032" class="document">GW to Hancock, 45 Aug. 1775, n.32</a>). The Caughnawaga, who had recently signed a treaty of neutrality with Schuyler, arrived at Cambridge on 20 Jan. and held a formal talk with GW ten days later (see GW to Hancock, <a href="default.xqy?keys=GEWN-print-03-03-02-0127" class="document">24</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0157" class="document">30 Jan.</a>, and GW to Schuyler, <a href="default.xqy?keys=GEWN-print-03-03-02-0145" class="document">27 Jan.</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0173" class="document">1 Feb.</a> 1776). The escorting officer may have been Nathaniel Wales, quartermaster of Col. Timothy Bedels New Hampshire regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0009-ptr" id="GEWN-03-03-02-0021-fn-0009">9</a>
+	
+   <p>GW enclosed copies of <a href="default.xqy?keys=GEWN-print-03-02-02-0529" class="document">his letter to Howe of 18 Dec.</a> concerning the treatment of Ethan Allan and Howes reply of 21 Dec. in <a href="default.xqy?keys=GEWN-print-03-02-02-0557" class="document">his letter to Schuyler of 24 December</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0010-ptr" id="GEWN-03-03-02-0021-fn-0010">10</a>
+	
+   <p>GW requested this clothing in <a href="default.xqy?keys=GEWN-print-03-02-02-0557" class="document">his letter to Schuyler of 24 December</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0021-fn-0011-ptr" id="GEWN-03-03-02-0021-fn-0011">11</a>
+
+   <p>Thomas Gamble, a captain in the 47th Regiment who had served as an assistant deputy quartermaster general in America since 1766, was captured with Richard Prescott at Lavaltrie in November 1775 while trying to escape from Montreal to Quebec. The Americans had intercepted letters from Gamble to Thomas Gage and William Shirreff the previous September (see <a href="default.xqy?keys=GEWN-print-03-02-02-0094&amp;expandNote=GEWN-03-02-02-0094-fn-0003#GEWN-03-02-02-0094-fn-0003" class="document">GW to Schuyler, 4 Oct. 1775, n.3</a>). For GWs refusal to parole or exchange Gamble under existing circumstances, see <a href="default.xqy?keys=GEWN-print-03-03-02-0079" class="document">GW to Schuyler, 16 January</a>. Congress rejected Gambles appeal for exchange in April, and in July he was imprisoned for ill behavior (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:264, 5:567). Gamble was exchanged in November or December 1776. He was recaptured at Princeton in January 1777 and apparently
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0036">[36]</span>
+was released again soon afterwards (see <a href="default.xqy?keys=GEWN-print-03-08-02-0173&amp;expandNote=GEWN-03-08-02-0173-fn-0003#GEWN-03-08-02-0173-fn-0003" class="document">Gamble to GW, 22 Jan. 1777</a>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers, and 17 Feb. 1777, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0021 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0020" title="From Major General Charles Lee, 5 January 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0022" title="General Orders, 6 January 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

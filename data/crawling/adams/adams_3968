@@ -1,0 +1,168 @@
+From Tristram Dalton, 25 May 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Tristram Dalton, 25 May 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0040&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-05-25-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0039" title="From Jean de Neufville &amp; Fils, 24 May 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Tristram Dalton, 25 May 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0040&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0039" title="From Jean de Neufville &amp; Fils, 24 May 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0079">79</span><div id="PJA13d054" class="doc letter">
+
+<h1>From Tristram Dalton</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Newburyport May 25th. 1782</td>
+	      </tr>
+      </table>
+</div>
+<p>I beg leave to intrude upon a few of your important moments, in behalfe of William Armstrong, late commander of a letter of marque Brig, belonging to me, and called, <span class="hi-italic" style="font-style: italic;">the little Porga</span>; which vessel was capturd the 3d Nov. last by a Cutter Privateer, belonging to the Island of Guernseywhither Capt Armstrong and his company were carried, after being stripped almost naked, according to the custom of the privateers men from that Island. From thence They were sent <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0080">[80]</span>to Portsmouth, and put on board a guard ship, called the Diligent, from that vessell most of them were orderd to Mill Prison, at Plymouthbut, by letters of March 7. 1782, from the chief Mate,<a class="ptr" href="#PJA13d054n1" id="PJA13d054n1-ptr">1</a> who dates them in France, it appears Capt Armstrong, on his arrival in Portsmouth, was seperated from his own people, and put between decks of the Guard ship, with the British Seamen, and confined in Irons, on both legs, and not suffered to speak to one of his own menno reason being given for this singular treatment. The Mate writes me he left Mill Prison 28th Febythat he had not seen Capt Armstrong there, tho he heard he was sent to Plymouth to be examinedfor what he does not sayneither can I conjecture. A Letter from his 3d Mate, dated in Mill Prison, Jany 10th, gives a full confirmation of the ill usage given his former commanderand that he was left on board the guard ship confined by both legs.</p>
+<p>Humanity, and Justice to a fellow Subject, demand my attention. I know not to whom, so properly, to apply, for investigating the cause of this singular treatment, and for releif to the unhappy Object of it, as to yourselftrusting, youll excuse my freedom in troubling you with the enquiry, both on public, and private, motives.<a class="ptr" href="#PJA13d054n2" id="PJA13d054n2-ptr">2</a></p>
+<p>On this affair, I beg leave, to detain you a moment longerto acquaint that Capt Armstrong, was born in or near New Castle, Britain; came to this country before hostilities commenced with the Britishbeing then a boy. Soon after that nation began capturing our property on the Seas, he was taken in a letter of Marque Ship bound to Philadasent to New Yorkwhere he was put on Board the Somerset Ship of Warand was in her, when she was wrecked on Cape Cod. This event releasing him, he came to town, and put himself under his former master, a Capt Roberts, who, meeting with misfortunes, gave this lad his liberty. By his merit he got employand, before he was 20 years of age, commanded a letter of marque Brig, of mine, and captured a large Shipafterwd was successful, in a privateer, untill this misfortune happend him. The Prisoners, whom he took, spoke, in the highest terms of praise, of the usage received from him. I know not a single circumstance of his conduct, that can have, justly, led to the uncommonly severe treatment inflicted on him. Being a young fellow of merit, and connected in my business, I feel anxious for his safety and welfare. When I look on it as an insult upon a Subject of the US of America a singular resentment arises in my breast. These motives induce me to ask the favor of your giving such directions as may appear best, both for his releif, and for preventing like usage to any other Subject of these States.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0081">[81]</span>
+<p>I shall forward Letters to Messr John de Neufville &amp; Son, at Amsterdam, as will entitle you, if occasion for his use calls, to draw for such sums as may be necessary.</p>
+<p>Enclosed is a Letter for Capt Armstrong,<a class="ptr" href="#PJA13d054n3" id="PJA13d054n3-ptr">3</a> which I wish might be handed him, if it can be done with propriety. It is open for your inspection.</p>
+<p>Permit me, Sir, before I conclude, to add one request more, which, I hope, will not appear improper, as it is made with a view of serving our country. Wishing to give the little aid in my power, at this critical period, I purpose, to attend the General Court this year, as one of the representatives of this Town, being appointed by a general Suffrage. The connections and views of these States being large and extensive, it is necessary that such information and knowledge be had by those entrusted with different departments, as may enable them to act with proprietyand for the good of the whole. From the fountain alone will such advices come pure and authenticin proportion as they run thro different channels they become tainted, contracted, and at best uncertain. Ambitious to do the greatest possible service, in that station I am placed in, I shall earnestly seek every useful intelligence. With this view, may I presume to ask the particular favor of your having any advises, respecting public Affairs, communicated to me, which may appear to be necessary or proper, to guide my political conduct. In the high department, which must call for all your time, I cannot flatter myself with receiving your opinions and advice on any movements, madeor likely to betho beleive me, Sir, I should esteem them, not only as a very singular honor, but, in the first degree, useful and beneficial. Most of us are, literally, in the dark, as to political informationswhich is the occasion of many errors in the general conduct. Advantages are taken by our internal enemies, who, thro the course of the war, have been better informed, than the friends of the Country have.<a class="ptr" href="#PJA13d054n4" id="PJA13d054n4-ptr">4</a></p>
+<p>The present proposals of the Parliament of G B, do not affect the people of this State, as that body might flatter themselves, they would. Independence is the full cryand fixed determination. At present there seems not the least disposition to accept even a declaration of that from G B., with peace, unless the French are included in the Peace. The total Change of the British Ministry do not flatter our hopes; on the contrary, I think, it will cause greater caution, and more animated exertionsif so, the wishes of the friends to these States will be finally gratified.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0082">[82]</span>
+<p>I beg leave to acknowledge myself to be, with the greatest respect, and, if you please to permit, with the same sincerity of friendship which possessed my breast in our younger days, Your most obedient and very humble Servant</p>
+<div class="closer">
+<p class="signed">Tristram Dalton</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d054sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> and enclosure  (<span class="ref-terms">Adams Papers</span>); endorsed: Mr Dalton May 25 recd &amp; ans. Aug. 18. 1782.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d054n1-ptr" id="PJA13d054n1">1</a>
+
+   <p>Identified as a Mr. Buckley in the enclosed letter from Dalton to William Armstrong, for which see note 3.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d054n2-ptr" id="PJA13d054n2">2</a>
+
+   <p>When <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> received this letter he undertook inquiries on Armstrongs behalf, which he reported in a letter of 18 Aug. to Dalton that has not been found, but to which Dalton refers in his letter to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of <a href="default.xqy?keys=ADMS-print-06-13-02-0256" class="document">26 Oct.</a>, below. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s efforts were of no avail because, as Dalton indicates in his letter of <a href="default.xqy?keys=ADMS-print-06-13-02-0115" class="document">19 July</a>, below, Armstrong had escaped from captivity and returned to America.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d054n3-ptr" id="PJA13d054n3">3</a>
+
+   <p>In the enclosed letter to Armstrong of 25 May, Dalton indicated that he was writing letters to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> and Jean de Neufville &amp; Fils at Amsterdam, Conlougnac &amp; Cie. at Lorient, and Jonathan Williams at Nantes on Armstrongs behalf and that he could apply to them for up to one hundred pounds sterling. Dalton ended the letter with assurances that Armstrongs friends were well and particularly Miss Polly B. Who no doubt will be glad to see you on every acct.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d054n4-ptr" id="PJA13d054n4">4</a>
+
+   <p>For more on Daltons opinions regarding war intelligence, see his letter to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> of <a href="default.xqy?keys=ADMS-print-06-13-02-0256" class="document">26 Oct.</a>, below.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0040 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0039" title="From Jean de Neufville &amp; Fils, 24 May 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0041" title="From Edmund Jenings, 29 May 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

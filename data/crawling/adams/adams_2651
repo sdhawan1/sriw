@@ -1,0 +1,196 @@
+From Bidé de Chavagnes [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Bid de Chavagnes [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-10-02-0022&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-10-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0021" title="From Edmund Jenings, 27 July 1780"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-10-02-0023" title="From Thomas Digges, 28 July 1780"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-10-02-0022-0001" title="From Bid de Chavagnes, 28 July 1780"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-10&amp;mode=TOC">Volume 10, July 1780December 1780</a>&gt; <a href="?keys=ADMS-print-06-10-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Bid de Chavagnes [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-10-02-0022&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0021" title="From Edmund Jenings, 27 July 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-10-02-0023" title="From Thomas Digges, 28 July 1780"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-10-02-pb-0053">53<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0053.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA10tg3" class="transgroup">
+
+    <div id="PJA10d029" class="doc letter">
+
+     <h2>From Bid de Chavagnes</h2>
+     
+     <div class="docbody" xml:lang="fra">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Mon cher monsieur</td>
+		  <td class="salutationRight">a bord du bien aim dans la rade du ferol ce 28 juillet 1780</td>
+		</tr>
+      </table>
+      </div>
+      <p>Occup de vous, de mrs. Dena, taxter, de vos chers enfants et de tout cequi vous interesse par continuation, je suis bien aise Davoir lhonneur de vous demander des nouvelles de vos sants qui minteressent bien fort, et de vous donner des miennes auxquelles vous avez la bont de vous interesser.<a class="ptr" href="#PJA10d030n1" id="PJA10d030n1-ptr">1</a> Je me suis toujours assez bien port depuis notre depart de brest du 13 de ce mois. Aprs une belle navigation de 8 jours nous sommes arrives comme par un miracle au ferol, car larme angloise qui sest divise dans notre golphe profite des bons vents de la saison pour se porter partout. Elle a fait relacher un de nos vaisseaux a 3 ponts a st andero,<a class="ptr" href="#PJA10d030n2" id="PJA10d030n2-ptr">2</a> et depuis 8 jours que nous sommes icy les vigies ont eus connoissance de 22 vaisseaux sur finistere dabord et depuis 2 jours sur ortegal. Le vaisseau ou je suis etant le plus mauvais marcheur de tous nos vaisseaux il est bien heureux de leurs avoir echappes. Nous avons eu de la brume et cotoys plus de 20 lieues de la coste despagne. Nous sommes icy nombreuse compagnie reunis, 3 vaisseaux francois,<a class="ptr" href="#PJA10d030n3" id="PJA10d030n3-ptr">3</a> 2 espagnols un 3e. qui se prepare 4 fregattes, et un convoy de 60 batiments marchands dont la sortie et larrive surtout seroint bien interessantes <span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0054">[54<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0054.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>pour nos colonies, mais risquer cela dans ce moment seroit je crois bien perilleux. Nous avons envoys une fregatte a la decouverte de ces mrs. mais quoyquelle marche bien, je crains bien fort pour elle. Nous aurions grand besoin dun bon coup de vent du Sud ouest, ou bien de la visite de notre arme de cadix sur cette coste. Car je ne scay pas trop d icy a la fin Daout comment nous ferons pour nous tirer du ferol et passer le cap de finistere une flotte comme cellecy occupe 4 ou 5 liees de terrain. Il est difficile de n estre pas vu quand on est attendu et veills par de petits batiments qui viennent icy jusqua lentre. Comme ils marchent bien ils se moquent de nous. Jay deja bien renouvells mes connoissances au ferol. Jay peur dy rester assez de temps pour my bien ennuyer cequi m arrive deja, mais je mange et couche toujours a bord. Le pays, et vous le scavez bien et moy aussi est trop cher. Mrs. le commandant du ferol, les consuls de la corogne et dicy se portent bien et mont bien demands de vos nouvelles. Nous etions destins pour aller a cadix. Si vous vouliez my avanturer une lettre et my donner vos commissions cela me flatteroit beaucoup.<a class="ptr" href="#PJA10d030n4" id="PJA10d030n4-ptr">4</a> Nous navons icy pour le present aucunes nouvelles interessantes. Il y fait de si grandes chaleurs que je suis tout en eau en vous ecrivant. Je vous souhaite bien de la sant ainsi qua tous nos chers allis de votre famille et autres. Continuez moy vos souvenirs et amitis, ne doutez point des sentiments sinceres du respectueux attachement avec lequel jay l honneur d estre pour la vie Mon cher monsieur Votre tres humble et tres obeissant serviteur</p>
+      <div class="closer">
+       <div class="signed-multiple">
+    <p class="signed multiple">Bid de chavagnes <br/>capne. des vaux. du roy de france</p>
+  </div>
+      </div>
+      <div class="postscript">
+       <p>Si vous voyez monsieur de sartines je vous prierois de luy offrir mon profond respect.</p>
+      </div>
+     </div>
+    </div>
+    <div id="PJA10d030" class="trans letter">
+
+   <h2>Bid de Chavagnes to John Adams: A Translation</h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">My Dear Sir</td>
+		  <td class="salutationRight">Aboard the <span class="hi-italic" style="font-style: italic;">Bien Aim</span> at Ferrol 28 July 1780</td>
+		</tr>
+      </table>
+      </div>
+      <p>My concern for you, Messrs. Dana and Thaxter, and your dear children leads me to have the pleasure and honor of inquiring after your health, which much concerns me, and to give you news of my own, since you were kind enough to ask.<a class="ptr" href="#PJA10d030n1" id="PJA10d030n1-ptr">1</a> I have been feeling quite well since our departure from Brest on the 13th of this month. After eight days of smooth sailing we arrived by some miracle at Ferrol, for the British fleet deployed in the gulf is taking advantage of the seasons favorable winds to roam everywhere. They have tried to cut out one of our three deckers at St. Andero,<a class="ptr" href="#PJA10d030n2" id="PJA10d030n2-ptr">2</a> and during the eight <span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0055">[55<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0055.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>days that we have been here our look-outs have spotted twenty-two vessels heading first for Cape Finisterre and then, in the last two days, for Cape Ortegal. Since my vessel is the poorest sailor, we were very lucky to outrun them. We ran into fog for nearly twenty leagues off the coast of Spain.</p>
+      <p>We are a large company here, three French ships of the line,<a class="ptr" href="#PJA10d030n3" id="PJA10d030n3-ptr">3</a> two Spanish and a third preparing for sea, four frigates, and a convoy of 60 merchant ships whose arrival should be of great importance to our colonies, but I fear that it would be too dangerous to send it off now. A frigate has been sent to reconnoiter the British fleet, but although it is fast, I fear for her. We are in great need of favorable winds from the southwest or, better yet, a visit to this coast of our fleet at Cdiz. Otherwise I do not see how we can successfully leave Ferrol and sail past Cape Finisterre before the end of August, since such a fleet would be 4 or 5 leagues long. It is difficult to avoid being seen when one is constantly beset by small vessels that come as far as the harbor entrance to watch us. Since they are so quick, they scoff at us.</p>
+      <p>I have renewed my acquaintances at Ferrol, but fear staying here long enough to become bored. This is already happening, but I always eat and sleep on board. As you know, the shore is too expensive. The commandant of Ferrol and the consuls at Corunna and Ferrol are well and have inquired after you.</p>
+      <p>We are supposed to go on to Cdiz. If you are willing to risk sending me a letter there to give me your instructions, I would be most gratified.<a class="ptr" href="#PJA10d030n4" id="PJA10d030n4-ptr">4</a> We have no interesting news at the moment. It is so hot that I am drenched in sweat as I write this. I wish good health to you, as well as to your friends and family. Keep in touch and never doubt the sincere sentiments of respectful devotion with which I have the honor to be for life, my dear sir, your very humble and very obedient servant.</p>
+      <div class="closer">
+       <div class="signed-multiple">
+    <p class="signed multiple">Bid de chavagnes <br/>capne. des vaux. du roy de france</p>
+  </div>
+      </div>
+      <div class="postscript">
+       <p>If you see Mons. de Sartine, please convey to him my deep respect.</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA10d030sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: <span class="hi-italic" style="font-style: italic;">francia</span> A Monsieur Monsieur Jonps Adams ministre plenipotentiaire des etats unis de lamerique septentrionalle prs <del title="deleted text">&lt;la cour de france  versailles&gt;</del> A <del title="deleted text">&lt;La Cour&gt;</del>; second address by Chavagnes: a m. De Renneval au bau. Des affaires Etrangeres pour donner son adresse; in another hand: chez m. de francklin a Passy a Passy and Dr de Versailles a Passy; endorsed by Francis Dana: Cap: De Chavagne Recd. Augt: 22d. 1780.</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA10d030n1-ptr" id="PJA10d030n1">1</a>
+       
+   <p>Chavagnes may be referring to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of <a href="default.xqy?keys=ADMS-print-06-09-02-0198" class="document">16 May</a> (above), but it contained no inquiry about Chavagnes health and had been answered on <a href="default.xqy?keys=ADMS-print-06-09-02-0267-0002" class="document">15 June</a> (above).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d030n2-ptr" id="PJA10d030n2">2</a>
+       
+   <p>Probably the ship of the line <span class="hi-italic" style="font-style: italic;">Invincible</span> of 110 guns. A report in the <span class="hi-italic" style="font-style: italic;">London Chronicle</span> of 1517 Aug., dated 18 July at St. Andero (i.e. Santander, a major port on the northern coast of Spain), indicated that the British squadron of 17 ships in the Bay of Biscay had chased the <span class="hi-italic" style="font-style: italic;">Invincible</span> and the frigate <span class="hi-italic" style="font-style: italic;">Venus</span> into the harbor at Santander. Chavagnes account may indicate that the British tried to attack the vessel within the harbor, either with the ships from the squadron or by means of a raid with small boats.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d030n3-ptr" id="PJA10d030n3">3</a>
+       
+   <p>It is not clear whether Chavagnes is counting his own vessel, but the <span class="hi-italic" style="font-style: italic;">Bien Aim</span> was accompanied by the <span class="hi-italic" style="font-style: italic;">Bretagne</span>, <span class="hi-italic" style="font-style: italic;">Royal
+         Louis</span>, <span class="hi-italic" style="font-style: italic;">Alexandre</span>, and <span class="hi-italic" style="font-style: italic;">Magnanime</span>. Only the first four went on to Cdiz, their intended destination (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jonathan R. Dull, &lt;i&gt;The French Navy and American Independence: A Study of Arms and Diplomacy, 17741787&lt;/i&gt;, Princeton, 1975. ]">Dull, <span class="hi-italic" style="font-style: italic;">French Navy and Amer. Independence</span></span>, p. 366, 368).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d030n4-ptr" id="PJA10d030n4">4</a>
+       
+   <p>The next letter from Chavagnes in the <span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0056">[56<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0056.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span><span class="ref-terms">Adams Papers</span> is that of <a href="default.xqy?keys=ADMS-print-06-11-02-0052-0002" class="document">[<ins title="editorial addition or explanation" class="ed">ante 24 Jan. 1781</ins>]</a>. It is apparently a reply to a previous letter by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s docketing indicates that he replied to it on 24 January. No letters from <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> to Chavagnes between <a href="default.xqy?keys=ADMS-print-06-09-02-0198" class="document">16 May 1780</a> (above) and 27 Feb. 1785 (<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ letterbook copy (Letterbook copies are normally unsigned, but any such copy is assumed to be in the hand of the person responsible for the text unless it is otherwise described.) ]">LbC</abbr>, <span class="ref-terms">Adams
+        Papers</span>) have been found.</p>
+
+      </div>
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-10-02-0022 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 10, July 1780December 1780
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0021" title="From Edmund Jenings, 27 July 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-10-02-0023" title="From Thomas Digges, 28 July 1780"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,179 @@
+From Silas Deane, 8 April 1778
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Silas Deane, 8 April 1778</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-06-02-0007&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1778-04-08-5">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-06-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0006" title="From John Bondfield, 6 April 1778"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-06-02-0008" title="From Peter McIntosh, 9 April 1778"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-06&amp;mode=TOC">Volume 6, MarchAugust 1778</a>&gt; <a href="?keys=ADMS-print-06-06-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Silas Deane, 8 April 1778</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-06-02-0007&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0006" title="From John Bondfield, 6 April 1778"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-06-02-0008" title="From Peter McIntosh, 9 April 1778"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-06-02-pb-0010">10<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0010.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA06d008" class="doc letter">
+
+    <h1>From Silas Deane</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear sir</td>
+		<td class="salutationRight">Aix April 8th: 1778</td>
+	      </tr>
+      </table>
+     </div>
+     <p>It is now two Years since I left America without the satisfaction of bidding You farewell, and of talking over with You many things then on my mind respecting Our Country and The great Cause in which We had been long engaged; To remedy this disagreeable Circumstance which at the Time gave Me pain, I wrote You a long Letter<a class="ptr" href="#PJA06d008n1" id="PJA06d008n1-ptr">1</a> on my passage and sent it from Bordeaux; as I have never received any Answer I apprehend it miscarried. I have not indeed received any Letter from You since I <span class="pb" title="page number in print edition" id="ADMS-06-06-02-pb-0011">[11<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0011.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> left Philadelphia, and am now (probably at the instant of your Arrival in France) obliged to embark for America without being able to see You, and in person to Congratulate You on the favorable issue of Our Negotiations at Versailles. In my Situation nothing less than the Capital Object before Me, to which I chearfully sacrifice every thing of a personal Nature could have forced Me to leave France without having first seen You, and learned the Cause of my recall. From my Arrival in France to this hour I have never received from the honorable the Congress, or their Committee or any Member the least hint that my Conduct had displeased them, except what might be inferrd from the laconic Billet of <span class="hi-italic" style="font-style: italic;">Mr Lovel</span>, inclosing an Order of Congress for my immediate Return, which I received about three Weeks since. Conscious of having rendered my Country great and important services, and happy in the Approbation not only of the Court at which I negotiated, but in that also of my Venerable Colleague, whose Name, and Character, is revered thro Europe I can but feel most Sensibly the treatment I have met with. Accused in my Absence of I know not what, censured I know not how, disgraced in the Face of all Europe (for such a recall as that sent to Me can be considered in no other Light) and ordered instantly to embark without the least information of what is laid to my Charge or who are my Accusers, are Circumstances I cannot reflect on without being sensibly affected.<a class="ptr" href="#PJA06d008n2" id="PJA06d008n2-ptr">2</a> Doct. Franklin and Doct. Bancroft<a class="ptr" href="#PJA06d008n3" id="PJA06d008n3-ptr">3</a> will explain to You in what manner, I improved those Circumstances to the service of my Country.</p>
+     <p>I most sincerely wish that neither You nor any other person that has served his Country may ever be in a like Situation; but without Vanity I will add, should it be the case, that I wish they may improve the Circumstances that may affect them in the same manner, that I have done. I will not Attempt to give you in a Letter even an Idea of the Difficulties and embarrassments I have met with, nor of the anxious and Laborious Life I have led in Paris. My Freinds will do me Justice, and it is no secret either at Paris or Versailles nor is it one, that my Enemies envy and hate Me for That, for which if they are real Freinds to their Country, they owe Me their Esteem and Gratitude. You will see by the Freedom with which I write to You that I retain the same Freindship and unreserved Confidence in You as when I was honored with Yours in America, beleive Me sir I never thought I had misplaced my Confidence nor do I at present.</p>
+     <span class="pb center" title="page number in print edition" id="ADMS-06-06-02-pb-0012">[12<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0012.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+     <p>When I first received my recall I determined, or rather I proposed not to return untill I could have settled and Closed the several Engagements which I had taken on the public Account during which period I hoped to have learned from America what was objected to Me and by that means also to have been able to carry out with Me the Necessary Vouchers for my Conduct. But the advice of Doct Franklin who was extremely Apprehensive for the situation of the Affairs of the Congress in America, and the desire of the Ministers here that Our Negotiation and Treaties should be fully explained and the Objections, (if any,) obviated, as early as possible, brought Me to the Resolution of proposing to them the plan on which I am now embarking, accordingly I assured them, that if it was adopted, I would leave every thing here in the present situation and set out immediately. I have hitherto been successful even beyond the expectations of Dr. Franklin to whom only (one other Freind excepted)<a class="ptr" href="#PJA06d008n4" id="PJA06d008n4-ptr">4</a> the secret was entrusted. By this measure I am obliged to leave large Accounts open, and many Transactions unexplained, as several Accounts I had wrote for were not come to hand when I left Paris. This I foresaw from the first would oblige Me to revisit France as soon as possible and my determination is to return in October, or November, at the farthest if I meet no Accident. For tho I well know it is in my power to explain every transaction of mine to the satisfaction of any reasonable and impartial Man, yet I am equally sure that a Certain person will take every Opportunity to find fault and object, his unhappy disposition is too well known, to need my saying any thing on the subject.<a class="ptr" href="#PJA06d008n5" id="PJA06d008n5-ptr">5</a> You will hear of it from all Quarters, and I wish that may be all and that in any Connection You may have with him You may be happier than either Dr. F. or myself have been.</p>
+     <p>You will find Doct. F. universally and deservedly esteemed and Caressed And You will find othersbut I will say nothing of Persons who consider Me as much their Enemy as I know them to be mine. Doct. Bancroft can be very useful to You, and as soon as You know him You will find that he merits Your Freindship and Confidence. I cannot at the same Time conceal, that I think he has been very hardly used, nor that it sensibly affects Me to see Merit like his Neglected. If what I am about To say appear assuming, You must forgive it and place it to the regard I have for You personally, and the Interest I take in whatever affects my Country. <span class="hi-italic" style="font-style: italic;">You cannot sir be too attentive to</span><del title="deleted text">&lt;concil-<span class="pb" title="page number in print edition" id="ADMS-06-06-02-pb-0013">[13<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0013.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>iate this grand&gt;</del><span class="hi-italic" style="font-style: italic;">the French Nation in general and To the Gentlemen of importance, and influence in particular</span> I know You too well to have the least distrust of your good Sense, and disposition, but as You are stepping into a New World and about to Act a part on a Theatre when the Scenes The Manners, and the Actors are all New to You, it is of the utmost importance, that You appear neither impatient nor disgusted. But I will not Trouble You further on this Subject, as I know You to be a Man Too wise to be above advice, and that You have in Dr. F. and Dr. B. persons who can give You the best. You will find Dr. F. in a Circle of Freinds and Acquaintance of the first Character in different Departments, and I have the pleasure of reflecting that I was noticed by them whilst at Paris and that I am still remembered by them, You will be introduced to them by Dr. F. of course I need say nothing on that head.</p>
+     <p>As to Business I must say I am very anxious about Our Finances. Our resources are inadequate to the urgent Demands of America and unless a Loan which Dr. F. as well as myself have long laboured for can be effected, I fear that Our Credit will suffer, especially as the Congress have already begun to draw upon the Commissioners for other Objects, than simply the Interest of the Money borrowed in America. Much depends on the success of the Expedition now in hand, I have placed great hopes upon it, and still flatter myself that early as I propose my Return shall be, I shall bring with Me an Account of the British power being wholly reduced in America.</p>
+     <p>For Me, whatever happens whither successful, or Not, in favor, or in disgrace Nothing shall divert Me from exerting the utmost of my Abilities such as they are in the service of my Country; or my Study to merit, and cultivate the Esteem and Freindship, of those who like You are its real Freinds. I have the honor to subscribe myself with the most sincere Esteem Dr sir Your most Obedt &amp; Very huml. servt.</p>
+     <div class="closer">
+      <p class="signed">S.D.</p>
+     </div>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA06d008sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: The Honble. John Adams Esqr.; docketed: Mr Deanes Letter to me. Aix Ap. 8. 1778; in another hand: Mr Deanes Letter Aix Apl. 8. 78.</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA06d008n1-ptr" id="PJA06d008n1">1</a>
+      
+   <p>Not found.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA06d008n2-ptr" id="PJA06d008n2">2</a>
+      
+   <p>Silas Deane left France, according to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, in great Splendor, on 13 April, when he sailed from Toulon with Adm. dEstaings fleet on board the flagship, the <span class="hi-italic" style="font-style: italic;">Languedoc</span>, in company with Conrad Alexandre Gerard, the newly appointed French minister to the United States. Great secrecy surrounded the departure, but more particularly the destination, of the fleet and spurred the British to ready a force under Vice Adm. John Byron which <span class="pb" title="page number in print edition" id="ADMS-06-06-02-pb-0014">[14<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0014.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>sailed on 9 June in a belated pursuit (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-04-02-0001-0054" class="document">4:68</a>; Estaing to Silas Deane, 1 April, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Papers of Silas Deane, 17741790, in New-York Historical Society, &lt;i&gt;Collections, Publication Fund Series&lt;/i&gt;, vols. 1923, New York, 18871891; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Deane Papers</span></span>, 2:447448; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Despatches and Instructions of Conrad Alexandre Grard, 17781780: Correspondence of the First French Minister to the United States with the Comte de Vergennes&lt;/i&gt;, ed. John J. Meng, Baltimore, 1939. ]">Grard, <span class="hi-italic" style="font-style: italic;">Despatches and Instructions</span></span>, p. 4041 note 5, 8990; see also a circular letter by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> and Benjamin Franklin of <a href="default.xqy?keys=ADMS-print-06-06-02-0098" class="document">18 May</a>, calendared below).</p>
+
+      
+   <p>The congress order for Deanes return had been voted on 21 Nov. 1777 and transmitted in James Lovells letter of 8 Dec, which Deane received on or about 9 March (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 9:946947, 10081009; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed., &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, Washington, 1889; 6 vols. ]">Wharton, ed., <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 2:444; Deane to Conrad Alexandre Grard, 9 March, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Papers of Silas Deane, 17741790, in New-York Historical Society, &lt;i&gt;Collections, Publication Fund Series&lt;/i&gt;, vols. 1923, New York, 18871891; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Deane Papers</span></span>, 2:389). Officially, Deane was to return and inform the congress of the state of affairs in Europe, but in fact the recall was owing to dissatisfaction with the profusion of commissions and contracts that he had tendered to French officers for service in the American army, an issue that had animated congressional deliberations since the previous summer. Indeed, a motion for Deanes recall was drafted as early as 5 Aug. 1777, and on 8 Sept. his contracts were repudiated (<span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Papers of the Continental Congress. Originals in the National Archives: Record Group 360. Microfilm edition in 204 reels. Usually cited in the present work from the microfilms, but according to the original series and volume numbering devised in the State Department in the early 19th century; for example, PCC, No. 93, III, i.e. the third volume of series 93.&lt;/expan&gt; ]">PCC</span>, No. 19, II, f. 133; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, 19041937; 34 vols. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 8:721; Neil T. Storch, The Recall of Silas Deane, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut Historical Society, &lt;i&gt;Bulletin, Collections&lt;/i&gt;. ]">Conn. Hist. Soc, <span class="hi-italic" style="font-style: italic;">Bull.</span></span>, 38:3032 [Jan. 1973])Although he arrived in Philadelphia on 12 July, carrying testimonials to his exemplary service from Vergennes and Franklin and with Grard his assured ally, Deanes diplomatic career was effectively over (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Papers of Silas Deane, 17741790, in New-York Historical Society, &lt;i&gt;Collections, Publication Fund Series&lt;/i&gt;, vols. 1923, New York, 18871891; 5 vols. ]"><span class="hi-italic" style="font-style: italic;">Deane Papers</span></span>, 2:434436, 445). The storm over Arthur Lees charges centering on financial improprieties would soon break, dividing congress, complicating Franco-American relations and the conduct of the war, and destroying the careers of Deane and Lee.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA06d008n3-ptr" id="PJA06d008n3">3</a>
+      
+   <p>The incredible career of Dr. Edward Bancroft as a double agent, serving Britain or the United States as his interest dictated, and his relations with Silas Deane have been well documented by Julian Boyd in Silas Deane: Death by a Kindly Teacher of Treason? (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;William and Mary Quarterly&lt;/i&gt;. ]"><span class="hi-italic" style="font-style: italic;">WMQ</span></span>, 3d ser., 16:165187,319342, 515550 [April, July, Oct. 1959]). Bancroft was Deanes friend, confidant, and partner in financial transactions that ranged from speculation on the London market to shipments of arms to America; and unless Deane was wholly naive, which is possible, it seems likely that he knew of or at least suspected Bancrofts ties with the British secret service. Deanes mention of Bancroft here, and description of him below as a man who merits Your Freindship and Confidence, thus takes on added interest and, perhaps, significance.</p>
+
+      
+   <p>Despite Deanes recommendation, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s relations with Bancroft were never close. This was not because of any suspicion by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> that Bancroft was a spy, but rather that Bancrofts speculations, keeping of a mistress, and irreligion led <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> to see him as avaricious, immoral, and a man of too irregular and excentric a Character to be trusted (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-04-02-0001-0054#ADMS-01-04-02-pb-0071" class="pageNo">4:7174</a>, and <a href="default.xqy?keys=ADMS-print-01-04-02-0001-0054&amp;expandNote=DJA04d054n8#DJA04d054n8" class="document">note 3</a>).</p>
+
+      
+   <p>One incident, not mentioned in either his Diary or Autobiography, that may have influenced <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s attitude stemmed from Bancrofts status, with Deane and Benjamin Franklin, as a shareholder in the Vandalia Company. Bancroft apparently sought to use that association, almost certainly with Franklins approval, to enlist <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> in the Deane-Franklin-Bancroft faction (see note 5, below). According to Arthur Lee, in an entry for 25 May in his fragmentary journal for the period from that date to 4 July (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Houghton Library, Harvard University ]">MH-H</span>: Lee Papers), Mr. A. told me Dr. B had in the name of his Company offerd him a share in the Vandalia Company.... He refusd. Had this offer been accepted and become known to Arthur Lee it would almost certainly have caused an irreparable split between him and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, for it would have allied <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> with the stockjobbers that Lee so often railed against. Perhaps more important, it would have involved <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> in an enterprise against which Lee had for so long fought as the London agent for the rival Mississippi Company founded by the Lees, George Washington, and others. Indeed, the involvement of Franklin and his Paris associates in the Vandalia Company can be seen as an important reason for Lees hostility toward them (Boyd, Silas Deane, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;William and Mary Quarterly&lt;/i&gt;. ]"><span class="hi-italic" style="font-style: italic;">WMQ</span></span>, 3d ser., 16:535537 [Oct. 1959]; Thomas Abernethy, <span class="hi-italic" style="font-style: italic;">Western Lands and the American Revolution</span>, N.Y., 1937, p. 47, 211, 216).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA06d008n4-ptr" id="PJA06d008n4">4</a>
+      
+   <p>Probably Dr. Bancroft, who, in turn, very likely informed the British.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA06d008n5-ptr" id="PJA06d008n5">5</a>
+      
+   <p>That is, Arthur Lee. Deane is attempting here, as he does throughout the letter, to draw <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> into the controversy <span class="pb" title="page number in print edition" id="ADMS-06-06-02-pb-0015">[15<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-06/ADMS-06-06-02-pb-0015.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> that divided the American representatives in Europe. Arising out of contrasting personalities, notions of precedence, and questions about the propriety of Deanes financial dealings, it pitted Bancroft, Deane, and Franklin against Arthur Lee, William Lee, Ralph Izard, and William Carmichael. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> noted the split in his Diary on 21 April, together with his intention of remaining above it. Years later, in his Autobiography, he wrote, It was no part of my Business to quarrel with any one without cause, to differ with one Party or the other, or give offence to any body. But I must and would do my duty to the Public, let it give offence to whom it might (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]"><span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-02-02-0008-0003-0021" class="document">2:304305</a>; <a href="default.xqy?keys=ADMS-print-01-04-02-0001-0053%20ADMS-print-01-04-02-0001-0054#ADMS-01-04-02-pb-0067" class="pageNo">4:6769</a>).</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-06-02-0007 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 6, MarchAugust 1778
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-06-02-0006" title="From John Bondfield, 6 April 1778"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-06-02-0008" title="From Peter McIntosh, 9 April 1778"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

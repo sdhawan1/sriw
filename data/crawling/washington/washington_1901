@@ -1,0 +1,1570 @@
+Invoice from Robert Cary & Company, 15 March 1760
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Invoice from Robert Cary &amp; Company, 15 March 1760</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-06-02-0217&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1760-03-15-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0216" title="From Robert Stewart, 8 March 1760"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-06-02-0218" title="From Richard Washington, 26 March 1760 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-06&amp;mode=TOC">Volume 6 (4 September 175826 December 1760)</a>&gt; <a href="?keys=GEWN-print-02-06-02&amp;mode=TOC">Documents</a>&gt; Invoice from Robert Cary &amp; Company, 15 March 1760</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-06-02-0217&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0216" title="From Robert Stewart, 8 March 1760"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0218" title="From Richard Washington, 26 March 1760 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0392">392</span><div id="Col06d226" class="doc">
+
+   <h1>Invoice from Robert Cary &amp; Company</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">London 15th March 1760.</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-indent: 0;">Invoice of Goods Shipd by Robt Cary Esqr. &amp; Compa. on Board the Charming Polly Captn [Thomas] Woodford a Virginia on the proper account and risque of Colo. George Washington and to him Consignd</p>
+<table class="bodytext" id="Col06d226t1" style="margin-left: 0; margin-right: 0; width: 95%;">
+<tr>
+	      <td style="white-space: nowrap;">Crowley &amp; Compa.<a class="ptr" href="#GEWN-02-06-02-0217-fn-0001" id="GEWN-02-06-02-0217-fn-0001-ptr">1</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">4 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 4d. Nails @ 1/11  7/1017 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 8d. Ditto @ 4/1 69/5</td>
+	      <td class="curr" style="width: 7em; padding-right: 2.5em; vertical-align: bottom;">3.17.3</td>
+	    </tr>
+<tr>
+	      <td class="par">17 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 8d. ditto @ 4/1 69/510 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 10d. ditto @ 5/ 50/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.19.5</td>
+	    </tr>
+<tr>
+	      <td class="par">10 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 10d. ditto @ 5/ 50/13 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 20d. ditto @ 7/6 97/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">7.7.6</td>
+	    </tr>
+<tr>
+	      <td class="par">13 <span class="hi-line-through" style="text-decoration: line-through;">M</span> 20d. ditto @ 7/6 97/66 Casks 9/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.6.10</td>
+	    </tr>
+<tr>
+	      <td class="par">4 Broad Axes 3/6 14/2 ditto 4/ 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.2.</td>
+	    </tr>
+<tr>
+	      <td class="par"> dozn Carprs Adzes 24/ 12/1 Coopers do &amp; Howel 3/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.9</td>
+	    </tr>
+<tr>
+	      <td class="par">1 dozn Augers sortd 20/ dozn Carprs Steel Comps. 1/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.9</td>
+	    </tr>
+<tr>
+	      <td class="par">2 dozn Box han[dle]d Gimbts<a class="ptr" href="#GEWN-02-06-02-0217-fn-0002" id="GEWN-02-06-02-0217-fn-0002-ptr">2</a> 10d. 1/86 Whites Steel H. Saws 42/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.3.8</td>
+	    </tr>
+<tr>
+	      <td class="par">6 Wimble Bitts sortd2 Wheelrights Center Bitts1 Wheel Rights Burr<a class="ptr" href="#GEWN-02-06-02-0217-fn-0003" id="GEWN-02-06-02-0217-fn-0003-ptr">3</a>2 ditto Gouges1 Cowpers Vice1 ditto Croe with two Irons1 do Rd Shave</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.16.5</td>
+	    </tr>
+<tr>
+	      <td class="par">1 pair Cowpers Steel Compasses with a Sweep</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 Cowpers Jointer with 2 Irons</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.6</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0393" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0393">[393]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">1 dozn Padlocks 12/2 pr extra: HL Hinges wt. smooth Joints 5/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.17.4</td>
+	    </tr>
+<tr>
+	      <td class="par">1 dozn Sickles 7/61 dozn ditto 9/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.16.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Cask</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 Bundles German Steel 2 <span class="hi-line-through" style="text-decoration: line-through;">C.</span> 0 Q.21 lb. @ 56/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.2.6</td>
+	    </tr>
+<tr>
+	      <td class="par">6 Steel Spades @ 3/6 21/Canvas &amp; Cord 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">1.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">[ 38.6.11]</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Edwd Hippisley<a class="ptr" href="#GEWN-02-06-02-0217-fn-0004" id="GEWN-02-06-02-0217-fn-0004-ptr">4</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">4 pieces Brown Rolls qt[y] 268 a 191 Ells5</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">3.. 1/2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">5 ditto Oznabrigs qt. 451 Ells7</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">14.1.10 1/2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">11 piece Dowlas T.22/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.2.</td>
+	    </tr>
+<tr>
+	      <td class="par">1 piece Irish Linnen qt. 25 Yds14d.</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">1.10.2 1/2</td>
+	    </tr>
+<tr>
+	      <td class="par">1 piece Ditto ditto 14 qt. 25 yds4/2</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.4.2</td>
+	    </tr>
+<tr>
+	      <td class="par">1 piece Bag Holland qt. 29 Ells5/9</td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">8.11. 3/4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 dozn Cambrick Handkerchiefs46/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.6.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;"> ps. Crocus Wr<a class="ptr" href="#GEWN-02-06-02-0217-fn-0005" id="GEWN-02-06-02-0217-fn-0005-ptr">5</a>8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.</td>
+	    </tr>
+<tr>
+	      <td class="par">N.B. No Nankeens to be had at prest</td>
+	      <td style="border-bottom: 1px solid black;"></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">35.19.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">R: Lomax Clay<a class="ptr" href="#GEWN-02-06-02-0217-fn-0006" id="GEWN-02-06-02-0217-fn-0006-ptr">6</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">A Case of Pickles viz.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="internal-table" style="white-space: nowrap;" rowspan="5">
+   <table class="internal">
+      <tr>
+		    <td style="white-space: nowrap;">1 Girkens</td>
+		    <td class="num">5/</td>
+		    <td style="white-space: nowrap;">1 Walnuts</td>
+		    <td class="num">4/</td>
+		  </tr>
+      <tr>
+		    <td style="white-space: nowrap;">2 Capers</td>
+		    <td class="num">8/</td>
+		    <td style="white-space: nowrap;">2 Anchovies</td>
+		    <td class="num">16/</td>
+		  </tr>
+      <tr>
+		    <td style="white-space: nowrap;">1 French Olives</td>
+		    <td class="num">5/</td>
+		    <td style="white-space: nowrap;">1 Spanish ditto</td>
+		    <td class="num">4/</td>
+		  </tr>
+      <tr>
+		    <td style="white-space: nowrap;">2 best Oyl</td>
+		    <td class="num">10/</td>
+		    <td style="white-space: nowrap;">1 India Mangoes</td>
+		    <td class="num">5/</td>
+		  </tr>
+      <tr>
+		    <td style="white-space: nowrap;">1 Lucca Olives</td>
+		    <td class="num">4/</td>
+		    <td class="par">12 pottle<a class="ptr" href="#GEWN-02-06-02-0217-fn-0007" id="GEWN-02-06-02-0217-fn-0007-ptr">7</a> Sqr. Case &amp; Lock</td>
+		    <td class="num" style="vertical-align: bottom;">16/</td>
+		  </tr>
+   </table>
+</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.4.</td>
+	    </tr>
+<tr>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.</td>
+	    </tr>
+<tr>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1..</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Crown Soap half a firken<a class="ptr" href="#GEWN-02-06-02-0217-fn-0008" id="GEWN-02-06-02-0217-fn-0008-ptr">8</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.13.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.10.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Jno. Moseley<a class="ptr" href="#GEWN-02-06-02-0217-fn-0009" id="GEWN-02-06-02-0217-fn-0009-ptr">9</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">18 pr thrd Hose @ 21/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.11.6</td>
+	    </tr>
+<tr>
+	      <td class="par">4 pieces of best Str. Blanketting @ 5/5</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">21..</td>
+	    </tr>
+<tr>
+	      <td class="par">4 Dozn Plaid Hose @ 10/9 43/4 dozn ditto @ 9/9 39/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.2.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0394" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0394">[394]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">4 dozn Mon: Caps @ 17d. 68/Pack Cloth &amp; Cord 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.16.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">N.B. Blanketting is much advancd</td>
+	      <td style="border-bottom: 1px solid black;"></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="vertical-align: bottom; padding-right: 2.5em;">30.9.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Leaver Legg</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 piece of best Superfine Deroy 24 Yds</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.16.</td>
+	    </tr>
+<tr>
+	      <td class="par">4 yds best Superfine blew Drab @ 20/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4..</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">5 Yds Shalloon 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 pieces Fearnought (35 36) 71 Yds 1/10</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.13.1</td>
+	    </tr>
+<tr>
+	      <td class="par">18 pieces very best Kendal Cotton 23/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">21.3.</td>
+	    </tr>
+<tr>
+	      <td class="par">1 piece broad Cloth 29 for 28 Yds 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">11.4.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6 Yards Scarlet Ditto 10/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3..</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 ps. Scarlet Shalloon 30 Yds</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.15.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">15 Yds thick Duffield 4/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.5.</td>
+	    </tr>
+<tr>
+	      <td class="par">Silk Twist &amp; Thrd 22/ Canvas &amp; Packg 12/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.14.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 piece Kendall Cotton for Wrapper</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.10.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">56.10.7</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Francis Nalder<a class="ptr" href="#GEWN-02-06-02-0217-fn-0010" id="GEWN-02-06-02-0217-fn-0010-ptr">10</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 Fine Cheshire Cheese 124 lb. @ 5</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.16.10</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">A Cask for Ditto</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.19.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Benja. Kenton<a class="ptr" href="#GEWN-02-06-02-0217-fn-0011" id="GEWN-02-06-02-0217-fn-0011-ptr">11</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 Hogshead fine old Porter</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.5.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">A Cask 11/Shipg Exps. 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.13.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.18.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">John Scherzberg<a class="ptr" href="#GEWN-02-06-02-0217-fn-0012" id="GEWN-02-06-02-0217-fn-0012-ptr">12</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">Making a Salmon col[ore]d Tabby Negligee &amp; full Coat Trimd</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.18.</td>
+	    </tr>
+<tr>
+	      <td class="par">Body &amp; Sleeve Lining 1/9Bindg Buttns &amp; Loopg 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.3</td>
+	    </tr>
+<tr>
+	      <td class="par">Making the Stomacher 1/628 yds Shanaell<a class="ptr" href="#GEWN-02-06-02-0217-fn-0013" id="GEWN-02-06-02-0217-fn-0013-ptr">13</a> for Trimg 57/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.18.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">15 Yards of Ditto 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.15.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.14.9</td>
+	    </tr>
+<tr style="text-align: center;">
+	      <td style="white-space: nowrap;">Hesketh &amp; Hawkes<a class="ptr" href="#GEWN-02-06-02-0217-fn-0014" id="GEWN-02-06-02-0217-fn-0014-ptr">14</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">21 yds Sammon Colourd flowerd Tabby 11/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">11.16.6</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0395" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0395">[395]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Jane Backhouse</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">10 yds Brussels Lace @ 22/11dressg a fly Cap<a class="ptr" href="#GEWN-02-06-02-0217-fn-0015" id="GEWN-02-06-02-0217-fn-0015-ptr">15</a> &amp; Wyer 1/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">11.1.9</td>
+	    </tr>
+<tr>
+	      <td class="par">A pair of Lappets<a class="ptr" href="#GEWN-02-06-02-0217-fn-0016" id="GEWN-02-06-02-0217-fn-0016-ptr">16</a> 6/6a purple &amp; yellow Egret 2/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.8.9</td>
+	    </tr>
+<tr>
+	      <td class="par">1 yd of Cypress<a class="ptr" href="#GEWN-02-06-02-0217-fn-0017" id="GEWN-02-06-02-0217-fn-0017-ptr">17</a> 2/9 3/5Makg a pr dble Ruffles 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.5</td>
+	    </tr>
+<tr>
+	      <td class="par">3 yds of Puffg for Handf 2/6Makg a trimd Handf &amp; Tuckr 2/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.</td>
+	    </tr>
+<tr>
+	      <td class="par">A Flowerd Swize Handf 5/Scollopg &amp; Starchg Do 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 yds flowerd Swize @ 5/ 12/6Makg an Apron Tape<a class="ptr" href="#GEWN-02-06-02-0217-fn-0018" id="GEWN-02-06-02-0217-fn-0018-ptr">18</a> &amp; Stg 2/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.</td>
+	    </tr>
+<tr>
+	      <td class="par">A fine Workd Muslin Apron 38/4 Yds Millinet<a class="ptr" href="#GEWN-02-06-02-0217-fn-0019" id="GEWN-02-06-02-0217-fn-0019-ptr">19</a> @ 2/2 9/2</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.7.2</td>
+	    </tr>
+<tr>
+	      <td class="par">Making a Lacd Apron, Tape and Starching</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.6</td>
+	    </tr>
+<tr>
+	      <td class="par"> yd of fine Swise @ 16/ 14/2 yds Millinett @ 2/6 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.19.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Starching and making a dble Handkerchief</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.1.9</td>
+	    </tr>
+<tr>
+	      <td class="par">A Sattin Hatt Honey Combd &amp; Ribbon</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.6</td>
+	    </tr>
+<tr>
+	      <td class="par">1 dozn Red Silk Laces @ 6d. 6/A Black Velvet Mask 2/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.8.3</td>
+	    </tr>
+<tr>
+	      <td class="par">1 ps. nar. pearld Sattn Ribbon 6/96 blue &amp; whe Ribbn @ 8d. 4/2</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.11</td>
+	    </tr>
+<tr>
+	      <td class="par">6 yds 3/8 red &amp; white do 8d. 4/16 yds purple &amp; Gn Ribn 7d. 3/7</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.9</td>
+	    </tr>
+<tr>
+	      <td class="par">6 Green Sattin 8d. 4/2Ribn &amp; Makg 2 Stomachrs 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.8</td>
+	    </tr>
+<tr>
+	      <td class="par">A Sheverdefrees<a class="ptr" href="#GEWN-02-06-02-0217-fn-0020" id="GEWN-02-06-02-0217-fn-0020-ptr">20</a> Stomacher, Sleeve Knots, Knot &amp; Necklace String</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	    </tr>
+<tr>
+	      <td class="par">A purple &amp; yellow Honey Combd Stomacher Knot &amp; Necklace String</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">A Hat Box</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.1.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">20.2.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Richards &amp; Yerbury<a class="ptr" href="#GEWN-02-06-02-0217-fn-0021" id="GEWN-02-06-02-0217-fn-0021-ptr">21</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6 Mens Castor Hatts @ 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 fine Hatts @ 20/ 40A Hat Box 10d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2..10</td>
+	    </tr>
+<tr>
+	      <td class="par">1 pr Womans fine white Silk Hose</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0396" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0396">[396]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">6 pr 3 thd Superfine India Cotton Hose 6/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.16.</td>
+	    </tr>
+<tr>
+	      <td class="par">4 pr 4 thd fine thrd Hose 4/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.18.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.14.10</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Lardner &amp; Baratty<a class="ptr" href="#GEWN-02-06-02-0217-fn-0022" id="GEWN-02-06-02-0217-fn-0022-ptr">22</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">15 lb. Shoe thrd @ 15d. 18/921 lb. fine bro: Do 21d. 36/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.15.6</td>
+	    </tr>
+<tr>
+	      <td class="par">1 lb. Belladine<a class="ptr" href="#GEWN-02-06-02-0217-fn-0023" id="GEWN-02-06-02-0217-fn-0023-ptr">23</a> Col[ore]d ditto 3/1 lb. blue markg Ditto 1/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.4</td>
+	    </tr>
+<tr>
+	      <td class="par">1 lb. Superfine ditto 3/6 4 ps. broad white Tape 13d. 4/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.10</td>
+	    </tr>
+<tr>
+	      <td class="par">1 ps. rich black double Ribbon Sattin</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 lb. Belladine Silk Sorted Colours</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.6.</td>
+	    </tr>
+<tr>
+	      <td class="par">6 <span class="hi-line-through" style="text-decoration: line-through;">M</span> Miniken Pins 8d. 4/6 <span class="hi-line-through" style="text-decoration: line-through;">M</span> best Corkg ditto 13d. 6/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	    </tr>
+<tr>
+	      <td class="par">1 packt blk hair pins sortd 5/6500 Crooks Do 12 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.10.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.9.8</td>
+	    </tr>
+<tr style="text-align: center;">
+	      <td style="white-space: nowrap;">Edward Loxham<a class="ptr" href="#GEWN-02-06-02-0217-fn-0024" id="GEWN-02-06-02-0217-fn-0024-ptr">24</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">A Buff. Belt without Buckles or Locks</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Richard Weall<a class="ptr" href="#GEWN-02-06-02-0217-fn-0025" id="GEWN-02-06-02-0217-fn-0025-ptr">25</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">2 Buffaloe<a class="ptr" href="#GEWN-02-06-02-0217-fn-0026" id="GEWN-02-06-02-0217-fn-0026-ptr">26</a> 2 Bladd Knives @ 1/ 2/2 pr Londn made horse Scisrs 4/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 pr Womans ditto 18/ 3/1 dozn Setts mettal Buckles 10/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.13.</td>
+	    </tr>
+<tr>
+	      <td class="par">20 dozn Silvd Coat Buttns 6/ 10/12 dozn breast Do 3/ 3/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.13.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.12.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Mount &amp; Page<a class="ptr" href="#GEWN-02-06-02-0217-fn-0027" id="GEWN-02-06-02-0217-fn-0027-ptr">27</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">half a Rheam writing Paper Cutt</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.</td>
+	    </tr>
+<tr>
+	      <td class="par"> Rheam 4to Post 4/62 dozn Harry Cards<a class="ptr" href="#GEWN-02-06-02-0217-fn-0028" id="GEWN-02-06-02-0217-fn-0028-ptr">28</a> unst 12/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.16.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">A: Gresham<a class="ptr" href="#GEWN-02-06-02-0217-fn-0029" id="GEWN-02-06-02-0217-fn-0029-ptr">29</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">Two pr Sattin Shoes 22/4 pr Callaa ditto 24/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.6.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Charles Smith</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">6 pr Wo[man]s best wte kid Gloves @ 20d. 10/ 6 pr do do Mitts @ 20d. 10/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1..</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0397" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0397">[397]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Rebecca Wintle<a class="ptr" href="#GEWN-02-06-02-0217-fn-0030" id="GEWN-02-06-02-0217-fn-0030-ptr">30</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">6 lb. perfumd Powder 6/3 lb. Violet Strasburg Snuff 15/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	    </tr>
+<tr>
+	      <td class="par">8 lb. best Starch 4/4 lb. powder Blue 4/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.8.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.9.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">William Hill<a class="ptr" href="#GEWN-02-06-02-0217-fn-0031" id="GEWN-02-06-02-0217-fn-0031-ptr">31</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">3 Bottles best Scotch Snuff @ 2/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Cartony &amp; Son<a class="ptr" href="#GEWN-02-06-02-0217-fn-0032" id="GEWN-02-06-02-0217-fn-0032-ptr">32</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. fine Green Tea @ 16/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.4.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 Cannister and Box</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.6.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Charles Browne<a class="ptr" href="#GEWN-02-06-02-0217-fn-0033" id="GEWN-02-06-02-0217-fn-0033-ptr">33</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">10 Groce of Velvet Corks<a class="ptr" href="#GEWN-02-06-02-0217-fn-0034" id="GEWN-02-06-02-0217-fn-0034-ptr">34</a> @ 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1..</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Bag</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">..6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.0.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Davidson &amp; Dennis<a class="ptr" href="#GEWN-02-06-02-0217-fn-0035" id="GEWN-02-06-02-0217-fn-0035-ptr">35</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 dozn hempen Halters with flat heads @ 10/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">3 Snaffle Bridles @ 24/ 6/ 3 best dble lind Girths @ 20/ 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 Postilion Caps with Capes @ 20/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.3.4</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.4.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">James Laman<a class="ptr" href="#GEWN-02-06-02-0217-fn-0036" id="GEWN-02-06-02-0217-fn-0036-ptr">36</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">12 lb. best Mustard Seed @ 10d. 10/ 1 Box 6d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Thomas Johnson<a class="ptr" href="#GEWN-02-06-02-0217-fn-0037" id="GEWN-02-06-02-0217-fn-0037-ptr">37</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">9 large paintg Brushes 4/63 Small ditto 9d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.3</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">John Drinkwater<a class="ptr" href="#GEWN-02-06-02-0217-fn-0038" id="GEWN-02-06-02-0217-fn-0038-ptr">38</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">2 Lanthorns</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Willm James<a class="ptr" href="#GEWN-02-06-02-0217-fn-0039" id="GEWN-02-06-02-0217-fn-0039-ptr">39</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">2 pieces of Fustians 24 yds each 22/ pr ps.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.4.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">John Didsbury</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">2 pr wd. Hl Shoes 16/2 pr Strong Shoes 16/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.12.</td>
+	    </tr>
+<tr>
+	      <td class="par">1 pr dble Chanl Pumps 10/61 pr wd. hl Pumps 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.18.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.10.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Charles Lawrence</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Making your Deroy Suit and Breeches</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	    </tr>
+<tr>
+	      <td class="par">11 Yds white Alopeen<a class="ptr" href="#GEWN-02-06-02-0217-fn-0040" id="GEWN-02-06-02-0217-fn-0040-ptr">40</a> 2/ 22/Sowg Silk Twist &amp; Buckm 9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.11.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0398" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0398">[398]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">Fine Pottow<a class="ptr" href="#GEWN-02-06-02-0217-fn-0041" id="GEWN-02-06-02-0217-fn-0041-ptr">41</a> fustian to two pair of Breeches</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr>
+	      <td class="par">Hair Cloths Covering and Wadding to Coat &amp; WtCoat</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.</td>
+	    </tr>
+<tr>
+	      <td class="par">4 dozn Coat Buttons 18d. 6/4 dozn of Breast 9d. 3/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.4</td>
+	    </tr>
+<tr>
+	      <td class="par">fine fustn to the Waistcoat 4/6 Glaze Linn[e]n to Sleeves &amp;ca 3/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.6</td>
+	    </tr>
+<tr>
+	      <td class="par">White Silk Serge to line the Cuffs &amp; Slevehands &amp; 2 pr Pufs</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.8.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">2 pr Silk Garters 4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.</td>
+	    </tr>
+<tr>
+	      <td class="par">Making yr blew New Market Coat<a class="ptr" href="#GEWN-02-06-02-0217-fn-0042" id="GEWN-02-06-02-0217-fn-0042-ptr">42</a> with Straps before</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3 dozn 8 Coat Buttons 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.6</td>
+	    </tr>
+<tr>
+	      <td class="par">Glaze Linnen to the Sleeves: Pockets and a Silk hood</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.2.9</td>
+	    </tr>
+<tr>
+	      <td class="par">A large Velvet half Cape 7/6Silk Twist &amp; Buckram 5/<a class="ptr" href="#GEWN-02-06-02-0217-fn-0043" id="GEWN-02-06-02-0217-fn-0043-ptr">43</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.12.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.8.1</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Joseph Etherington<a class="ptr" href="#GEWN-02-06-02-0217-fn-0044" id="GEWN-02-06-02-0217-fn-0044-ptr">44</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">6 botts. Turlingn Balsom 10/69 Oz. Spirits Lavender 3/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.13.6</td>
+	    </tr>
+<tr>
+	      <td class="par"> lb. Ipecacuane Powdd 6/ lb. Jallop Powderd 4/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.4</td>
+	    </tr>
+<tr>
+	      <td class="par">12 Oz. Venice treacle 3/94 Oz. best Rhubarb 12/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.9</td>
+	    </tr>
+<tr>
+	      <td class="par">12 oz. Diascordium 2/34 lb. Pearle Barley 1/8</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.11</td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. Sago 10/ 5 Oz. Balsam Capivi 1/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.3</td>
+	    </tr>
+<tr>
+	      <td class="par">5 Oz. Liquid Laudm 2/105 Oz. Spt Sal Ammoniac 1/10</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.8</td>
+	    </tr>
+<tr>
+	      <td class="par">5 Oz. Hartshorn 1/84 Oz. Spanish Flies 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.8</td>
+	    </tr>
+<tr>
+	      <td class="par">3 lb. Bird Lyme 4/66 lb. Oyl Turpentine 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.6</td>
+	    </tr>
+<tr>
+	      <td class="par">2 lb. Spts Ditto 2/61 lb. Barley Suger 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.6</td>
+	    </tr>
+<tr>
+	      <td class="par">2 lb. Linseed Oyl cold drawn 3/84 lb. Allum 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.8</td>
+	    </tr>
+<tr>
+	      <td class="par">1 lb. Spirma Citie 2/85 Oz. Tincture Myrrh 1/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.11</td>
+	    </tr>
+<tr>
+	      <td class="par">5 Oz. Balsam Sulphr wt. Annisds 5/64 Oz. Pulvus Basilicus 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.13.6</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0399" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0399">[399]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">2 Oz. Mercurius Dulcis 2/4 Oz. Salvolatile 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">10 lb. Hartshorn Shavgs 15/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.15.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 Qts Strong Cinna[mo]n Water 6/2 qts 2 oz. Small Do 5/2</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.2</td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. Flower Brimstone 2/4 lb. Anniseeds 3/4</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.4</td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. Carthamus 6/85 lb. 12 oz. Syrup Colts foot 9/7</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.16.3</td>
+	    </tr>
+<tr>
+	      <td class="par">2 lb. Diapente 2/5 lb. Black Soap 3/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.9</td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. Cummin Seeds 4/4 lb. Fanugreek 2/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.</td>
+	    </tr>
+<tr>
+	      <td class="par">2 lb. Juice Liquorice 3/4 lb. long Pepper 8/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Bottles, Potts, Chests, Box &amp;ca</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">1.12.11</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0.5em !important; vertical-align: bottom;">10.6.1 1/2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">William Cheere<a class="ptr" href="#GEWN-02-06-02-0217-fn-0045" id="GEWN-02-06-02-0217-fn-0045-ptr">45</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">A Groupe of neas carrying his Father out of Troy with 4 Statues viz.his Father Anchises, his wife Creusa, himself and his Son Ascanius, neatly finisht and bronzd with Copper</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.3.</td>
+	    </tr>
+<tr>
+	      <td class="par">Two Groupes, with two Statues each of Bacchus &amp; Flora, finisht Neat, &amp; bronzd wt. Copper 2.2. each</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.4.</td>
+	    </tr>
+<tr>
+	      <td class="par">Two Ornamented Vases with Faces &amp; Festoons of Grapes &amp; Vine Leaves &amp;ca finishd Neat &amp; bronzd w. Coppr</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.2.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">The above for the Chimney Piece</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">Two Lyons after the Antique Lyons in Italy finisht Neat &amp; bronzd with Copper 1.5. each</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">To 56 feet in two Cases at 2.2 pr foot</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.11.8</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Tow to Pack all the things</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">..8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">12.11.4</td>
+	    </tr>
+<tr>
+	      <td class="par">These is the best Ornaments I coud possibly make for the Chimney PieceAnd of all the wild Beasts as coud be made there is none thought better than the LyonsThe manner of placing them on the Chimney piece shd be thus A Groupe of FloraVaseneasVaseGroupe of Bacchus</td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0400" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0400">[400]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">There is no Busts of Alexander the Great (none at all of Charles 12th of Sweeden) Julius Csar, King of Prussia, Prince Eugene nor Duke of Marlborough of the Size desird; and to make Models woud be very Expensiveat least 4 Guineas each. but I can make Busts exactly to the Size wrote for (15 inches) and very good ones at the rate of 16/ Each ofHomer, Virgil, Horace, Cicero, Plato, Aristotle, Seneca, Galens, Vestall Virgin[,] Faustina[,] Chaucer, Spencer, Johnson, Shakespear, Beaumont[,] Fletcher, Milton, Prior, Pope, Congreve, Swift, Addison, Dryden, Locke, Newton<a class="ptr" href="#GEWN-02-06-02-0217-fn-0046" id="GEWN-02-06-02-0217-fn-0046-ptr">46</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Philip Bell</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">A Neat Mahagony dressing Chest, wt. a Close stool</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.12.16</td>
+	    </tr>
+<tr>
+	      <td class="par">A Pewter Pan 5/ A Mat to Pack Ditto 1/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.6</td>
+	    </tr>
+<tr>
+	      <td class="par">To 8 Yds of Chintz blue plate Cotton 3/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.6.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">5 yards of Scotch Linnen 1/1</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.8</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">To a Neat Window Cornish</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr>
+	      <td class="par">To making one Festoon Window Curtain and Covering the Cornish with the above Cotton</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.</td>
+	    </tr>
+<tr>
+	      <td class="par">To Eighteen yards of Lace, Leads, Owes, fourteen Yards of worsted and thread Line, one Tossell and two brass Cloke pins</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">To a strong Case</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.3.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.18.2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">5 usd for the Curtain</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">2</span>  packd up for Chair Bottoms</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">8 Yards as above</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Samuel Steemson<a class="ptr" href="#GEWN-02-06-02-0217-fn-0047" id="GEWN-02-06-02-0217-fn-0047-ptr">47</a> for Carpenter Tools</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">To a Packg Chest &amp;ca 10/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.6</td>
+	    </tr>
+<tr>
+	      <td class="par">To 1 Joynter &amp; 2 Jack Plains, and two Smoothing Planes</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.14.</td>
+	    </tr>
+<tr>
+	      <td class="par">To 6 Ogees &amp; 10 pair Hollows and Rounds</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.4.</td>
+	    </tr>
+<tr>
+	      <td class="par">To 4 Astragills &amp; 1 Snipes Bill</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0401" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0401">[401]</span></td>
+	    </tr>
+<tr>
+	      <td class="par">To 3 pair Groving Plains, 6 Ovalos, &amp; 1 Plough</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.10.</td>
+	    </tr>
+<tr>
+	      <td class="par">1 Moving Philester &amp; 2 Rabbet Planes</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.10</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3 Raising Planes</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.8</td>
+	    </tr>
+<tr>
+	      <td class="par">1 Spring pad &amp; 12 Bitts, 4 quartr Rounds 4 Sash Planes and 3 Bead Planes</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.18.</td>
+	    </tr>
+<tr>
+	      <td class="par">3 dozn Plane Irons, &amp; 21 Small Chizzels &amp; Gouges</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.0.3</td>
+	    </tr>
+<tr>
+	      <td class="par">1 Inch &amp; Quartr Firmer1 ditto 1 I[nch] &amp; 1 ditto 2 Inch Wide</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.1.8</td>
+	    </tr>
+<tr>
+	      <td class="par">6 large Mortiss Chissels, 1 Adze &amp; 1 Hatchet</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.2</td>
+	    </tr>
+<tr>
+	      <td class="par">2 dozn handsaw Files 2 dozn Tennt ditto &amp; 6 Rasps</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.9</td>
+	    </tr>
+<tr>
+	      <td class="par">2 pr Compasses, 2 Saw setts 2 punches &amp; 2 Chalk Lines</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.2.8</td>
+	    </tr>
+<tr>
+	      <td class="par">2 dozn Box Gimblets1 Turkey Oyl Stone</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.9.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1 drawing and two Box Rules</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.3.10</td>
+	    </tr>
+<tr>
+	      <td class="par">1 Handsaw, 1 pannell Saw, 1 Tennt do 1 Compass do &amp; 1 Sash do</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">1.15.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">12.16.2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Alexdr &amp; Shrimpton<a class="ptr" href="#GEWN-02-06-02-0217-fn-0048" id="GEWN-02-06-02-0217-fn-0048-ptr">48</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 Neat good Steel Grate with Tender to suit ditto &amp; Set Shovels &amp; Tongs</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">7..</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Case and Board</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.4.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">7.4.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Newnham &amp;ca<a class="ptr" href="#GEWN-02-06-02-0217-fn-0049" id="GEWN-02-06-02-0217-fn-0049-ptr">49</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">4 lb. Ivory Black @ 9d. 3/Jarr Raisons 26 lb. 6d. 13/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.16.</td>
+	    </tr>
+<tr>
+	      <td class="par">3 Peck Almds in the Shell 6/ 18/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.18.</td>
+	    </tr>
+<tr>
+	      <td class="par">10 Loaves dble Refind Sugar 0.3Q.4lb. @ 13d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.15.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">10 Ditto Single Do Do 0.3.11.84/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.11.3</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">5 lb. White Candy 20d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.8.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">10 lb. brown Do 10d.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.8.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">1 Jarr, 1 Box, 1 Tierce &amp; Carting</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.4</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">11.4.7</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0402" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0402">[402]</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Edward Box<a class="ptr" href="#GEWN-02-06-02-0217-fn-0050" id="GEWN-02-06-02-0217-fn-0050-ptr">50</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">Bushels of Oats @</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.16.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Cask</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.3.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.19.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Jno. &amp; Anth: Fonblanque<a class="ptr" href="#GEWN-02-06-02-0217-fn-0051" id="GEWN-02-06-02-0217-fn-0051-ptr">51</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">For 3 Gallons of Rhenish Wine put into two Dozen of pint Bottles, &amp; packd in a Cask @ 20/ pr Galln is</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.0.0</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Bottles</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Cask</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.2.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.6.4</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">Richd Farrar &amp; Compa.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">6 Mellon glasses @ 2/ @ 12/ A Basket 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.13.</td>
+	    </tr>
+<tr>
+	      <td class="par">6 Ditto ditto @ do 12/ A Basket 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.13.</td>
+	    </tr>
+<tr>
+	      <td class="par">6 Ditto ditto @ do 12/ A Basket 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">.13.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.19.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">John Box<a class="ptr" href="#GEWN-02-06-02-0217-fn-0052" id="GEWN-02-06-02-0217-fn-0052-ptr">52</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 Bushel of Tares 3/6 A Box 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.4.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-align: center;">William Bennett<a class="ptr" href="#GEWN-02-06-02-0217-fn-0053" id="GEWN-02-06-02-0217-fn-0053-ptr">53</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td class="par">1 <span class="hi-line-through" style="text-decoration: line-through;">C</span> Weight white Bisquet 22/ 1 Barrl &amp; Waterage 4/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">1.6.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">1 large Trunk .19.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Box Cord and Cording .3.6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">1.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">316.7.6</td>
+	    </tr>
+<tr>
+	      <td class="par" style="margin-left: 4em;">Entry out Searchers Fees &amp; Shipg Charges</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.13.6</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 3em;">Freight Primage &amp; Bills of Loading</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">9.15.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">13.8.6</td>
+	    </tr>
+<tr>
+	      <td class="par" style="margin-left: 4em;">Premia on 360 at 4 G[uinea]s pCt &amp; Policy</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">15.6.11</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 4em;">Commissions 2 prCt</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom; border-bottom: 1px solid black;">8.12.7</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">353.15.9</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap; text-indent: 4em;">E. Excepted pr Robt Cary &amp; Compa.</td>
+	      <td></td>
+	    </tr>
+</table>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-06-02-0217-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, in GWs hand, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+
+   <p>GW ordered these goods on <a href="default.xqy?keys=GEWN-print-02-06-02-0189-0002" class="document">20 Sept. 1759</a> and on <a href="default.xqy?keys=GEWN-print-02-06-02-0259-0001" class="document">10 Aug. 1760</a> acknowledged receipt.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0403">[403]</span>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0001-ptr" id="GEWN-02-06-02-0217-fn-0001">1</a>
+
+   <p>Theodosia Crowley &amp; Co. was an ironmongery on Thames Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0002-ptr" id="GEWN-02-06-02-0217-fn-0002">2</a>
+
+   <p>These were probably handles made of boxwood, which was much used in the eighteenth century.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0003-ptr" id="GEWN-02-06-02-0217-fn-0003">3</a>
+
+   <p>GWs <a href="default.xqy?keys=GEWN-print-02-06-02-0189-0002" class="document">invoice to Robert Cary &amp; Co. of 20 Sept. 1759</a> calls this Wheel Rights Buz.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0004-ptr" id="GEWN-02-06-02-0217-fn-0004">4</a>
+
+   <p>Edward Hippisley was a merchant on Lime Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0005-ptr" id="GEWN-02-06-02-0217-fn-0005">5</a>
+
+   <p>Crocus was a coarse cloth like gunny or burlap.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0006-ptr" id="GEWN-02-06-02-0217-fn-0006">6</a>
+
+   <p>Richard Lomax Clay was an oilman on Fishstreet Hill, London.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0007-ptr" id="GEWN-02-06-02-0217-fn-0007">7</a>
+
+   <p>A pottle is a liquid measure of four pints.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0008-ptr" id="GEWN-02-06-02-0217-fn-0008">8</a>
+
+   <p>A firken is a cask roughly one-quarter of a barrel.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0009-ptr" id="GEWN-02-06-02-0217-fn-0009">9</a>
+   
+   <p>John <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Mosley' &lt;span style='font-size: 90%'&gt;[[2006-03-27]]&lt;/span&gt; ]">Moseley</span> was a slopseller on Lower Thames Street. <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2006-06-09]]&lt;/span&gt; ]">Slops was cheap clothing.</span></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0010-ptr" id="GEWN-02-06-02-0217-fn-0010">10</a>
+
+   <p>Francis Nalder was a cheesemonger at no. 4 Honey-Lane Market.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0011-ptr" id="GEWN-02-06-02-0217-fn-0011">11</a>
+
+   <p>Benjamin Kenton had his wine and beer business at no. 152 Minories, near Aldgate.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0012-ptr" id="GEWN-02-06-02-0217-fn-0012">12</a>
+
+   <p>In 1771 H. Freake succeeded the late Mr. Scherzberg at the Golden Lion in Tavistock Street, Covent Garden.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0013-ptr" id="GEWN-02-06-02-0217-fn-0013">13</a>
+
+   <p>Shanaell is chenille.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0014-ptr" id="GEWN-02-06-02-0217-fn-0014">14</a>
+
+   <p>Hesketh &amp; Hawkes were mercers at the Wheatsheaf in Tavistock Street, Covent Garden.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0015-ptr" id="GEWN-02-06-02-0217-fn-0015">15</a>
+
+   <p>This was a kind of headdress with wires forming the outstretched wings of a large butterfly.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0016-ptr" id="GEWN-02-06-02-0217-fn-0016">16</a>
+
+   <p>Lappets were ribbon strips made to hang from a womans headdress.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0017-ptr" id="GEWN-02-06-02-0217-fn-0017">17</a>
+
+   <p>Cypress was a silk gauze dyed black.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0018-ptr" id="GEWN-02-06-02-0217-fn-0018">18</a>
+
+   <p>GW wrote Take.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0019-ptr" id="GEWN-02-06-02-0217-fn-0019">19</a>
+
+   <p>Millinet is a coarse, thin muslin.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0020-ptr" id="GEWN-02-06-02-0217-fn-0020">20</a>
+
+   <p>Chevaux de frise was a name for jagged edges of womens dresses and caps.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0021-ptr" id="GEWN-02-06-02-0217-fn-0021">21</a>
+
+   <p>Rickards &amp; Yerbury were hosiers and hatters on Fenchurch Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0022-ptr" id="GEWN-02-06-02-0217-fn-0022">22</a>
+
+   <p>Lardner &amp; Baratty were haberdashers and tobacconists at no. 36 Borough, Southwark.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0023-ptr" id="GEWN-02-06-02-0217-fn-0023">23</a>
+
+   <p>Beledin may be either raw silk or cotton yarn.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0024-ptr" id="GEWN-02-06-02-0217-fn-0024">24</a>
+
+   <p>Edward Loxham was a hatter and sword cutler at the corner of Sweetings Alley, no. 88 Cornhill.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0025-ptr" id="GEWN-02-06-02-0217-fn-0025">25</a>
+
+   <p>Richard Weale was a cutler in Cannon Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0026-ptr" id="GEWN-02-06-02-0217-fn-0026">26</a>
+
+   <p>Pocket knives frequently were made with buffalo-horn handles.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0027-ptr" id="GEWN-02-06-02-0217-fn-0027">27</a>
+
+   <p>Mount &amp; Page were stationers, Tower-hill.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0028-ptr" id="GEWN-02-06-02-0217-fn-0028">28</a>
+
+   <p>Harry playing cards are of better quality than Highlanders and of less quality than Moguls.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0029-ptr" id="GEWN-02-06-02-0217-fn-0029">29</a>
+
+   <p>A. Gresham, shoemaker, was at the Crown in Covent Garden.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0030-ptr" id="GEWN-02-06-02-0217-fn-0030">30</a>
+
+   <p>Rebecca Wintle has not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0031-ptr" id="GEWN-02-06-02-0217-fn-0031">31</a>
+
+   <p>William Hill was a merchant in Smithfield.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0032-ptr" id="GEWN-02-06-02-0217-fn-0032">32</a>
+
+   <p>Joseph Cartony &amp; Sons, at Longacre, sold tea and china.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0033-ptr" id="GEWN-02-06-02-0217-fn-0033">33</a>
+
+   <p>Charles Brown was a cooper at no. 270 Old Fish Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0034-ptr" id="GEWN-02-06-02-0217-fn-0034">34</a>
+
+   <p>Velvet corks were corks of high quality.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0035-ptr" id="GEWN-02-06-02-0217-fn-0035">35</a>
+
+   <p>John Davidson &amp; Dennis were saddlers in Chiswell Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0036-ptr" id="GEWN-02-06-02-0217-fn-0036">36</a>
+
+   <p>James Laman has not been identified.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0404">[404]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0037-ptr" id="GEWN-02-06-02-0217-fn-0037">37</a>
+
+   <p>Thomas Johnson has not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0038-ptr" id="GEWN-02-06-02-0217-fn-0038">38</a>
+
+   <p>John Drinkwater has not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0039-ptr" id="GEWN-02-06-02-0217-fn-0039">39</a>
+
+   <p>William James, the mercer, was in Cheapside, opposite Gutter Lane.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0040-ptr" id="GEWN-02-06-02-0217-fn-0040">40</a>
+
+   <p>Alepine was a fabric made in eighteenth-century England, with silk warp and worsted filling.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0041-ptr" id="GEWN-02-06-02-0217-fn-0041">41</a>
+
+   <p>This may be pattern.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0042-ptr" id="GEWN-02-06-02-0217-fn-0042">42</a>
+
+   <p>This was a close-fitting coat for men, originally worn for riding.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0043-ptr" id="GEWN-02-06-02-0217-fn-0043">43</a>
+
+   <p>Buckram is a coarse fabric used as padding or a stiffener between the lining and the surface cloth of a garment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0044-ptr" id="GEWN-02-06-02-0217-fn-0044">44</a>
+
+   <p>Joseph Etheringtons apothecary shop was at Gracechurch Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0045-ptr" id="GEWN-02-06-02-0217-fn-0045">45</a>
+
+   <p>Sir Henry Cheere had a Statuary at Old-Palace-Yard, Westminster, and John Cheeres was at Hyde Park Corner.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0046-ptr" id="GEWN-02-06-02-0217-fn-0046">46</a>
+
+   <p>For GWs description of the busts he wished to have, see <a href="default.xqy?keys=GEWN-print-02-06-02-0189-0002" class="document">Invoice to Robert Cary &amp; Co., 20 Sept. 1759</a>. A comma appears in the letter book after Vestall.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0047-ptr" id="GEWN-02-06-02-0217-fn-0047">47</a>
+
+   <p>Samuel Steemson has not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0048-ptr" id="GEWN-02-06-02-0217-fn-0048">48</a>
+
+   <p>Alexander &amp; Shrimptons brass foundry was on Wood Street, Cheapside.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0049-ptr" id="GEWN-02-06-02-0217-fn-0049">49</a>
+
+   <p>Thomas Newnham &amp; Co. were grocers in Watling Street, near St. Pauls.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0050-ptr" id="GEWN-02-06-02-0217-fn-0050">50</a>
+
+   <p>Edward Box has not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0051-ptr" id="GEWN-02-06-02-0217-fn-0051">51</a>
+
+   <p>John &amp; Anthony Fonblanques mercantile house was at no. 22 Water-Lane, Great Tower Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0052-ptr" id="GEWN-02-06-02-0217-fn-0052">52</a>
+
+   <p>John Box, the corn factor, was at Cattle-Baynard Wharf, Thames Street.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0217-fn-0053-ptr" id="GEWN-02-06-02-0217-fn-0053">53</a>
+
+   <p>William Bennett has not been identified.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-06-02-0217 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 6 (4 September 175826 December 1760)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0216" title="From Robert Stewart, 8 March 1760"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0218" title="From Richard Washington, 26 March 1760 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

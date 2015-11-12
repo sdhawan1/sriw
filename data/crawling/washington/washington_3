@@ -1,0 +1,660 @@
+George Washington's Professional Surveys
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>George Washington's Professional Surveys</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-01-02-0004&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0003" title="To Lawrence Washington, 5 May 1749"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-01-02-0005" title="To Ann Fairfax Washington, SeptemberNovember 1749"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-01&amp;mode=TOC">Volume 1 (7 July 174814 August 1755)</a>&gt; <a href="?keys=GEWN-print-02-01-02&amp;mode=TOC">Documents</a>&gt; George Washington's Professional Surveys</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-01-02-0004&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0003" title="To Lawrence Washington, 5 May 1749"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0005" title="To Ann Fairfax Washington, SeptemberNovember 1749"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0008">8</span><div id="Col01d4" class="docsummary">
+
+<h1>George Washingtons Professional Surveys</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">22 July 174925 October 1752</td>
+	      </tr>
+      </table>
+</div>
+<p>Between the ages of 17 and 20 GW was a practicing professional land surveyor. During that time he made more than 190 surveys, nearly all of them for grants of new lands on the frontiers of Lord Fairfaxs Northern Neck Proprietary. Frontier surveying was a lucrative business in Virginia at the middle of the eighteenth century, as swarms of settlers and speculators laid claim to the colonys western lands, both inside and outside the Northern Neck. A diligent frontier surveyor working only a few months out of the year could clear annually 100 or more in Virginia current money, a cash income greater than that of most planters and tradesmen in the colony. Frontier surveyors, in addition, had ample opportunities to patent choice tracts of land in their own names, and many acquired holdings of several thousand acres. Surveying was a respectable occupation for a young Virginian in 1749, roughly on a par with law, medicine, the church, or military service, and most of the surveyors were drawn from the Virginia gentry.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0001" id="GEWN-02-01-02-0004-fn-0001-ptr">1</a></p>
+<p>GWs career as a surveyor owed much to the Fairfax family. Close acquaintance with the proprietor, Thomas, Lord Fairfax, and with Fairfaxs relatives at Belvoir assured GW of receiving profitable surveying assignments in the Northern Neck, and it was probably at the behest of Lord Fairfax and through the agency of William Fairfax,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0009">[9]</span>
+who sat on the governors council, that GW obtained the surveyorship of Culpeper County at the start of his professional career. Young men of 17 usually did not serve as county surveyors. Most novice surveyors began as apprentices or deputies to county surveyors and did not become county surveyors themselves, if ever, until they had had some years of experience. Before 20 July 1749, nevertheless, GW received a commission from the president and masters of the College of William and Mary appointing him surveyor of newly formed Culpeper County.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0002" id="GEWN-02-01-02-0004-fn-0002-ptr">2</a> The college in its charter of 1693 had been granted the power to appoint all Virginia county surveyors and the right to collect one-sixth of their surveying fees, but in practice the college authorities were more concerned with their income than with who was appointed to the surveyorships. They regularly deferred to the wishes of powerful men in commissioning surveyors, and in the case of Culpeper, which lay in the Northern Neck, they were undoubtedly open to any suggestion that Lord Fairfax might make for the countys surveyor.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0003" id="GEWN-02-01-02-0004-fn-0003-ptr">3</a> GW did not study at the college to qualify for the commission or stand any examination by the president and masters of the school.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0004" id="GEWN-02-01-02-0004-fn-0004-ptr">4</a> There is no evidence, in fact, that GW went to Williamsburg in the spring or summer of 1749. Most probably, William Fairfax, who attended council in Williamsburg from March to May 1749, secured the commission for him. On 20 July 1749 GW appeared before the justices of the Culpeper court and, after presenting his commission, took the oaths of public office for the first time and became the countys first surveyor.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0005" id="GEWN-02-01-02-0004-fn-0005-ptr">5</a></p>
+<p>Two days later GW ran a survey of 400 acres on Flat Run in east central Culpeper County for Richard Barnes of Richmond County. GW decorated his plat of the survey with a handsome compass rose and a sketch of Mount Pony, an area landmark, and signed his name in full with his new title Survy of Culpeper Cty. It is the only survey that he is known to have made in the county in which he was commissioned.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0006" id="GEWN-02-01-02-0004-fn-0006-ptr">6</a> Thereafter, his surveying was done almost entirely in the Shenandoah and Cacapon valleys of Frederick County, which until 1753 embraced all of the Northern Neck Proprietary west of the Blue Ridge Mountains. Surveyors in the Northern Neck, unlike surveyors in the rest of Virginia, were allowed, at Lord Fairfaxs pleasure, to make public surveys outside the counties to which they were appointed. Under those circumstances it is not surprising that GW chose to survey on the frontier. Culpeper, although a new county, was fairly well settled. Most of its desirable lands had been surveyed and granted while it was part of Orange County, whereas on the other side of the Blue Ridge, in Frederick County, people were claiming many vacant
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0010">[10]</span>
+tracts in 1749, providing a great deal of lucrative business for a surveyor.</p>
+<p>During the fall of 1749 GW ran at least 15 surveys on the Lost River, as the upper portion of the Cacapon River is called, and during the following spring he ran at least 49 surveys on the Cacapon, Lost, North, and Little Cacapon rivers and on the Potomac River near the mouths of the Cacapon and Little Cacapon. All of these surveys, although in Frederick County, he signed with his title S.C.C.surveyor of Culpeper County. Because in Virginia one could not legally make public surveys without a commission as a county surveyor, an assistant county surveyor, or special surveyor, the inclusion of GWs title on these surveys was an indication that they were legitimate. GW, however, did not long remain surveyor of Culpeper. On the survey that he made on the Shenandoah River on 16 Aug. 1750, GW omitted S.C.C. from his signature, and except for the survey of 28 Aug. 1750 for George Johnston, the initials do not seem to have again appeared on GWs work. On 3 Nov. 1750 Henry Lee became surveyor of Culpeper County.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0007" id="GEWN-02-01-02-0004-fn-0007-ptr">7</a> GW may have quit the office because it was more trouble than it was worth, or he may have been replaced for neglecting the county. In either case, he continued surveying in Frederick County, and for his surveys there to continue to be legal he should have had another surveying appointment of some kind. The absence of any title at all on GWs surveys after he stopped using S.C.C. suggests that he may have become one of the several assistants to Frederick County surveyor James Wood, since Frederick County assistants signed their surveys without title.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0008" id="GEWN-02-01-02-0004-fn-0008-ptr">8</a> No record, however, has been found of GWs being commissioned as an assistant surveyor in Frederick County. It is certain only that Lord Fairfax continued to allow GW to survey for grants after he ceased to be surveyor of Culpeper County and that no one challenged the legitimacy of his work.</p>
+<p>GW usually received his surveying assignments in packets of land warrants issued from the Proprietary land office at Belvoir. Addressed to GW and signed by William Fairfax, as the proprietors agent, or by Williams son George William Fairfax on behalf of his father, these documents instructed GW to survey an approximate acreage for a specific person at a general location by a certain date, normally 5 to 6 months from the date of the warrant. The person for whom the land was to be surveyed in most cases paid a fee of 18s. 9d. for the warrant<a class="ptr" href="#GEWN-02-01-02-0004-fn-0009" id="GEWN-02-01-02-0004-fn-0009-ptr">9</a> and indicated the size and location of the tract that he or she wished the proprietor to grant to them. Lord Fairfax or his agent approved the claim and chose the surveyor who was to lay off the bounds. The most desirable set of warrants for a surveyor was one that gave him a number of relatively small and simple four-or-five-sided
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0011">[11]</span>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0012">[12]</span>
+tracts to measure, within a compact area so that he could move rapidly from one to another, collecting the maximum number of fees for the time he spent in the field. GWs assignments, for the most part, were reasonably good in this respect. His surveys were often simple and near each other and sometimes had the additional advantage of being contiguous, making it possible to use one or more boundaries for two tracts. On at least 3 occasions GW was able to do four surveys in a day and on at least 13 other occasions three surveys in a day. At other times, of course, he worked more slowly, because the surveys were large or complex or there was some distance to travel between them.</p>
+<p>GW, like most frontier surveyors, usually surveyed in the spring and fall, when the weather was most pleasant, snakes and insects were least troublesome, and the thin foliage of trees made it easier to sight long boundary lines through wooded areas. He departed significantly from this pattern only in Aug. 1750 when he made a brief surveying trip to the Shenandoah Valley and in the fall of 1751 when he did not survey because of his trip to Barbados with his ailing half brother Lawrence Washington.</p>
+<p>In the field GW undoubtedly used the instruments commonly used by other American surveyors of the time. Boundary line bearings were determined with a circumferentor, or plain surveying compass as it was sometimes called, which consisted essentially of a magnetic compass in a brass case with open brass sights attached, the whole mounted on a staff or tripod. Distances were measured with a surveying chain, a series of interconnected wrought iron links, each about 8 inches long, usually totaling 2 poles or 33 feet in length.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0010" id="GEWN-02-01-02-0004-fn-0010-ptr">10</a> As the surveyor traversed the tract with the circumferentor, determining the lay of its boundaries and reading their bearings from the compass dial, two chainmen ascertained the distances with the chain, and a marker notched trees to indicate where the lines ran. Most Virginia surveyors used local people as chainmen and markers and often had different crews on consecutive surveys. GW too followed this practice, except that on about half of his surveys he used John Lonem as his head chainman, apparently valuing Lonems reliability and speed enough to take him from survey to survey.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0011" id="GEWN-02-01-02-0004-fn-0011-ptr">11</a></p>
+<p>There was no standard format in eighteenth-century Virginia for surveyors field notes, but surveyors were expected to keep adequate field books, and GWs are fairly typical. Thin pocket-size volumes, they contain in rough form the essential information needed to produce the finished surveys that were later submitted to the proprietors office. Included in the field books are the date of each survey, the name of the person for whom it was run, the bearings of the boundary
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0013">[13]</span>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0014">[14]</span>
+lines without correction for magnetic declination,<a class="ptr" href="#GEWN-02-01-02-0004-fn-0012" id="GEWN-02-01-02-0004-fn-0012-ptr">12</a> their lengths in poles, the trees or other natural features that marked the corners of the tract, the names of any owners of adjoining lands, and the names of the chainmen and usually of the marker. Often, however, the bearing and length of the final course, the one that closed the survey, are omitted. Instead of running that line on the ground with compass and chain, GW, like other surveyors, frequently calculated it from the plat, or small map, that he later made of the survey.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0013" id="GEWN-02-01-02-0004-fn-0013-ptr">13</a></p>
+<p>The platting of the surveys and the computation of their acreages occurred after the end of the surveying trip, probably at Ferry Farm or Mount Vernon. The acreage of a survey, once determined, was usually inserted into the field book to be part of the original record, but plats, with a few early exceptions, do not appear in the field books, being drawn only for the finished surveys.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0014" id="GEWN-02-01-02-0004-fn-0014-ptr">14</a> All of GWs plats were carefully drawn to scale in ink with standard drafting instruments that are known to have included a 2foot Gunters scale.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0015" id="GEWN-02-01-02-0004-fn-0015-ptr">15</a> The 1749 plats have compass roses or north arrows and accurate linear scales, but those features were omitted after 1749. Only a few of GWs plats show mountains, hills, houses, or roads. Most include the water features and the names of adjoining landowners as required by Virginia law. In some cases, however, even these items are missing. His plat of the 21 Mar. 1752 survey for John Dunbar is unusually spare, showing only the lines that represent the tracts five sides and letters to designate the five corners.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0016" id="GEWN-02-01-02-0004-fn-0016-ptr">16</a> In general, despite many minor variations from plat to plat, GWs drawing style tended to become simpler with time. The elaborate style that he used for his first plat in July 1749 did not survive long under the pressures of routine surveying. Usually beside or below the plat, GW copied the written description of the survey from the field book, again without corrections for magnetic variation. He dated the survey with the date that the lines were run in the field and signed it at the bottom next to the names of the chainmen and marker, normally with a stylized signature used only on his surveys.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0017" id="GEWN-02-01-02-0004-fn-0017-ptr">17</a> To indicate that a survey had been platted, GW wrote Plat drawn, or occasionally P.D., on the appropriate page of his field books, and beginning in March 1751 he often added Copyd to denote that the description had been transcribed.</p>
+<p>The finished survey, comprising both the plat and description, was returned with the warrant to the proprietors office, where it sometimes lay for several years before a grant was issued. About a third of the tracts that GW surveyed were granted within 2 years time and over half within 5 years. Many, however, were not granted until the late 1750s or the 1760s and 1770s. One, a tract that GW surveyed for James Denton on 21 Mar. 1752, was not granted until 1 Aug. 1780,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0015">[15]</span>
+ 
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0016">[16]</span>
+and another, a tract he surveyed on 2 April 1752 for Thomas Mullin, not until 6 Dec. 1791.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0018" id="GEWN-02-01-02-0004-fn-0018-ptr">18</a> A few may never have been granted at all.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0019" id="GEWN-02-01-02-0004-fn-0019-ptr">19</a> The delay in issuing grants was caused in some cases by challenges from rival claimants, but in many instances the person for whom a survey had been made simply chose not to have the land granted right away. One did not have to pay Lord Fairfax his annual quitrent of 1s. per 50 acres for ungranted lands, while title to a survey established a firm claim to the tract in question and could be devised to heirs or sold to other persons by a simple written assignment.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0020" id="GEWN-02-01-02-0004-fn-0020-ptr">20</a> To clear up the backlog of ungranted surveys and obtain quitrents that otherwise would not be paid, the proprietors agent declared on 26 Mar. 1765 that all surveys dated before 1764 would be forfeited if the fees required for issuance of the grant were not paid by 29 Sept. 1765.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0021" id="GEWN-02-01-02-0004-fn-0021-ptr">21</a> Some of GWs surveys were so forfeited by their owners and were granted to others, but many tracts apparently continued to be granted on the basis of assignments from the original owners. The grants, when issued, were signed by Lord Fairfax. Included in them are the terms under which the land was to be held (essentially the payment of the quitrent forever by the grantee and his heirs or assignees), the name of the surveyor, and the written description of the tracts boundaries taken from the finished survey. The plat, the names of the chainmen and markers, and, in most cases, the date of the survey are omitted.</p>
+<p>No accounts have been found for most of GWs surveying customers. The few accounts that do exist show that he usually charged 2 3s. Virginia current money for a survey of 1,000 acres or less, a sum that was due any time after the survey was run in the field but in some cases, at least, was not paid until months or even years later.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0022" id="GEWN-02-01-02-0004-fn-0022-ptr">22</a> GWs surveying fee exceeded the fee of 1 11s. 3d. that the Virginia Assembly had established for frontier counties such as Frederick, corresponding instead to the higher fee that surveyors were allowed to collect in counties along the colonys fall line. How GW justified the higher fee is not known, but it seems to have been paid without objection. If GW collected 2 3s. for each of his professional surveys of 1,000 or less acres and a bit more for the four of over 1,000 acres which he ran, he must have earned nearly 400 in his slightly more than 3 years of surveying.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0023" id="GEWN-02-01-02-0004-fn-0023-ptr">23</a> In addition, between 1749 and 1752 GW acquired 2,315 acres of good land in the lower Shenandoah Valley, some of it by purchase and some by grants.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0024" id="GEWN-02-01-02-0004-fn-0024-ptr">24</a> That holding matched Lawrence Washingtons Mount Vernon in acreage, if not in other respects.</p>
+<p>GW gave no reasons for quitting the profession of surveying after
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0017">[17]</span>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0018">[18]</span>
+the fall of 1752, but there are two evident ones. As lucrative as surveying on the Northern Neck frontier was between 1749 and 1752, it offered only diminishing prospects for the future. The supply of desirable new lands was already beginning to run low in the Northern Neck by 1752, and the dominance of Lord Fairfax in the whole land-granting process prevented Northern Neck surveyors, whether they held county appointments or not, from establishing power bases of their own in the way many frontier surveyors in other parts of Virginia did. As a Northern Neck surveyor, GW would be no more than a gentleman of the second rank. In addition, GW had a strong appetite for soldiering, whetted no doubt by the example of his half brother Lawrence. By the spring of 1752 GW had learned that the office of adjutant for the colony, an office that Lawrence held, was to be divided into districts. On 10 June 1752 he asked Lt. Gov. Robert Dinwiddie to consider him for the Northern Neck adjutancy. Instead, the council on 6 Nov. 1752 appointed him adjutant for southern Virginia with a salary of 100 a year.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0025" id="GEWN-02-01-02-0004-fn-0025-ptr">25</a> GW did not survey professionally thereafter, but throughout the remainder of his life he frequently employed his surveying skills for his own private purposes: to acquire new land by purchase or grant both east and west of the mountains, to find and defend the boundaries of his many holdings, and to divide them into profitable fields and tenements. As late as Nov. 1799 he spent 3 days on Difficult Run in northern Fairfax County running the lines of his land there and of a nearby tract that he hoped to buy. Only his death 5 weeks later put an end to his surveying.</p>
+<p>The records of GWs professional surveying career are both varied and scattered. The most valuable of these, the finished surveys with their plats and full descriptions of the boundaries, are among the most widely dispersed. Long more valued by private manuscript collectors than by historians for GWs signature and for their visual appeal, the finished surveys in many cases remain in private hands. Manuscript dealers catalogues frequently include them in their offerings and sometimes reproduce them in full or partial facsimile. Several public repositories have one or more finished GW surveys, but only the Henry Huntington Library and Princeton University seem to have more than 10. The most comprehensive and complete of GWs surveying records are his two field books, covering the years 1749 to 1751, in the Washington Papers at the Library of Congress and the Northern Neck grant books at the Virginia State Library which cite all his surveys that became grants, about 95 percent of the total known. No field book has been found for 1752, and the earlier of the two field books in the Library of Congress has five sheets torn out for the year 1749. However, two of those sheets, including the title page, are at
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0019">[19]</span>
+Cornell University, and another is in the Dreer Collection at the Historical Society of Pennsylvania.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0026" id="GEWN-02-01-02-0004-fn-0026-ptr">26</a> In addition, there is in the Washington Papers at the Library of Congress a small notebook into which GW copied finished versions of his 1749 surveys without plats, apparently as a permanent record for his own reference. This notebook includes those surveys missing from the early field book, although one of the notebooks sheets is also torn out. That sheet, which includes two surveys, is at the Pennsylvania Historical Society.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0027" id="GEWN-02-01-02-0004-fn-0027-ptr">27</a> Warrants for GWs surveys are the scarcest and the least informative of all his surveying records. Small collections of his warrants are in the Washington Papers at the Library of Congress, at the Virginia State Library, at the Henry Huntington Library, and in Lord Fairfax of Camerons collections at Gays House, Berkshire, Eng. GWs 1748 diary in the Washington Papers at the Library of Congress includes A List of the Peoples Names that I have Warrants for, which apparently is for the period 174950.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0028" id="GEWN-02-01-02-0004-fn-0028-ptr">28</a></p>
+<p>The list of GWs professional surveys<span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ' printed below' &lt;span style='font-size: 90%'&gt;[[2014-12-02]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span> is based for the years 1749 to 1751 primarily on GWs field books and his 1749 notebook, and for 1752 primarily on finished surveys that have been found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0029" id="GEWN-02-01-02-0004-fn-0029-ptr">29</a> No finished GW survey has been discovered for the 174951 period which does not appear in his field books or his 1749 notebook. A thorough search of the Northern Neck grant books revealed 13 GW surveys not found in the other sources. They appear under no date at the end of the list. Of the surveys GW made for grants, only 6 were not found in the grant book. The acreage for a particular tract is not always the same in the finished survey, the grant, and the field-book entry. The acreage on the finished survey is the most accurate one in all cases and has been given in our list whenever possible. The grant, which occasionally has clerical copying errors, has been used as the second choice, and the field-book entry, which sometimes has errors in calculation that were corrected in the finished survey, as the third choice. Locations are usually given in reference to a major river or stream and are generally taken directly from the finished survey, grant, or field-book entry, in that order. However, many of GWs Shenandoah Valley surveys contain no specific references to well-known terrain features. To determine their exact locations in relation to the numerous streams that flow into the lower Shenandoah River, most of them were platted on a modern terrain map.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0030" id="GEWN-02-01-02-0004-fn-0030-ptr">30</a> All surveys, except the undated ones, are listed in chronological order according to the date they were run by GW. Surveys of the same date are arranged in the order they appear in GWs field books for the years 174951 and in alphabetical order for 1752 and in the undated section.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0020">[20]</span>
+<ul class="simple" style="margin-left: 0; text-indent: 1em;">
+	    <li><span class="hi-italic" style="font-style: italic;">22 July 1749</span>. For Richard Barnes. 400 acres on a branch of Flat Run.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0031" id="GEWN-02-01-02-0004-fn-0031-ptr">31</a> Granted to Richard Barnes, 3 October 1749.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">1 November 1749</span>. For Edward Hogan. 330 acres on Lost River about Six Miles within the Boundary Line of the Northern Neck. Granted to Edward Hogan, 1 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 November 1749</span>. For James Hamilton. 350 acres on Lost River. Granted to James Hamilton, 3 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 November 1749</span>. For Robert Denton. 386 acres on Lost River. Granted to Robert Denton, 3 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 November 1749</span>. For Francis McBride. 386 acres on Lost River. Granted to Francis McBride, 3 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 November 1749</span>. For William McBride. 386 acres on Lost River. Granted to Francis McBride, 4 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">4 November 1749</span>. For Ann Dunbar. 412 acres on Lost River. Granted to John Dunbar, 4 June 1751.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0032" id="GEWN-02-01-02-0004-fn-0032-ptr">32</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">5 November 1749</span>. For John Elswick. 406 acres on Lost River. Granted to John Elswick, 3 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">6 November 1749</span>. For James Scott. 386 acres on Lost River. Granted to James Scott, 6 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">7 November 1749</span>. For Joseph How. 386 acres on Lost River. Granted to Joseph How, 6 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">8 November 1749</span>. For Andrew Viney. 386 acres on Lost River. Granted to Andrew Viney, 6 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">9 November 1749</span>. For Luke Collins. 386 acres on Lost River. Granted to Luke Collins, 5 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">9 November 1749</span>. For Barnaby McHendry (McHandry). 400 acres on Lost River. Granted to Barnaby McHendry, 4 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 November 1749</span>. For William Baker. 386 acres on Lost River. Granted to William Baker, 9 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 November 1749</span>. For Samuel Baker. 396 acres on Lost River. Granted to Samuel Baker, 11 October 1756.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">11 November 1749</span>. For William Warden. 400 acres on Lost River. Granted to William Warden, 4 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">30 March 1750</span>. For David Edwards. 412 acres on Cacapon River. Granted to David Edwards, 13 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">30 March 1750</span>. For Thomas Edwards. 400 acres on Cacapon River. Granted to Thomas Edwards, 14 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">31 March 1750</span>. For George Hyatt. 272 acres on Davids Run, a branch of North River. Granted to George Hyatt, 5 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">31 March 1750</span>. For John Parke, Jr. 250 acres on a branch of Cacapon River. Granted to John Parke, 18 August 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1750</span>. For Evan Pugh. 226 acres on Trout Run, a branch of Cacapon River. Granted to Evan Pugh, Sr., 13 April 1752.</li>
+	  </ul>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0021">[21]</span>
+
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0022">[22]</span>
+ <ul class="simple" style="margin-left: 0; text-indent: 1em;">
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1750.</span> For Jacob Pugh. 220 acres on Trout Run, a branch of Cacapon River. Granted to Jacob Pugh, 30 May 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1750.</span> For Joseph Powell. 220 acres on Trout Run, a branch of Cacapon River. Granted to Joseph Powell, 15 June 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1750.</span> For Thomas Hughes. 419 acres on Cacapon River. Granted to Thomas Hughes, 18 November 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 April 1750.</span> For Hugh Hughes. 480 acres on Cacapon River. Granted to Hugh Hughes, 4 May 1754. Duplicate grant to Hugh Hughes, 11 November 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 April 1750.</span> For William Hughes, Sr. 400 acres on Cacapon River. Granted to William Hughes, Sr., 8 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">4 April 1750.</span> For William Hughes, Jr. 460 acres on Cacapon River. Granted to William Hughes, Jr., 4 March 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">4 April 1750.</span> For Nicholas Robinson. 400 acres on Cacapon River. Granted to Nicholas Robinson, 9 November 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">5 April 1750.</span> For William Welton. 354 acres on Cacapon River. Granted to William Welton, 15 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">5 April 1750.</span> For Edward Kinnison (Kennison), Jr. 400 acres on Cacapon River. Granted to Edward Kinnison, Jr., 28 May 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">5 April 1750.</span> For John Lonem. 390 acres on Cacapon River. Granted to Moses Watkins, 7 April 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 April 1750.</span> For Darby McKeever, Sr. 412 acres on Cacapon River. Granted to Darby McKeever, Sr., 7 October 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 April 1750.</span> For Darby McKeever, Jr. Tract on Cacapon River. Resurveyed for Darby McKeever, Jr., on 27 April 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 April 1750.</span> Vacant lot between Darby McKeever and son on Cacapon River. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0033" id="GEWN-02-01-02-0004-fn-0033-ptr">33</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">11 April 1750.</span> For John Parke, Sr. 400 acres on Cacapon River. Granted to George Parke and Elizabeth Ashbrook, 16 August 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">11 April 1750.</span> For Richard Arnold, Sr. 400 acres on Cacapon River. Granted to Richard Arnold, Sr., 10 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">11 April 1750.</span> For Joseph Edwards. 400 acres on Cacapon River. Granted to Robert Pugh, 23 July 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 April 1750.</span> For James Caudy. 98 acres on Cacapon River. Granted to James Caudy, 28 May 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 April 1750.</span> For Thomas Parker, Sr. 237 acres on North River. Granted to Thomas Parker, Sr., 14 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">13 April 1750.</span> For Evan Pugh, Jr. 160 acres on a small branch of Cacapon River. Granted to Evan Pugh, Jr., 13 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">13 April 1750.</span> For Benjamin Phipps. 400 acres on North River. Granted to Benjamin Phipps, 29 May 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">14 April 1750.</span><a class="ptr" href="#GEWN-02-01-02-0004-fn-0034" id="GEWN-02-01-02-0004-fn-0034-ptr">34</a> For George Nixon. 400 acres on North River. Granted to James Craik and Philip Bush, 4 March 1771.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0023">[23]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">14 April 1750.</span> For Josiah Arnold. 400 acres on North River. Granted to Josiah Arnold, 14 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">14 April 1750.</span> For James Smith. 400 acres on North River. Granted to James Smith, 24 September 1756.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 April 1750.</span> For John Stackhouse. 400 acres on North River. Granted to John Murray, earl of Dunmore, 21 February 1774.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 April 1750.</span> For James Warden. 330 acres on Lost River. Granted to James Warden, 15 June 1754. Grant reissued to John Bare, 15 March 1775.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 April 1750.</span> For Robert Denton and Francis McBride. 224 acres on Lost River. Granted to Robert Denton and Francis McBride, 4 November 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 April 1750.</span> For David Dunbar. 425 acres on Lost River. Granted to David Dunbar, 13 September 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 April 1750.</span> For William Miller. 380 acres on Lost River. Granted to William Miller, 7 August 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 April 1750.</span> For James Thomas. 375 acres on Lost River. Granted to James Thomas, 25 September 1756.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 April 1750.</span> For James Dilouza. 400 acres on a small branch of North River. Granted to Jacob Chrisman (Crisman), 6 September 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 April 1750.</span> For David Wood. 400 acres on North River. Granted to Andrew Arnold, 1 February 1764.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 April 1750.</span> For Jonathan Arnold. 400 acres on North River. Granted to Jonathan Arnold, 19 July 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 April 1750.</span> For Robert Lindsey. 400 acres on North River. Granted to David Dederick (Deadrick, Dietrich), 21 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 April 1750.</span> For Henry Enoch. 388 acres at the fork of Cacapon and North rivers. Granted to Henry Enoch, 22 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 April 1750.</span> For John Newton. 315 acres on North River about a mile above the fork. Granted to John Newton, 1 January 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 April 1750.</span> For Thomas Wiggins. 210 acres on Potomac River near the mouth of Cacapon River. Granted to Thomas Wiggins, 30 October 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 April 1750.</span> For Isaac Dawson. 270 acres in a neck between the Potomac and Cacapon rivers. Granted to Isaac Dawson, 18 November 1757.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 April 1750.</span> For Thomas Williams. 95 acres in a neck between the Potomac and Cacapon rivers. Granted to Thomas Williams, 7 November 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 April 1750.</span> For Nicholas Friend. 142 acres on Potomac River about two miles below the mouth of Little Cacapon River. Granted to Nicholas Friend, 4 September 1761.</li>
+	  </ul>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0024">[24]</span>
+
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0025">[25]</span>
+ <ul class="simple" style="margin-left: 0; text-indent: 1em;">
+	    <li><span class="hi-italic" style="font-style: italic;">25 April 1750</span>. For Friend Cox. 240 acres on Potomac River at the mouth of Little Cacapon River. Granted to Friend Cox, 29 March 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">26 April 1750</span>. For John Parker. 200 acres on Little Cacapon about a half a mile above the Buffalo Lick. Granted to John Parker, 6 September 1757.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">27 April 1750</span>. For Sylvanus Smith. 248 acres on Cacapon River. Granted to John Chenoweth (Chenoth), 3 March 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">27 April 1750</span>. For Darby McKeever, Jr. 315 acres on Cacapon River. Resurvey of 10 April 1750 survey for Darby McKeever, Jr. Granted to Darby McKeever, Jr., 13 November 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">28 April 1750</span>. For James McCoy (McCay). 400 acres on the Great Waggon Road that Leads to the So. Branch of the Potomac River. Granted to Thomas Rees (Reece), Sr., 4 September 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 August 1750</span>. For Edward Musgrove. 135 acres on Shenandoah River. Granted to Edward Musgrove, 16 October 1750. Grant reissued to John Carlyle, 28 April 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 August 1750</span>. For William Davis. 200 acres near the North Fork of Bullskin Run. Granted to William Davis, 13 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0035" id="GEWN-02-01-02-0004-fn-0035-ptr">35</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 August 1750</span>. For Lawrence Washington. 175 acres near the North Fork of Bullskin Run. Granted to Lawrence Washington, 13 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 August 1750</span>. For Richard Stephenson. 408 acres on the North Fork of Bullskin Run. Granted to Richard Stephenson, 1 November 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 August 1750</span>. For Lawrence Washington. 209 acres on Evitts Run. Granted to Lawrence Washington, 17 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0036" id="GEWN-02-01-02-0004-fn-0036-ptr">36</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">22 August 1750</span>. For Lawrence Washington. 595 acres near Evitts Run. Granted to Lawrence Washington, 17 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 August 1750</span>. For Lawrence Washington. 613 acres on the North Fork of Bullskin Run. Granted to Lawrence Washington, 20 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 August 1750</span>. For Lawrence Washington. 1,106 acres on Evitts Run. Granted to Lawrence Washington, 17 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0037" id="GEWN-02-01-02-0004-fn-0037-ptr">37</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 August 1750</span>. For Lawrence Washington. 554 acres on Flowing Springs Run. Granted to Lawrence Washington, 17 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 August 1750</span>. For Augustine Washington. 500 acres at the head of Flowing Springs Run. Granted to Augustine Washington, 17 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">26 August 1750</span>. For Lawrence Washington. 570 acres near the head of Evitts Run. Granted to Lawrence Washington, 16 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">28 August 1750</span>. For George Johnston. 552 acres on the South Fork of Bullskin Run. Granted to George Johnston, 20 October 1750.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0026">[26]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 October 1750</span>. For Thomas Loftin. 265 acres on Long Marsh Run. Granted to Thomas Loftin, 12 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0038" id="GEWN-02-01-02-0004-fn-0038-ptr">38</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 October 1750</span>. For George Smith. 343 acres on Long Marsh Run. Granted to Noah Haynes, 30 May 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 October 1750</span>. For John Cuszine (Cozine). 455 acres near Long Marsh Run. Granted to John Cuszine (Cozine), 25 October 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 October 1750</span>. For Isabella Jump. 65 acres on Buck Marsh Run. Granted to Isabella Jump, 20 October 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 October 1750</span>. For John Vance. 353 acres on Dog Run, a branch of Buck Marsh Run. Granted to John Vance, 30 May 1751. Duplicate grant issued to John Vance, 13 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 October 1750</span>. For John Anderson. 192 acres on Craig Run. Granted to John Anderson, 11 February 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">22 October 1750</span>. For Isaac Foster. 203 acres on Craig Run. Granted to Isaac Foster, 13 October 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">22 October 1750</span>. For Samuel Isaac. 415 acres at the head of Craig Run. Granted to Samuel Isaac, 8 August 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 October 1750</span>. For Isaac Pennington. 445 acres near Buck Marsh Run. Granted to Isaac Pennington, 2 April 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 October 1750</span>. For Patrick Rice. 400 acres at the head of Long Marsh Run. Granted to Patrick Rice, 14 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 October 1750</span>. For John Madden. 400 acres at Joes hole near the head of Craig Run. Granted to John Madden, 2 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 October 1750</span>. For Jeremiah Wood. 292 acres near the head of Craig Run. Granted to Jeremiah Wood, 19 June 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">27 October 1750</span>. For Robert Ashby. 346 acres on Buck Marsh Run. Granted to Nimrod Ashby, 18 March 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">29 October 1750</span>. For Hannah Southerd. 311 acres on Buck Marsh Run. Granted to Hannah Southerd and Jacob and Samuel Camperlin, 18 October 1757. Grant reissued to Jacob and Samuel Camperlin, 14 February 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">29 October 1750</span>. For Robert Fox. 216 acres on Craig Run. Granted to Bartholomew Anderson, 2 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">30 October 1750</span>. For George Neavil. 400 acres at the head of Buck Marsh Run. Granted to George Neavil, 20 November 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 November 1750</span>. For Marquis Calmes. 1,110 acres at the head of the South Fork of Bullskin Run. Granted to William Calmes, 24 March 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">68 November 1750</span>. For George William Fairfax. Vacant land between the fork of Bullskin Run and the Shenandoah River. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0039" id="GEWN-02-01-02-0004-fn-0039-ptr">39</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">9 November 1750</span>. For Richard Stephenson. 316 acres between the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0027">[27]</span>
+north and south forks of Bullskin Run. Granted to Richard Stephenson, 11 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">10 November 1750</span>. For Augustine Washington. 588 acres near the head of Flowing Springs Run. Granted to John Washington, 18 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 November 1750</span>. For Lawrence Washington. 507 acres at the head of Turkey Run, a branch of Opequon Creek. Granted to Augustine Washington, 17 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 November 1750</span>. For John Lindsey. 223 acres near the head of Buck Marsh Run. Granted to John Lindsey, 25 October 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 November 1750</span>. For Bartholomew Anderson. 1,204 acres on Wheat Spring Branch. Partially resurveyed for Bartholomew Anderson on 21 March 1751. Granted to  Anderson, 5 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 November 1750</span>. For John Lindsey. 660 acres on Long Marsh Run. Granted to John Lindsey, 2 April 1751. Resurveyed for John Lindsey, 30 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 November 1750</span>. For George Johnston. Tract on Cates Marsh and Long Marsh Run. Incomplete survey. Resurveyed for George Johnston on 1 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">22 November 1750</span>. For John Hardin. 340 acres near Long Marsh Run. Granted to Gerard Alexander, 11 November 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 November 1750</span>. For Samuel Worthington. 319 acres between Evitts Run and the North Fork of Bullskin Run. Granted to Samuel Worthington, 10 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 November 1750</span>. For GW. 453 acres near the head of Evitts Run, the tract known as Dutch Georges that GW bought from Thomas Rutherford. Granted to GW, 20 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0040" id="GEWN-02-01-02-0004-fn-0040-ptr">40</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">26 November 1750</span>. For Thomas, Lord Fairfax. 2,060 acres near the head of the South Fork of Bullskin Run. Granted to John Briscoe, 1 March 1768.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">30 November 1750</span>. Benjamin Burdens, Andrew Hamptons, and David Griffiths patent. 1,122 acres on the South Fork of Bullskin Run. 550 acres of this tract were granted to GW on 25 October 1750.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0041" id="GEWN-02-01-02-0004-fn-0041-ptr">41</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 December 1750</span>. Division line between the land of Joshua Haynes and the 456 acres that GW purchased from James McCracken, 34 December 1750. Both tracts on the South Fork of Bullskin Run.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 March 1751</span>. For Thomas Carney. 238 acres near the head of Flowing Springs Run. Granted to Thomas Carney, 23 October 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 March 1751</span>. For George Martin. 385 acres near the head of Long Marsh Run. Granted to Patrick Rice, 9 January 1767.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 March 1751</span>. For Patrick Rice. 300 acres near the head of Long Marsh Run. Granted to George Rice, 7 March 1763.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0028">[28]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 March 1751</span>. For Thomas Lindsey. 318 acres near Long Marsh Run. Granted to Thomas Lindsey, 27 July 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 March 1751</span>. For George Johnston. 467 acres on Long Marsh Run. Granted to George Johnston, c.1 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1751</span>. For William Loftin. 372 acres near Long Marsh Run. Granted to William Loftin, 13 May 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1751</span>. For Abraham Pennington. 600 acres on Wheat Spring Branch. Granted to Abraham Pennington, 1 July 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1751</span>. For Bartholomew Anderson. 30 acres, 1 rood, and 24 perches. Resurvey of part of the 1,204 acres surveyed for Bartholomew Anderson on 18 November 1750 and granted to  Anderson, 5 April 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">22 March 1751</span>. For John Madden. 200 acres near Dry Marsh Run, a branch of Opequon Creek. Granted to Thomas Jones, 13 January 1779.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 March 1751</span>. For Benjamin Grubb. 400 acres near the South Fork of Bullskin Run. Granted to Benjamin Grubb, 28 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 March 1751</span>. For John Grubb. 431 acres on the South Fork of Bullskin Run. Granted to Samuel and William Grubb, 1 September 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 March 1751</span>. For Richard Sanford.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0042" id="GEWN-02-01-02-0004-fn-0042-ptr">42</a> 445 acres between the South Fork of Bullskin Run and Long Marsh Run. Granted to Charles Washington, 20 October 1774.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 March 1751</span>. For Lawrence Washington. 570 acres at the fork of Bullskin Run. Granted to Lawrence Washington, 20 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">29 March 1751</span>. For Thomas Rutherford. 550 acres near Flowing Springs Run. Granted to Thomas Rutherford, 29 August 1751, in an including grant for 2,071 acres.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">1 April 1751</span>. For George William Fairfax. 217 acres on Cates Marsh, a branch of Long Marsh Run. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0043" id="GEWN-02-01-02-0004-fn-0043-ptr">43</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">1 April 1751</span>. For George Johnston. 266 acres on Cates Marsh and Long Marsh Run. Resurvey of survey begun for George Johnston on 21 November 1750. Granted to George Johnston, 1 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1751</span>. For Thomas Loftin. 141 acres near Wheat Spring Branch. Granted to Thomas Loftin, 26 June 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1751</span>. For Samuel Isaac. 360 acres near the head of Craig Run. Granted to George Hendree, 20 December 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 April 1751</span>. For Owen Thomas. 400 acres near the South Fork of Bullskin Run. Granted to Owen Thomas, 8 January 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">3 April 1751</span>. For Mary Johnston. 400 acres between the South Fork of Bullskin Run and Long Marsh Run. Granted to Mary Johnston, 3 April 1752.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0029">[29]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">4 April 1751</span>. For Christopher Beeler. 633 acres near Long Marsh Run. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0044" id="GEWN-02-01-02-0004-fn-0044-ptr">44</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">6 April 1751</span>. For Gersham Keyes. 100 acres near Evitts Run, part of the tract of 1,106 acres that GW surveyed for Lawrence Washington on 24 August 1750 and was granted to Lawrence Washington on 17 October 1750. The 100 acres were conveyed to Gersham Keyes by a deed from Lawrence Washington on 14 August 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">6 April 1751</span>. For Gersham Keyes. 109 acres on Evitts Run. Granted to Gersham Keyes, 25 March 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">68 April 1751</span>. For Michael Sweim. 131 acres on Evitts Run. Granted to Alexander Vance, 10 October 1754.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0045" id="GEWN-02-01-02-0004-fn-0045-ptr">45</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">68 April 1751</span>. For William Davis. 75 acres on Evitts Run. Granted to William Davis, 3 August 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">8 April 1751</span>. Division line between William Davis and Michael Sweim.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">9 April 1751</span>. For GW. 760 acres near the head of the South Fork of Bullskin Run. Granted to GW, 17 March 1752.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0046" id="GEWN-02-01-02-0004-fn-0046-ptr">46</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">9 April 1751</span>. For Benjamin Rutherford. 292 acres between the head of the South Fork of Bullskin Run and Opequon Creek. Granted to George Hyatt, 3 September 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 April 1751</span>. For William Mullin. 247 acres on Mill Branch, a branch of Cacapon River. Granted to Thomas Hollowell, 16 January 1764.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 April 1751</span>. For William Naylor. 269 acres on Cacapon River. Granted to John Arnold, 20 May 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">12 April 1751</span>. For Roger Parke. 351 acres on Cacapon River. Granted to Roger Parke, 5 May 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">13 April 1751</span>. For William Hilbourn. 394 acres on Cacapon River. Granted to Stephen Hotzenbella (Hazenbeler), 20 September 1756.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">13 April 1751</span>. Tract in dispute between Samuel Farrington and William Warden. 400 acres on Cacapon River. Granted to Mary Nisewanger, 21 November 1757.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">15 April 1751</span>. For John Waite. 225 acres on Lick Run, a branch of Cacapon River. Granted to John Waite, 27 September 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">15 April 1751</span>. For Solomon Carpenter. 260 acres on Cacapon River. Granted to John Young, 8 September 1777.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">15 April 1751</span>. For Henry Oldakers (Ouldakers). 347 acres between the meanders that divide the Lost River from Cacapon River. Granted to Henry Oldakers, 4 September 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 April 1751</span>. For Joseph How and Andrew Viney. 416 acres on Lost River. Granted to Stephen Ruddle, 25 March 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">16 April 1751</span>. For John Elswick. 437 acres on Lost River. Granted to Thomas Walter, 18 March 1755.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0030">[30]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 April 1751</span>. For Thomas, Lord Fairfax. 672 acres on North River. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0047" id="GEWN-02-01-02-0004-fn-0047-ptr">47</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 April 1751</span>. For James Steward (Stuart). 250 acres on North River. Granted to David Dederick, 4 April 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 April 1751</span>. For John Ashbrook. 400 acres on North River. Granted to Aaron Ashbrook, 7 April 1777.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">17 April 1751</span>. For Joseph Britain (Briton). 200 acres on North River. Granted to Joseph Britain, 11 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 April 1751</span>. For George Horner. 400 acres on North River. Granted to George Horner, 9 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 April 1751</span>. For Joseph Edwards. 375 acres on North River. Granted to Joseph Edwards, 11 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 April 1751</span>. For William Horner. 292 acres on North River. Granted to Stephen Horner, 26 September 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">18 April 1751</span>. For John Thomas. 400 acres on North River. Granted to John Thomas, 5 April 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 April 1751</span>. For Samuel Kinman. 413 acres on Dillons Run, a branch of Cacapon River. Granted to Isaac Foster, 9 July 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">20 April 1751</span>. For Mathias Elmore. 400 acres on Dillons Run, a branch of Cacapon River. Granted to Mathias Elmore, 8 September 1766.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 April 1751</span>. For Robert Crupper. 225 acres on Little Cacapon River. Granted to James French, 13 May 1767.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 April 1751</span>. For Isaiah Phipps. 247 acres on Little Cacapon River. Granted to Bryan Bruin, 13 July 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">24 April 1751</span>. For Enoch Enoch. 168 acres on Potomac River. Granted to Enoch Enoch, 3 September 1753.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 April 1751</span>. For Daniel Pursley. 230 acres on Potomac River. Granted to Daniel Pursley, 4 January 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 April 1751</span>. For Thomas Wiggins. 185 acres on Potomac River. Granted to Thomas Wiggins, 7 November 1754.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">26 April 1751</span>. For Isaac Dawson. 116 acres on Cacapon River about a mile from its mouth. Granted to Isaac Dawson, 17 November 1757.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">27 April 1751</span>. For George Potts. 421 acres on Mill Branch, a branch of Cacapon River Granted to William Gaddis, 10 December 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">27 April 1751</span>. For Owen Rogers. 260 acres on a branch of Cacapon River. Granted to Owen Rogers, 10 April 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">30 April 1751</span>. For John Lindsey. 750 acres Long Marsh Run. Resurvey of 20 November 1750 survey for John Lindsey. Granted to John Lindsey, 2 July 1751.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">1 May 1751</span>. For Walter Shirley. 311 acres near Cattail Run. Granted to Walter Shirley, 20 June 1751.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0031">[31]</span></li>
+	    <li><span class="hi-italic" style="font-style: italic;">26 February 1752</span>. For Fielding Lewis. 861 acres adjoining the town of Fredericksburg. Conveyed to Fielding Lewis by a deed from Richard Wiatt Royston and his wife Ann Royston on 9 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">11 March 1752</span>. For Gersham Keyes. 420 acres on the Shenandoah River near its mouth. Granted to Gersham Keyes, 5 January 1763.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">13 March 1752</span>. For John McCormick (MacCarmick). 157 acres at the head of the South Fork of Bullskin Run. Granted to John McCormick, 7 July 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 March 1752</span>. For James Caudy. 100 acres on the South Fork of Dillons Run, a branch of Cacapon River. No grant found.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0048" id="GEWN-02-01-02-0004-fn-0048-ptr">48</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">19 March 1752</span>. For George Fout. 800 acres on Dillons Run, a branch of Cacapon River Granted to Casper Rinker, 2 June 1762.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1752</span>. For James Cahoon (Cohoon). 88 acres on Lost River. Granted to Robert Denton, 15 March 1776.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1752</span>. For James Denton. 348 acres on Lost River. Granted to Anthony Miller, 1 August 1780.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1752</span>. For John Dunbar. 295 acres on Lost River. Granted to William Claypole, 15 June 1755.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">21 March 1752</span>. For James Hamilton. On Lost River. No grant found.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 March 1752</span>. For Francis McBride. 270 acres in Frederick County near the line thereof at a place commonly known by the three springs. Granted to Francis McBride, 17 October 1757.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">23 March 1752</span>. For William Warden. 380 acres on North River. Granted to Isaac Hite, 6 November 1770.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">2 April 1752</span>. For Thomas Mullin. 400 acres at the head of Smiths Run, a branch of Cacapon River. Granted to Michael Capper, 6 December 1791.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">25 October 1752</span>. For Robert Johnston. 239 acres on the South Fork of Bullskin Run. Granted to Robert Johnston, 27 April 1753.</li>
+	  </ul>
+<p class="listHead">Undated Surveys Cited in Northern Neck Grants</p><ul class="simple" style="margin-left: 0; text-indent: 1em;">
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 220 acres on Lost River. Granted to James Baker, 20 July 1762.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0049" id="GEWN-02-01-02-0004-fn-0049-ptr">49</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 67 acres near Long Marsh Run. Granted to Christopher Beeler, 10 November 1752.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0050" id="GEWN-02-01-02-0004-fn-0050-ptr">50</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 140 acres on Broad Run.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0051" id="GEWN-02-01-02-0004-fn-0051-ptr">51</a> Granted to George Byrne, 7 September 1750.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 320 acres on Cacapon River. Granted to William Demoss, 5 September 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 200 acres on Cacapon River. Granted to David Edwards, 22 July 1760.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0052" id="GEWN-02-01-02-0004-fn-0052-ptr">52</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 271 acres on Little Cacapon River. Granted to Henry Enoch, 20 February 1761.</li>
+	  </ul>
+ <span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0032">[32]</span>
+
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0033">[33]</span>
+ <ul class="simple" style="margin-left: 0; text-indent: 1em;">
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 170 acres on Hughs Run, a branch of Cacapon River. Granted to Hugh Hughes, 7 November 1766.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0053" id="GEWN-02-01-02-0004-fn-0053-ptr">53</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 63 acres on Cacapon River about a mile above its mouth. Granted to Robert Morris, 6 March 1752.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 260 acres on Hughs Run, a branch of Cacapon River. Granted to Henry Oldakers, 19 January 1761.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 270 acres on Potomac River. Granted to Daniel Osborne, 10 March 1753.<a class="ptr" href="#GEWN-02-01-02-0004-fn-0054" id="GEWN-02-01-02-0004-fn-0054-ptr">54</a></li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 135 acres on Mill Run, a branch of Cacapon River. Granted to John Park, 29 December 1769.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 270 acres on Potomac River. Granted to John Williams, 16 June 1760.</li>
+	    <li><span class="hi-italic" style="font-style: italic;">No date</span>. 121 acres on Potomac River near the mouth of Fifteenmile Creek. Granted to William Williams, 17 June 1760.</li>
+	  </ul>
+</div>
+<div class="docback">
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0001-ptr" id="GEWN-02-01-02-0004-fn-0001">1</a>
+
+   <p>For a comprehensive discussion of surveyors in colonial Virginia society, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Sarah S. Hughes. &lt;i&gt;Surveyors and Statesmen: Land Measuring in Colonial Virginia&lt;/i&gt;. Richmond, 1979. ]">Hughes, <span class="hi-italic" style="font-style: italic;">Surveyors and Statesmen</span></span>, particularly pp. 72, 85, 15665.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0002-ptr" id="GEWN-02-01-02-0004-fn-0002">2</a>
+
+   <p>GWs commission was destroyed when William and Marys library burned on 8 Feb. 1859. For the form, see ibid., pl. 14, p. 96.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0003-ptr" id="GEWN-02-01-02-0004-fn-0003">3</a>
+
+   <p>Lt. Gov. Robert Dinwiddie wrote Lord Fairfax on 6 May 1752: When yr Lordship shall think proper to apoint a private Surveyr that you will please lay your Commands on them to Acct with the Coledge for one Sixth of their receipts, which [I] shall be glad if this proves agreeable to yr own Opinion. The Comissary [college president William Dawson] says he will always have a due regard to any person recommended to the Coledge for their Commission (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>:Dinwiddie Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0004-ptr" id="GEWN-02-01-02-0004-fn-0004">4</a>
+
+   <p>No record has been found that the college authorities examined candidates for county surveyorships before the Revolution, and there is no mention of such examinations in the commission until after 1779.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0005-ptr" id="GEWN-02-01-02-0004-fn-0005">5</a>
+
+   <p>The early court records for Culpeper County have been lost, but the entry relating to GWs surveyorship is printed in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Henry Howe. &lt;i&gt;Historical Collections of Virginia; Containing a Collection of the Most Interesting Facts, Traditions, Biographical Sketches, Anecdotes, &amp;amp;c&lt;/i&gt;. 1845. Reprint. Baltimore, 1969. ]">Howe, <span class="hi-italic" style="font-style: italic;">Historical Collections of Virginia</span></span>, 237: 20th July, 1749, (O.S.) G<span class="hi-small-caps" style="font-variant: small-caps;">eorge</span> W<span class="hi-small-caps" style="font-variant: small-caps;">ashington, gent.</span>, produced a commission from the President and Master of William and Mary College, appointing him to be surveyor of this county, which was read, and thereupon he took the usual oaths to his majestys person and government, and took and subscribed the abjuration oath and test, and then took the oath of surveyor, according to law. No county courthouse having yet been built, the Culpeper justices met in temporary quarters, probably Robert Colemans house near the site of the present-day town of Culpeper.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0006-ptr" id="GEWN-02-01-02-0004-fn-0006">6</a>
+
+   <p>The early Culpeper deeds, which have also been almost totally lost, may have contained some deeds and divisions for the period 174950 based on GW surveys, although it is unlikely that there were many. There is no evidence to support the local tradition that on 24 July 1749 GW laid off the town of Washington, Va., the site of which was then in Culpeper County, but he did draw a plat of the new town of Alexandria sometime apparently during the summer or fall (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, Washington, D.C. ]">DLC</span>: Geography and Map Division). From the fall of 1749
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0034">[34]</span>
+through the spring of 1752 GW spent the best weeks of the year for surveying west of the Blue Ridge, and there is no evidence that he returned to Culpeper County during that time, except possibly for a brief visit in late May 1750.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0007-ptr" id="GEWN-02-01-02-0004-fn-0007">7</a>
+
+   <p>List of County Surveyors1757, <span class="hi-italic" style="font-style: italic;">Virginia Magazine</span>, 50 (1942): 36869. Henry Lee could be Henry Lee (17291787) of Leesylvania, in Prince William County, but cannot be definitely identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0008-ptr" id="GEWN-02-01-02-0004-fn-0008">8</a>
+
+   <p>For a list of known assistant surveyors for Frederick County in the colonial period, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Sarah S. Hughes. &lt;i&gt;Surveyors and Statesmen: Land Measuring in Colonial Virginia&lt;/i&gt;. Richmond, 1979. ]">Hughes, <span class="hi-italic" style="font-style: italic;">Surveyors and Statesmen</span></span>, 169, 171.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0009-ptr" id="GEWN-02-01-02-0004-fn-0009">9</a>
+
+   <p>GW sometimes included the cost of the warrant in the fees that he charged the person for whom he surveyed, indicating either that he had advanced the money for the warrant when it was issued to him or, more likely, that he paid the warrant fee on behalf of the warrantee when the survey and warrant were returned to the proprietary land office. See GWs accounts with John Welton and William Miller in his private accounts, 10 Sept. 17471765, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 3, 5, and 6, both <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0010-ptr" id="GEWN-02-01-02-0004-fn-0010">10</a>
+
+   <p>GW may have used the set of surveying instruments that had belonged to his father. See George H. S. King, Washingtons Boyhood Home, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The William and Mary Quarterly: A Magazine of Early American History&lt;/i&gt;. Williamsburg, Va. ]"><span class="hi-italic" style="font-style: italic;">WMQ</span></span>, 2d ser., 17 (1937): 271. On the Fort Necessity Campaign of 1754, GW had a good theodolite. See <a href="default.xqy?keys=GEWN-print-02-01-02-0125&amp;expandNote=GEWN-02-01-02-0125-fn-0004#GEWN-02-01-02-0125-fn-0004" class="document">GW to Carter Burwell, 20 April 1755, n.4</a>. In 1761 GW received from England an 18inch circumferentor costing 4 10s., a strong chain costing 7s. 6d., and a lodestone costing 2 5s. (Invoice of goods sent to GW by Robert Cary &amp; Co., Mar. 1761, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0011-ptr" id="GEWN-02-01-02-0004-fn-0011">11</a>
+
+   <p>Lonem did not work with GW in the summer or fall of 1750 but carried the chain for him on about half of his surveys in the fall of 1749 and the springs of 1751 and 1752 and on nearly all of his surveys in the spring of 1750. On 21 Mar. 1752 GW gave Lonem 5s. for Carrying the Chain round 2 Tracts of Land (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 6, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0012-ptr" id="GEWN-02-01-02-0004-fn-0012">12</a>
+
+   <p>Magnetic bearings were not commonly corrected in Virginia until after 1772.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0013-ptr" id="GEWN-02-01-02-0004-fn-0013">13</a>
+
+   <p>GWs use of this procedure is indicated by the words from thence to the beginning found near the end of many of his field-book entries, especially among the earlier ones. On some occasions GW added the bearings and lengths as he later determined them to the field-book entry, but many times he did not. They always appear in the finished surveys, however.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0014-ptr" id="GEWN-02-01-02-0004-fn-0014">14</a>
+
+   <p>The field-book entries for 1749 do not include acreages but do have some plats. GW left blank pages in the book opposite each of those entries for plats, but there are only two finished field-book plats: one of the 22 July 1749 survey for Richard Barnes in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Cornell University, Ithaca, N.Y. ]">NIC</span> and one of the 7 Nov. 1749 survey for Joseph How on p. 20 of GWs 22 July 17493 Nov. 1750 field book in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. An unfinished plat of the 1 Nov. 1749 survey for Edward Hogan and the 2 Nov. 1749 survey for James Hamilton appears on page 6 of that field book, and on page 32 there is a partial plat of the 10 Nov. 1749 survey for Samuel Baker. GW stopped leaving blank pages for plats in his field books after 1749.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0015-ptr" id="GEWN-02-01-02-0004-fn-0015">15</a>
+
+   <p>GW purchased the Gunters scale from Bailey Washington for 1s. 3d. on 20 Sept. 1749 (GWs Private Accounts, 10 Sept. 17471765, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Morristown National Historical Park, Morristown, N.J. [[former abbreviation: NjMoHP]] ]">NjMoHP</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0016-ptr" id="GEWN-02-01-02-0004-fn-0016">16</a>
+
+   <p>The platted survey, owned by <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pequot Library Association, Southport, Conn. ]">CtSoP</span>, is on deposit at <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Yale University, Sterling Memorial Library, New Haven, Conn. ]">CtY</span>.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0035">[35]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0017-ptr" id="GEWN-02-01-02-0004-fn-0017">17</a>
+
+   <p>GW used the signature GWashington, written in a stylized manner, on most of his surveys through the spring of 1751. In the springs of 1751 and 1752, however, he also began using a less stylized G: Washington with some frequency, and his final survey in the fall of 1752 is signed with his familiar Go: Washington signature. Only the 20 July 1749 survey for Richard Barnes is signed with his full name. The field-book entries are not signed.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0018-ptr" id="GEWN-02-01-02-0004-fn-0018">18</a>
+
+   <p>GW tried to have Mullins tract granted to him after the Revolution. For making this survey, <a href="default.xqy?keys=GEWN-print-04-05-02-0367" class="document">GW wrote to James Wood on 29 Oct. 1787</a>, I received no compensation. Indeed at <span class="hi-italic" style="font-style: italic;">that</span> time it was done, the Land was (by others) thougt inadequate to the Feeand that Mullen was a madman. Soon after this Mullen, who was a single man, and I believe without connections, ran away and finding no prospect of getting paid by him I caveated the Land intending if no near or better claiment should appear to obtain a patent in my own name (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). Mullin, however, eventually reappeared and on 8 Nov. 1790 assigned his rights to the land to Michael Capper.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0019-ptr" id="GEWN-02-01-02-0004-fn-0019">19</a>
+
+   <p>See GWs 10 April 1750 survey of a vacant lot, 68 Nov. 1750 survey for George William Fairfax, 21 Mar. 1751 survey for Bartholomew Anderson, 1 April 1751 survey for George William Fairfax, 4 April 1751 survey for Christopher Beeler, 17 April 1751 survey for Lord Fairfax, and 19 Mar. 1752 survey for James Caudy.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0020-ptr" id="GEWN-02-01-02-0004-fn-0020">20</a>
+
+   <p>Some assignments and bills of sale for GW surveys can be found in the public land office records at <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>. One GW survey, made for Solomon Carpenter on 15 April 1751, was assigned four times before it was finally granted. See the grant of 8 Sept. 1777 to John Young, in Northern Neck Grants, Book Q, 194, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>. Transfers of ownership also are often noted on the backs of surveys. For the practice of holding lands by surveys in Virginia, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Sarah S. Hughes. &lt;i&gt;Surveyors and Statesmen: Land Measuring in Colonial Virginia&lt;/i&gt;. Richmond, 1979. ]">Hughes, <span class="hi-italic" style="font-style: italic;">Surveyors and Statesmen</span></span>, 12627.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0021-ptr" id="GEWN-02-01-02-0004-fn-0021">21</a>
+
+   <p>Lord Fairfaxs advertisement appears at the beginning of Northern Neck Grants, Book N, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>. Grantees usually paid a composition fee for every 100 acres granted plus office charges.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0022-ptr" id="GEWN-02-01-02-0004-fn-0022">22</a>
+
+   <p>See accounts for Richard Barnes, John Welton, William Miller, and Darby McKeever in GWs private accounts, 10 Sept. 17471765, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 1, 36, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. GWs charges for the four surveys of more than 1,000 acres that he ran have not been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0023-ptr" id="GEWN-02-01-02-0004-fn-0023">23</a>
+
+   <p>The several surveys made for GWs own use between 1749 and 1752 are omitted as are a few incomplete surveys. GWs fee for Thomas Mullins survey of 2 April 1752 was written off as a loss (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 6, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>), and a few others were late in being paid.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0024-ptr" id="GEWN-02-01-02-0004-fn-0024">24</a>
+
+   <p>In the fall of 1750 GW obtained 453 acres near the head of Evitts Run by grant and 550 acres on the South Fork of the Bullskin by a combination of purchase and grant. In Mar. 1752 he bought 552 acres on the South Fork of Bullskin and was granted another 760 acres there.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0025-ptr" id="GEWN-02-01-02-0004-fn-0025">25</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-01-02-0021" class="document">GW to Robert Dinwiddie, 10 June 1752</a>, and Commission as Adjutant for Southern District, 13 Dec. 1752.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0026-ptr" id="GEWN-02-01-02-0004-fn-0026">26</a>
+
+   <p>NIC has the title page and 22 July 1749 survey for Richard Barnes; <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Historical Society of Pennsylvania, Philadelphia ]">PHi</span> has the 3 Nov. 1749 survey for Francis McBride in its Dreer Collection.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0036">[36]</span>
+Not found are the 1 Nov. 1749 survey for Edward Hogan and the 6 Nov. 1749 survey for James Scott. The two field books in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> respectively cover the dates 22 July 1749 to 3 Nov. 1750 and 6 Nov. 1750 to 1 May 1751.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0027-ptr" id="GEWN-02-01-02-0004-fn-0027">27</a>
+
+   <p>PHi has the 9 Nov. 1749 survey for Barnaby McHendry and the 10 Nov. 1749 survey for William Baker.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0028-ptr" id="GEWN-02-01-02-0004-fn-0028">28</a>
+
+   <p><span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> also has a list of 1752 entries for lands in GWs hand. These were claims for land made before issuance of warrants. Apparently none were ever surveyed by GW.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0029-ptr" id="GEWN-02-01-02-0004-fn-0029">29</a>
+
+   <p>The 26 Feb. 1752 survey for Fielding Lewis was found in the Spotsylvania County Deeds, Book E, 4649, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> Microfilm, and the 21 Mar. 1752 survey for James Cahoon in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 6, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0030-ptr" id="GEWN-02-01-02-0004-fn-0030">30</a>
+
+   <p>The editors are indebted to G. L. Geertsema of Martinsburg, W.Va., for assistance in platting the surveys.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0031-ptr" id="GEWN-02-01-02-0004-fn-0031">31</a>
+
+   <p>Flat Run, a branch of Mountain Run, is in Culpeper County.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0032-ptr" id="GEWN-02-01-02-0004-fn-0032">32</a>
+
+   <p>The grants for John Dunbar, John Elswick, Joseph How, Andrew Viney, Luke Collins, Barnaby McHendry, and William Warden are dated 1750 in Book G of the Northern Neck Grants, but it is clear from their context that they should be dated 1751. See Northern Neck Grants, Book G, 53038, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> Microfilm.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0033-ptr" id="GEWN-02-01-02-0004-fn-0033">33</a>
+
+   <p>GWs omission of the words Plat drawn from the field-book entry for this survey indicates that he did not finish it for submission to the proprietors office.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0034-ptr" id="GEWN-02-01-02-0004-fn-0034">34</a>
+
+   <p>GW incorrectly dated the finished surveys for both George Nixon and James Warden. Nixons survey, according to GWs field book, was run on 14 April 1750, but in its finished form it is dated 14 June 1750 (survey sold by Sotheby Parke Bernet, 28 April 1981, lot 180). Wardens survey, which is dated 16 April 1750 in the field book, was finished with a 16 June 1750 date (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Princeton University, Princeton, N.J. ]">NjP</span>: De Coppet Collection).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0035-ptr" id="GEWN-02-01-02-0004-fn-0035">35</a>
+
+   <p>The three tracts of land included in the surveys of 20 Aug. 1750 were run in the field as one tract of 810 acres for William Davis and Richard Stephenson. See GWs Survey Field Book, 174950, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0036-ptr" id="GEWN-02-01-02-0004-fn-0036">36</a>
+
+   <p>The three tracts of land included in the surveys of 21, 22, and 23 Aug. 1750 for Lawrence Washington were run in the field as one tract for Lawrence Washington between 21 and 23 Aug. 1750. See ibid.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0037-ptr" id="GEWN-02-01-02-0004-fn-0037">37</a>
+
+   <p>The two tracts of land included in the surveys of 24 and 25 Aug. 1750 for Lawrence Washington and the one in the 25 Aug. 1750 survey for Augustine Washington were run in the field as one tract for Lawrence Washington between 24 and 25 Aug. 1750. See ibid.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0038-ptr" id="GEWN-02-01-02-0004-fn-0038">38</a>
+
+   <p>The grants for Thomas Loftins 17 Oct. 1750 survey, Richard Stephensons 9 Nov. 1750 survey, Lawrence Washingtons 12 Nov. 1750 survey, and John Lindseys 17 Nov. 1750 survey were antedated by proprietary officials, being part of a large group of grants that appear to have been arbitrarily assigned October and November dates. See Northern Neck Grants, Book G, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> Microfilm.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0039-ptr" id="GEWN-02-01-02-0004-fn-0039">39</a>
+
+   <p>There is no indication in the field-book entry that the plat was drawn for this survey.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0040-ptr" id="GEWN-02-01-02-0004-fn-0040">40</a>
+
+   <p>George Byrne is named as the surveyor in the grant. This fact and the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0037">[37]</span>
+20 Oct. 1750 grant date suggest that Byrne made an earlier survey and that GW was merely checking the lines on 24 Nov. However, the field-book entry is marked Plat drawn, indicating that GW made a finished survey suitable to be submitted for a grant.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0041-ptr" id="GEWN-02-01-02-0004-fn-0041">41</a>
+
+   <p>GW purchased 456 acres of this old patent from James McCraken on 34 Dec. 1750 and added about 93 acres of adjoining but previously ungranted land for an including grant of 550 acres that was dated 25 Oct. 1750. No surveyor is named in the grant.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0042-ptr" id="GEWN-02-01-02-0004-fn-0042">42</a>
+
+   <p>GW wrote Lord Fairfax on 4 Feb. 1773 that this tract was surveyed for Lawrence Washington in the name of Richard Sanford (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0043-ptr" id="GEWN-02-01-02-0004-fn-0043">43</a>
+
+   <p>The field-book entry is marked P.D. (plat drawn) and Copyd.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0044-ptr" id="GEWN-02-01-02-0004-fn-0044">44</a>
+
+   <p>The field-book entry is marked Copyd. Beeler received a grant based on another GW survey for 67 acres adjoining this tract on 10 Nov. 1752.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0045-ptr" id="GEWN-02-01-02-0004-fn-0045">45</a>
+
+   <p>On 6 April 1751 GW ran a tract of 206 acres for William Davis and Michael Sweim, and on 8 April he divided it between the two men. See GWs Survey Field Book, 175051, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0046-ptr" id="GEWN-02-01-02-0004-fn-0046">46</a>
+
+   <p>John Baylis is named as surveyor in the grant, but GW notes in the field book that he copied the survey, presumably in finished form.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0047-ptr" id="GEWN-02-01-02-0004-fn-0047">47</a>
+
+   <p>There are two copies of the finished survey in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>, one of which has the notation Entd in folio 9.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0048-ptr" id="GEWN-02-01-02-0004-fn-0048">48</a>
+
+   <p>The finished survey in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> has the notation Paid <img class="char" src="images/char-per-trans.png" alt="[per]"/> Robert Pugh Novr 23, 1760, but those words are struck out, indicating that the land was not granted to Pugh. There is no other indication of the final disposition of the tract.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0049-ptr" id="GEWN-02-01-02-0004-fn-0049">49</a>
+
+   <p>This land adjoined the tract that GW surveyed for William Warden on 11 Nov. 1749.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0050-ptr" id="GEWN-02-01-02-0004-fn-0050">50</a>
+
+   <p>This land adjoined the tract that GW surveyed for Christopher Beeler on 4 April 1751 and the one for John Hardin on 22 Nov. 1750.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0051-ptr" id="GEWN-02-01-02-0004-fn-0051">51</a>
+
+   <p>Broad Run, a branch of Occoquan Creek, flows through Prince William and Fauquier counties.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0052-ptr" id="GEWN-02-01-02-0004-fn-0052">52</a>
+
+   <p>This land adjoined the tracts that GW surveyed for David and Thomas Edwards on 30 Mar. 1750.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0053-ptr" id="GEWN-02-01-02-0004-fn-0053">53</a>
+
+   <p>This land adjoined the tract that GW surveyed for Hugh Hughes on 3 April 1750.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-01-02-0004-fn-0054-ptr" id="GEWN-02-01-02-0004-fn-0054">54</a>
+
+   <p>This land adjoined the tract that GW surveyed for Daniel Pursley on 25 April 1751.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-01-02-0004 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 1 (7 July 174814 August 1755)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0003" title="To Lawrence Washington, 5 May 1749"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0005" title="To Ann Fairfax Washington, SeptemberNovember 1749"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

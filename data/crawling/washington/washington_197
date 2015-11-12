@@ -1,0 +1,187 @@
+II. Instructions from Robert Dinwiddie, 14 August 1755
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>II. Instructions from Robert Dinwiddie, 14 August 1755</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-02-02-0001-0003&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1755-08-14-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-02-02-0001&amp;mode=TOC" title="Appointment as Colonel of the Virginia Regiment"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0004" title="III. Memorandum from Robert Dinwiddie, 14 August 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-02&amp;mode=TOC">Volume 2 (14 August 175515 April 1756)</a>&gt; <a href="?keys=GEWN-print-02-02-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-02-02-0001&amp;mode=TOC">Appointment as Colonel of the Virginia Regiment</a>&gt; II. Instructions from Robert Dinwiddie, 14 August 1755</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-02-02-0001-0003&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0004" title="III. Memorandum from Robert Dinwiddie, 14 August 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0004">4</span><div id="Col02d3" class="doc">
+
+<h2>II. Instructions from Robert Dinwiddie</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Williamsburg August 14th 1755</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-indent: 0;">Instructions for Colonel George Washington Commander in Chief of the Virginia Regiment.</p>
+<p>Whereas the French have unjustly invaded His Majestys Lands on the Ohio, and have sent flying Parties of French and Indians, to robb, and murder our back Settlers to the Westward, which the Legislature of this Dominion having seriously taken into their Consideration, and voted Money for the Protection of our Frontiers, and for conducting the necessary Expedition to drive the French from the Ohio.<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0001" id="GEWN-02-02-02-0001-0003-fn-0001-ptr">1</a> In Consequence thereof, I have granted Commissions for raising Sixteen Companies of Men to be formed into a Regiment<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0002" id="GEWN-02-02-02-0001-0003-fn-0002-ptr">2</a>The Command of which Regiment, together with the Forces that now are, or
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0005">[5]</span>
+may be employd in the Country Service, being given to You; You are as soon as possible to use Your utmost Endeavours to compleat the said Regiment by sending the Officers to recruit in the different Counties of this Dominion, as You shall see most Convenient, leaving six Officers to do Duty with the Men who remain at Fort Cumberland.<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0003" id="GEWN-02-02-02-0001-0003-fn-0003-ptr">3</a></p>
+<p>As it will facilitate the Recruiting Service to have the Regiment seperated You are to divide <span class="hi-italic" style="font-style: italic;">them</span> in three Places vizt at Winchester, Alexandria, and Fredericksburg, at each of which Places a Field Officer is to reside to receive such Recruits as are fit for the Service which shall be sent by the Officers in his Division. As Winchester is the nighest Place of rendezvous to the Country which is exposed to the Enemy, You are hereby required to make that Your head Quarters.<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0004" id="GEWN-02-02-02-0001-0003-fn-0004-ptr">4</a></p>
+<p>The Clothing of the Regiment is to be provided by the Country, &amp; to be sent to You, in order to be delivered to the Effective Men of each Company.</p>
+<p>The Men to be regularly paid their full Subsistance without any Deductions excepting two Pence <img class="char" src="images/char-per-trans.png" alt="[per]"/> Month from each Non-Commissioned Officer and Private Man, for the Surgeon to purchase Medicines; this Money to be stopd by the Pay Master and to be paid to the Surgeon Quarterly: As also Six Pence <img class="char" src="images/char-per-trans.png" alt="[per]"/> Month from the Drummers, to be paid to the Drum Major, to repair the Drums and teach the Drummers. You are hereby required to preserve good Order and Discipline among the Officers and Private Men of the Regiment under Your Command, and to conform Yourself in every Respect to the Rules and Articles of War.</p>
+<p>You are to transmit to me Weekly Returns of the Regiment and a Return the first Day of every Month, with the Variations that may have happened the preceding Month.<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0005" id="GEWN-02-02-02-0001-0003-fn-0005-ptr">5</a> When any of the Non-Commissioned Officers, or Private Men should happen to die, they are to be continued on the Returns and Rolls as Effective Men for Twenty eight Days to pay for his Coffin, that the Commander of the Company may be no Losser by his Death.</p>
+<p>It is strictly recommended to You that You take particular Care that no Officer, Commanding a Company shall supply their Men with Necessaries, deducting the Price out of the Mens Pay, they are only to take Care to see the Men lay out
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0006">[6]</span>
+their Money in purchasing what they may stand in need of, And in order that the Men may not suffer for want of those Necessaries; You are hereby impowered to contract with any Person or Persons, to supply the Camp with such necessary Cloathing &amp;ca as is requisite.</p>
+<p>You are also impowered to purchase suitable Goods for the Indians, and to offer them Presents in such Manner and at such Times as You shall think adviseable, either for attaining their Interest or promoting the Service.</p>
+<p>You will be entrusted with a Military Chest which you are to use as You see the Nature and Good of the Service requires.<a class="ptr" href="#GEWN-02-02-02-0001-0003-fn-0006" id="GEWN-02-02-02-0001-0003-fn-0006-ptr">6</a></p>
+<p>As it will be necessary in order to facilitate any Measures that may be taken next Spring, to lay in Stores of Provisions &amp;ca &amp;ca at Fort Cumberland, or some other convenient Place; and to make all the necessary Advances that the Season, and other Conveniences will admit, You are hereby Ordered to take such Steps to do it as Your own Prudence or my further Orders shall direct.</p>
+<p>As an Aid de Camp, and Secretary are necessary to ease the Duty of Your Command; I do hereby invest You with full Power and Authority to appoint and Commission such Person and Persons as You shall think most advisableAnd as Mr Dick has declared his Intentions of declining any further Services as Commissary, I also empower You to appoint a Commissary in his room, together with an Adjutant, Quarter Master, and such other inferior Officers as You shall find absolutely necessary to carry on the Service with Spirit and Vigour.</p>
+<p>And as the Conduct and Success of the whole must entirely Depend upon the good Regulation and Discipline of the Forces which cannot be attained but by a due and proper Exertion of the Military Law.</p>
+<p>You are therefore in every Respect, to conform Your self to the Rules and Articles of War herewith given You, for which I will see You justified in the just and due Conformance thereto.</p>
+<p>I sincerely desire that You will inculcate Morality and Virtue among Your Men, to punish Drunkenness and SwearingWishing You Health &amp; recommending You to the Protection of God, I am Sir Your Friend and humble Servant.</p>
+<div class="closer">
+<p class="signed">Robt Dinwiddie</p>
+</div>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0007">[7]</span>
+<div class="note-source" id="GEWN-02-02-02-0001-0003-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document Signed: a document not in the authors handwriting, but signed by the author  ]">DS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0001-ptr" id="GEWN-02-02-02-0001-0003-fn-0001">1</a>
+
+   <p>An Act for raising the sum of forty thousand pounds, for the protection of his majestys subjects on the frontiers of this colony (6 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 52130).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0002-ptr" id="GEWN-02-02-02-0001-0003-fn-0002">2</a>
+
+   <p>Dinwiddie had certainly not commissioned all 16 captains by 14 Aug., but he may have done so by 1 Sept., before GW assumed command. See <a href="default.xqy?keys=GEWN-print-02-02-02-0001" class="document">GWs Appointment as Colonel of the Virginia Regiment, 14 Aug. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0003-ptr" id="GEWN-02-02-02-0001-0003-fn-0003">3</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-02-02-0005" class="document">GWs General Instructions, 13 Sept.</a>, <a href="default.xqy?keys=GEWN-print-02-02-02-0006" class="document">his Memorandum, 3 Sept.</a>, and <a href="default.xqy?keys=GEWN-print-02-02-02-0034" class="document">his Orders at Fort Cumberland of 17</a> and <a href="default.xqy?keys=GEWN-print-02-02-02-0038" class="document">18 Sept. 1755</a> for the early steps that he took to complete the regiment and to maintain the small garrison at Fort Cumberland.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0004-ptr" id="GEWN-02-02-02-0001-0003-fn-0004">4</a>
+
+   <p>GW initially ordered Maj. Andrew Lewis (6 Sept.) to be receiving officer at Fredericksburg and Lt. Col. Adam Stephen (11 Sept.) to be the same at Alexandria, but the pressure of events soon altered these arrangements. See <a href="default.xqy?keys=GEWN-print-02-02-02-0081" class="document">GW to Andrew Lewis,</a> and <a href="default.xqy?keys=GEWN-print-02-02-02-0082" class="document">to Thomas Waggener, both 8 Oct. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0005-ptr" id="GEWN-02-02-02-0001-0003-fn-0005">5</a>
+
+   <p>Lt. Col. Adam Stephen made his first return of the Virginia Regiment at <a href="default.xqy?keys=GEWN-print-02-02-02-0045" class="document">Fort Cumberland to GW on 18 Sept. 1755</a>, and Capt. Peter Hogs first weekly return of the 1st company, at Fort Dinwiddie, is dated 29 Sept. 1755.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0001-0003-fn-0006-ptr" id="GEWN-02-02-02-0001-0003-fn-0006">6</a>
+
+   <p>The records of the committee appointed to supervise military expenditures under the terms of the act for raising 40,000 (see <a href="default.xqy?keys=GEWN-print-02-01-02-0180&amp;expandNote=GEWN-02-01-02-0180-fn-0001#GEWN-02-01-02-0180-fn-0001" class="document">Philip Ludwell to GW, 8 Aug. 1755, n.1</a>) have not been found, but GW was provided with a copy of the committees resolutions of 811 Nov. 1755, which included a resolution that began resolved That the sum of 10,000 be lodged in the hands of Colonel George Washington as a Military Chest and went on to indicate for what the money was to be spent (<a href="default.xqy?keys=GEWN-print-02-02-02-0166" class="document">Memorandum from Committee to Supervise Military Expenditures to GW, 811 Nov. 1755</a>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-02-02-0001-0003 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 2 (14 August 175515 April 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0001-0002" title="I. Commission, 14 August 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0001-0004" title="III. Memorandum from Robert Dinwiddie, 14 August 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

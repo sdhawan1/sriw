@@ -1,0 +1,171 @@
+From Josiah Quincy, 27 November 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Josiah Quincy, 27 November 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0400&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-11-27-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0399" title="To Richard Henry Lee, 27 November 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0401" title="To Lieutenant Colonel Joseph Reed, 27 November 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; From Josiah Quincy, 27 November 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0400&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0399" title="To Richard Henry Lee, 27 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0401" title="To Lieutenant Colonel Joseph Reed, 27 November 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0437">437</span><div id="Rev02d373" class="doc">
+
+<h1>From Josiah Quincy</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">May it please your Excellency,</td>
+		<td class="salutationRight">Braintree [Mass.]<br/> Novr 27th 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>Since I was honoured, with your Excellencys obliging Answer to my Letter of the 31st Ulto,<a class="ptr" href="#GEWN-03-02-02-0400-fn-0001" id="GEWN-03-02-02-0400-fn-0001-ptr">1</a> the Question has often occurred to my Mind, whether, Row Gallies might not be as advantageously employed, in the Harbor of Boston, as in the River Delaware? and the more I have thought upon the Subject, the more I am confirmed in the Opinion that they may.</p>
+<p>The Quantities of Provision that, in the Course of the Summer past, have been transported in Whaleboats from Barnstable, Sandwich, and Plymouth, for the use of the Army: The Successfull Excursions to the Lighthouse and other Islands, by Detachments from the Companies posted to gaurd the Shores, and especially, the numerous Captures by our <span class="hi-italic" style="font-style: italic;">armed Cruisers</span>, are striking Proofs of the Utility of a <span class="hi-italic" style="font-style: italic;">well directed</span> Naval Force.</p>
+<p>Soon after the Whaleboats were procured, <span class="hi-italic" style="font-style: italic;">Majr Tupper</span> was so sure of the Advantages to be made of them, that he repeatedly said, if he might have the Command of as <span class="hi-italic" style="font-style: italic;">many</span> of them, as could be conveniently navigated by one hundred Men, with Ammunition and Provision at the publick Charge, he desired no other Reward for himself and Men, than what he could get from the Enemy: The Difficulties under which the Army then laboured, was, doubtless, the Reason why he was not attended to: Could his Terms have been complyed with, the amount of his and his Mens Wages would, not only have <span class="hi-italic" style="font-style: italic;">ballanced</span> the Cost of the Boats and Provision; but have been a Saving of some <span class="hi-italic" style="font-style: italic;">Hundreds</span> to the Publick, besides annoying and weakening the Enemy, and adding to our Strength, in Proportion to the Success of the Enterprizes in which he had engaged: His Men insted of living in Idleness, the Parent of every Vice, would have
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0438">[438]</span>
+been in Action, whenever the Wind and Weather permitted, and at the same Time, a more effectual Gaurd to the Inhabitants, than if they had been on Shore; as the Enemy would have been very cautious of landing, least their Retreat should be cut off.</p>
+<p>Permit me now, Sir! to enumerate some Atchievements that may, probably, be made, and some Advantages that, I think must arise, if the same Number of Men, or a greater Number than were this Year appointed, to gaurd the Shores from Cohasset, to Squantum Neck inclusively, were, the next year to be employed, under brave and experienced Commanders, in Row Gallies judiciously constructed, mannd, and armed; with attendant Whaleboats, built square sternd, a swivel Gun fixed in the Bow of each, and to row, each, with eight Oars. And,</p>
+<p>1. As our Navigation is in a Manner annihilated, the Crews, being Seamen, may be more easily procured, than so many Soldiers, and being collected at a Distance from the Places of their usual Abode, they will not be so likely to desert, may be better disciplined, and kept more steddily to their Duty.</p>
+<p>2. By keeping them as much as possible on ship board, to the Exercise of their Oars and Arms, in sham Engagements, whenever the Weather will permit, they will be preserved from Idleness, and have little or no Opportunity to do Mischief on Shore.</p>
+<p>3. If the Gallies are constructed to row and sail swift, they may take or leave at Pleasure; and consequently, in light airs of Wind or a Calm, every Cutter, Transport, or Merchantman, found without Convoy may be easily taken: And I am not able to foresee any thing to hinder, their united Efforts making Prize of a 20 Gun Ship when becalmed, especially in the Night, and within the Limits of the Harbour.</p>
+<p>4. Since I began this Letter, I have been attentively considering, the Situation of the Ships of War and Transports now lying in Nantasket Road: of the Rocks and Islands within point blank Shot of them; and I am not only convinced my Self, but, I am perswaded, upon Inspection, your Excellency woud be also convinced, that, a given Number of Row Gallies, with heavy Cannon and brave Commanders, might force them to leave the Road, or make a watery Grave for them where they lye. Be assured, Sir! this is not a <span class="hi-italic" style="font-style: italic;">Chimera</span>.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0439">[439]</span>
+<p>5. Were our Enemies forced to abandon Nantasket Road, might not the Narrows be immediately stopped, with Machines formed agreable to the enclosed Draft,<a class="ptr" href="#GEWN-03-02-02-0400-fn-0002" id="GEWN-03-02-02-0400-fn-0002-ptr">2</a> or any other esteemed more eligible? Should they attempt to prevent it, by fortifying the adjacent Islands, they must divide their Force, and consequently, be so much weaker elsewhere.</p>
+<p>6. Were Vessels of superior Force, to pursue our Row Gallies without the Lighthouse, as they ought never to go far from Shore, they may easily escape into Cohasset, or Scituate, which are inaccessible by Vessels of any considerable Draught of Water: If pursued within the Harbor, they may soon run out of Danger into shoal Water, where, shoud the Enemy follow, they might by runing a ground, insted of being <span class="hi-italic" style="font-style: italic;">Captors</span> become a Prize.</p>
+<p>7. Should your Excellency determine upon fortifying Nantasket or any of the Islands, every thing necessary for the Purpose, may be shiped on board the Row Gallies, and transported wherever they are wanted, with little or no Hazard of being intercepted by the Enemy.</p>
+<p>Upon the Whole: Permit me Sir, to conclude as I began, that, the more I contemplate the Subject, the more I am confirmed in the Opinion, that Row Gallies may be as advantageously employed in the Harbor of Boston as in the River Delaware: If the same Conclusion for the Reasons above assigned, should be the Result of your Excellencys Deliberations upon the Subject, and you should determine upon building a Number of them; the sooner the Places where they are to be built, are pitched upon; the Materials collected, and the Tradesmen contracted with, the greater the Probability of their being finished by the Time they are wanted: On the contrary: If your Excellency should view the Subject in a different Light, and the Result of your Deliberations upon it should be the reverse of mine; I am all Submission; and only beg, that, the Rectitude of my Intentions may, at least, secure your Excellencys favourable Opinion of, Your obliged and faithfull humble Servant</p>
+<div class="closer">
+<p class="signed">Josiah Quincy</p>
+</div>
+<div class="postscript">
+<p>P:S: I forgot to observe that some of the Advantages of attendant Whaleboats woud be making sudden Excursions in
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0440">[440]</span>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0441">[441]</span>
+  
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0442">[442]</span>
+Calms upon unarmed Vessels; preventing their Crews from escaping in Boats, and towing the Gallies whenever they wanted Assistance.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-02-02-0400-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Gilder Lehrman Collection, on deposit at the New-York Historical Society, New York ]">NNGL</span>: Knox Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0400-fn-0001-ptr" id="GEWN-03-02-02-0400-fn-0001">1</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-02-02-0277" class="document">GW to Quincy, 4 Nov. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0400-fn-0002-ptr" id="GEWN-03-02-02-0400-fn-0002">2</a>
+
+   <p>Quincy enclosed drafts of two machines. See fig. 4.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0400 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0399" title="To Richard Henry Lee, 27 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0401" title="To Lieutenant Colonel Joseph Reed, 27 November 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,126 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0063-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0063&amp;mode=TOC" title="Clarendon to William Pym: 1327 January 1766"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0063-0002" title="I. The Earl of Clarendon to William Pym, 13 January 1766"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0063&amp;mode=TOC">Clarendon to William Pym: 1327 January 1766</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0063-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0063-0002" title="I. The Earl of Clarendon to William Pym, 13 January 1766"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0155">155<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0155.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d083" class="docgroup_front">
+
+     <h2>Editorial Note</h2>
+     <div class="docbody">
+      <p>In January 1766 John Adams, signing himself Clarendon, published three letters in the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span> in reply to William Pym, who had published four letters in the <span class="hi-italic" style="font-style: italic;">London Public Ledger</span>, 13, 19, 26, 30 August 1765. Only the second of Pyms letters was reprinted by a Boston newspaper, the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span>, 25 November. Adams was not the earliest reply, for Hampden had taken up the challenge in the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, writing a series of eight letters running from 9 December 1765 to 27 January 1766. Hampden, who was James Otis Jr. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0007#ADMS-01-01-02-pb-0287" class="pageNo">1:287</a> and <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0007&amp;expandNote=DJA01d377n2#DJA01d377n2" class="document">note</a>), added a postscript to his last letter: My most sincere, affectionate and respectful compliments to my Lord of Clarendon, when next you shall see him. Tell him there is great joy <span class="hi-italic" style="font-style: italic;">even on earth</span> over a repenting sinner, of so eminent a genius. So the two men kept up the joke; curiously, neither of them noted that the London polemicist had been mistaken about Pyms first nameJohn.</p>
+      <p>Not all that John Adams had to say appeared in the newspaper, and it is doubtful that he even read all four Pym letters. But he read Hampden, who by his quotations made it plain that he had read all that Pym had written. As so often happened, Adams used the debate as a springboard for his own reflections. He undoubtedly enjoyed the little fiction of these <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0156">[156<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0156.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>long-dead men commenting upon the reversal of positions of Pym and Clarendon. Where Hampden wrote in astonishment that Pym could have so departed from his principles as to write provocatively about taxation and jury trials, Adams, the student of history, was prepared to believe that the switch gave some insight into the labyrinth of your [<ins title="editorial addition or explanation" class="ed">Pyms</ins>] politicks in 1641 and sorrowfully acknowledged that the change gave rise to very painful reflections on the frailty, inconstancy and depravity of the human race (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 13 Jan.; <a href="default.xqy?keys=ADMS-print-06-01-02-0063-0002" class="document">No. I</a>, below).</p>
+      <p>Adams first thinking about Pym and how he should be answered was recorded in his diary on <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0006" class="document">23 December 1765</a>, some two weeks after Hampden had made his first sally (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]"><span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0006#ADMS-01-01-02-pb-0272" class="pageNo">1:272273</a>). These early thoughts were a fragmentary draft for his first published letter, <a href="default.xqy?keys=ADMS-print-06-01-02-0063-0002" class="document">No. I</a>, below. There were seven other diary entries, those for <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0008" class="document">25</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0009" class="document">26</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0013" class="document">30</a> December, and <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0007" class="document">7</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0009" class="document">9</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0012" class="document">11</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0019" class="document">18</a> January 1766 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">same</span>, 1:<a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0008#ADMS-01-01-02-pb-0274" class="pageNo">274275</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0008%20ADMS-print-01-01-02-0009-0005-0009#ADMS-01-01-02-pb-0275" class="pageNo">275277</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0012%20ADMS-print-01-01-02-0009-0005-0013#ADMS-01-01-02-pb-0281" class="pageNo">281282</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0007#ADMS-01-01-02-pb-0287" class="pageNo">287288</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0007%20ADMS-print-01-01-02-0010-0001-0008%20ADMS-print-01-01-02-0010-0001-0009#ADMS-01-01-02-pb-0288" class="pageNo">288290</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0009%20ADMS-print-01-01-02-0010-0001-0010%20ADMS-print-01-01-02-0010-0001-0011%20ADMS-print-01-01-02-0010-0001-0012#ADMS-01-01-02-pb-0290" class="pageNo">290292</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0018%20ADMS-print-01-01-02-0010-0001-0019#ADMS-01-01-02-pb-0296" class="pageNo">296299</a>). Those for 25, 26 December, and 7 January were drafts for <a href="default.xqy?keys=ADMS-print-06-01-02-0063-0003" class="document">No. II</a>, and that for 18 January, for <a href="default.xqy?keys=ADMS-print-06-01-02-0063-0004" class="document">No. III</a>, below.</p>
+      <p>Although William Pym refers more than once to fellow subjects, he takes the typical view that colonies by definition are dependent and that the recent war was fought largely in their interest; thus, they must now expect to pay their share of the costs of empire. He is convinced that the colonies really seek independence and asserts that they in fact become a separate people if they are not bound by the Stamp Act. To some degree he holds Great Britain to blame for the colonies behavior, in that its trade policies have encouraged opulence and its administration has encouraged the growth of legislative capacity in the coloniestheir raising of taxes, levying forces, and the like. The recent Virginia resolves on the Stamp Act, from which he quotes only the seventh, which was published but not actually passed, he labels as indecent (<span class="hi-italic" style="font-style: italic;">London Public Ledger</span>, 13, 19 Aug. 1765; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edmund S. Morgan and Helen M. Morgan, &lt;i&gt;The Stamp Act Crisis&lt;/i&gt;, Chapel Hill, 1953. ]">Morgan, <span class="hi-italic" style="font-style: italic;">Stamp Act</span></span>, p. 9195). He notes that Ireland, which also has a legislature, has accepted without fuss such laws as Parliament chooses to extend to it. Parliament at a stroke can abrogate any Irish law.</p>
+      <p>As for charters, Pym holds that they should be adhered to so far as public contingencies will admit, but he insists that Parliament can abrogate them at any time. Parliament must be concerned for the welfare of the larger community; its acts are bound to injure some. But those injured must acquiesce in Parliaments interpretation of the larger good (same).</p>
+      <p>Pym does feel that certain hardships have resulted from British policies. It was a mistake to forbid American trade with the Spanish settlements, a trade mutually beneficial to the colonies and the mother country. He thinks that perhaps the military establishment was increased too much, but that, unfortunately, the riotous behavior of the past months will only seem to justify larger forces. Finally, he sees a genuine grievance in the colonies having no representation in Parliament; representation would benefit not only the colonies but the mother country as well. His final letter is de-<span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0157">[157<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0157.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>voted wholly to the absolute necessity for a proper number of American representatives in Parliament. The alternative may be unification of the colonies to shake off dependence. The price of representation, however, must be abolition of their assemblies, which can be dangerous only if continued. He sees a problem in how much representation to allow them, for without care the time may come when the seat of empire may shift to the Oronoque or the Ohio. He would give them enough representatives to provide advice but not enough to dictate. In any event, the colonies must remain the children of the mother country.</p>
+      <p>Although Hampden makes virtually a point-by-point refutation of the arguments of Pym, John Adams as Clarendon seems more intrigued with the literary device of debate between these 17th-century gentlemen. Fascinated by the shifts in character, Adams spends about half his second Clarendon letter explaining how the noble lord could take the position he had assumed. Character analysis aside, the meat of the argument for Adams is the unconstitutionality of courts without juries and taxation without consent. He does not comment on Pyms strictures on Britains past policies, nor does he say anything about Irelands position in the empire, a matter of some concern in later Revolutionary debates. Most important, Adams says nothing directly about Pyms proposal to substitute representation in Parliament for local assemblies. In his diary entries he develops the implications of Hampdens assertion that the courts must be opened without stamps, noting that the people are perfectly loyal (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]"><span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, 1:<a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0009#ADMS-01-01-02-pb-0289" class="pageNo">289</a>, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0012#ADMS-01-01-02-pb-0291" class="pageNo">291</a>). Indeed, he sees the Liberties of Mankind as in the keeping of America according to Gods design (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">same</span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0009-0005-0013%20ADMS-print-01-01-02-0009-0005-0014%20ADMS-print-01-01-02-0010-0001-0001#ADMS-01-01-02-pb-0282" class="pageNo">1:282</a>).</p>
+      <p>In asserting that liberty is the noble end of British government, the third published Clarendon letter rises to true eloquence. The British constitution stands not on the supposition that kings are the favourites of heaven. ... It is not built on the doctrine that a few nobles or rich commons have a right to inherit the earth. Contemporaries of Adams and some modern scholars who dismiss him as the proponent of aristocratic government have perhaps overlooked his ringing defense of the ordinary people and the vital role they have in constitutional government, both in lawmaking and in determining the facts in jury trials. The people have no other fortification against wanton, cruel power: no other indemnification against being ridden like horses, fleeced like sheep, worked like cattle, and fed and cloathed like swine and hounds. Here speaks the lawyer in the best sense of that termone who reveres the law and the protections it affords, without favor, to all.</p>
+      <p>For an interesting interpretation of the Clarendon letters suggesting that Adams used the occasion to pay tribute to his deceased father, Deacon John, under the guise of Clarendons recalling his own fathers good advice and high character, see Peter Shaw, <span class="hi-italic" style="font-style: italic;">The Character of John Adams</span>, Chapel Hill, 1976, p. 5051.</p>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0063-0001 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0063-0002" title="I. The Earl of Clarendon to William Pym, 13 January 1766"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.245.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

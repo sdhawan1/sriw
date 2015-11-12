@@ -1,0 +1,159 @@
+To Richard Cranch, 29 August 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Richard Cranch, 29 August 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0007&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1750-1756-08-29-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0006" title="To Charles Cushing, 1 April 1756"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0008" title="To John Wentworth, September 1756"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; To Richard Cranch, 29 August 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0007&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0006" title="To Charles Cushing, 1 April 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0008" title="To John Wentworth, September 1756"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0015">15<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0015.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d009" class="doc letter">
+
+    <h1>To Richard Cranch</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">My Friend</td>
+		<td class="salutationRight">
+       August 29th 1756
+      </td>
+	      </tr>
+      </table>
+     </div>
+     <p>I am set down with a Design of writing to you.But the narrow Sphere I move in, and the lonely unsociable Life I lead, can furnish a Letter with little more than Complaints of my hard fortune. I am condemnd to keep School two Years longer. This I sometimes consider as a very grievous Calamity and almost sink under the Weight of Woe.But shall I dare to complain and to murmur against Providence for this little Punishment, when my very Existence, all the Pleasure I enjoy now, and all the Advantages I have of preparing for hereafter, are Expression of Benevolence that I never did and never could deserve? Shall I Censure the Conduct of that Being who has poured around me, a great Profusion, of those good Things that I really want, because he has kept from me other Things that might be improper and fatal to me if I had them. That Being has furnished my Body with several senses, and the world around it with objects suitable to gratify them. He has made me an erect Figure, and has placed in the most advantageous Part of my Body, the sense of Sight. And He has hung up in the Heavens over my Head and Spread out in the Fields of Nature around me those glorious Shows and appearances with which my Eyes and my Imagination are extremely delighted. I am pleasd with the beautiful Appearance of the Flower, and still more pleased with the Prospect of Forrests and of Meadows, of verdant Feilds and Mountains covered with Flocks, but I am thrown into a kind of Transport when I behold the amazing Concave of Heaven sprinkled and glittering with Starrs. That Being has bestowed upon some of the Vegetable species a fragrance that can almost as agreably entertain our sense of smell. He has so wonderfully constituted the Air we live in, that by giving it a particular Kind of Vibration, it produces in us as intense sensations of Pleasure as the organs of our Bodies can bear in all the varieties of Harmony and Concord. But all the Provision that he has made for the Gratification of my senses, tho very engaging Instances of Kindness, are much inferiour to the Provisions for the Gratification of my nobler Powers of Intelligence <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0016">[16<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0016.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>and Reason. He has given me Reason to find out the Truth, and the real Design of my Existence here, and has made all Endeavours to promote that Design, agreable to my mind, and attended with a conscious Pleasure and Complacency. On the Contrary, he has made a different Course of Life, a Course of Impiety and Injustice, of Malevolence and Intemperance, appear shocking and deformed to my first Reflection. He has made my Mind capable of receiving an infinite Variety of Ideas from those numerous material Objects with which we are environed. And of retaining, compounding and arranging the vigourous Impressions which we receive from these into all the Varieties of Picture and of Figure. By inquiring into the Scituation, Produce, Manufactures &amp;c. of our own, and by travailing into, or reading about other Countries, I can gain distinct Ideas of almost every Thing upon this Earth at present, and by looking into history I can settle in my mind a clear and a Comprehensive View of the Earth at its Creation, of its various Changes and Revolutions, of its progressive Improvement, sudden Depopulation by a Deluge, and its graduall Repeopling, of the Growth of several Kingdoms and Empires, of their Wealth and Commerce, their Wars and Politicks, of the Characters of their principal Leading Men, of their Grandeur and Power their Virtues and Vices, of their insensible Decays at first, and of their swift Destruction at last. In fine we can attend the Earth from its Nativity, thro all the various Turns of Fortune, through all its successive Changes, thro all the Events that happen on its surface, and all the successive Generations of Mankind, to the final Conflagration, when the whole Earth with its appendages shall be consumed by the furious Element of Fire. And after our minds are furnishd with this ample store of Ideas, far from feeling burdend or overloaded, our thots are more free, and active, and clear than before, and we are capable of spreading our acquaintance with Things much further. Far from being satiated with Knowledge our Curiosity is only improved and increasd, our Thoughts rove beyond the visible diurnal sphere, range thro the immeasurable Regions of the Universe, and loose them selves amongst a Labyrinth of Worlds, and not contented with knowing what is, they run forward into Futurity, and search for new Employment there. Then they can never stop! The wide, the boundless Prospect lies before them! Here alone they find Objects adequate to their Desires. Shall I now presume to complain of my hard Fate, when such ample Provision has been made to gratify all my senses, and all the Faculties of my soul? God forbid.<a class="ptr" href="#PJA01d009n1" id="PJA01d009n1-ptr">1</a> I am happy and I will remain so, while Health is indulgd to me, in Spight of all the other <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0017">[17<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0017.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Adverse Circumstances that Fortune can place me in. I expect to be joked upon, for writing in this serious manner, when it shall be known what a Resolution I have lately taken. I have engagd with Mr. Putnam to study Law with him, 2 years, and to keep the school at the same time.<a class="ptr" href="#PJA01d009n2" id="PJA01d009n2-ptr">2</a> It will be hard work, but the more difficult and dangerous the Enterprize, a brighter Crown of Lawrell is bestowed on the Conqueror. However I am not without Apprehensions concerning the success of this Resolution. But I am under much fewer Apprehensions than I was when I thought of preaching. The frightful Engines of Ecclesiastical Co<span title="text unclear" class="unclear">[u]</span>ncils, of diabolical Malice and Calvinistical good nature never failed to terrify me exceedingly whenever I thought of Preaching.<a class="ptr" href="#PJA01d009n3" id="PJA01d009n3-ptr">3</a> But the Point is now determined, and I shall have Liberty to think for myself without molesting others or being molested myself. Write to me the first Opportunity, and tell me freely whether you approve my Conduct. Please to present my tenderest Regards to our two Friends at Boston, and suffer me to subscribe myself your sincere Friend,</p>
+     <div class="closer">
+      <p class="signed">John Adams</p>
+     </div>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA01d009sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); addressed: To Mr Richard Cranch At Weighmouth These; endorsed: Letter from Mr. John Adams Aug. 29th. 1756. Early <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript (A copy, handwritten or typewritten, made substantially later than the original or later than other copiessuch as duplicates, file copies, letterbook copiesthat were made contemporaneously.) ]">Tr</abbr>, in hand of T. B. Adams Jr. (<span class="ref-terms">Adams Papers</span>, Lb/JA/26; <span class="ref-terms">Microfilms</span>, Reel No. 114).</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d009n1-ptr" id="PJA01d009n1">1</a>
+      
+   <p>Compare the similar reflections, including some almost identical language, under dates of <a href="default.xqy?keys=ADMS-print-01-01-02-0002-0008-0005" class="document">7</a> and <a href="default.xqy?keys=ADMS-print-01-01-02-0002-0008-0009" class="document">22</a> Aug. 1756 in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JAs <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, 1:4041, 4344.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d009n2-ptr" id="PJA01d009n2">2</a>
+      
+   <p>22 [<ins title="editorial addition or explanation" class="ed">Aug. 1756.</ins>] Yesterday I compleated a Contract with Mr. Putnam, to study Law under his Inspection for two years (same, p. <a href="default.xqy?keys=ADMS-print-01-01-02-0002-0008-0007%20ADMS-print-01-01-02-0002-0008-0008%20ADMS-print-01-01-02-0002-0008-0009#ADMS-01-01-02-pb-0042" class="pageNo">42</a>). According to <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JAs Autobiography</span>, the terms were that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> would board in his [<ins title="editorial addition or explanation" class="ed">Putnams</ins>] House, that I should pay no more, than the Town allowed for my Lodgings [<ins title="editorial addition or explanation" class="ed">as schoolmaster</ins>], and that I should pay him an hundred dollars, when I should find it convenient (same, <a href="default.xqy?keys=ADMS-print-01-03-02-0016-0004#ADMS-01-03-02-pb-0264" class="pageNo">3:264</a>).</p>
+
+      
+   <p>On James Putnam (17261789), Harvard 1746, then the leading lawyer of Worcester, later a loyalist, see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Langdon Sibley and Clifford K. Shipton, &lt;i&gt;Biographical Sketches of Graduates of Harvard University, in Cambridge, Massachusetts&lt;/i&gt;, Cambridge and Boston, 1873. ]">Sibley-Shipton, <span class="hi-italic" style="font-style: italic;">Harvard Graduates</span></span>, 12:5764, and numerous references in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JAs <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d009n3-ptr" id="PJA01d009n3">3</a>
+      
+   <p>The protracted and disagreeable case of Rev. Lemuel Briant, Harvard 1739, minister of the First or North Church of Braintree and a reputed Arminian, was fresh in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s mind. See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-03-02-0016-0003%20ADMS-print-01-03-02-0016-0004#ADMS-01-03-02-pb-0262" class="pageNo">3:262</a>; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Langdon Sibley and Clifford K. Shipton, &lt;i&gt;Biographical Sketches of Graduates of Harvard University, in Cambridge, Massachusetts&lt;/i&gt;, Cambridge and Boston, 1873. ]">Sibley-Shipton, <span class="hi-italic" style="font-style: italic;">Harvard Graduates</span></span>, 10:341348.</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0007 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0006" title="To Charles Cushing, 1 April 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0008" title="To John Wentworth, September 1756"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

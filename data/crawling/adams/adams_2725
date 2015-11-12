@@ -1,0 +1,205 @@
+From Jean Luzac [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jean Luzac [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-10-02-0080&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-10-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0079" title="From Edmund Jenings, 14 September 1780"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-10-02-0081" title="To Jean Luzac, 15 September 1780"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-10-02-0080-0001" title="From Jean Luzac, 14 September 1780"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-10&amp;mode=TOC">Volume 10, July 1780December 1780</a>&gt; <a href="?keys=ADMS-print-06-10-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Jean Luzac [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-10-02-0080&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0079" title="From Edmund Jenings, 14 September 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-10-02-0081" title="To Jean Luzac, 15 September 1780"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-10-02-pb-0148">148<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0148.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA10tg12" class="transgroup">
+
+    <div id="PJA10d096" class="doc letter">
+
+     <h2>From Jean Luzac</h2>
+     
+     <div class="docbody" xml:lang="fra">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Leide le 14. sept. 1780</td>
+		</tr>
+      </table>
+      </div>
+      <p>Je viens dachever la lecture de la Brochure, au sujet de laquelle vous avez bien voulu demander mon avis.<a class="ptr" href="#PJA10d097n1" id="PJA10d097n1-ptr">1</a> La partie du style est excellente: Il me paroit seulement, que dans les huit ou dix premiers Feuillets il y a des fautes de langage, faciles  corriger mais nan-<span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0149">[149<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0149.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>moins trop remarquables. Quant aux choses, elle est fortement pense; et, quoiquune brillante imagination puisse avoir port lAuteur  orner peut-tre un peu trop le tableau des effets de la Rvolution Amricaine, je suis convaincu pourtant, que le fond de ses ides est trsvrai, et que ses principes ne mritent pas moins lattention des Philanthropes que ses vus sur lavenir. Ainsi je pense, quelle mrite  tous gards dtre rendu publique par limpression, et que cette publication ne peut quinspirer des sentimens favorables aux intrts de lAmrique. Je ne saurois nanmoins vous dissimuler un petit scrupule, que jai  ce sujet. LAuteur trace avec un pinceau vigoureux la rvolution, que lIndpendance de lAmrique oprera dans le Systme Commercial de lEurope: Mais, en faisant ce tableau, il peint la Russie dpouille de son Commerce exclusif du Bois de construction et des autres Munitions Navales, la Sude de celui du Fer, la Hollande de son Cabotage et de son Monopole dEpiceries &amp;c. Je crains, que cette perspective neffarouche les esprits. Lauteur tche ensuite, il est vrai, de prouver, que cette concurrence, cette Libert gnrale, cette rduction de toutes les Nations  un niveau commun seroient un bien; que la possession de Colonies lointaines est un mal; que lavantage dun Commerce exclusif nest quun prjug &amp;c. Mais, Monsieur, ces prjugs sont trop profondement enracins pour quils noprent pas encore en ce moment. Moi-mme, en plaidant la Cause de lAmrique et en soutenant, que lEurope toit intresse  son Indpendance, jai vingt fois rencontr cette objection de la part de Personnes senses et instruites. Oui, mais si lAmrique devient libre, elle fera un jour la Loi  lEurope: Elle nous enlevera nos Isles et nos Colonies de la Guyane; elle semparera de toutes les Antilles; elle engloutira le Mexique, le Prou mme, le Chile, et le Brsil; elle nous enlevera notre Commerce de fret; elle payera ses Bienfaiteurs dingratitude &amp;c. Jy ai toujours rpondu dans les mmes principes que notre Auteur; mais je nen suis pas moins rest persuad, que cette jalousie influ ici sur beaucoup desprits; et quiconque connot <span class="hi-italic" style="font-style: italic;">the selfishness</span>, qui malheureusement ne fait que trop la base de la Politique, pourra craindre, quelle nait aussi son effet chez les Puissances du Nord. Il seroit nanmoins dommage, quon toucht  la Brochure en la chtrant; mais il me semble, quon pourroit dans une Prface jetter un voile sur ces vrits trop nus et dont certains yeux pourroient soffenser.<a class="ptr" href="#PJA10d097n2" id="PJA10d097n2-ptr">2</a> Si vous le souhaitez, Monsieur, je me chargerai bien volontiers du Poste dEditeur; et je trouverai aisment un Libraire: Mais dans ce cas, sil se pouvoit, je serois charm davoir aussi entre les mains la Brochure originale.</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-10-02-pb-0150">[150<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0150.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>Je demande pardon de ne vous pas renvoyer encore les Gazettes de Pensylvanie. Il nous en est venu quelques autres dun autre ct; et, comme notre Feuille ne peut tout contenir  la fois, je me propose den faire successivement usage dune manire, qui,  ce que je me flatte, ne vous sera pas desagrable. Vous en verrez quelques chantillons dans les Feuilles ci-jointes, ainsi que le commencement de la Traduction de lAdresse de la Convention de Massachusetts-Bay.<a class="ptr" href="#PJA10d097n3" id="PJA10d097n3-ptr">3</a></p>
+      <p>M. le Comte de Sarsfield, qui nous a fait lhonneur de venir nous voir, ma charg de vous faire parvenir lincluse.<a class="ptr" href="#PJA10d097n4" id="PJA10d097n4-ptr">4</a> Ma Famille vous prsente ses devoirs; et je vous prie dtre persuad de la considration respectueuse et particulire, avec laquelle je suis, Monsieur, de Votre Excellence, Le trs-humble et trs-obissant serviteur,</p>
+      <div class="closer">
+       <p class="signed">J: Luzac</p>
+      </div>
+     </div>
+    </div>
+    <div id="PJA10d097" class="trans letter">
+
+   <h2>Jean Luzac to John Adams: A Translation</h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">Leyden, 14 September 1780</td>
+		</tr>
+      </table>
+      </div>
+      <p>I have finished reading the pamphlet, about which you asked my opinion.<a class="ptr" href="#PJA10d097n1" id="PJA10d097n1-ptr">1</a> The style is excellent and it is only in the first eight or ten pages that I found some obvious, but easily correctable errors in language. As to content, it is well reasoned and, although the authors vivid imagination may have led him to exaggerate somewhat the consequences of the American Revolution, I am nevertheless convinced that at their heart his ideas are sound and that his principles, no less than his views on the future, deserve the attention of the Philanthropes. I believe, therefore, that this pamphlet fully merits publication and that it can only inspire favorable sentiments toward the interests of America. I would be less than honest, however, if I did not disclose to you a slight misgiving that I have on this subject. The author depicts with bold strokes the revolution that American independence will bring to the European commercial system, but in the picture that he paints Russia is deprived of its exclusive trade in ships timbers and naval stores; Sweden of its trade in iron; and Holland of its carrying trade and monopoly of spices &amp;c. I fear that many might be frightened by this prospect. It is true that the author endeavors to prove that this competition, this general liberty, this reduction of all nations to a common level would be beneficial; that the possession of distant colonies is detrimental; that the advantages attributed to exclusive trade stem only from a prejudice, etc.; but, sir, these prejudices are too deeply ingrained not to remain a powerful force today. I, myself, in pleading the cause of America and emphasizing Europes interest in its independence, have encountered, twenty times at the very least, the following argument from sensible, well educated people: Yes, but if America becomes independent it will one day dictate the law to Europe; it will strip us of our islands and our colonies in Guiana, take all of the West Indies and swallow up Mexico, even Peru, Chile, and Brazil; it will take over our <span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0151">[151<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0151.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>carrying trade; it will repay its benefactors with ingratitude etc. I have always responded with the same principles as our author, but I nevertheless remain convinced that this jealousy influences many people here, and whoever understands <span class="hi-italic" style="font-style: italic;">the selfishness</span> that unfortunately forms the basis for so much policy will fear that it may have its effect on the northern powers. It would be a pity, however, to emasculate the pamphlet, for it seems to me that in a preface one could cast a veil over the naked truths that might offend certain eyes.<a class="ptr" href="#PJA10d097n2" id="PJA10d097n2-ptr">2</a> If you are agreeable, sir, I would gladly assume the post of publisher and could easily find a bookseller. But in that case I would appreciate, if possible, having the original pamphlet.</p>
+      <p>Please forgive me for not yet returning the Pennsylvania gazettes. We received some others from another source and, as our paper cannot print everything at once, I plan to publish them sequentially in a manner that I trust that you will approve. You will find some examples in the enclosed sheets, together with the beginning of the translation of the address of the convention of Massachusetts Bay.<a class="ptr" href="#PJA10d097n3" id="PJA10d097n3-ptr">3</a></p>
+      <p>Count Sarsfield, who has honored me with a visit, requested that I send the enclosed letter.<a class="ptr" href="#PJA10d097n4" id="PJA10d097n4-ptr">4</a> My family presents its respects and I pray that you will be persuaded of the respectful and particular consideration with which I am, sir, your excellencys most humble and most obedient servant.</p>
+      <div class="closer">
+       <p class="signed">J: Luzac</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA10d097sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: M. Luzac. 14. Septr.; in another hand: 1780.</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA10d097n1-ptr" id="PJA10d097n1">1</a>
+       
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of <a href="default.xqy?keys=ADMS-print-06-10-02-0066" class="document">5 Sept.</a>, but see also Luzacs reply of the <a href="default.xqy?keys=ADMS-print-06-10-02-0069-0002" class="document">7th</a> (both above).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d097n2-ptr" id="PJA10d097n2">2</a>
+       
+   <p>Jean Luzac sought to drive home two points in his Prface de lEditeur to <span class="hi-italic" style="font-style: italic;">Penses sur la
+         rvolution de lAmrique-Unie</span> (p. iiixxii). First, American independence was of vital interest to Europe in general and the Netherlands in particular. Second, European and Dutch commerce would not suffer from American competition. In both instances his thinking paralleled <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s, and was influenced by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reply of <a href="default.xqy?keys=ADMS-print-06-10-02-0081" class="document">15 Sept.</a> (below).</p>
+
+       
+   <p>Luzac saw Britains effort to subdue its American colonies as but another instance of its determination to establish and maintain itself as the dominant maritime power to the detriment of all other maritime nations. According to Luzac, this had been the focus of British policy since lusurpation de Cromwel (p. v). The American Revolution and the support given it by France and Spain were aimed at overthrowing Britains domination, an outcome of the utmost interest to the Netherlands as a commercial rival of Great Britain.</p>
+
+       
+   <p>In view of this, Luzac saw the favorable opinion that many Dutchmen held toward the existing Anglo-Dutch alliance as unrealistic and contrary to Dutch interests. It was an unnatural alliance, the result of the threat posed by Louis XIV earlier in the century. But the policies of Louis XVI were not those of Louis XIV and it was time for the Dutch to join with France and its allies, the United States and Spain, as well as the League of Armed Neutrality under Catherine II, in their efforts to establish the rights of all nations to trade freely on the high seas.</p>
+
+       
+   <p>Luzacs second point aimed at allaying the fears of Dutch and European merchants caused by Pownalls, and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s, imagination ardente, which led them to exaggerate the speed with which the United States would emerge as a commercial and manufacturing power in competition with Europe (p. xix). Using material from <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of 15 Sept., Luzac argued that contrary to what the author of the pamphlet might say, the American economy would remain agricultural for the foreseeable future. Americans would have little incentive to devote time to manufactures because of the vast areas still unsettled, the high cost of labor, and the expense of carrying such goods to Europe. Thus the United States would remain dependent on Europe for manufactured goods and markets for its raw materials.</p>
+
+       
+   <p>But even if an independent United States <span class="pb" title="page number in print edition" id="ADMS-06-10-02-pb-0152">[152<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-10/ADMS-06-10-02-pb-0152.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>did become a powerful commercial rival, would it be less so as part of the British Empire? This question was appropriate, for if Britain was victorious it would stand as the dominant power in Europe and the unchallenged master of the sea, able to control trade as it saw fit. But the United States, even if it posed a commercial threat, would have no incentive to involve itself in the political affairs of Europe and would share with the Europeans the interest in freedom of navigation. La Paix sera son systme in order to cultivate the arts and sciences and serve as a haven from European luxury and corruption, permanent asylum for all those who sought liberty (p. xxi). He ended with a quotation, in English, from James Thomsons <span class="hi-italic" style="font-style: italic;">Britannia</span>, lines 194197:</p>
+
+       <div class="linegroup">
+        <p class="line">A State, alone, where <span class="hi-small-caps" style="font-variant: small-caps;">Liberty</span> should live,</p>
+        <p class="line">In these late times, this evening of Mankind,</p>
+        <p class="line">When <span class="hi-italic" style="font-style: italic;">Athens</span>, <span class="hi-italic" style="font-style: italic;">Rome</span>, and <span class="hi-italic" style="font-style: italic;">Carthage</span> are no more,</p>
+        <p class="line">The world almost in slavish sloth dissolved.</p>
+       </div>
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d097n3-ptr" id="PJA10d097n3">3</a>
+       
+   <p>This was the <span class="hi-italic" style="font-style: italic;">Gazette de Leyde</span> of 12 Sept., containing the opening portion of the Massachusetts Constitutional Conventions address to the people. The rest of the address appeared in the issues of 15, 19, and 22 September. Beginning with the issue of 3 Oct., Luzac began printing the text of the ratified constitution and continued, as space permitted, through the issue of 8 Dec., which included the final four articles of Chap. 2, Sect. 1, setting down the powers of the governor. The remainder of the constitution did not appear in the <span class="hi-italic" style="font-style: italic;">Gazette</span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA10d097n4-ptr" id="PJA10d097n4">4</a>
+       
+   <p>This letter has not been found.</p>
+
+      </div>
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-10-02-0080 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 10, July 1780December 1780
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-10-02-0079" title="From Edmund Jenings, 14 September 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-10-02-0081" title="To Jean Luzac, 15 September 1780"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

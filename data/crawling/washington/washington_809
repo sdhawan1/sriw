@@ -1,0 +1,630 @@
+Orders, 12 July 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Orders, 12 July 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-03-02-0238&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1756-07-12-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0237" title="Orders, 11 July 1756"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-03-02-0239" title="From Robert Dinwiddie, 12 July 1756"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-03&amp;mode=TOC">Volume 3 (16 April 17569 November 1756)</a>&gt; <a href="?keys=GEWN-print-02-03-02&amp;mode=TOC">Documents</a>&gt; Orders, 12 July 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-03-02-0238&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0237" title="Orders, 11 July 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0239" title="From Robert Dinwiddie, 12 July 1756"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0250">250</span><div id="Col03d227" class="doc">
+
+<h1>Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="password"><tr>
+		<td class="parole">Parole: Dedham.</td>
+		<td class="csigns"></td>
+	      </tr></table>
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Fort Cumberland [Md.]Monday, July 12th 1756.</td>
+	      </tr>
+      </table>
+</div>
+<p>Lieutenant William Stark having resigned his Commission in the Virginia RegimentEnsign Buckner is promoted to his place.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0001" id="GEWN-02-03-02-0238-fn-0001-ptr">1</a></p>
+<p>Messieurs James Duncanson, Jethro Sumner, Henry Russell, and Griffinpert, are appointed Ensigns in the Virginia Regiment.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0002" id="GEWN-02-03-02-0238-fn-0002-ptr">2</a></p>
+<p>Mr John Hamilton, Sergeant-Major, is appointed Quarter-master to the said Regiment, in the room of Quarter-master
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0251">[251]</span>
+Bucker, who has resigned.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0003" id="GEWN-02-03-02-0238-fn-0003-ptr">3</a> A Return is to be given in this afternoonfour oclock, of all the Stores and Provisions now at this Garrison.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0004" id="GEWN-02-03-02-0238-fn-0004-ptr">4</a> The Suttlers now at this place are to be informed, that they must dispose of what liquor they have on hand and that for the future the Grand Suttler will only be allowed to sell any liquour at this Garrison.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0005" id="GEWN-02-03-02-0238-fn-0005-ptr">5</a></p>
+<p>The Companies of the Virginia Regiment, are formed as follows, and are to continue so, without a particular order to the contrary.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0006" id="GEWN-02-03-02-0238-fn-0006-ptr">6</a></p>
+   <p style="text-indent: 0;">First Company: Colonel Washington</p>
+   <p style="text-indent: 0;">Captain Lieutenant John McNiell</p>
+   <p style="text-indent: 0;">Ensign <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span><a class="ptr" href="#GEWN-02-03-02-0238-fn-0007" id="GEWN-02-03-02-0238-fn-0007-ptr">7</a></p>
+<table class="bodytext" id="Col03d227t1">
+               <tr>
+	      <td style="white-space: nowrap;">2d Compy</td>
+	      <td style="white-space: nowrap;">Lt Colonel Adam <br/>Stephen Lt John Blagg <br/>Ensign James Roy</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">3d Company</td>
+	      <td style="white-space: nowrap;">Captain Peter Hogg <br/>Lt Thomas Bullet <br/>Ensign Fleming</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">4th Company</td>
+	      <td style="white-space: nowrap;">Captain George Mercer <br/>Lt Bryan Fairfax <br/>Ensign Denis McCarty</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">5th Company</td>
+	      <td style="white-space: nowrap;">Captain Thomas Waggener <br/>Lt Walter Stewart <br/>Ensign Charles Smith</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">6th Company</td>
+	      <td style="white-space: nowrap;">Captain Robert Stewart <br/>Lt John Campbell <br/>Ensign Henry Russell</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">7th Compy</td>
+	      <td style="white-space: nowrap;">Captain Thomas Cocke <br/>Lieutenant Buckner <br/>Ensign Weedon</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">8th Company</td>
+	      <td style="white-space: nowrap;">Captain William Bronaugh <br/>Lieutenant Eustace <br/>Ensign Sumner</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">9th Company</td>
+	      <td style="white-space: nowrap;">Captain Joshua Lewis <br/>Lt John King <br/>Ensign Duncanson</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">10th Company</td>
+	      <td style="white-space: nowrap;">Captain Henry Woodward <br/>Lt Brockenbrough <br/>Ensign Dangerfield</td>
+	      <td></td>
+	    </tr>
+               <tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0252" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0252">[252]</span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">11th Company</td>
+	      <td style="white-space: nowrap;">Captain Robert Spotswood <br/>Lieutenant Lomax <br/>Ensign Milner</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">12th Company</td>
+	      <td style="white-space: nowrap;">Captain Charles Lewis <br/>Lt Steenbergen <br/>Ensign Hubbard</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">13th Company</td>
+	      <td style="white-space: nowrap;">Captain William Peachy <br/>Lt John Williams <br/>Ensign Pert</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">14th Company</td>
+	      <td style="white-space: nowrap;">Captain David Bell <br/>Lt John Lowry <br/>Ensign Deane</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">15th Company</td>
+	      <td style="white-space: nowrap;">Captain Robert McKenzie <br/>Lieutenant Baker <br/>Ensign Price</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">16th Company</td>
+	      <td style="white-space: nowrap;">Captain Henry Harrison <br/>Lt John Hall <br/>Ensign Thompson</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">17th Company</td>
+	      <td style="white-space: nowrap;">Captain Christopher Gist <br/>Lt Nathaniel Gist <br/>Ensign Crawford</td>
+	      <td style="white-space: nowrap; vertical-align: middle;">Scouts</td>
+	    </tr>
+            </table>
+<p>The following appointments are made to the aforesaid Companiesof Sergeants and Corporals;<a class="ptr" href="#GEWN-02-03-02-0238-fn-0008" id="GEWN-02-03-02-0238-fn-0008-ptr">8</a> who are not to be broke or changed, but by the Sentence of a Court Martialor particular orders from the Colonel: as such practices have made great confusion in the Regiments. vizt</p>
+<table class="bodytext" id="Col03d227t2">
+               <tr class="label">
+	      <td style="text-align: center;">Companies</td>
+	      <td style="text-align: center;">Sergeants</td>
+	      <td style="text-align: center;">Corporals</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">1st The Colonels</td>
+	      <td style="white-space: nowrap;">John Sallard</td>
+	      <td style="white-space: nowrap;">Samuel Longworth</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Belfour</td>
+	      <td style="white-space: nowrap;">Wm Stewart Packet</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">2d The Lt Colos.</td>
+	      <td style="white-space: nowrap;">Thomas Carter</td>
+	      <td style="white-space: nowrap;">Philemon Waters</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Graham</td>
+	      <td style="white-space: nowrap;">Isaac Barringer</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Wm Grant</td>
+	      <td style="white-space: nowrap;">Wm Coffland</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">3d Capt. Hoggs</td>
+	      <td style="white-space: nowrap;">John McCulley</td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> Smith</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> Wilper</td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">4th Captain Mercers</td>
+	      <td style="white-space: nowrap;">Angus McDonnald</td>
+	      <td style="white-space: nowrap;">Saml French</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Matthews</td>
+	      <td style="white-space: nowrap;">Jno. Pope</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Grinnon</td>
+	      <td style="white-space: nowrap;">Benj. Barrett</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">5th Cap. Waggeners</td>
+	      <td style="white-space: nowrap;">Wm Shaw</td>
+	      <td style="white-space: nowrap;">Geo. Salmon</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John [Francis] Austin</td>
+	      <td style="white-space: nowrap;">Sam. Poe</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Mark Hollies</td>
+	      <td style="white-space: nowrap;">John Cray [Creagh]</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">6th Cap. Rt Stewarts</td>
+	      <td style="white-space: nowrap;">Wm Hughes</td>
+	      <td style="white-space: nowrap;">Wm Broughton</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">David Kenedy</td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0253" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0253">[253]</span></td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">7th Captain Cockes</td>
+	      <td style="white-space: nowrap;">John McWilliams</td>
+	      <td style="white-space: nowrap;">Jas Thomas</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Henry Williams</td>
+	      <td style="white-space: nowrap;">Geo. Clark</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Jno. Reynolds</td>
+	      <td style="white-space: nowrap;">Dougal Campbell</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">8th Capt. Bronaughs</td>
+	      <td style="white-space: nowrap;">Richard Trotter</td>
+	      <td style="white-space: nowrap;">Wm Hunt</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Nash</td>
+	      <td style="white-space: nowrap;">Jno. Naughty</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Hugh Campbell</td>
+	      <td style="white-space: nowrap;">Heny Steel</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">9th Capt. Josh. Lewiss</td>
+	      <td style="white-space: nowrap;">And. Vaughan</td>
+	      <td style="white-space: nowrap;">Joseph Wills</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">John Gender</td>
+	      <td style="white-space: nowrap;">Richd Foster</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Hen. Carrier</td>
+	      <td style="white-space: nowrap;">Tho. Carrier</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">10th Cap. Woodwards</td>
+	      <td style="white-space: nowrap;">Joseph Faint [Fent]</td>
+	      <td style="white-space: nowrap;">Jas Carmichael</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Wm Evans</td>
+	      <td style="white-space: nowrap;">Jno. Clark</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Geo. Whitecotton</td>
+	      <td style="white-space: nowrap;">Wm Heath</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">11th Capt. Spotswoods</td>
+	      <td style="white-space: nowrap;">Joseph Bledsoe</td>
+	      <td style="white-space: nowrap;">Jno. Sale</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Richd Good</td>
+	      <td style="white-space: nowrap;">Edw. Lary [Leary]</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Saml Robinson</td>
+	      <td style="white-space: nowrap;">Jas Lile [Lyle]</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">12th Cap. Charles Lewiss</td>
+	      <td style="white-space: nowrap;">Chas Collieux [Cailliaux]</td>
+	      <td style="white-space: nowrap;">Samp. Franklin</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Abrah. Crittenoon</td>
+	      <td style="white-space: nowrap;">Tho. Edmondson</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> <span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">13th Cap. Peachys</td>
+	      <td style="white-space: nowrap;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span> Baker</td>
+	      <td style="white-space: nowrap;">Jno. Gaskins</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Reuben Vass</td>
+	      <td style="white-space: nowrap;">John Gall [Richard Gale]</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Bibby Brookes [Broocke]</td>
+	      <td style="white-space: nowrap;">Jas Gutridge</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">14th Capt. Bells</td>
+	      <td style="white-space: nowrap;">Tho. Ferguson</td>
+	      <td style="white-space: nowrap;">Dav. Hartwell</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Young</td>
+	      <td style="white-space: nowrap;">Whitnal Warner</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Charles Scot</td>
+	      <td style="white-space: nowrap;">Jas Clark</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">15th Cap. McKenzies</td>
+	      <td style="white-space: nowrap;">James [John] Campbell</td>
+	      <td style="white-space: nowrap;">Timo. Shaw</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Hatfield</td>
+	      <td style="white-space: nowrap;">Jno. Adams</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">James Robinson</td>
+	      <td style="white-space: nowrap;">Bryan Page</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">16th Captain Harrisons</td>
+	      <td style="white-space: nowrap;">Jas Morrell [Norrell]</td>
+	      <td style="white-space: nowrap;">Tho. Wright</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Tho. Seal</td>
+	      <td style="white-space: nowrap;">Francis Walker</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Francis Moreland</td>
+	      <td style="white-space: nowrap;">Benj. Cotton</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">17th Cap. Gists</td>
+	      <td style="white-space: nowrap;">John Barrett</td>
+	      <td style="white-space: nowrap;">Tho. White</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Richd Posey</td>
+	      <td style="white-space: nowrap;">Morde. Gosling</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Rich. Davis</td>
+	      <td style="white-space: nowrap;">Gist Vaughan</td>
+	    </tr>
+            </table>
+<p>As the allowance of three Batmen to a company is very sufficient, Colonel Washington expressly orders that no Officer do presume to take a Soldier to do that Duty; as he has been informed hath been practised.</p>
+<p>As it occasions very great confusion among the companies to swap and change the menThey are now regulatedand it is ordered that no Officer shall upon any pretence swap or change any man.</p>
+<p>The Companies commanded by Lieutenant Colonel Stephen; Captains Woodward, Charles Lewis, Peachy and Harrisonwith their respective Officers &amp;c. as now appointedare to remain in this Garrison. The other companies now here, are to hold themselves in readiness to march to the South-Branch tomorrow.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0254">[254]</span>
+As there are several men of the different companies on commandeach officer is, as soon as possibly he can, to collect his own men from the several commands. The Order about Regimentals has been mistakenColonel Washington <span class="hi-italic" style="font-style: italic;">only</span> expects the Officers will buy lace for their Hats and waist-coatsand it is hoped, they will immediately comply with this order.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0009" id="GEWN-02-03-02-0238-fn-0009-ptr">9</a></p>
+<p>Ensign Russell is to hold himself in readiness to join the Troop at Conogochiegand Ensign Pert to proceed to Winchester, to join Captain Peachy.</p>
+<p style="text-indent: 0; margin-top: 1em;">After Orders.</p>
+<p>As there have orders repeatedly been issued, strictly requiring all Captains and commanding officers of companies to take two receipts from each manone to be entered in a Book, kept for the use of the companythe other to be sent on a sheet of paper to Colonel Washingtonin order to prevent the number of complaints which are hourly made by Soldiers, who deny having received their subsistance. It is therefore peremptorily ordered once more, that all captains and commanding officers of companies and Detachments, do pay due obedience to this order: for if they delay sending the receipts until a second payment is made, they will be put under an arrest, and tried for Disobedience (of orders) and the party complaining shall immediately receive satisfaction, without enquiring into the justice of the complaint.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0010" id="GEWN-02-03-02-0238-fn-0010-ptr">10</a></p>
+<p>There has also been an order given for Returns to be made to Colonel Washington of those men who assisted in clearing the Roads last year to Monongehela in order that he might remit them to the Quarter Master General[.] The men will receive six-pence for every day that they have worked and the Subalterns three shillings per day[.] The number of days they worked to be certified by an Officer[.] Colonel Washington expects this return to be made as soon as possible, in order that he may serve both the officers and Soldiers; otherwise he will give himself no further trouble about it.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0011" id="GEWN-02-03-02-0238-fn-0011-ptr">11</a></p>
+<p>A Regimental Court martial to sit immediately for trial of all the Prisoners in the Guard.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0255">[255]</span>
+<p style="text-indent: 0; margin-top: 1em;">Evening Orders.</p>
+<p>The Troops will not march to-morrowbut it is expected all Officers, &amp;c. will be ready to march next day, as Colonel Washington will not postpone the march any longer.<a class="ptr" href="#GEWN-02-03-02-0238-fn-0012" id="GEWN-02-03-02-0238-fn-0012-ptr">12</a></p>
+<p>One Captain two Subalterns, and sixty rank and file to parade to-morrow morning at gun-firing. The Captain to wait on Colonel Washington at retreat-beating for orders. None of the men that are to march on Wednesday, are to be put on Duty.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-03-02-0238-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0001-ptr" id="GEWN-02-03-02-0238-fn-0001">1</a>
+
+   <p>Mordecai Buckner, quartermaster of the Virginia Regiment since September 1755, was ensign in Joshua Lewiss company until he received this promotion to lieutenant.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0002-ptr" id="GEWN-02-03-02-0238-fn-0002">2</a>
+
+   <p>The company assignments for these new ensigns is given hereafter in these Orders. James Duncanson, who was the senior ensign in the Virginia Regiment when he was promoted to lieutenant in 1758, was listed as a casualty in the action at Loyalhanna on 12 Oct. 1758, but he recovered. See also <a href="default.xqy?keys=GEWN-print-02-03-02-0098&amp;expandNote=GEWN-02-03-02-0098-fn-0006#GEWN-02-03-02-0098-fn-0006" class="document">GW to Robert Stewart, 8 May 1756, n.6</a>. Jethro Sumner (Summer; c.17331785) was sent to Augusta County in the summer of 1757 and became a lieutenant in the 2d Virginia Regiment in 1758. Further information about him is in <a href="default.xqy?keys=GEWN-print-02-02-02-0124&amp;expandNote=GEWN-02-02-02-0124-fn-0006#GEWN-02-02-02-0124-fn-0006" class="document">Dinwiddie to GW, 18 Oct. 1755, n.6</a>. Henry Russell was still in the Virginia Regiment when GW left it at the end of 1758 but had resigned before the regiment was disbanded in 1762. Griffin Pert, who was serving in William Peacheys company as early as September 1755, became a lieutenant in the 2d Virginia Regiment in 1758. A resident of Norfolk County after the war, Pert signed Norfolks nonimportation association in 1770 and commanded a company of the countys militia early in the Revolution.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0003-ptr" id="GEWN-02-03-02-0238-fn-0003">3</a>
+
+   <p>In late September 1757 John Hamilton fled from Fort Loudoun when discovery of his dishonest handling of regimental supplies became imminent. Shortly thereafter GW reported that Hamilton had been several years a Sergeant in one of His Majestys Regiments: in which character he served 3 years under me: during that time, he gave such signal proofs of his Bravery and good Behaviour, as bound me, in honour and gratitude, to do something for him (<a href="default.xqy?keys=GEWN-print-02-05-02-0003" class="document">GW to John Stanwix, 8 Oct. 1757</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0004-ptr" id="GEWN-02-03-02-0238-fn-0004">4</a>
+
+   <p>There are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> two returns for stores and provisions dated 13 July and one dated a week earlier, on 7 July. The return of 7 July combines on one page A Return of Stores Provisions &amp;c. At Fort Cumberland Belongg to Virginia and A Return of Stores &amp;c. At Fort Cumberland Belongg to His Majesty and is signed by David Kennedy, assistant commissary. One return of 13 July, signed by John Defever, is entitled: A Return of Stores Know at this place. The second return of this date, which is unsigned, is called: A Return of the Sundry Stores Belonging to the Virginia Regt at Fort Cumberland. It includes the stores to be sent to Thomas Waggener on the South Branch and those to be sent to Winchester.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0256">[256]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0005-ptr" id="GEWN-02-03-02-0238-fn-0005">5</a>
+
+   <p>The Grand Suttler was probably Alexander Wodrow. See <a href="default.xqy?keys=GEWN-print-02-03-02-0235" class="document">Council of War, 10 July 1756</a>, especially <a href="default.xqy?keys=GEWN-print-02-03-02-0235&amp;expandNote=GEWN-02-03-02-0235-fn-0007#GEWN-02-03-02-0235-fn-0007" class="document">note 7</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0006-ptr" id="GEWN-02-03-02-0238-fn-0006">6</a>
+
+   <p>For the previous makeup of the companies in the Virginia Regiment, see <a href="default.xqy?keys=GEWN-print-02-02-02-0276" class="document">GWs Orders, 9 Jan. 1756</a>. The main innovation besides the substitution of a number of junior officers is that GW and Lt. Col. Adam Stephen assumed command of the companies formerly commanded by John Fenton Mercer, who had been killed in a skirmish with the Indians, and by John Savage, who had recently resigned from the regiment. The third field officer, Maj. Andrew Lewis, assumed command of Peter Hogs company in the summer of 1757.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0007-ptr" id="GEWN-02-03-02-0238-fn-0007">7</a>
+
+   <p>GW apparently was holding the position in his company open for his brother, who had declined it by 6 Sept. 1756. GW then ordered Adam Stephen to send Ens. James Roy down from Fort Cumberland to Winchester to join GWs company. See <a href="default.xqy?keys=GEWN-print-02-03-02-0001-0001" class="document">GW to Dinwiddie, 16 April</a>, postscript, and <a href="default.xqy?keys=GEWN-print-02-03-02-0042" class="document">Dinwiddie to GW, 23 April 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0008-ptr" id="GEWN-02-03-02-0238-fn-0008">8</a>
+
+   <p>There are size rolls (or muster rolls) in the summer of 1756 for most of the companies of the Virginia Regiment. Where available the data given in a roll on the sergeants and corporals named in the Orders are summarized here, with the names spelled as in the rolls:</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">GWs company</span>: John Sallard, enlisted September 1755 in Richmond County, aged 25, 510, a joiner, from Virginia; John Belfour (Belford), enl. December 1755 at Fort Cumberland, 25, 57, a weaver, from Ireland, quick in Speech &amp; of a lively Count[enanc]e; Samuel Longworth (Langsworth), enl. September 1755 at Norfolk, 25, 511, tanner, from Jersey; William Stuart Packet, enl. September 1755 in Richmond County, 25, 511, planter, Virginian (1 Aug. 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). It would seem that by 1 Aug. Peter Tulley (enl. July 1756 at Winchester, 32, 57, barber, from Ireland), had been made sergeant, and Simon Robinson (enl. September 1755 in Stafford County, 24, 56, bricklayer, from England, his Knees rather incl[in]g Inwards) was a corporal. For further information on Sallard and Packet, see <a href="default.xqy?keys=GEWN-print-02-02-02-0057&amp;expandNote=GEWN-02-02-02-0057-fn-0003#GEWN-02-02-02-0057-fn-0003" class="document">William Brockenbrough to GW, 29 Sept. 1755, n.3</a>.</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Adam Stephens company</span>: Thomas Carter, no information given, but he had served as sergeant in Charles Lewiss company according to the 16 Jan. 1756 payroll; John Graham, enlisted January 1755, 55; William Grant, not listed on roll; Philemon Waters, enl. 12 Mar. 1754 in Isle of Wight County, 22, 57, carpenter, from Virginia; Isaac Barringer, enl. January 1755, at Belhaven (Alexandria), 31, 55, carver, from England, Bushy Hair . . . Roman Nose; William Coffland (not listed as corporal), enl. November 1755 in Stafford County, 35, 511, gardener, from Ireland (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Peter Hogs company</span>: No size rolls for Peter Hogs company have been found. For the identification of John McCulley, see <a href="default.xqy?keys=GEWN-print-02-02-02-0220&amp;expandNote=GEWN-02-02-02-0220-fn-0002#GEWN-02-02-02-0220-fn-0002" class="document">Hog to GW, 17 Dec. 1755, n.2</a>; for John David Wilper, see <a href="default.xqy?keys=GEWN-print-02-02-02-0146&amp;expandNote=GEWN-02-02-02-0146-fn-0001#GEWN-02-02-02-0146-fn-0001" class="document">GW to William Fleming, 28 Oct. 1755, n.1</a>. On 8 and 15 July 1756 Hog reported three sergeants in his company. His payroll for December 1755 (misdated 1756) gives the name of Josias Baker as the third sergeant and lists three corporals: John Humphery, John Mcintire, and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0257">[257]</span>
+Joseph Roberts (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). Cpl. William Smith came to Winchester in July 1756 (<a href="default.xqy?keys=GEWN-print-02-03-02-0249-0001" class="document">GW to Hog, 21 July 1756</a> [first letter]).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">George Mercers company</span>: Angus McDonald, enl. 5 Mar. 1754 in King George County, 21, 510, seaman, from Scotland; John Matthews, enl. 12 Jan. 1755 in Dinwiddie County, 43, 6, sawyer, English, knocked Knees &amp; Speaks thick; John Grinnon, enl. 25 Nov. 1754 in Stafford County, 19, 510, carpenter, Virginian; Samuel French, enl. 1 Dec. 1754 in Fairfax County, 27, 510, sawyer, from Maryland; John Pope, enl. 22 Dec. 1754 in Prince William County, 18, 57, carpenter, Virginian, a fresh Look; Benjamin Barrett, enl. 18 May 1756 in Prince George County, 24, 57, seaman, Irish (2 Aug. 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Thomas Waggeners company</span>: William Shaw, not listed on any size roll of 13 July, or on Waggeners company payroll, MayAugust 1756; but he was a sergeant in William Peacheys company payroll for May and June 1756 and Adam Stephen lists him as a sergeant in his company returns in August 1756; Francis Austin (Ostin), recruited by Thomas Bullitt, 49, 59, shoemaker, English, his Right leg larger than his left; Mark Hollis, enl. by George Mercer, 26, 58, planter, English; George Salmon, enl. by Lt. John Wright, 30, 54, planter, Scottish; Samuel Poe, enl. by Lt. John Hamilton, 26, 54, shoemaker, English, black hair &amp; Eyes a sharp nose; John Creagh, enl. by John Mercer, 25, 53, bookbinder, Irish (19 Sept. 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). By 19 Sept. Poe had become a sergeant and John Cole (enl. by Lt. John Wright, 21, 52, planter, Scottish) had become a corporal.</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Robert Stewarts troop of light horse</span>: William Hughes, enl. 4 Nov. 1754 in Virginia, 26, 57, English; David Kennedy, enl. 16 Nov. 1754 in Virginia, 23, 57, merchant, Scottish; William Broughton, enl. 12 Mar. 1754 in Virginia, 23, 58, tailor, Virginian (30 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). John Winterbottom (enl. 13 May 1755, 27, 58, farmer, English) was a corporal in the company through June 1756 when he was sent back to Lt. Col. Thomas Gage. See <a href="default.xqy?keys=GEWN-print-02-03-02-0213&amp;expandNote=GEWN-02-03-02-0213-fn-0006#GEWN-02-03-02-0213-fn-0006" class="document">Stewart to GW, 23 June 1756, n.6</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0229&amp;expandNote=GEWN-02-03-02-0229-fn-0003#GEWN-02-03-02-0229-fn-0003" class="document">3 July 1756, n.3</a>. Stewarts 30 July 1756 size roll names Robert Tunstell as his third sergeant. Tunstell, 30, 56, Yorkshire blacksmith, enl. 9 Mar. 1755 in Virginia.</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Thomas Cockes company</span>: John McWilliams, enl. 28 Mar. 1755 in Fredericksburg, 20, 58, merchant, a Virginian, fond of Liquor; Henry Williams, enl. 21 July 1754 in Frederick County, 26, 59, planter, Irish; John Reynolds, enl. 20 Jan. 1755 in Fredericksburg, 22, 59, merchant, Virginian; James Thomas, enl. 24 Sept. 1755 in Alexandria, 31, 5, sailmaker, Scottish; George Clark, enl. 24 Dec. 1755 in Petersburg, 23, 53, shoemaker, English, very talkative; Dougald Campbell (Dougle Campble), enl. 8 July 1755 at Fort Cumberland, Md., 30, 54, carpenter, a Scot with Bald Pate, one Eye (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">William Bronaughs company</span>: Richard Trotter, enl. December 1754 in Essex County, 30, 56, mason by trade, Scottish; John Nash, enl. November 1755 in Richmond County, 26, 56, planter, Virginian; Hugh Campbell, enl. December 1754 in King William County, 25, 56, sailor, Scottish; William Hunt, enl. December 1754 in Alexandria, 36, 55, barber, English; John Naughty, enl.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0258">[258]</span>
+December 1754 in Stafford County, 24, 54, planter, Scottish; Henry Steel, enl. January 1754 in Augusta County, 21, 53, planter, Swedish (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Joshua Lewiss company</span>: Andrew Vaughan, enl. 11 Oct. 1755 at Belhaven (Alexandria), 25, 511, planter, Virginian; John Gender, enl. 9 Feb. 1755 in Frederick County, 23, 511, laborer, from Holland; Henry Carrier, enl. 21 Oct. 1755 in Winchester, 25, 57, laborer, English; Joseph Wills, enl. 23 Dec. 1755 at Quantico, 26, 54, laborer, English; Richard Foster, On Command; Thomas Carrier, enl. 25 Feb. 1755 in Winchester, 23, 57, seaman, English (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Henry Woodwards company</span>: Joseph Fent, enl. 10 May 1756 in Northampton County, 24, 57, surgeon, English; William Evans, enl. November 1754 in Albemarle County, 23, 58, valet, English; George Whitecotton, enl. 1755 in Stafford County, a Virginian; James Carmichael, enl. May 1756 in Prince George County, 19, 58, joiner, Scottish, long Nose; John Clark, enl. October 1755 in Westmoreland County, 25, 55, sailor, Irish; William Heath, no data (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). Heath, however, appears on Woodwards 24 Sept. 1757 size roll as a 20year-old Virginia planter, enl. in Spotsylvania County.</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Robert Spotswoods company</span>: Joseph Bledsoe, enl. 12 Sept. 1755 at Fredericksburg, 18, 510, planter, Virginian; Richard Good, enl. 11 Sept. 1755 in Caroline County, 23, 59, carpenter, Virginian; Samuel Robinson, enl. 11 Sept. 1755 in Caroline County, 22, 58, carpenter, Virginian; John Sale, enl. 20 Sept. 1755 in Caroline County, 24, 510, carpenter, Virginian; Edward Lare, enl. 7 Feb. 1756 in Williamsburg, 20, 59, barber, from Ireland; James Lyle, enl. 12 Oct. 1755 in Williamsburg, 24, 57, carpenter, Scottish (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Charles Lewiss company</span>: Charles Cailliaux, enl. August 1754 in Alexandria, 23, 57, gentleman, French; Abraham Crittendon, enl. November 1755 in Gloucester County, 24, 59, ship carpenter, Virginian; Sampson Franklin, enl. September 1755 in Caroline County, 20, 55, planter, Virginian; Thomas Edmondson, enl. September 1755 in Essex County, 25, 58, planter, Virginian. From the position of their names on the roll, it would appear that James Carson (enl. March 1754 in King and Queen County, 24, 59, bricklayer, English) was the third sergeant and that the third corporal was John Harwood, enl. April 1754 in Maryland, 30, 56, gardener, and English (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">William Peacheys (Peachys) company</span>: William Baker, enl. in Richmond County, planter, Virginian; Reuben Vass, enl. 16 Sept. 1755 in Essex County, 24, 59, joiner, Virginian; Bibby Broocke, 20 Sept. 1755 in Richmond County, 22, 57, planter, Virginian; John Gaskins, enl. 16 Oct. 1755 in Richmond County, 20, 57, planter, Virginian; Richard Gale, enl. 17 Sept. 1755 in Essex County, 30, 56, sailor, English, one Eye out; James Gutridge, enl. 1 Sept. 1755 in Northumberland County, 29, 55, planter, English (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">David Bells company</span>: Thomas Ferguson, enl. September 1755 in Williamsburg, 31, 59, soldier, Scottish; James Young, enl. September 1755 in Albemarle
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0259">[259]</span>
+County, 38, 58, merchant, Scottish; Charles Scott, enl. October 1755 in Albemarle County, 17, 57, carpenter, Virginian; David Hartwell, enl. October 1755 in Albemarle County, 22, 510, carpenter, Virginian; Whitnell Warner, enl. February 1756 in Albemarle County, 20, 55, schoolmaster, Irish; James Clark, enl. March 1756 at Yorktown, 31, 56, sailor, English (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Robert McKenzies company</span>: John Campbell, enl. in Talbot County, Md., 34, 56, Scottish, speaks broad; James Hatfield, enl. Dinwiddie County, 28, 54, cooper, English, with his Mouth incling to the Left; James Robinson, enl. in King George County, 22, 56, shoemaker, Scottish; Timothy Shaw, enl. Pennsylvania, 30, 510, weaver, Irish, speaks broad; John Adams, enl. in Caroline County, 28, 58, Scottish, talks slow; Bryan Page, enl. Essex County, 25, 55, tailor, Virginian, a pleasant Countenance (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Henry Harrisons company</span>: James Norrell, enl. in Charles City County, 23, 59, carpenter, Virginian, Brown and comely; Thomas Seal, enl. 7 Sept. 1755 in Suffolk County, 32, 61, blacksmith, from Maryland, Tawny Complexion &amp; rawboned; Francis Moreland, enl. 13 Sept. 1755 in Surry County, 22, 57, shoemaker, Virginian; Thomas Wright, enl. 6 Oct. 1755 in Petersburg, 26, 56, hatter, English, Fair and fond of Singing; Francis Walker, enl. 25 Sept. 1755 in Suffolk County, 26, 59, laborer, English; Ben Cotton, enl. 16 Sept. 1755 in Suffolk County, 24, 54, shoemaker, from New England, well made and a merry disposition (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p><span class="hi-italic" style="font-style: italic;">Christopher Gists company</span>: John Barrett, enl. 15 Mar. 1756 in Frederick County, 22, 510, miner, Irish; Richard Posey, enl. 30 Jan. 1756 in Frederick County, 22, 511, farmer, from Maryland; Richard Davis, enl. 5 Feb. 1756 in Baltimore, 22, 6, planter, Marylander, Fair, stout, lusty &amp; fresh coloured; Thomas White, enl. 29 Jan. 1756 in Baltimore, 28, 56, soldier, English; Mordecai Gorsnell, enl. 5 Feb. 1756 in Baltimore, 22, 6, planter, Marylander, rawboned; Gist Vaughan, enl. 21 Feb. 1756 in Baltimore, 21, 57, hunter, Marylander (13 July 1756, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0009-ptr" id="GEWN-02-03-02-0238-fn-0009">9</a>
+
+   <p>For GWs instructions about uniforms for the regiment, see <a href="default.xqy?keys=GEWN-print-02-03-02-0232&amp;expandNote=GEWN-02-03-02-0232-fn-0003#GEWN-02-03-02-0232-fn-0003" class="document">his Orders, 6 July 1756, n.3</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0010-ptr" id="GEWN-02-03-02-0238-fn-0010">10</a>
+
+   <p>For a listing of the 1756 company payrolls in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>, see <a href="default.xqy?keys=GEWN-print-02-03-02-0157&amp;expandNote=GEWN-02-03-02-0157-fn-0002#GEWN-02-03-02-0157-fn-0002" class="document">GW to Alexander Boyd, 18 May 1756, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0011-ptr" id="GEWN-02-03-02-0238-fn-0011">11</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-03-02-0158" class="document">GW to Adam Stephen, 18 May 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0238-fn-0012-ptr" id="GEWN-02-03-02-0238-fn-0012">12</a>
+
+   <p>GW was still at Fort Cumberland on 14 July, but he was at Conococheague by 16 July.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-03-02-0238 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 3 (16 April 17569 November 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0237" title="Orders, 11 July 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0239" title="From Robert Dinwiddie, 12 July 1756"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.241.151</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

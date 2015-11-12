@@ -1,0 +1,176 @@
+General Orders, 27 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 27 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0114&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-27-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0113" title="To Jonathan Trumbull, Sr., 26 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0115" title="From Stephen Brown, 27 April 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; General Orders, 27 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0114&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0113" title="To Jonathan Trumbull, Sr., 26 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0115" title="From Stephen Brown, 27 April 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0140">140</span><div id="Rev04d109" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, New York, April 27th 1776</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Camden.</td>
+		<td class="csigns">Countersign Chatham.</td>
+	      </tr></table>
+
+</div>
+<p>The riotous Behaviour of some Soldiers of the Continental Army, yesterday, and the Evening before, has filled the General with much regret, and concern; and lays him under the disagreeable necessity of declaring, that if the like behaviour should be practiced again, the Authors will be brought to the severest punishment if taken, or treated as a common Enemy, if they dare to resistMen are not to carve out Remedies for themselvesIf they are injured in any respect, there are legal Modes to obtain relief; and just Complaints will always be attended
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0141">[141]</span>
+to, and redressed. It should be the pride of a Soldier, to conduct himself in such a manner, as to obtain the Applause, and not the reproach of a people, he is sent to defend; and it should be the business, as it is the duty of an Officer to inculcate and enforce this doctrine.<a class="ptr" href="#GEWN-03-04-02-0114-fn-0001" id="GEWN-03-04-02-0114-fn-0001-ptr">1</a></p>
+<p>The Honorable the Continental Congress having been pleased to order a Brigadier General, and six more Battalions to be immediately sent to Canada; His Excellency directs the Colonels, or commanding Officers of the Regiments of Stark, [James] Reed, Wayne, Irvine,<a class="ptr" href="#GEWN-03-04-02-0114-fn-0002" id="GEWN-03-04-02-0114-fn-0002-ptr">2</a> Dayton and Winds, to prepare their Corps for immediate embarkation: The Qr Mr General will forthwith provide Vessels; and the Commissary General, Provisions; and General Sullivan will order every Regiment to embark, and sail, with all convenient expedition.</p>
+<p>The Honorable the Continental Congress, in consideration of the four last named Regiments, being orderd out of the middle Colonies, are pleased to direct them to be put upon the same pay with those already upon more remote servicewhich Pay is to commence, from the first day of May next.</p>
+<p>Col. Starks, and Col. Reads Regiments, to be ready to be mustered to morrow morning, at eight OClock, upon the Common near the Park of Artillery.</p>
+<p>All Officers, non-Commissiond Officers, and Soldiers, at present absent from the Regiments, commanded by the Colonels, Wayne, Irvine, Dayton, and Winds, are forthwith orderd to join their respective Corps.</p>
+<p>Col. McDougall, and Col. Ritzemas Regiments, to parade on Monday Morning at Ten oClock, upon the Common to be reviewed.<a class="ptr" href="#GEWN-03-04-02-0114-fn-0003" id="GEWN-03-04-02-0114-fn-0003-ptr">3</a></p>
+<p>William Hains of Capt. Dentons Company, in Col. Ritzemas Regiment,<a class="ptr" href="#GEWN-03-04-02-0114-fn-0004" id="GEWN-03-04-02-0114-fn-0004-ptr">4</a> tried at a late General Court Martial whereof Col. Baldwin was President, for DesertionThe Court finding the Prisoner guilty of the Charge, do sentence him to be whipped Twenty-five Lashes on his bare back. The General approves the sentence, and orders it to be put in execution on Monday Morning, at the Head of the regiment.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0114-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0114-fn-0001-ptr" id="GEWN-03-04-02-0114-fn-0001">1</a>
+
+   <p>On this date Gen. Nathanael Greene ordered Col Irvines Regiment to parade at four oclock this afternoon upon the Common in the Front Of Bridwell
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0142">[142]</span>
+That his excellency General Washington may have an opportunity to address the Regiments upon the disorderly Conduct that some of the Regiments have betrayed last night and this morning In Pulling down Houses.</p>
+
+
+   <p>General Green desires the troops to give good attention to his Excellencys admonition for he is well persuaded that it is Calculated to preserve them from any future disgrace, Similar to this they have now fallen under (Dodge, Orderly Book, 43).</p>
+
+
+   <p>The Bridewell was the recently built city jail facing the common. The rioting took place at the notorious Holy Ground, an area near Trinity Church where the citys many prostitutes gathered to ply their trade and where, according to Lt. Isaac Bangs of the 23d Continental Regiment, soldiers risked death and dismemberment as well as infection with venereal disease. Since Monday last, Bangs wrote in his journal entry for 25 April, two Men were found inhumanly Murthered &amp; concealed, besides one who was castrated in a barbarous Manner. This so exasperated the Men that in the face of Day they assembled and pulled down the Houses where the Men were thus treated, &amp; with great difficulty the Guards dispersed them after they had leveled them to the Ground. This, together with the common Riots incident to such Places, made our Men a little more Cautious how they ventured to prophane Holy Ground with their Presence (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edward Bangs, ed. &lt;i&gt;Journal of Lieutenant Isaac Bangs, April 1 to July 29, 1776&lt;/i&gt;. 1890. Reprint. New York, 1968. ]">Bangs, <span class="hi-italic" style="font-style: italic;">Journal</span></span>, 2930).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0114-fn-0002-ptr" id="GEWN-03-04-02-0114-fn-0002">2</a>
+
+   <p>The copyist inadvertently wrote Irivine.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0114-fn-0003-ptr" id="GEWN-03-04-02-0114-fn-0003">3</a>
+
+   <p>The following Monday was 29 April.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0114-fn-0004-ptr" id="GEWN-03-04-02-0114-fn-0004">4</a>
+
+   <p>Daniel Denton informed the New York provincial congress on 13 Mar. that he had finished recruiting his company in Orange County and that he had enlisted a number of genteel young fellows out of reputable families, who would choose to clothe themselves entirely (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Provincial Congress, Provincial Convention, Committee of Safety, and Council of Safety of the State of New-York, 177517761777&lt;/i&gt;. 2 vols. Albany, 1842. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">N.Y. Prov. Congress Journals</span></span>, 1:357). Dentons company was stationed in New York City.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0114 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0113" title="To Jonathan Trumbull, Sr., 26 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0115" title="From Stephen Brown, 27 April 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

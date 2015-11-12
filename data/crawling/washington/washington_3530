@@ -1,0 +1,256 @@
+From Benjamin Harrison, 21–24 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Benjamin Harrison, 2124 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0088&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-21-5">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0087" title="To John Hancock, 21 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0089" title="From Brigadier General William Heath, 21 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Benjamin Harrison, 2124 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0088&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0087" title="To John Hancock, 21 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0089" title="From Brigadier General William Heath, 21 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0145">145</span><div id="Rev01d83" class="doc">
+
+
+<h1>From Benjamin Harrison</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dr General.</td>
+		<td class="salutationRight">Philadelphia July <span class="hi-italic" style="font-style: italic;">21st</span>[-24] 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>I received your very acceptable favor of the 10th Instant by express,<a class="ptr" href="#GEWN-03-01-02-0088-fn-0001" id="GEWN-03-01-02-0088-fn-0001-ptr">1</a> your Fatigue and various kinds of trouble I dare say are great, but they are not more than I expected, knowing the People you have to deal with by the sample we have here, the Congress have taken the two Regiments now raising in Conecticut into service, which with Rifle Men and Recruits to your Regiments will I hope make up the number voted by your Council of War,<a class="ptr" href="#GEWN-03-01-02-0088-fn-0002" id="GEWN-03-01-02-0088-fn-0002-ptr">2</a> I wish with all my heart your Troops were better and your Stores more compleat, every thing that we can do here to put you in the best posture possible I think you may depend, will be done, I trust you will have a Supply soon of Ammunition, without an accident, you may depend on it<a class="ptr" href="#GEWN-03-01-02-0088-fn-0003" id="GEWN-03-01-02-0088-fn-0003-ptr">3</a>The want of Engineers I fear is not to be supplied in America, some Folks here seemed much displeased at your Report on that head, they affirm there are two very good ones with you, a Colo. Gridley I think is one,<a class="ptr" href="#GEWN-03-01-02-0088-fn-0004" id="GEWN-03-01-02-0088-fn-0004-ptr">4</a> I took the liberty to say that they must be mistaken, they were certainly either not in Camp or could not have the Skill they were pleased to say they had, this in my soft way put a stop to any thing more on the Subject, indeed my Friend I do not know what to think of some of these Men, they seem to be exceeding hearty in the Cause, but still wish to keep every thing amongst themselves, Our President is quite of a different Cast, Noble disinterested and Generous to a very great DegreeThe Congress have given you the appointment of three Brigade Majors, Mr Trumbull has the Office you proposed for him, the appointment of the Commissary of Artillery, Do of Musters and Quartermaster General are also left to your disposal,<a class="ptr" href="#GEWN-03-01-02-0088-fn-0005" id="GEWN-03-01-02-0088-fn-0005-ptr">5</a> nothing is yet done as to the Hospital, but I will bring it on very soon<a class="ptr" href="#GEWN-03-01-02-0088-fn-0006" id="GEWN-03-01-02-0088-fn-0006-ptr">6</a>your Brothers in the Delegation have recommended it to our Convention to send some virginians to the Camp at the Expence of our Colony to learn the Military Art, and I hope you will see them soonwe have given the Commission of first Brigadier to Mr Thomas, as Putnams Commission was delivered, it would perhaps have offended the old Gentleman to have superceded him, the other I hope will still act, the Congress have from your account a high opinion of him, and I dare say will grant any thing in their Power that he
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0146">[146]</span>
+may hereafter require<a class="ptr" href="#GEWN-03-01-02-0088-fn-0007" id="GEWN-03-01-02-0088-fn-0007-ptr">7</a>your hint for a remove of the Congress to some place nearer to you will come on to Morrow, I think it will not answer your Expectations, if we should remove, you shall have the result in the close of this;<a class="ptr" href="#GEWN-03-01-02-0088-fn-0008" id="GEWN-03-01-02-0088-fn-0008-ptr">8</a> The Military Chest I hope will be Supplyd soon, they begin to Strike the Bills this Day, so that I hope some may be forwarded to you next Week, what has occasioned the delay in this article I know not without an imitation of the Congress in its slowness is become fashionableI have had no further account from our Country about the Governor except that he is still at York Town with three Men of War, He, Montague, and Foye, went the other Day by Water to his Farm, and were within three or four Minutes of being all taken by Captain Meridith with 70 Men from Hanover, who are with about 150 from other Counties guarding Williamsburg, from any attempts that he may make with his Boild crabs, Meridith says his Intentions were to carry his Lordship to Williamsburg to put him into the Pals. and promise him Protection to convince him and the World that no Injury was intended him, however as he missd his stroke I dare say he will be charged with intendg to Murder him<a class="ptr" href="#GEWN-03-01-02-0088-fn-0009" id="GEWN-03-01-02-0088-fn-0009-ptr">9</a>We think the Season too far Advanced to send you any more Men from the Southward, but it seems to be the General opinion to send some Thousands early in the Spring, should this be the case, if I have the Honor of being here you may depend on my care of Mr Johnston, we have an imperfect account of an attack on New York, by some of the over Lake Indians, I hope it is not true, Indeed (betwixt you and I) I give very little Credit to any thing from that Quarter, and wish I could say I had no reason to be Suspicious of those People<a class="ptr" href="#GEWN-03-01-02-0088-fn-0010" id="GEWN-03-01-02-0088-fn-0010-ptr">10</a>We yesterday received dispatches from Georgia, they have come into the Union and have appointed Delegates to the Congress, they have even done more, they with the South Carolinians Armed a Vessel and have taken a Ship with 140 Barrels of Kings Powder which they have divided betwixt them.<a class="ptr" href="#GEWN-03-01-02-0088-fn-0011" id="GEWN-03-01-02-0088-fn-0011-ptr">11</a></p>
+<p>23d The Debate about our remove was taken up yesterday, and determined in the Negative, I proposed a Committee, but could not carry it, I think the last Method would have answered your purpose best, but the Gentlemen could not think of parting with the least Particle of their Power;<a class="ptr" href="#GEWN-03-01-02-0088-fn-0012" id="GEWN-03-01-02-0088-fn-0012-ptr">12</a> Pendleton left us
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0147">[147]</span>
+Yesterday, all Maryland are gone off this day, and we intend to follow them next Sunday, if nothing material happens betwixt this and then, our going I expect will break up the Congress, indeed I think it high time there was an end of it, we have been too long together.<a class="ptr" href="#GEWN-03-01-02-0088-fn-0013" id="GEWN-03-01-02-0088-fn-0013-ptr">13</a></p>
+<p>Edmund Randolph is here and has the greatest desire to be with you, he has begd of me to say something in his favor, and that if you can with propriety, you will keep one of the Places now in your Gift for him, he is not able to support himself or he would not ask this of you, you know him as well as I do, he is one of the Cleverest Young Men in America, and if Mr Read should leave you, his place of Secretary cant be better Supplyd, he will set off for New York in a few days and I beg it as a favor of you to write a line to him, to be left at the Post Office there, till calld for, this deserving Young Man was in high repute in Virginia, and he fears his Fathers Conduct may tend to lessen him in the Esteem of his Countrymen, he has taken this Method without the advice of his Friends to raise him into Favor, as he is determined on the Thing; I am sure our good old Speaker will be much Obliged for any favor you shew him, applications of this sort I fear will be too frequent, I shall avoid them as much as possible, but I could not refuse it on this Occasion, well knowing that a most valuable Young Man, and one that I love, without some Step of this sort may from the Misconduct of his Parent, be lost to his Country, which now Stands much in need of Men of his Abilities<a class="ptr" href="#GEWN-03-01-02-0088-fn-0014" id="GEWN-03-01-02-0088-fn-0014-ptr">14</a>We have a Report that Robert Mckenzie was killed at Bunkers Hill, is it true, I had a great Friendship for him formerly, but cant help saying I shall be glad to hear the News confirmed.<a class="ptr" href="#GEWN-03-01-02-0088-fn-0015" id="GEWN-03-01-02-0088-fn-0015-ptr">15</a></p>
+<p>24th Nothing New in Congress or from Virginia to Day, I should therefore have closed this without saying more had not an application been made to me to introduce to you Captain Thomas Price of a Company of Rifle Men from Maryland, he comes with a high Character from thence and is looked on as most firmly attached to the cause of America, he has a large Family which he has left merely to forward the Service, the Deputies from that Country are gone home, I have seen a Letter in his favor to Mr Flighman highly Commending him, and as he could not thro that Channel get a Recommendation I
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0148">[148]</span>
+have been prevailed on to Introduce him which Liberty I hope you will excuse.<a class="ptr" href="#GEWN-03-01-02-0088-fn-0016" id="GEWN-03-01-02-0088-fn-0016-ptr">16</a> I am My Dr Sir your most affect. Servant,</p>
+<div class="closer">
+<p class="signed">(Signd) Benja. Harrison</p>
+</div>
+<div class="postscript">
+<p>P:S: We expect to leave this Place next Sunday, I shall yet beg the favor of a line now and then, and shall leave orders with Bradford<a class="ptr" href="#GEWN-03-01-02-0088-fn-0017" id="GEWN-03-01-02-0088-fn-0017-ptr">17</a> to forward them, in return you shall be most Minutely informed of every thing going forward in Virginia.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0088-sn">
+
+   <p>
+
+Copy, enclosed in Thomas Gage to Earl of Dartmouth, 20 Aug. 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Public Record Office, also known as National Archives (UK-KeNA), Kew, Surrey, England ]">P.R.O.</span>, C.O.5/92, ff. 25254;
+
+copy, enclosed in Thomas Gage to Earl of Dartmouth, 20 Aug. 1775, Dartmouth MSS, William Salt Library, Stafford, England;
+
+copy, enclosed in Samuel Graves to Philip Stephens, 17 Aug. 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Public Record Office, also known as National Archives (UK-KeNA), Kew, Surrey, England ]">P.R.O.</span>, C.O.5/122, ff. 8083;
+
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Michigan, William L. Clements Library, Ann Arbor ]">MiU-C</span>: Thomas Gage Papers;
+
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Michigan, William L. Clements Library, Ann Arbor ]">MiU-C</span>: Miscellaneous Collection.
+
+This letter fell into British hands when a party from a British warship captured its bearer, Benjamin Hichborn, while he was crossing Narragansett Bay on his way to Cambridge. See <a href="default.xqy?keys=GEWN-print-03-01-02-0150" class="document">GW to Hancock, 45 Aug. 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0159" class="document">James Warren to GW, 5 Aug. 1775</a>. The letter was forwarded to Vice Admiral Samuel Graves at Boston, who gave a copy to Gen. Thomas Gage, and both Graves and Gage subsequently sent copies to England. Graves apparently kept the original letter which has not been found. On 17 Aug. 1775 the <span class="hi-italic" style="font-style: italic;">Massachusetts Gazette: and the Boston Weekly News-Letter</span> printed a doctored version of the letter, in which the following spurious paragraph appears at the end of the section dated 21 July: As I was in the pleasing Task of writing to you, a little Noise occasioned me to turn my Head round, and who should appear but pretty little Kate the Washer-womans Daughter over the Way, clean, trim and rosey as the Morning; I snatchd the golden glorious Opportunity, and but for that cursed Antidote to Love, Sukey, I had fitted her for my General against his Return. We were obliged to part, but not till we had contrived to meet again; if she keeps the Appointment I shall relish a Weeks longer stayI give you now and then some of these Adventures to amuse you, and unbend your Mind from the Cares of War. Nothing is known about the authorship of this paragraph which was clearly intended to create a scandal among the Patriots. The copy in the Public Record Office that Gage enclosed to the earl of Dartmouth does not contain the spurious paragraph, nor does the copy of that copy at the William Salt Library. The copy in the Public Record Office that Graves enclosed to Philip Stephens, secretary of the Admiralty, and the two copies at the Clements Library, University of Michigan, do contain the spurious paragraph. Many American and British newspapers reprinted the doctored letter from the <span class="hi-italic" style="font-style: italic;">Massachusetts Gazette</span>, and there are numerous manuscript copies of it in various repositories in addition to the ones cited here. For an account of this document and the spurious paragraph, see Allen French, The First George Washington Scandal, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt;. Boston, 1859. ]">Mass. Hist. Soc., <span class="hi-italic" style="font-style: italic;">Proceedings</span></span>, 65 (1935), 46074.</p>
+
+
+   <p>Benjamin Harrison (c.17261791) of Charles City County, Va., served with GW for many years in the Virginia House of Burgesses and was one of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0149">[149]</span>
+his fellow delegates in both the First and Second Continental Congresses. Harrison remained in Congress until October 1777, playing a prominent role in military affairs. On 30 Sept. 1775 he was appointed to the three-member camp committee that went to Cambridge to confer with GW about ways of supporting and regulating the army. Harrison was named to the marine committee in March 1776, to another camp conference committee in May 1776, and to the newly created Board of War in June 1776. After his return to Virginia in 1777, he served as speaker of the house of delegates from 1778 to 1781 and as governor from 1781 to 1784. Although the spurious paragraph that was added to Harrisons letter was regarded as genuine by John and Samuel Adams and Arthur Lee among others, its publication apparently did not injure Harrisons close working relationship with GW.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0001-ptr" id="GEWN-03-01-02-0088-fn-0001">1</a>
+
+   <p>Letter not found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0002-ptr" id="GEWN-03-01-02-0088-fn-0002">2</a>
+
+   <p>Congress recommended to the Connecticut government on 19 July that its two new regiments join the Continental army outside Boston as soon as possible (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:192).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0003-ptr" id="GEWN-03-01-02-0088-fn-0003">3</a>
+
+   <p>Hancock was directed on 19 July to write as president of Congress to the powder committees or committees of safety in Philadelphia and New York and request them to send to the Continental army as much gunpowder as they could spare (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:191).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0004-ptr" id="GEWN-03-01-02-0088-fn-0004">4</a>
+	
+   <p>Harrison is referring to the complaints that GW made in his <a href="default.xqy?keys=GEWN-print-03-01-02-0047-0003" class="document">letter to Hancock of 1011 July 1775</a>. The second engineer was William Burbeck. John Adams was provoked to write to William Tudor on 23 July: I want to know if there are any Engineers in the Province and who they are. I have heard the Generals were much disappointed, in not finding Engineers, and Artillery as they expected. P[lease] let me know the Truth of this, if you can learn it, and how they come to expect a better Artillery than they found (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:8586).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0005-ptr" id="GEWN-03-01-02-0088-fn-0005">5</a>
+
+   <p>Congress approved all of these measures on 19 July (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:19091). The last one, however, did not please John Adams. I can never Sufficiently regret, that this Congress have acted So much out of Character, as to leave the Appointment of the Quarter Master General, Commissary of Musters and Commissary of Artillery to the General, Adams wrote to James Warren on 26 July. As these officers, are Checks upon the General, and he a Check upon them: there ought not to be too much Connection between them. They ought not to be under any dependance upon him, or So great Obligations of Gratitude as these of a Creature to the Creator (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert J. Taylor et al., eds. &lt;i&gt;Papers of John Adams&lt;/i&gt;. 17 vols. to date. Cambridge, Mass., and London, 1977. ]">Taylor, <span class="hi-italic" style="font-style: italic;">Papers of John Adams</span></span>, 3:100101).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0006-ptr" id="GEWN-03-01-02-0088-fn-0006">6</a>
+
+   <p>A committee on the establishment of a military hospital was appointed on 19 July, and its report was approved on 27 July (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:191, 20911).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0007-ptr" id="GEWN-03-01-02-0088-fn-0007">7</a>
+  
+   <p>For a discussion of these various disputes over rank, see <a href="default.xqy?keys=GEWN-print-03-01-02-0030&amp;expandNote=GEWN-03-01-02-0030-fn-0001#GEWN-03-01-02-0030-fn-0001" class="document">James Warren and Joseph Hawley to GW, 4 July 1775, n.1</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0047-0003&amp;expandNote=GEWN-03-01-02-0047-0003-fn-0020#GEWN-03-01-02-0047-0003-fn-0020" class="document">GW to Hancock, 1011 July 1775, Document II. Letter Sent, n.20</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0008-ptr" id="GEWN-03-01-02-0088-fn-0008">8</a>
+	
+   <p>For GWs hint that it would be better for Congress to sit somewhere nearer to Cambridge, see his <a href="default.xqy?keys=GEWN-print-03-01-02-0047" class="document">letter to Hancock of 1011 July 1775</a>. Almost from the beginning of the Second Continental Congress in May 1775, there was some talk among the delegates out of doors about moving from Philadelphia
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0150">[150]</span>
+to Hartford or New Haven, and in June Thomas Lynch of South Carolina went so far as to ask Silas Deane of Connecticut to engage lodgings provisionally for him and his family near Hartford (Silas Deane to Elizabeth Deane, 16 June 1775, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul H. Smith et al., eds. &lt;i&gt;Letters of Delegates to Congress, 17741789&lt;/i&gt;. 26 vols. Washington, D.C., 19762000. ]">Smith, <span class="hi-italic" style="font-style: italic;">Letters of Delegates</span></span>, 1:49395). The matter, however, did not come to the floor of Congress (see note 12).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0009-ptr" id="GEWN-03-01-02-0088-fn-0009">9</a>
+
+   <p>John Murray, earl of Dunmore (17321809), who had been governor of Virginia since 1771, boarded the British <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'warship' &lt;span style='font-size: 90%'&gt;[[2015-02-16]]&lt;/span&gt; ]">frigate</span> <span class="hi-italic" style="font-style: italic;">Fowey</span> at Yorktown on 8 June 1775 with his family and his private secretary, Capt. Edward Foy, ostensibly to protect his wife and children from attack by the Patriots. The <span class="hi-italic" style="font-style: italic;">Fowey</span> was commanded by Capt. George Montagu (<span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'born c.1751' &lt;span style='font-size: 90%'&gt;[[2009-09-17]]&lt;/span&gt; ]">1750-1829</span>), a young officer who was destined for a long and distinguished career in the Royal Navy. On 7 July Dunmore, accompanied by Montagu and Foy, went up the York River by barge and landed at Porto Bello, his farm about six miles from Williamsburg. After dinner there, Dunmores party was alarmed by the appearance of a company of Hanover County volunteers commanded by Capt. Samuel Meredith (born c.1731), a brother-in-law of Patrick Henry. Forced to flee, Dunmore returned to the <span class="hi-italic" style="font-style: italic;">Fowey</span> and remained aboard until 15 July, at which time the <span class="hi-italic" style="font-style: italic;">Fowey</span>s impending departure from Virginia obliged him to transfer to another warship. Dunmore stayed in the Chesapeake Bay until the summer of 1776, attempting to reestablish his authority in the colony with military force, but failed in all of his efforts. He returned to England and later became governor of the Bahamas.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0010-ptr" id="GEWN-03-01-02-0088-fn-0010">10</a>
+
+   <p>On 20 July Congress received and read a letter of 15 July from Maj. Gen. Philip Schuyler which contained the same intelligence regarding an anticipated Indian attack in the Mohawk Valley of New York as did Schuylers letter of that date to GW (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:192).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0011-ptr" id="GEWN-03-01-02-0088-fn-0011">11</a>
+
+   <p>The Liberty Gentlemen, Gov. James Wright of Georgia wrote to the earl of Dartmouth on 8 July 1775, have fitted out a Schooner some say with 8 &amp; some with 10 Carriage Guns Many Swivels &amp; 50 Men. Two days later Wright informed Dartmouth that, since his previous letter, the Patriots schooner had seized the British ship <span class="hi-italic" style="font-style: italic;">Phillipa</span>, laden with gunpowder from London, about 4 Leagues from the Bar [at Savannah] Conductd her in &amp; then took out all the Gun Powder on Board Amounting to about Six Tons as the Capt. [Richard Maitland] tells me and which is now in the Hands of the Liberty People here who Forcibly Hold it against the Owners (Letters from Sir James Wright, in Ga. Hist. Soc., <span class="hi-italic" style="font-style: italic;">Collections</span>, 3 [1873], 19192, 19495). For the appointment of the Georgia delegates to the Continental Congress, see <a href="default.xqy?keys=GEWN-print-03-01-02-0099&amp;expandNote=GEWN-03-01-02-0099-fn-0015#GEWN-03-01-02-0099-fn-0015" class="document">Hancock to GW, 24 July 1775, n.15</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0012-ptr" id="GEWN-03-01-02-0088-fn-0012">12</a>
+
+   <p>The debate and decision on the suggested adjournment of Congress to Connecticut apparently occurred in a committee of the whole.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0013-ptr" id="GEWN-03-01-02-0088-fn-0013">13</a>
+
+   <p>Congress recessed on Wednesday, 2 August.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0014-ptr" id="GEWN-03-01-02-0088-fn-0014">14</a>
+
+   <p>Edmund Randolph (17531813), a young lawyer from Williamsburg, belonged to a prominent Virginia family which was divided by the Revolution. His father, John Randolph (c.17281784), who served as attorney general of the colony from 1766 to 1774, was an outspoken Loyalist, while his uncle, Peyton Randolph (17211775), a brother-in-law of Benjamin Harrison and speaker of the House of Burgesses for the past nine years, became a
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0151">[151]</span>
+Patriot leader, serving as president of the first three Virginia conventions and of First and Second Continental Congresses. Edmund Randolph sided with his uncle and remained in Virginia when his father departed for England in September 1774. On 15 Aug. 1775 GW appointed Edmund Randolph one of his aides-de-camp, a position Randolph held until 2 Nov. 1775, when Peyton Randolphs death obliged him to return to Virginia to attend to family affairs. Edmund Randolph became attorney general of Virginia in the spring of 1776 and was a member of Congress in 1779, 1781, and 1782.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0015-ptr" id="GEWN-03-01-02-0088-fn-0015">15</a>
+	
+   <p>Capt. Robert McKenzie of the British 43d Regiment of Foot served under GW in the Virginia Regiment during the French and Indian War and remained on friendly terms with him as late as March 1775 (<a href="default.xqy?keys=GEWN-print-02-10-02-0229" class="document">McKenzie to GW, 14 Mar. 1775</a>). Although the list of British officer casualties at Bunker Hill that GW enclosed in his <a href="default.xqy?keys=GEWN-print-03-01-02-0065" class="document">letter to Hancock of 14 July 1775</a> reports McKenzie as killed, he was only wounded and survived to become paymaster general under Gen. William Howe in August 1776. He later accompanied Howe to London as his private secretary.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0016-ptr" id="GEWN-03-01-02-0088-fn-0016">16</a>
+
+   <p>Thomas Price (17321795) of Frederick, Md., marched with his men from Frederick on 18 July 1775 and arrived at Cambridge about 11 August. He returned home the following November and in January 1776 became major of Col. William Smallwoods Maryland regiment. In December 1776 Price was promoted to colonel of the 2d Maryland Regiment, a position that he held until he resigned from the army in April 1780. The name Flighman appears as Tilghman in the copies of this letter in the Dartmouth Mss. at the William Salt Library, in P.R.O., C.O.5/122, ff. 8083, and in the Clements Library. He was probably Matthew Tilghman (17181790) of Queen Anne County, Md., who served in Congress from September 1774 to December 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0088-fn-0017-ptr" id="GEWN-03-01-02-0088-fn-0017">17</a>
+
+   <p>William Bradford (17221791) and his son Thomas Bradford (17451838) published the <span class="hi-italic" style="font-style: italic;">Pennsylvania Journal; and the Weekly Advertiser</span> in Philadelphia.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0088 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0087" title="To John Hancock, 21 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0089" title="From Brigadier General William Heath, 21 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

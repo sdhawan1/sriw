@@ -1,0 +1,169 @@
+From Bidé de Chavagnes [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Bid de Chavagnes [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-08-02-0162&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-08-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-08-02-0161&amp;mode=TOC" title="The Massachusetts Constitution: ca. 2831 October 1779"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-08-02-0163" title="From James Lovell, 1 November 1779"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-08-02-0162-0001" title="From Bid de Chavagnes, 1 November 1779"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-08&amp;mode=TOC">Volume 8, March 1779February 1780</a>&gt; <a href="?keys=ADMS-print-06-08-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Bid de Chavagnes [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-08-02-0162&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-08-02-0161&amp;mode=TOC" title="The Massachusetts Constitution: ca. 2831 October 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-08-02-0163" title="From James Lovell, 1 November 1779"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-08-02-pb-0271">271<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-08/ADMS-06-08-02-pb-0271.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA08tg4" class="transgroup">
+
+    <div id="PJA08d169" class="doc letter">
+
+     <h2>From Bid de Chavagnes</h2>
+     
+     <div class="docbody" xml:lang="fra">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Mon cher monsieur</td>
+		  <td class="salutationRight">a bord de la sensible ce 1er 9bre 1779</td>
+		</tr>
+      </table>
+      </div>
+      <p>Je me faisois une grande feste, samedy dernier, Davoir Ihonneur de vous voir, de diner avec vous et de boire a votre sant chez monsieurs <span class="pb" title="page number in print edition" id="ADMS-06-08-02-pb-0272">[272<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-08/ADMS-06-08-02-pb-0272.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>alain,<a class="ptr" href="#PJA08d170n1" id="PJA08d170n1-ptr">1</a> mais 1utilit de votre travail pour le bien public ma fait supporter plus aisement cette privation, j eus cependant et bien content de pouvoir vous parler moy mme au sujet des besoins urgents ou commence a se trouver la fregatte du roy de france que j ay vu avec tant de plaisir destine a vous transporter et les votres en France. J avois deja eu Ihonneur de vous prevenir que sous peu les farines et le biscuit nous manqueroint, n en ayant plus que pour 20 ou 25 jours. II me seroit impossible de prendre la mer avec ce peu de vivres, monsieur de valnais et tous les franois en cherchent inutilement depuis 4 jours. II fait en consequence aujourdhuy une demande au conseil de 25 barils de farine et 50 quintaux de biscuit.<a class="ptr" href="#PJA08d170n2" id="PJA08d170n2-ptr">2</a> La confiance qui vous est si legitiment acquise parmy vos concytoyens le credit que vous vez auprs du conseil me font esperer que vous voudrez bien appuyer cette demande et je ne doute point du succs s il nest impossible.</p>
+      <p>J eus et bien aise aussi de vous demander conseil au cas devenement sur une chose tres importante pour moy. Las voicy. On a eu connoissance dans la baye de 2 fregattes angloise une de 44 canons, I autre de 40. Les 5 fregattes qui sont icy doivent partir incessamment. On ma donn un avis incertain que le conseil dapres la nation pourroit me faire la demande de sortir avec elles, ceque j eus certainement prevenu tant par honneur que par le grand desir que j aurois d estre utile a votre nation, d un autre cot si la vieille sensible avoit un choc ou un coup de vent un peu appuy dans ce moment je ne repondrois plus de pouvoir de cette anne entreprendre la traverse d europe. J ay mand a monsieur le chevalier de la luzerne que je vous demanderois dans tout cecy votre appuy et vos conseils. II ma donn a vous je len remercie.</p>
+      <p>J attends par monsieur de fleury qui vous remettra cette lettre un mot de vous en consequence, des nouvelles de votre sant que mest chere ainsi que celle de votre famille. Heureux pour moy le moment qui me procurera le bonheur de vous posseder a bord de la sensible et de vous y reiterer de vive voix les sentiments du sincere et respectueux attachement avec lesquels j ay lhonneur destre Mon cher monsieur Votre tres humble et tres obeissant serviteur.</p>
+      <div class="closer">
+       <p class="signed">Bid de chavagnes</p>
+      </div>
+     </div>
+    </div>
+    <div id="PJA08d170" class="trans letter">
+
+     <h2>Bid de Chavagnes to John Adams: A Translation</h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">My dear sir</td>
+		</tr>
+      </table>
+      </div>
+      <div class="dateline">Aboard <span class="hi-italic" style="font-style: italic;">La Sensible</span>, 1 November 1779</div>
+      <p>I was greatly looking forward to having the honor of seeing you, dining with you, and drinking to your health at Mr. Allens<a class="ptr" href="#PJA08d170n1" id="PJA08d170n1-ptr">1</a> house last Saturday, but the usefulness of your work for the public good has allowed me to bear this deprivation more easily. And yet, I would have liked to have been able to speak with you personally about the urgent needs that <span class="pb" title="page number in print edition" id="ADMS-06-08-02-pb-0273">[273<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-08/ADMS-06-08-02-pb-0273.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>are beginning to be felt by the frigate of the King of France, which I have seen with great pleasure destined to carry you and your family to France. I already had the honor of informing you that we will soon be out of flour and biscuits, having only enough to last 20 or 25 days. It would be impossible for me to to go to sea with so few provisions. Mr. de Valnais and all the Frenchmen have been searching in vain for the last four days. As a result, he is asking the Council today for 25 barrels of flour and 50 quintals of biscuits.<a class="ptr" href="#PJA08d170n2" id="PJA08d170n2-ptr">2</a> The reputation which you have so legitimately acquired among your fellow citizens and your influence with the Council makes me hope that you will agree to support this request, the success of which I do not doubt unless it is absolutely impossible to grant.</p>
+      <p>I would also have liked to ask your advice on another matter of great importance to me. Alas, here it is. Two British frigates are known to be in the bay, one of 44 guns, the other of 40. The five frigates anchored here are to leave immediately and, although it is not certain, I have learned that the Council, on behalf of the nation, might ask me to go out with them. I am certainly predisposed to this as much by the honor as by my great desire to be useful to your nation, but on the other hand, if the old <span class="hi-italic" style="font-style: italic;">Sensible</span> had an engagement or encountered a storm, even a little prolonged, I would be unable to guarantee that it could undertake a crossing to Europe this year. I have informed the Chevalier de La Luzerne that I would request your support and advice on this matter. He put me at your service, for which I am grateful.</p>
+      <p>I await, through Mr. de Fleury who will deliver this letter, word from you giving me news of your health, which is so dear to me, as well as that of your family. Happy will be the moment when I have you aboard <span class="hi-italic" style="font-style: italic;">La Sensible</span> and can reiterate personally the sentiments of sincere and respectful attachment with which I have the honor to be, my dear sir, your very humble and very obedient servant.</p>
+      <div class="closer">
+       <p class="signed">Bid de Chavagnes</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA08d170sn1">
+       <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+       </p>
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA08d170n1-ptr" id="PJA08d170n1">1</a>
+       <p>Probably Jeremiah Allen, who was to sail on <span class="hi-italic" style="font-style: italic;">La Sensible</span> with the Adams party. For <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s description of Allen, see his letter of <a href="default.xqy?keys=ADMS-print-06-08-02-0186" class="document">18 Dec.</a> to Michel Lagoanere (below).</p>
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA08d170n2-ptr" id="PJA08d170n2">2</a>
+       <p>The records of the Council, sitting in executive session during the recess of the General Court, have nothing about Valnais request for provision (Records of the States, Microfilm, Mass. E.I, Reel No. 11).</p>
+      </div>
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-08-02-0162 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 8, March 1779February 1780
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-08-02-0161&amp;mode=TOC" title="The Massachusetts Constitution: ca. 2831 October 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-08-02-0163" title="From James Lovell, 1 November 1779"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

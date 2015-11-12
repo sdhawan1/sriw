@@ -1,0 +1,128 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-02-02-0013-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-02-02-0013&amp;mode=TOC" title="Calendar of John Adams Public Service in Boston: 18 May  9 August 1774"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-02-02-0013-0002" title="Report of the Committee on Proposals for Bostons Conduct under the Port Act., 18 May 1774"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-02&amp;mode=TOC">Volume 2, December 1773April 1775</a>&gt; <a href="?keys=ADMS-print-06-02-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-02-02-0013&amp;mode=TOC">Calendar of John Adams Public Service in Boston: 18 May  9 August 1774</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-02-02-0013-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-02-02-0013-0002" title="Report of the Committee on Proposals for Bostons Conduct under the Port Act., 18 May 1774"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-02-02-pb-0091">91<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-02/ADMS-06-02-02-pb-0091.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA02d019" class="docgroup_front">
+
+     <h2>Editorial Note</h2>
+     <div class="docbody">
+      <p>In the spring of 1774, when Adams was kept busy helping to draft the impeachment articles against Peter Oliver and reviewing the historical basis for Massachusetts land claims against New York, the Town of Boston found uses for him as well, particularly as passions mounted over the Port Act and, later, the Massachusetts Government and Administration of Justice Acts. The precise contribution that John Adams made to the various town committees on which he served cannot be documented, for reports, if they exist at all, do so only in the form of brief statements made in town meetings. Of course his being appointed and elected to committees was a measure of the continuing respect in which he was held by his fellow townsmen.</p>
+      <p>On 5 March, for example, Adams was named with six others to call on John Hancock for a copy of his oration given in commemoration of the Boston Massacre. The town, which had already voted its thanks for the elegant and spirited performance, wished to have the speech published. Adams also was asked to serve with eight others in choosing, for the next anniversary, a speaker to impress upon our Minds the ruinous Tendency of standing Armies and to remind the people of the noble Exertions made by the town in 1770 so that in the future the Designs of the Conspirators against the Public Liberty may be still frustrated. The committee selected Joseph Warren as the next orator (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">Boston Record Commissioners, <span class="hi-italic" style="font-style: italic;">18th Report</span></span>, p. 149150, 215).</p>
+      <p>With ten others, Adams was appointed as member of a committee to consider the state of the towns lands near and within the Fort. There had been some encroachment, and a different committee had reported that rents charged those using the land were low. Although no record of the committees findings has been located, the warrant for the adjourned meeting of 13 May asked whether all the towns lands should be surveyed and recorded on a map. This article may have resulted from the deliberations of the committee. Decision on a survey was postponed until March 1775. On 10 May, Adams and six others were appointed to a committee to draw up instructions for the towns representative in the General Court. Although they were to report at the next session of the town meeting, no record of their recommendations is apparently extant (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">same</span>, p. 169, 171).</p>
+      <p>The most active committee and that of longest duration on which Adams served temporarily was appointed on 13 May to take under advisement the proposals being made regarding the emergency facing the town as a result <span class="pb" title="page number in print edition" id="ADMS-06-02-02-pb-0092">[92<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-02/ADMS-06-02-02-pb-0092.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>of the closing of the port. Listed first, Samuel Adams subsequently signed himself chairman in responding to an offer of help from a Connecticut town (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">same</span>, p. 173; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, &lt;i&gt;Collections&lt;/i&gt; and &lt;i&gt;Proceedings.&lt;/i&gt; ]">MHS, <span class="hi-italic" style="font-style: italic;">Colls.</span></span>, 4th ser., 4 [1858]: 16). The committee issued a preliminary report on 18 May, but on 30 May it was still not ready to make its recommendations (calendar entries for <a href="default.xqy?keys=ADMS-print-06-02-02-0013-0002" class="document">18</a> and <a href="default.xqy?keys=ADMS-print-06-02-02-0013-0003" class="document">30 May</a>, below).</p>
+      <p>The town meeting reconvened on 17 June. Because its usual moderator, Samuel Adams, was in Salem attending the General Court, a unanimous choice of James Bowdoin was made; but his absence from home caused the town to vote again, choosing John Rowe. When Rowe, a prosperous merchant, declined because he was too busy to attend the meeting, the voters picked John Adams, who accepted the responsibility. The records give no indication of how he played his role as moderator, but at the meeting Joseph Warren reported that the committee of which Adams was a membernow called the Committee on Ways and Meansneeded more time to make recommendations (calendar entry for <a href="default.xqy?keys=ADMS-print-06-02-02-0013-0004" class="document">17 June</a>, below). In the afternoon session, the town voted that the Overseers of the Poor, the legal body to receive charitable donations, should act in concert with Ways and Means (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">Boston Record Commissioners, <span class="hi-italic" style="font-style: italic;">18th Report</span></span>, p. 177). The vote on the Overseers and votes directing the Committee of Correspondence to communicate with other colonies were printed as a broadside with John Adams name in large type as moderator (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>:Broadside Coll.).</p>
+      <p>The town met again on 27 and 28 June, but by this time Adams was on circuit in Maine. It was the last circuit he was to make, for national concerns soon absorbed almost all his energies (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-02-02-0004-0003-0001%20ADMS-print-01-02-02-0004-0004-0001#ADMS-01-02-02-pb-0096" class="pageNo">2:9697</a> and <a href="default.xqy?keys=ADMS-print-01-02-02-0004-0004-0001&amp;expandNote=DJA02d117n1#DJA02d117n1" class="document">note</a>). Adams missed two of the largest and tensest town meetings, in which the loyalists sought unsuccessfully to censure and dissolve the Committee of Correspondence for its initiative in drafting the Solemn League and Covenant, designed to cut off all trade with Great Britain. Following extensive debate, a large majority turned back this threat. The Committee on Ways and Means reported that it was encouraged by the willingness of other colonies to support Boston, but that it needed more time for deliberation on the proposals that had been made to help the poor. Once again, the town agreed to wait for a report (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">Boston Record Commissioners, <span class="hi-italic" style="font-style: italic;">18th Report</span></span>, p. 177178).</p>
+      <p>On 19 July, when Adams had been back from circuit only a few days, Ways and Means finally made its recommendations (calendar entry for <a href="default.xqy?keys=ADMS-print-06-02-02-0013-0005" class="document">19 July</a>, below), only to have the town first vote to accept them and then vote for reconsideration. Moreover, the Overseers of the Poor, noting that they were already busy and that several of their members were ill, sought discharge from further service with the committee. The town then voted to add fifteen men to the committee in place of the Overseers. In addition, it named eleven men, one of them John Adams, to consider and Report a Declaration to be made by this Town to Great Britain and all the World (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ City of Boston, Record Commissioners, &lt;i&gt;Reports&lt;/i&gt;, Boston, 18761909; 39 vols. ]">Boston Record Commissioners, <span class="hi-italic" style="font-style: italic;">18th Report</span></span>, p. 181183). No record of their declaration has been found, if, indeed, it was ever written.</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-02-02-pb-0093">[93<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-02/ADMS-06-02-02-pb-0093.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>When the town meeting convened again on 26 July, Adams was elected by ballot, along with six others, to a committee for proposing measures for the Common Safety, during those Exigencies of our public Affairs, which may reasonably be expected, when the Acts of the British Parliament . . . shall be enforced in the Province. Undoubtedly Boston was concerned about the confrontations that might occur as mandamus councilors sought to take their seats, and as Governor Gage sought to ban town meetings except for the purpose of annual elections. Also the town considered an article in the warrant, probably prepared by the Committee on Ways and Means, which would have broadened the committees choice of public works to give employment to the poor. The meeting unanimously approved the committees having a variety of alternatives from which to choosebuilding wharves, houses, or ships, or repairing and paving streetsthe money to be furnished from donations sent to Boston for poor relief (same, p. 185186).</p>
+      <p>The last activity of the committee that summer with which John Adams could in any way have been concerned was its report on 9 August. Ways and Means proposed making eligible for help those Charlestown people who were suffering from the closing of Bostons port, a proposal that met immediate acceptance. To give work to unemployed artisans, the committee suggested that a house be built on town land, labor costs to be met from the committees receipts, building materials to be furnished by the town. The town accepted neither this proposal nor an alternative one permitting the committee to buy needed town land at its appraised value (calendar entry for <a href="default.xqy?keys=ADMS-print-06-02-02-0013-0006" class="document">9 Aug.</a>, below).</p>
+      <p>The next day, 10 August, John Adams left with the other members of the Massachusetts delegation for Philadelphia and the opening of the Continental Congress. Bostons problems, acute as they were, had to have larger solutions. Despite their absence, Adams and the two other Boston delegates to the congress continued to be listed among the Ways and Means members, probably because their names added stature to an effort for which support from all the colonies was desirable and even necessary (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>:Broadside Coll., 22 Sept. 1774, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Evans and others, comps., &lt;i&gt;American Bibliography: A Chronological Dictionary of All Books, Pamphlets and Periodical Publications Printed in the United States of America&lt;/i&gt; [[16391800]], Chicago and Worcester, 19031959; 14 vols. ]">Evans</span>, No. 13161).</p>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-02-02-0013-0001 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 2, December 1773April 1775
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-02-02-0013-0002" title="Report of the Committee on Proposals for Bostons Conduct under the Port Act., 18 May 1774"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.242.36</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

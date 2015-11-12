@@ -1,0 +1,190 @@
+From Jean Henri David Uhl [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jean Henri David Uhl [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0087&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0086" title="From John van Heukelom &amp; Zoon, 1 July 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0088" title="To Elbridge Gerry, 2 July 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-13-02-0087-0001" title="From Jean Henri David Uhl, 1 July 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Jean Henri David Uhl [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0087&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0086" title="From John van Heukelom &amp; Zoon, 1 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0088" title="To Elbridge Gerry, 2 July 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0142">142</span><div id="PJA13tg13" class="transgroup">
+
+<div id="PJA13d107" class="doc letter">
+
+<h2>From Jean Henri David Uhl</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Berlin ce 1 Juillet 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Votre Excellence tant Ministre plenipotentiaire des provinces unies de lAmerique accredit auprs des hautes puissances les tats generaux dHollande  la Haye  fait eclater autant de marques de ses grandes qualits, quelles me donnent la confance dimplorer vos secours dans un cas singulier qui mest arriv avec un armateur Americain.</p>
+<p>Le Plantage Fredericdorp  Suriname appartient  ma femme et Famille en heritires usufructuaires testamentaires<a class="ptr" href="#PJA13d108n1" id="PJA13d108n1-ptr">1</a> de J. F. Knoffel, les heritires sont les deux filles du Defunt P. L. Knoffel Directeur de Monnoye de sa Majest prussienne, frre du testateur et par consequent des sujets nes prussiennes  Berlin. Les fruits consistent en Caf et vont sur des navires hollandois  notre compte et sont addresss sur le compte du Plantage Fredericdorp pour notre Correspondent Mr. Pieter van der Meulen dirckzoon  Amsterdam.</p>
+<p>Il arrive souvent dans la guerre que les Anglois prennent les vaisseaux hollandois chargs de fruits de Suriname, mais les amirauts en Angleterre rendent aux sujets neutres prussiens les fruits qui vont sur leur compte et se trouvent dans les vaisseaux hollandois. <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0143">[143]</span>Les heritiers du Comte de Neal  Berlin qui ont plusieurs Plantages  Suriname ont reclam et reu les fruits pris des Anglois sur des Vaisseaux hollandois de leurs plantages; moi mme je reclame  present 10000 livres de Caf du Plantage Fredericdorp en Angleterre. Nouvellement un Armateur Anglois  pris le vaisseau du Capt. C. G. Weis un americain la repris et vendu le vaisseau et la Charge  Martenique; sur le vaisseau hollandois en question se sont trouv 8679 Livres de Caf de mon Plantage Fredericksdorp addresss  mon Correspondent van der Meulen et lamericain sest appropri le bien des sujets neutres prussiens; que les Anglois leur auroient rendu selon le prix de LEurope  Londre ou  Amsterdam.<a class="ptr" href="#PJA13d108n2" id="PJA13d108n2-ptr">2</a></p>
+<p>Si les sujets neutres prussiens ne peuvent recouvrer le bien pris par lamericain, ils ont plus tort  craindre des Americains qui sont amis des Hollandois avec qui les prussiens commercent que des Anglois qui sont ennemis declars des Hollandois.</p>
+<p>Larmateur  eu le droit de sapproprier le bien hollandois repris des Anglois par le droit de la guerre, mais non pas le bien dun neutre. Il la ignor, mais tant inform que les 8679 livres Caf du Plantage Fredericdorp appartiennent aux sujets neutres prussiens, le droit des gens exige quil le rende et jai sans doute le droit de reclamer le prix des 8679 livres de lAmericain selon la Valeur dAmsterdam; une bagatelle pour larmateur qui a pris tout dun coup trois cent mil livres de Cafe sur le vaisseau hollandois et le prix du navire; mais un grand dommage et la ruine pour une famille  Berlin qui dois vivre de Lusufruis dun Plantage de Suriname!</p>
+<p>Je suis sur que la nation des provinces unies de lAmerique est anime du meme esprit de droiture damour de Justice et de respect pour le droit universel des gens libres, que la nation Angloise dont elle est issue et quelle rendra en justice ce qui appartient aux neutres. Mais la difficult dy parvenir faute de connoissance des voyes ujites en Amerique est la raison que je prie Votre Excellence de maider.</p>
+<p>Mon Correspondent et mandataire en Reclames des Produits du Plantage Fredericdorp  Suriname Mr. P. van der Meulen Dirckz.  Amsterdam talera  votre Excellence les preuves authentiques que les 8679 livres de Caf du Plantage Fredericdorp sont pris dans le vaisseau du Capt. Weis dun Americain et vendu  Martenique; que les produits du Plantage Fredericksdorp appartiennent aux heritiers de Knoffel sujets neutres prussiens  Berlin et que la reclames est fond sur la verit du fait; Votre Excellence etant convaincu de la <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0144">[144]</span>verit du fait et du droit, je demande la grave de lui donner la dessus lattestation, de linformer de la plus facile manire dont il puisse recouvrer le prix dAmsterdam de 8679 livres Caf en question pour les sujets neutres prussiens et de suppediter ce qui nous manque de connoissance en Amerique.</p>
+<p>Le caractre de votre Excellence deja connu en Europe me fait esperer que votre Excellence me donnera loccasion de louer et faire connoitre lamour de Justice de la nation que vous reprsents dans les cas du droit des gens envers les neutres sujets prussiens. Je suis avec le plus profond respect Monsieur de votre Excellence le plus humble et trs obissant serviteur,</p>
+<div class="closer">
+<div class="signed-multiple">
+    <p class="signed multiple">Jean Henri David Uhl<br/>Conseiller  la Chambre de Justice superieure<br/>allemande de sa majest le Roi de Pruss</p>
+  </div>
+</div>
+</div>
+</div>
+<div id="PJA13d108" class="trans letter">
+
+<h2>Jean Henri David Uhl to John Adams: A Translation</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">Berlin, 1 July 1782</td>
+		</tr>
+      </table>
+</div>
+<p>It is because of the fact that your excellency, minister plenipotentiary of the united provinces of America, has displayed so many of the great qualities of his character, in view of the High Mightinesses, the States General at The Hague, that I have the confidence to ask for assistance in a very singular situation involving an American ship owner.</p>
+<p>The Fredericdorp plantation in Suriname belongs to my wife and her family through an usufructuary bequest<a class="ptr" href="#PJA13d108n1" id="PJA13d108n1-ptr">1</a> by J. F. Knoffel. The heiresses are the two daughters of the late P. L. Knoffel, finance minister for his Prussian majesty, brother of the testator, and consequently Prussian-born subjects in Berlin. The coffee crop aboard the Dutch ships was ours and was addressed in the name of the Fredericdorp plantation for our correspondent Mr. Pieter van der Meulen in Amsterdam.</p>
+<p>It so happens often in the war that the English take Dutch ships loaded with Surinames goods, but any goods belonging to neutral Prussian subjects on board these Dutch ships are returned by the English admiralty. The heirs of the Count de Neal in Berlin, who have several plantations in Suriname, have reclaimed and received their crops seized by the British from Dutch vessels. I am currently reclaiming 10,000 pounds of coffee from the Fredericdorp plantation in England. Recently, an English ship-owner took the ship of Captain C. G. Weis. An American took it back and sold the vessel and its cargo in Martinique. The 8,679 pounds of coffee from the Fredericdorp plantation, addressed to my correspondent van der Meulen, were on board the Dutch ship in question. The American took what is rightfully the Prussians; the English would have returned it to them according to the European price in London or Amsterdam.<a class="ptr" href="#PJA13d108n2" id="PJA13d108n2-ptr">2</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0145">[145]</span>
+<p>If the neutral Prussians cannot recover the goods taken by the Americans, then the mistake would be to fear the Americans, who are friends with the Dutch and with whom the Prussians trade, rather than to fear the English who are Hollands declared enemy.</p>
+<p>The ship owner had the right to confiscate Dutch property taken back from the English by the rules of war but not the property of a neutral party. He ignored this, and being informed that the 8,679 pounds of coffee from the Fredericdorp plantation belong to the neutral Prussians, the law of nations demands that he return them. I no doubt have the right to reclaim the price of the 8,679 pounds according to the value in Amsterdam. It is a trifle for the ship owner who suddenly took 300,000 pounds of coffee from a Dutch ship and the ship itself; but what great pity and ruination for a Berlin family whose livelihood depends on the profits from a Suriname plantation!</p>
+<p>I am certain that the united provinces of America are animated with the same spirit of love of justice and respect for the universal rights of free people as the English nation from which it descended, and that justice will be brought to the neutrals. But the difficulty in achieving this lies in not knowing the common ways in America, and that is the reason I am asking your excellency for assistance.</p>
+<p>My correspondent and proxy for reclamations for the Fredericdorp plantation in Suriname, Mr. P. van der Meulen Dirckz in Amsterdam, will send authenticating proof to your excellency that 8,679 pounds of coffee from Fredericdorp plantation were taken from Captain Weis ship by an American and sold in Martinique; that the Fredericdorp plantations products belong to Knoffels heirs, the neutral Prussian subjects in Berlin; and that the reclamation is based on fact. I ask that your excellency, being convinced of the truth of the facts and the law, grant me the favor of giving you the above attestation and of informing you in the easiest way possible so that you may recover the Amsterdam price for the 8,679 pounds of coffee in question for the Prussian neutrals, and provide us with the knowledge we lack about America.</p>
+<p>Your excellencys character is already well known in Europe and makes me hope that you will give me this occasion to praise and recognize the love of justice in the country you represent in the case of the law of nations toward neutral Prussian subjects. I am, with the deepest respect for your excellency, sir, the very humble and very obedient servant,</p>
+<div class="closer">
+<div class="signed-multiple">
+    <p class="signed multiple">Jean Henri David Uhl<br/>Member of the Supreme German<br/>Court of His Majesty the King of Prussia</p>
+  </div>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d108sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: Mr J. H. D. Uhl. Berlin 1. Juiller 1782 ansd. 9.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d108n1-ptr" id="PJA13d108n1">1</a>
+
+   <p>That is, the bequest permitted Uhls wife and family to enjoy the profits of the plantation but did not transfer ownership to them (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Oxford English Dictionary&lt;/i&gt;, 2d edn., Oxford, 1989; 20 vols. ]"><span class="hi-italic" style="font-style: italic;">OED</span></span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d108n2-ptr" id="PJA13d108n2">2</a>
+
+   <p>Uhls complaint concerns the differing views of the status of neutral property. The British followed the traditional principle of the law of nations that enemy property was <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0146">[146]</span>subject to seizure wherever found, even on a neutral ship, while neutral property, unless it was contraband, was free or not subject to seizure wherever found, even on an enemy ship (Emerich de Vattel, <span class="hi-italic" style="font-style: italic;">The Law of Nations or the Principals of Natural Law</span>, bk. 3, ch. 7,  115116). Thus when a British warship or privateer found Prussian merchandise on a Dutch ship, that property would be counted free and returned to the owner. The United States and France followed the alternative principle that free ships made free goods, which provided that all, even neutral, property was subject to seizure on an enemy ship and that all, even enemy, property was free on a neutral ship so long as it was not contraband (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Treaties and Other International Acts of the United States of America&lt;/i&gt;, ed. Hunter Miller, Washington, D.C., 19311948; 8 vols. ]">Miller, <span class="hi-italic" style="font-style: italic;">Treaties</span></span>, 2:2021). In the case cited by Uhl, the Dutch vessel recaptured from the English had apparently been judged to have been long enough in the hands of its British captors to have assumed the character of an enemy ship and thus all of its cargo was good prize. Nothing further is known about Uhls case, which was apparently never pursued in the United States, but see <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reply of <a href="default.xqy?keys=ADMS-print-06-13-02-0105" class="document">9 July</a>, below.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0087 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0086" title="From John van Heukelom &amp; Zoon, 1 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0088" title="To Elbridge Gerry, 2 July 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

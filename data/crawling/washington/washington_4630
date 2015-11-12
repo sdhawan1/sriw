@@ -1,0 +1,165 @@
+From Jonathan Trumbull, Sr., 12 February 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Trumbull, Sr., 12 February 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0217&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-02-12-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0216" title="From John Hancock, 12 February 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0218" title="General Orders, 13 February 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Trumbull, Sr., 12 February 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0217&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0216" title="From John Hancock, 12 February 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0218" title="General Orders, 13 February 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0301">301</span><div id="Rev03d195" class="doc">
+
+<h1>From Jonathan Trumbull, Sr.</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Lebanon [Conn.] February 12th 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>I received your two Favors of the 8th Inst., have also received <img class="char" src="images/char-per-trans.png" alt="[per]"/> Bacon, the remittance for the Expences of the French Gentlemen to Philadelphia. I had no Design to have ever called upon You for the money paid our Troops under your immediate Command, but to have accounted with the Congress, had we not been unexpectedly drained of Cash, &amp; had pressing Calls upon Us two or three ways at once. that to the Northward cod not possibly have been answered but for the seasonable Arrival of the Continental Supply just sufficient for that Purpose<a class="ptr" href="#GEWN-03-03-02-0217-fn-0001" id="GEWN-03-03-02-0217-fn-0001-ptr">1</a> our other Demands for the common Service are many; the Men for
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0302">[302]</span>
+the short Service with You, cod not have marched without some money, which they have I trust wholly expended for necessary Cloathing &amp;c. I therefore cod have wished it had been in your Power to have remitted the sum advanced by our Pay Table, but shall do every thing in my Power that the common Interest do not suffer.</p>
+<p>I am greatly concerned for the scarcity of Powder &amp; Arms, We have not half a sufficiency for our Selves as the Circumstances may be, yet anxious to furnish You, for the comon good, with every supply in our Power, have ordered a quantity of gun Powder lately arrived at Bedford in Dartmouth, carted to &amp; now lying at Providence, on Account of this Colony, to be sent You with all possible Expedition, 3000 weight of this we conclude to order to Majr Thompson Agent for the Massachusetts Colony on Account of Money he supplied to Mr Shaw the importer for that End. &amp; You will consult Him or Them concerning the use of it: I suppose the whole to be upwards of 6000 weight, the residue on Acco. of this Colony, for which shall expect payment, or to be replaced as shall be hereafter chosen by Us.<a class="ptr" href="#GEWN-03-03-02-0217-fn-0002" id="GEWN-03-03-02-0217-fn-0002-ptr">2</a> I shall send You this week twenty or thirty stands of good Arms. I have not certain advice from every quarter, but I believe our three Regiments are all on the march to your Camp, except those already arrived there.</p>
+<p>I have much more agreable Intelligence from Genl Lee &amp; the New York Congress than I expected. I cant but hope propitious Heaven will smile Success on that most timely &amp; judicious Exertion of your Excellency to prevent our Enemies, possessing Themselves of that important Station.</p>
+<p>I have the Pleasure to inclose You a Copy of Genl Lees Letter.</p>
+<p>In compliance with his Request We have already sent orders to Colo. Ward, to repair again forthwith to New York.<a class="ptr" href="#GEWN-03-03-02-0217-fn-0003" id="GEWN-03-03-02-0217-fn-0003-ptr">3</a> I am Sir with the greatest Esteem &amp; Regard your most obedient H. Servant</p>
+<div class="closer">
+<p class="signed">Jonth. Trumbull</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0217-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut State Library, Hartford ]">Ct</span>: Trumbull Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0217-fn-0001-ptr" id="GEWN-03-03-02-0217-fn-0001">1</a>
+ 
+   <p>For the money that Congress sent for the regiment that was going to Canada, see <a href="default.xqy?keys=GEWN-print-03-03-02-0186" class="document">Trumbull to GW, 5 Feb. 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0217-fn-0002-ptr" id="GEWN-03-03-02-0217-fn-0002">2</a>
+
+   <p>For the arrival of this gunpowder in the sloop <span class="hi-italic" style="font-style: italic;">Macaroni</span>, see <a href="default.xqy?keys=GEWN-print-03-03-02-0196&amp;expandNote=GEWN-03-03-02-0196-fn-0001#GEWN-03-03-02-0196-fn-0001" class="document">GW to Trumbull, 8 Feb. 1776 (first letter), n.1</a>. The importer was Nathaniel Shaw, Jr., of <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0303">[303]</span>
+New London. In a letter of 15 Feb. 1776 to Walter Spooner, president of the Massachusetts council, Stephen Moylan quoted the part of this letter concerning the gunpowder belonging to Massachusetts and then wrote: You well Know Sir the want there is of that article in Camp. His Excellency therefore requests that you will endeavor to get that powder Sent hither[.] if it belongs to Major Thompson as private property he requests you will use your influence with him to sell it, if to the Colony, that it be Lent or Sold, for the use of the United Colonies (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Photocopies of State Records). The Massachusetts General Court resolved on 1516 Feb. that the Hon. Council of this Colony be, and hereby are impowerd, in Case the said Powder shall arrive in this Colony during the next Recess of this Court, on Consideration of the Engagements of this Colony to particular Towns for Powder lent to the Colony, as also the pressing Exigencies of this Colony for that Article, to determine in Behalf of this Court, whether Gen. <span class="hi-italic" style="font-style: italic;">Washington</span> shall be supplied with the said Powder, or any Part thereof, or not, and to act thereon as they shall judge most expedient and conducive to the general Safety (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honourable House of Representatives. At a Great and General Court or Assembly for the Colony of the Massachusetts-Bay in New-England&lt;/i&gt;. Boston, 1776. (Microfilm Collection of Early State Records.) ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span>, Nov. 1775Feb. 1776 sess.</span>, 29697; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ In &lt;i&gt;Journals, Minutes, and Proceedings, State of Massachusetts Bay, 17751780&lt;/i&gt;. (Microfilm Collection of Early State Records.) ]">Mass. Council Journal, July 1775Feb. 1776 sess.</span>, 582; see also the copy of the resolution signed by William Cooper and Perez Morton, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Photocopies of State Records). For GWs views concerning this gunpowder, see his <a href="default.xqy?keys=GEWN-print-03-03-02-0246" class="document">letter to Trumbull of 19 Feb. 1776</a>.</p>
+
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0217-fn-0003-ptr" id="GEWN-03-03-02-0217-fn-0003">3</a>
+
+   <p>Lee wrote Trumbull from New York on 7 Feb. 1776: The late resolve of the Continental Congress putting every detachment of the Continental Army immediately under the direction of the Provincial Congress or Committe of Safety where such detachment were to Act, and of course the uncertainty of my being admitted into this City with the Troops under my Command inducd me to send Colo. Wards Regiment to their Respective homes, and thereby to save a very considerable immediate expence to your Colony, and ultimately to the whole United ColonysContrary to my expectations, we are not only admitted, but it is determind to take strong Possession of the City as Well as of its most important environsIn short to put the Province in such a Situation as to render any attempts of the Enemy to establish themselves in it ineffectual. For this purpose Some additional Battalions are ordered to be levied in this Province. But from the grate Scarcity of men, and greater of Arms, I apprehend it will be a considerable time before they can be compleated and equippd in Such a manner as to form a Corps in whom any great reliance can be placed; the Enemy may perhaps very soon appear, and We ought immediately to be ready to receive them, I could therefore Sir wish, that if Colo. Wards Regiment is not already disbanded and your Colony can Spare them that they may be immediately detached for this Place. but if it is disbanded that you would if possible Send to this Place a body of Volunteers equal in number to that Regiment Compleatly armd &amp; accoutredI am sensible Sir that it must be extremely teazing both to the men and officers to be thus eternally Counterordered, Marching and counter Marching but I hope thay will do me the Justice to Attribute it, not to any indecision or uncertainty of Mind in me, but to several whimsical Circumstances in our Situation which cannot
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0304">[304]</span>
+at present be explaind to them. Lee added a postscript informing Trumbull of Gen. Henry Clintons arrival in New York and urging Connecticut to build powder mills (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0217 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0216" title="From John Hancock, 12 February 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0218" title="General Orders, 13 February 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

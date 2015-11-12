@@ -1,0 +1,175 @@
+From William Ramsay, 17–19 October 1758
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From William Ramsay, 1719 October 1758</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-06-02-0066&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1758-10-17-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0065" title="Orderly Book, 17 October 1758"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-06-02-0067" title="From Robert Stewart, 17 October 1758"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-06&amp;mode=TOC">Volume 6 (4 September 175826 December 1760)</a>&gt; <a href="?keys=GEWN-print-02-06-02&amp;mode=TOC">Documents</a>&gt; From William Ramsay, 1719 October 1758</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-06-02-0066&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0065" title="Orderly Book, 17 October 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0067" title="From Robert Stewart, 17 October 1758"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0080">80</span><div id="Col06d60" class="doc">
+
+<h1>From William Ramsay</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">WmsBurg Octr 17[19]th 1758</td>
+	      </tr>
+      </table>
+</div>
+<p>We have no News of late only repeated Accots of the King of Prussias beating Count Daun, wch is generaly believd.<a class="ptr" href="#GEWN-02-06-02-0066-fn-0001" id="GEWN-02-06-02-0066-fn-0001-ptr">1</a> The 1st Virga Regimt had like to have been broke by a Vote of the House, but the Old &amp; judicious, carried it against the Young Members by a majority of five<a class="ptr" href="#GEWN-02-06-02-0066-fn-0002" id="GEWN-02-06-02-0066-fn-0002-ptr">2</a>however they have so far prevaild, that unless the Regimt return into this Colony by the 1st of Decr next &amp; guard our Frontiers, they are to be no longer in the pay of this Colony. There is to be no Lieut. Colo. Quarter Master, Adjutant nor Chaplain, &amp; the yearly allowance for your Table is voted away. This is thot, a mean peice of Parsimony and condemnd in general &amp; indeed their whole proceedings relative to that Regimt.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0081">[81]</span>
+<p>They have voted 57,000 Pounds to pay of the Arrears &amp; the Regmts till the 1st day of Decr next.</p>
+<p>Tis reported the Govr has recievd advice, that the Cherokees are much irritated against the County of Bedford &amp; are determind to be revenged for some men killd by those people, but tis thot, shoud they attempt this, the Creeks may be playd upon them, who only want an Oppty; for they have been hardly restraind by the Govr of So. Carolina from doing it some time ago<a class="ptr" href="#GEWN-02-06-02-0066-fn-0003" id="GEWN-02-06-02-0066-fn-0003-ptr">3</a>The Govr is in general well Spoken off. Mr Hite says, Messrs Barr &amp; Slough has disappointed me in 10 Hhds of Rum &amp; 3 pipes of Wine I engagd them to bring me from Philadelphia,<a class="ptr" href="#GEWN-02-06-02-0066-fn-0004" id="GEWN-02-06-02-0066-fn-0004-ptr">4</a> this I am affraid &amp; will cause Mr Hite &amp; Mr Hayton to labor under great difficultys, to supply properly, the Regimt so well as I woud wish<a class="ptr" href="#GEWN-02-06-02-0066-fn-0005" id="GEWN-02-06-02-0066-fn-0005-ptr">5</a>The great Credt I was obligd to give, the Regimt being not duely paid I hope will be obviated when the Cash arrives, your good offices so farr as you can, will be very obliging. My business down here I am affraid will not be attended with success, no Money in the Treasury &amp; making the New will be attended with delay.</p>
+<p>Your friends rejoicd to hear you were well &amp; wishes a safe return, amongst whom none more sincerely than Dr Sir Your affect. H. Servt</p>
+<div class="closer">
+<p class="signed">Wm Ramsay</p>
+</div>
+<div class="postscript">
+<p>19th A report prevails in Town, that Admiral Hardy has taken near the mouth of St Lawrence two 50 Gun French Ships and many regulars conveyd in a large Number of Transports; they were intended for Louisburg, but being informd by a fishing Vessell that it was taken, they bent their course that way. This is very fortunate if true.</p>
+
+</div>
+<div class="closer"><p class="signed">W. R.</p></div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-06-02-0066-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0066-fn-0001-ptr" id="GEWN-02-06-02-0066-fn-0001">1</a>
+
+   <p>It was not until 13 Oct. that Frederick II of Prussia once again moved against the Austrian field marshal Count Daun, at Hochkirk, driving him from Saxony but at great cost.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0066-fn-0002-ptr" id="GEWN-02-06-02-0066-fn-0002">2</a>
+
+   <p>When the Virginia assembly convened in Williamsburg on 14 Sept., 93 of the 106 newly elected members of the House of Burgesses were present. Of the 106 burgesses, 51 had not been members of the preceding House. On 26 Sept. 1758 a committee of the whole House presented two resolutions. The first of these resolutions, that the colonys forces be continued till the first Day of <span class="hi-italic" style="font-style: italic;">December</span> next, the burgesses formally rejected; but it then
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0082">[82]</span>
+promptly passed, with amendments, the second resolution which provided that a Sum not exceeding 20,000 be raised for the Payment of the Arrears now due to the Forces in the Pay of this Colony, and for their Pay until the first day of <span class="hi-italic" style="font-style: italic;">December</span> next. Four days later, on 30 Sept., the House of Burgesses sitting as a committee of the whole considered ways and means to raise the 20,000 and resolved that the Sum of 20,000 to be levied be raised by a Land and Poll Tax. The committee to bring in the bill included leaders of the House such as Charles Carter, chairman, Landon Carter, Richard Bland, Robert Carter Nicholas, Edmund Pendleton, and George Johnston. The house finally passed with amendments on 10 Oct. the committees bill, An Act for the defence of the Frontiers of this Colony, and for other purposes therein mentioned (7 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 17179); the council passed it on 11 Oct.; and the governor signed it on 12 Oct. (<span class="hi-italic" style="font-style: italic;"><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ H. R. McIlwaine and John Pendleton Kennedy, eds. &lt;i&gt;Journals of the House of Burgesses of Virginia&lt;/i&gt;. 13 vols. Richmond, 190515. ]">JHB</span>, 175861</span>, 3, 23, 32, 42, 43, 44).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0066-fn-0003-ptr" id="GEWN-02-06-02-0066-fn-0003">3</a>
+
+   <p>For references to attacks made by settlers in Bedford County in May on parties of Cherokee returning home from Winchester, see <a href="default.xqy?keys=GEWN-print-02-05-02-0139" class="document">William Callaway to GW, 15 May 1758</a>. At their meeting on 12 Oct. members of the council were given letters written to Fauquier with word that several Parties of Indians belonging to the middle and lower Settlements of the Cherokee Nation had resolved upon taking up the Hatchet against Virginia to revenge the Loss of some of their People in the late Engagements here (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ H. R. McIlwaine et al., eds. &lt;i&gt;Executive Journals of the Council of Colonial Virginia&lt;/i&gt;. 6 vols. Richmond, 192566. ]"><span class="hi-italic" style="font-style: italic;">Exec. Journals of Virginia Council</span></span>, 6:11112). The council advised the governor to recall the interpreter Richard Smith from Pennsylvania and send him down to the Cherokee with a conciliatory message. The efforts of Fauquier and Gov. William Henry Lyttelton of South Carolina to preserve the peace with the Cherokee were for the moment successful.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0066-fn-0004-ptr" id="GEWN-02-06-02-0066-fn-0004">4</a>
+
+   <p>Hans Barr and Matthias Slough of Lancaster County, Pa., were contractors supplying the army.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0066-fn-0005-ptr" id="GEWN-02-06-02-0066-fn-0005">5</a>
+
+   <p>John Hite and Hayton were assisting Ramsay in supplying provisions to GW and the Virginia troops. See <a href="default.xqy?keys=GEWN-print-02-05-02-0192" class="document">Adam Stephen to GW, 28 June</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0016" class="document">Ramsay to GW, 12 Sept. 1758</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-06-02-0066 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 6 (4 September 175826 December 1760)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0065" title="Orderly Book, 17 October 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0067" title="From Robert Stewart, 17 October 1758"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,179 @@
+Draft Contract for a Loan with Jean de Neufville & Fils, 2 February 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Draft Contract for a Loan with Jean de Neufville &amp; Fils, 2 February 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-11-02-0067&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1781-02-02-2">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-11-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0066" title="From Francis Dana, 1 February 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-11-02-0068" title="To Jean de Neufville &amp; Fils, 2 February 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-11&amp;mode=TOC">Volume 11, JanuarySeptember 1781</a>&gt; <a href="?keys=ADMS-print-06-11-02&amp;mode=TOC">Papers of John Adams</a>&gt; Draft Contract for a Loan with Jean de Neufville &amp; Fils, 2 February 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-11-02-0067&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0066" title="From Francis Dana, 1 February 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0068" title="To Jean de Neufville &amp; Fils, 2 February 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-11-02-pb-0098">98<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0098.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA11d077" class="doc acts_resolves">
+
+<h1>Draft Contract for a Loan with Jean de Neufville &amp; Fils</h1>
+
+<div class="docbody">
+<div class="dateline">
+[<ins title="editorial addition or explanation" class="ed">ante 2 February 1781<a class="ptr" href="#PJA11d077n1" id="PJA11d077n1-ptr">1</a></ins>]
+</div>
+<p>Today the <span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span> Apeared before me <span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span> Notary Publicq the Honorable John Adams Esqr. of the City <span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span> in the State <span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span> in North America at present Residing in the City of Amsterdam in the quality as constitued by Congres of the United States of North America their Agent, and as such specially athorised to negotiate moneys in behalf of the said United states, as it apears by the Copie Extract Athentically Annexed to the Originall of the present, as also by <span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span> likewise orginally Annexed to the Originall of this present.</p>
+<p>And Confessed he the Said Esqr. Apeared in his mentiond quality, and ths for and in behalf of the said United States to have negotiated and received from and for Such to be well and lawfully indebted to Mrs. John de Neufville &amp; Son the Smm of One Million Gilders Holland Currancy received and perceived in ready money renntiating for Sch expressly from not having received the Money or the Vale thereoff.<a class="ptr" href="#PJA11d077n2" id="PJA11d077n2-ptr">2</a></p>
+<p>Which smm of One Million Gilders, he the Said Appeared in his said quality and ths for and in the name of the United States of North America, promisses and engages to restite and repay lawfully withot any redction or damage to the Said Mrs. John de Neufville &amp; Son in Amsterdam or to them who might succeed in their rights with an intrest at 5 p Ct. per Annm to be Conted from this date and frther in the manner and on Condition as follows.</p>
+<p>First, that of this Loan no restittion, nor repayment Shall be made, dring the time of the Ten first Years, butt at the end of the tenth Year the first reimbrsement shall be made of 20 per Ct. or Two hundred Thousand Gilders, and so consectively at the end of each of the following four Years a like Smm of Two hundred Thosand Gilders, Such that at the end of the Forteenth Year this Whole debt shall entirely be repaid, and at every repayment the intrest of the reimbursed Capitall will cease.</p>
+<p>The Intrest shall be paid at every Six Month, at 2 1/2 p Ct. and ths at 5 p Ct. per Annum And for that purpose the summs reqired for the intrest, as well as for the mentiond rimbursements will be remitted to the Said Mrs. John de Neufville &amp; Son their Heirs, or them who might be in their rights, by or for Congress of the United States of North-America either in good bills of Exchange on Erope or in <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0099">[99<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0099.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Prodce of North America, all so mch in time, that the money for those bills or Prodce mst and shall be in Cash and received before the money for the intrest or the summs stiplated to be rimbursed become de.</p>
+<p>SecondThat the before mentiond Mrs. John de Neufville &amp; Son should be athorised and qalified as he the Said Esqr. apeared in his mentiond quality doth athorise and qualify them by this present, to allow shares of intrest to any other person or persons, in this loan, and to negotiate money from them on obligations of one thousand Gilders Holland Currency each, and such only under the sole hand-writing of Said Mrs. John de Neufville &amp; Son, provided the number of those negotiated Obligations or shares of intrest may not exceed the qantity of One Thousand, And that the same obligations or shares of intrest shall be prothocolled<a class="ptr" href="#PJA11d077n3" id="PJA11d077n3-ptr">3</a> by a Notary Publicq residing in this City.</p>
+<p>And he the said Esqr. apeared in his mentiond quality did promise that the bonds or obligations thus distribued shall be considerd by him apeared in his mentiond quality and ths by Generall Congress of the United States and by each State separate, of the same force and vale as if he the Said Apeard had signd and Sealed them with his own hand and Seal; Consenting further the mentiond Esqr. Apeared, that with the same obligations or shares of intrest, shall be given ot orderly to pay of this present, obligation, and that frther such arrangements may be made abot the repayment or rimbursement of the money as the Said Mrs. John de Neufville &amp; Son shall think proper:</p>
+<p>For the Complyance and fulfilling of which he the said Esqr. apeared in his Said quality and ths in the name of the before mentiond Generall Congress representing the United States of North America declard specialy to bind all and every one of the Said United States jointly and each of them separate, for the whole with rennciation of all and every benefitts of law contrary to this present, and especially of the benefitt, de duobus vel pluribs veis debendi,<a class="ptr" href="#PJA11d077n4" id="PJA11d077n4-ptr">4</a> orseparating debts; and frther all the revenes and produces rising in the Same States, or any of them, likewise all charges and Taxes in the Same states and every one of them, already laid on and perceived or to be layd on and per<span title="text unclear" class="unclear">[c]</span>eived in futre Engaging again he the Said Esqr. apeared in his Said quality for all superfluity as such might be reqired by the Said Mrs. John de Neufville &amp; Son or rather the further concernd in this Loan, than this Loan shall be especially ratified and wholly approved by the United States of North America, <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0100">[100<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0100.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>jointly and each separate, to efectate the same ratification and aprobation as soon as possible, and ths to procre a de prove, thereof to the Said Mrs. John de Neufville &amp; Son, their successors, or them who might come in their rights, and sch in behalf of the joint concernd in this Negotiation or Loan.</p>
+<p>Actm Amsterdam<a class="ptr" href="#PJA11d077n5" id="PJA11d077n5-ptr">5</a></p>
+<p>No.<a class="ptr" href="#PJA11d077n6" id="PJA11d077n6-ptr">6</a></p>
+<p>We the Underwritten John de Neufville &amp; Son as to this purpose especially athorised and qalified by the forestanding Obligation Confess by this present, and on the footing and in Conformity of the abovestanding Obligation, to have received ot of the hands of a Smm of One Thousand Gilders Holland Currency for a share of the forestanding Negotiation of one Million Gilders in behalf of the United States of North America at the intrest of 5 p Ct. per Annm, and may this intrest be perceived at every Six Month for 2 1/2 p Ct. to be reckond from this date and to last ntill the repayment and not frther.</p>
+<p>And shall this rimbursement take place in this manner, that at the end of the tenth Year after the date of the forestanding Generall obligation, two hundred shares of intrest or obligation shall be drawn out by lot, in the presence of a Notary Publicq and witnesses, which then will be rimbursed, and the intrest be payd ntill the intire reimbrsement and not longer, and so at the end of every of the three following Years when again such a drawing by lott rimbrsement and repayment shall take place, and at the end of the fourteenth Year the then remaining Two hundred shares of intrest shall be rimbursed and then this Whole Negotiation at an end.</p>
+<p>Amsterdam</p>
+<p>This belongs to the Number of One Thousand shares, mentiond in the Next Standing Obligation and doth the Capital of the shares by me prothocolled not exceed the Summ of One Million Gilders mentiond in the Same Originall obligation.<a class="ptr" href="#PJA11d077n7" id="PJA11d077n7-ptr">7</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA11d077sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr></span> (<span class="ref-terms">Adams Papers</span>). Filmed at [<ins title="editorial addition or explanation" class="ed">17811782</ins>], <span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 355. The <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr> consists of four pages, each divided into two columns, with the text of the contract in the right column and additions and corrections entered in the left column.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA11d077n1-ptr" id="PJA11d077n1">1</a>
+
+   <p>Dated from <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter to Jean de Neufville &amp; Fils of <a href="default.xqy?keys=ADMS-print-06-11-02-0068" class="document">2 Feb.</a>, below, which approved the translation and printing of the obligations and Coupons contained herein. This draft is radically different from Neufvilles proposal of <a href="default.xqy?keys=ADMS-print-06-11-02-0050-0001" class="document">22 Jan.</a>, above. Note that the amount to be borrowed was lowered from three to one million guilders and that Neufville &amp; Fils no longer demanded the mortgage of all American lands as security or the consignment of <span class="pb" title="page number in print edition" id="ADMS-06-11-02-pb-0101">[101<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-11/ADMS-06-11-02-pb-0101.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>twelve million guilders in American produce. Compare this draft with the contract of <a href="default.xqy?keys=ADMS-print-06-11-02-0115" class="document">[<ins title="editorial addition or explanation" class="ed">1 March</ins>]</a>, below.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n2-ptr" id="PJA11d077n2">2</a>
+
+   <p>This paragraphs meaning is unclear. Presumably once the obligation had been signed it could not be claimed that the money had not been paid. See the 5th paragraph of the contract of <a href="default.xqy?keys=ADMS-print-06-11-02-0115#ADMS-06-11-02-pb-0169" class="pageNo">[<ins title="editorial addition or explanation" class="ed">1 March</ins>]</a>, and <a href="default.xqy?keys=ADMS-print-06-11-02-0115&amp;expandNote=PJA11d138n2#PJA11d138n2" class="document">note 2</a>, below.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n3-ptr" id="PJA11d077n3">3</a>
+
+   <p>An obsolete form of protocol. Its meaning here, taken from old Scottish and French practice, is to register a contract (Henry Campbell Black, <span class="hi-italic" style="font-style: italic;">A Law Dictionary Containing Definitions of the Terms and Phrases of American and English Jurisprudence Ancient and Modern</span>, 2d edn., St. Paul, Minn., 1910).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n4-ptr" id="PJA11d077n4">4</a>
+
+   <p>That is, the states were collectively responsible for the whole debt, rather than only that part which might be apportioned to an individual state. See also the explanation in the contract of <a href="default.xqy?keys=ADMS-print-06-11-02-0115" class="document">[<ins title="editorial addition or explanation" class="ed">1 March</ins>]</a>, below.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n5-ptr" id="PJA11d077n5">5</a>
+
+   <p>Done at Amsterdam.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n6-ptr" id="PJA11d077n6">6</a>
+
+   <p>Written in the left column, opposite the first line of the following paragraph.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA11d077n7-ptr" id="PJA11d077n7">7</a>
+
+   <p>This paragraph was written in the left column, below the last paragraph in the right column.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-11-02-0067 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 11, JanuarySeptember 1781
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-11-02-0066" title="From Francis Dana, 1 February 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-11-02-0068" title="To Jean de Neufville &amp; Fils, 2 February 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

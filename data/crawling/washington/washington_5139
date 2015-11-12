@@ -1,0 +1,155 @@
+General Orders, 21 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 21 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0287&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-05-21-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0286" title="From Major General Artemas Ward, 20 May 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0288" title="From Brigadier General Nathanael Greene, 21 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; General Orders, 21 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0287&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0286" title="From Major General Artemas Ward, 20 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0288" title="From Brigadier General Nathanael Greene, 21 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0348">348</span><div id="Rev04d271" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, New York, May 21st 1776.</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Camden.</td>
+		<td class="csigns">Countersign Liberty.</td>
+	      </tr></table>
+
+</div>
+<p>That no confusion may ensue when the Troops are called into action, the General has orderd, that all the posts and [guards] of the lines, redoubts and batteries, be so fixed and regulated, as every officer, and soldier, may know his place &amp; duty;<a class="ptr" href="#GEWN-03-04-02-0287-fn-0001" id="GEWN-03-04-02-0287-fn-0001-ptr">1</a> which will be explained to them by the Brigadiers General, according to the orders of yesterday; And further to confirm the order, and discipline of the Guards of the Army; The General orders, that the officers, and men, who are to mount guard, do parade by half past <span class="hi-italic" style="font-style: italic;">Six</span> oClock, where they are by their Adjutants, in the presence of a Field Officer; to be reviewed, and their Arms and Ammunition, to be examined, according to the orders of the 19th Instantwhich last mentioned Officers are to see that their ammunition and accoutrements are complete, and the men dressed in a soldierlike manner. The Adjutants are then to march them to the parade of the brigade, and to deliver them over, to the Major of their respective brigade, who is very minutely to inspect and see, that the Guards are compleat in the particulars above-mentiondThe Brigade Majors are then to march them to the Grand parade in
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0349">[349]</span>
+the Common, in the Artillery-Park, and from thence the several out-Guards are to be relievedOn the Grand parade the Brigadier, with the Field Officers of the day, will attend to see the Guards paraded, and marchd to their several destinationsThe Brigade Major of the day, is also to attend on the Grand parade, and make up the Guards, before he repairs to Head Quarters, for the purpose of reporting the same, and to receive any orders from the Commander in Chief, to the Brigadier General of the day, and to the other Brigadiers of the lineThe Brigadier General of the day, will give his orders on the parade, to the Field Officers of the day, at what time he would have them go the visiting, and grand rounds. At Reveille beating, which is to be at the dawn of day; all the Guards are to be under Arms, at their proper posts, and visited by the Field Officers of the picquet (who are all esteemed Field Officers of the day) who are to see that the Guards are properly placed, and that every thing is in good order for defence, in case of an attack. The Brigadier General will, on the parade, assign to each Field Officer of the day, the posts he is to visit for this purpose.</p>
+<p>The Artillery Guard is to parade at the same time and placethe Matrosses and Gunners necessary, to be constant at each battery, are with their proper implements to march off from the Grand parade, at the head of the Guards, to be stationd at the respective batteries.</p>
+<p>The Field Officer who goes the Grand Rounds, is to visit the Camp Guards, as well as the Guards stationed in the town, and at the batteriesThe other two Field Officers of the day are to do the like, at such hours of the night, as will be assigned them by the Brigadier of the day.</p>
+<p>By the present demand for Flints, by some of the Troops, the General has reason to apprehend, that due care has not been taken of those lately deliverd to the Soldiers, who have had no occasion to make an extraordinary use of themand it is well known, that a good Flint, well screwd in, will stand the firing of sixty rounds (after which it may still be repaired) tis therefore presumed, that the men have either lost their Flints through negligence, or abused them by that worst of practices, <span class="hi-italic" style="font-style: italic;">Snapping their pieces continually</span>, which not only spoils their Lock, softens the Hammer, and destroys the Flint, but frequently causes the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0350">[350]</span>
+death of many a man, by the Gun being unknowingly loadedThe Officers are therefore required, to pay a very strict attention to this particular, and have their mens Flints examined when they review their Ammunition; for men being surprized with bad flints in their Guns, may be attended with fatal consequencesThe Officers are also desired to be careful, that when their men turn out to exercise, their Flints be taken out, and a wooden Snapper screwd into their gun, until their excercise be over; when the Flint is again to be well screwd in, and their arms immediately put in proper fighting order, after which, no man is on any account to snap his piece.</p>
+<p>One Flint <img class="char" src="images/char-per-trans.png" alt="[per]"/> Man will be delivered to the Troops, and tis expected more care will be taken of them, than has been done heretofore.</p>
+<p>The Sentries in Fort George, and on the Battery, are to keep a sharp look out towards the Narrows, Staten Island, Red-hook &amp;c., to observe if any Signals are given from thence; and acquaint the officer of the guard immediately therewith.</p>
+<p>The Officers and Men, are strictly enjoined to keep close to their quartersNo excuse will be admitted from either, for a neglect of it; and the rolls are frequently to be called over.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0287-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0287-fn-0001-ptr" id="GEWN-03-04-02-0287-fn-0001">1</a>
+
+   <p>The word in square brackets, which was inadvertently omitted by the copyist, is taken from Dodge, Orderly Book, 124.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0287 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0286" title="From Major General Artemas Ward, 20 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0288" title="From Brigadier General Nathanael Greene, 21 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

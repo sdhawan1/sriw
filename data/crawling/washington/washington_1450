@@ -1,0 +1,204 @@
+To John St. Clair, 23 June 1758
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To John St. Clair, 23 June 1758</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-05-02-0178&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1758-06-23-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0177" title="To John Carlyle, 23 June 1758 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-05-02-0179" title="To William Byrd, 24 June 1758"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-05&amp;mode=TOC">Volume 5 (5 October 17573 September 1758)</a>&gt; <a href="?keys=GEWN-print-02-05-02&amp;mode=TOC">Documents</a>&gt; To John St. Clair, 23 June 1758</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-05-02-0178&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0177" title="To John Carlyle, 23 June 1758 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0179" title="To William Byrd, 24 June 1758"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0235">235</span><div id="Col05d169" class="doc">
+
+<h1>To John St. Clair</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To Sir Jno. St clairBaronet.<br/>Sir</td>
+		<td class="salutationRight">[Fort Loudoun, 23 June 1758]</td>
+	      </tr>
+      </table>
+</div>
+<p>I have receivd your favours of the 18th &amp; 20th Instt,<a class="ptr" href="#GEWN-02-05-02-0178-fn-0001" id="GEWN-02-05-02-0178-fn-0001-ptr">1</a> and beg leave to refer you to Captn Stewarts Letter, knowing he writes fully, on matters relative to the light Horse.<a class="ptr" href="#GEWN-02-05-02-0178-fn-0002" id="GEWN-02-05-02-0178-fn-0002-ptr">2</a></p>
+<p>I expect to March tomorrow agreeable to my Orders. Woodwards Company of the first Regiment, coverd the Artificers of the 2d and left this the 22d to open the Road from hence to Pearsalls; which, by information, is almost impassable.</p>
+<p>Colo. Byrd will be sadly distressd for Arms when those from Maryland are deliverd up. The Arms from Williamsburg came here in such bad Order, that they cannot possibly be repaird in timeColo. Byrd writes to you on this subject himself, it will therefore be needless for me to enlarge upon or repeat his complaints.<a class="ptr" href="#GEWN-02-05-02-0178-fn-0003" id="GEWN-02-05-02-0178-fn-0003-ptr">3</a></p>
+<p>I have receivd no Hatchets from Connegocheague;<a class="ptr" href="#GEWN-02-05-02-0178-fn-0004" id="GEWN-02-05-02-0178-fn-0004-ptr">4</a> the Canteens came up according to expectation;<a class="ptr" href="#GEWN-02-05-02-0178-fn-0005" id="GEWN-02-05-02-0178-fn-0005-ptr">5</a> and I have written to the Commanding Officer there, desiring to know why and of the former, the following contains his answer. I have made Inquiry concerning the 200 Hatchets mentiond in yours, but have got no information concerning themSignd Jno. Kidddated 21st Instt. I am with very great regard Dr Sir Yr Most Obedt Hble Servt</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+<div class="dateline-closer">Fort Loudoun 23d June 1758</div>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-05-02-0178-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr> (original), <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr> (recopied), <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0178-fn-0001-ptr" id="GEWN-02-05-02-0178-fn-0001">1</a>
+
+   <p>Presumably GW was referring to the letter James Sinclair wrote to GW on 20 June at the behest of John St. Clair as well as to the letter from St. Clair himself of 18 June.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0178-fn-0002-ptr" id="GEWN-02-05-02-0178-fn-0002">2</a>
+
+   <p>Capt. Robert Stewarts letter to St. Clair about his company of light horse in the 1st Virginia Regiment has not been found, but Stewarts troop was not ready to march from Winchester to Fort Cumberland with GW on 24 June. See <a href="default.xqy?keys=GEWN-print-02-05-02-0199" class="document">GW to Bouquet, 3 July (first letter)</a>. When Stewart was in New York in
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0236">[236]</span>
+February seeking to advance his military career, he gave Forbes an estimate of the expence of some light Horse men (Forbes to Loudoun, 14 Feb. 1758, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Alfred Procter James, ed. &lt;i&gt;Writings of General John Forbes Relating to His Service in North America&lt;/i&gt;. Menasha, Wis., 1938. ]">James, <span class="hi-italic" style="font-style: italic;">Writings of Forbes</span></span>, 4243). The minutes of the Virginia council for 5 April 1758 noted that General Forbes had ordered the colony to provide Fifty Men mounted upon tight serviceable Horses and every Way accoutred to serve in Conjunction with those to be furnished by the other Provinces as a Body of Light-Horse (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ H. R. McIlwaine et al., eds. &lt;i&gt;Executive Journals of the Council of Colonial Virginia&lt;/i&gt;. 6 vols. Richmond, 192566. ]"><span class="hi-italic" style="font-style: italic;">Exec. Journals of Virginia Council</span></span>, 6:8586). By May 1758 St. Clair and Forbes were corresponding about Capt. Stewarts Troops in the 1st Virginia Regiment (St. Clair to Forbes, 10, 21, 24 May, Forbes to St. Clair, 23, 25 May, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers). On 25 May Forbes wrote St. Clair: As to the Light troopI have never been able to beat it out of Mr Stewarts Head, that they were not to be cloathed like the troops of Kings Guardsbut provided for as the time and circumstances will allow off. So in the first place they ought to be included into the pay of the provincialls and what they have extraordinary, either I or the province must make it up. . . . but to comply with all Mr Stewarts demands, they would not be fitted out till next spring. So he must forego his immaginary finery for what may be of real service, and soon got ready. Forbes did agree, however, to send Carbines[,] Pistols &amp; swords as well as saddles, tents, and Haversacks[,] Cantines &amp; Camp Kettles (ibid.). It was on 24 May that St. Clair gave GW instructions for forming a troop of forty men under Stewart, and it was on 13 June that Bouquet and GW at Conococheague agreed that Stewart and his troop would march with GW to Fort Cumberland (see <a href="default.xqy?keys=GEWN-print-02-05-02-0155&amp;expandNote=GEWN-02-05-02-0155-fn-0004#GEWN-02-05-02-0155-fn-0004" class="document">GW to Bouquet, 13 June, n.4</a>). After Stewart became the commander of the horse troop he continued to hold the position of captain of one of the companies in the 1st Virginia Regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0178-fn-0003-ptr" id="GEWN-02-05-02-0178-fn-0003">3</a>
+
+   <p>For a discussion of the arms recently sent to Winchester both from Williamsburg and from Maryland, see <a href="default.xqy?keys=GEWN-print-02-05-02-0158&amp;expandNote=GEWN-02-05-02-0158-fn-0002#GEWN-02-05-02-0158-fn-0002" class="document">St. Clair to GW, 13 June, n.2</a>. William Byrd wrote Forbes on this day, 23 June: I have been a good deal puzzled about arming my Men, but have at last done it compleatly by picking the Muskets &amp;c. which came from Williamsburgh &amp; Maryland. Sr John St Clair has orderd me to return the Maryland arms &amp; to take the remainder of the Williamsburgh arms in the room of them; I have consulted the Armorer [William Henry] who says he does not think the old Guns, (about 320) are fit for Service, for they have been in the Magazeen below ever since the Reign of King William. I hope Sir you will not think I do amiss in not returning all the Maryland Arms, as in that case I shoud either be obliged to march to Fort Cumberland without that number of Guns, or dissobey Colo. Boquets orders [to march to Fort Cumberland] &amp; wait till I coud get those you mentiond from Carlisle, which woud take up a fortnight. I think it best to replace Ld Baltimores Arms out of those at Carlisle (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0178-fn-0004-ptr" id="GEWN-02-05-02-0178-fn-0004">4</a>
+
+   <p>For references to the lost hatchets, see <a href="default.xqy?keys=GEWN-print-02-05-02-0176&amp;expandNote=GEWN-02-05-02-0176-fn-0002#GEWN-02-05-02-0176-fn-0002" class="document">St. Clair to GW, 22 June, particularly note 2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0178-fn-0005-ptr" id="GEWN-02-05-02-0178-fn-0005">5</a>
+
+   <p>On the sheet of the letter from John Kidd, 21 June, GW wrote: List of Sundrys from Carlyle</p>
+
+<table class="bodytext" id="Col05d169t1" style="margin-left: 1.5em;">
+               <tr>
+		<td style="white-space: nowrap;">Kettles</td>
+		<td class="num">171</td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Canteens</td>
+		<td class="num">465</td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Barrels of Powder Horns</td>
+		<td class="num">3</td>
+	      </tr>
+               <tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0237" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0237">[237]</span></td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Saddles</td>
+		<td class="num">18</td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Box of Furniture for Ditto</td>
+		<td class="num">1</td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Spades</td>
+		<td class="num">12</td>
+	      </tr>
+               <tr>
+		<td style="white-space: nowrap;">Picks</td>
+		<td class="num punc">12.</td>
+	      </tr>
+            </table>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-05-02-0178 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 5 (5 October 17573 September 1758)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0177" title="To John Carlyle, 23 June 1758 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0179" title="To William Byrd, 24 June 1758"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

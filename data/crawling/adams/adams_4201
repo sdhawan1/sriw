@@ -1,0 +1,176 @@
+From Matthew Ridley, 20 September 1782
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Matthew Ridley, 20 September 1782</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0206&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1780-1782-09-20-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0205" title="From Edmund Jenings, 19 September 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0207" title="From Matthew Ridley, 20 September 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Matthew Ridley, 20 September 1782</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0206&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0205" title="From Edmund Jenings, 19 September 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0207" title="From Matthew Ridley, 20 September 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0478">478</span><div id="PJA13d261" class="doc letter">
+
+<h1>From Matthew Ridley</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Paris Sept: 20h: 1782</td>
+	      </tr>
+      </table>
+</div>
+<p>I doubt not you have eer this thought me slow in keeping the promise I made of writing to you. I have had many Reasons for defering it; but amongst others the desire of writing you with some certainty of the Tempers of People here. I have had one very serious Conversation with, J.<a class="ptr" href="#PJA13d261n1" id="PJA13d261n1-ptr">1</a> He appears to me very desirous of seeing youwere it only for a few Hourshe says he has some Things to consult you upon that he cannot put to Paper. He dare not trust <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0479">[479]</span>them even with CypherThey relate to opinions of I suppose both Men and Things and which he says must only be talkd of, not written. I proposed his taking a Trip to Bruxelles to meet you there, that I had a chaise at his service and would if he thought proper go with him. This he said he could not do without advising F. and V. The latter would certainly know where he was gonehe would be asking F. F. would not be able to tell him. And suspicions would immediately arise that seperate treaties or some Clandestine Work was going forward. He said he saw one inconvenience that might arise from your coming herethat of giving rise to speculations with respect to Peace. Still he wishd he could see you. I know you are much engaged; but if you cannot meet could not this difficulty about meeting be in some measure obviated thro a mediate Person? Our Friend at Bruxelles would I am sure think nothing of a Trip to you both to be useful. My dear Sir, the present Moments are ticklish. It is with great Pleasure I find Mr. J firm. I wish however he was supported. Reneval is gone to Englandnot for any Good I believe.<a class="ptr" href="#PJA13d261n2" id="PJA13d261n2-ptr">2</a> As a Negotiator he is not equal to it. To speak the words of another a mere repeating Machine very fit. I cannot for my part see what occasion France has to send any person to England. The English have come <span class="hi-italic" style="font-style: italic;">here</span> for Peace to send there is rather relinquishing their superiority. I have an opinion V. is suspicious of too great an Intimacy with the English Commissioners here: and Indeed I have some Reason for thinking so. The departure of R was very private and sudden and entirely unknown to our Folks. There was a moment I beleive that the prospects of Peace were flattering. I do not think they remain soon the contrary I beleive very little if any progress is made. If Gibraltar is taken it may make some difference: but between you and me I neither expect or wish it. I am firmly perswaded that every advantage gained to the Sds will only tend to new demands from them and consequently more embarrass the business of Peace. I wish sincerely you knew all that is passing here.</p>
+<p>I have enquired about the blank Commission you mentioned and am informed though not filled up it is promised.<a class="ptr" href="#PJA13d261n3" id="PJA13d261n3-ptr">3</a> Application was made I beleive by Letter to Mr. J before he came here and personal application has been made since. Under such circumstances I am not surprized a promise was extorted W. T. F is the person.</p>
+<p>Our Account with the French Court is adjusted. The King has given up all Interest due to this time and has taken all the Expences of the negotiation of the Dutch Loan on himself. All Gifts are de-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0480">[480]</span>ducted from the amount and one Obligation given for the whole remainder to be paid by Installments in twelve Yearsthe first payment to commence in three Years after the making a Peace. The Debt is much less considerable than I expected; about twenty Eight millions of Livres including the Loan from Holland.<a class="ptr" href="#PJA13d261n4" id="PJA13d261n4-ptr">4</a></p>
+<p>The Marquis de La Fayette is still here. I do not beleive he intends out. Genl. du Portail and Colo. Guvyon have been waiting untill this time to go with him but the former told me the other day he should go out next Month whether the Marquis went or not and that indeed he had no expectation he would go. The Marquis also told me he was surprized he had not heard from you lately<span class="hi-italic" style="font-style: italic;">He loves news and I have no doubt would be very glad to know what you are about</span>. However a Line there now and then is not amiss.<a class="ptr" href="#PJA13d261n5" id="PJA13d261n5-ptr">5</a> He has been very kind to Mr B.<a class="ptr" href="#PJA13d261n6" id="PJA13d261n6-ptr">6</a> respecting the stores at Brest in endeavouring to procure for him the Assistance of Government in getting them away. Mr. B. set off for that place last night.</p>
+<p>Os and Fitz are both here. Mr. Vaughan is returned to England. Mr L. is also going there on his way to AmericaIndeed I imagine he may be there before this. It is I find a Step not much approved of here. I wish it does not give rise to injurious Comments.</p>
+<p>We have nothing new from America. The present Conversation is entirely engrossd about Gibraltar. The French and Spanish Fleets are sailed from Cadiz for Algeziras. I am told by those who know the situation this position will not prevent the English throwing in supplies it being more than cannon shot distance and as the combined fleet must lay at Anchor the English may run in and do their business without much danger.</p>
+<p>We seem convinced here Vaudreuel is on our Coastif he is we may expect some Arrivals soon. Should there be any news you shall have it. With kind Wishes I have the honor to be: respectfully sir Yr. &amp;c.</p>
+<div class="postscript">
+<p>You know my address. Can you send a Cyhr for Mr. J?</p>
+<p>It is necessary to observe to you that as Reneval went off Secretly <span class="hi-italic" style="font-style: italic;">no Body</span> here seems to know of ityou will therefore take no notice about it.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d261sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: Mr Ridley 20 Septr 1782 ansd 29.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d261n1-ptr" id="PJA13d261n1">1</a>
+
+   <p>This conversation occurred on 18 Sept., and the account given here follows very closely Ridleys journal entry for that date insofar as it concerned the proposed meeting between <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> and Jay at Brussels. In the course of the conversation, Ridley also recommended Edmund Jenings to Jay as a well informed Man and in whom he might confide every Thing and whose only wish was to serve his Country. Ridley then asked Jay if <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0481">[481]</span>he knew the cause of the difference between Mr A and Dr F. He said not. Ridley proceeded to inform Jay of it in the manner Mr A. had told it mehe seemed surprized (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: Ridley Journal). Ridleys account of the difference between <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> and Franklin was probably derived from his conversation with <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> on 7 July, for which see Ridleys letter of 13 July, <a href="default.xqy?keys=ADMS-print-06-13-02-0111&amp;expandNote=PJA13d132n1#PJA13d132n1" class="document">note 1</a>, above.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d261n2-ptr" id="PJA13d261n2">2</a>
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> may have learned of Grard de Raynevals mission to London unofficially from a newspaper account such as that in the <span class="hi-italic" style="font-style: italic;">Gazette dAmsterdam</span> of 20 Sept., but a more official notification came from the Duc de La Vauguyon, and, owing to the ambassadors explanation of its purpose, he did not share the apprehensions of the Americans in Paris (to Robert R. Livingston, <a href="default.xqy?keys=ADMS-print-06-13-02-0210" class="document">23 Sept.</a>; to Ridley, <a href="default.xqy?keys=ADMS-print-06-13-02-0224" class="document">29 Sept. [2d letter]</a>, both below). Rayneval was sent principally to discuss with Shelburne the principles on which a peace settlement between Britain, France, and Spain would be based. However, the missions secrecy led the American negotiators at Paris, particularly John Jay, to fear that Raynevals intention was to encourage the British to refuse recognition of American fishing rights off Newfoundland or to agree to a western border on and free navigation of the Mississippi River. Such fears were heightened by the disclosure to John Jay by the British negotiators at Paris of an intercepted letter from Franois de Barb-Marbois, secretary of the French legation in Philadelphia, to the Comte de Vergennes. There Barb-Marbois dismissed the more expansive objectives contained in Congress instructions to its negotiators and indicated French support for little more than recognition of American independence in any Anglo-American peace treaty (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Richard B. Morris, &lt;i&gt;The Peacemakers: The Great Powers and American Independence&lt;/i&gt;, New York, 1965. ]">Morris, <span class="hi-italic" style="font-style: italic;">Peacemakers</span></span>, p. 320330; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Orville T. Murphy, &lt;i&gt;Charles Gravier, Comte de Vergennes: French Diplomacy in the Age of Revolution, 17191787&lt;/i&gt;, Albany, N.Y., 1982. ]">Murphy, <span class="hi-italic" style="font-style: italic;">Vergennes</span></span>, p. 359). Had <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> known of Barb-Marbois letter in September he too would have been concerned because it confirmed his suspicions of French policy toward the United States, but in the end Raynevals mission had no tangible effect on the peace treaty.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d261n3-ptr" id="PJA13d261n3">3</a>
+
+   <p>This was the commission to be secretary of the peace commission. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> favored the appointment of Edmund Jenings, but in a conversation with Ridley at dinner on 5 Aug., <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> indicated that he did not know if Franklin would agree or if Jenings would accept the position and asked Ridley to sound Mr Jay on the subject (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: Ridley Journal).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d261n4-ptr" id="PJA13d261n4">4</a>
+
+   <p>Ridleys journal entry for 18 Sept. indicates that Benjamin Franklin informed him that day of the contract signed on 16 July by himself and the Comte de Vergennes, setting down the conditions under which the United States would repay the loans that it had received from France, including the one guaranteed by France and raised in the Netherlands (vol. <a href="default.xqy?keys=ADMS-print-06-12-02-0060-0002" class="document">12:94</a>). The agreement was ratified by Congress on 22 Jan. and France on 21 Dec. 1783 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Treaties and Other International Acts of the United States of America&lt;/i&gt;, ed. Hunter Miller, Washington, D.C., 19311948; 8 vols. ]">Miller, <span class="hi-italic" style="font-style: italic;">Treaties</span></span>, 2:4856). The account Ridley gives here is virtually the same as in his journal.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d261n5-ptr" id="PJA13d261n5">5</a>
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> last wrote to Lafayette on <a href="default.xqy?keys=ADMS-print-06-13-02-0030" class="document">21 May</a>, above, and, presumably responding to Ridleys advice, wrote next on <a href="default.xqy?keys=ADMS-print-06-13-02-0224" class="document">29 Sept.</a>, below. Lafayettes comment on <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s correspondence may have been made during his visit to Ridley on the evening of the 16th (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: Ridley Journal).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d261n6-ptr" id="PJA13d261n6">6</a>
+
+   <p>Thomas Barclay.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0206 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0205" title="From Edmund Jenings, 19 September 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0207" title="From Matthew Ridley, 20 September 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

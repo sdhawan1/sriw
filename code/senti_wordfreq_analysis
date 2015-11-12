@@ -1,0 +1,808 @@
+Analysis for Positive Words:
+
++--------------------+-----------------------------+
+  Adams Word         |       Washington Word
++--------------------+-----------------------------+
+0. much: 634.018		good: 960.609
+
+1. honour: 469.929		proper: 756.750
+
+2. affairs: 117.600		best: 593.678
+
+3. want: 107.250		well: 447.473
+
+4. absolutely: 85.000		might: 376.125
+
+5. absolute: 42.250		much: 372.375
+
+6. fit: 42.000		new: 314.583
+
+7. circumstances: 38.250		necessary: 311.250
+
+8. nature: 36.400		hope: 304.694
+
+9. master: 24.750		better: 299.473
+
+10. congratulations: 24.375		dear: 284.000
+
+11. memorial: 23.000		must: 282.750
+
+12. concern: 22.589		think: 263.304
+
+13. wants: 16.500		respect: 241.667
+
+14. admired: 14.375		know: 240.479
+
+15. following: 14.352		happy: 226.625
+
+16. encourage: 12.500		agreeable: 210.000
+
+17. conscious: 11.250		time: 202.167
+
+18. inconsistent: 10.750		goods: 186.500
+
+19. reverence: 8.938		esteem: 186.300
+
+20. rich: 8.375		kind: 170.938
+
+21. rejoiced: 8.250		manner: 169.458
+
+22. unjust: 8.000		favour: 168.250
+
+23. seriously: 8.000		different: 162.375
+
+24. enjoys: 7.600		honor: 161.804
+
+25. wholesome: 7.500		please: 153.562
+
+26. wrong: 7.321		honour: 144.196
+
+27. controversy: 7.250		possible: 136.250
+
+28. altogether: 7.250		regard: 136.125
+
+29. modest: 7.000		opportunity: 130.000
+
+30. prudently: 6.750		want: 118.097
+
+31. doubts: 6.188		pleasure: 117.600
+
+32. address: 5.812		strong: 112.875
+
+33. extend: 4.838		sincere: 112.500
+
+34. discerning: 4.812		important: 111.417
+
+35. immunities: 4.594		doubt: 111.375
+
+36. properest: 4.500		greater: 110.500
+
+37. disgrace: 4.500		absolutely: 108.500
+
+38. vigour: 4.500		care: 108.068
+
+39. celebrated: 4.250		due: 107.100
+
+40. beloved: 4.000		really: 105.000
+
+41. subsisting: 3.250		make: 104.167
+
+42. greatness: 3.188		nothing: 101.625
+
+43. expended: 3.125		humble: 99.625
+
+44. consenting: 3.000		whole: 99.000
+
+45. affaire: 3.000		obedient: 96.750
+
+46. bringing: 2.958		made: 93.240
+
+47. needed: 2.875		importance: 92.000
+
+48. estimate: 2.786		respecting: 90.562
+
+49. effusion: 2.750		yet: 88.958
+
+50. conciliating: 2.667		pleased: 88.125
+
+51. sooth: 2.500		thought: 86.875
+
+52. positively: 2.500		otherwise: 85.500
+
+53. errors: 2.429		like: 85.312
+
+54. neglect: 2.389		wish: 84.713
+
+55. feeling: 2.368		believe: 84.125
+
+56. saving: 2.277		receive: 83.769
+
+57. hastily: 2.250		give: 83.700
+
+58. tenacious: 2.250		success: 83.125
+
+59. diminishing: 2.062		reason: 83.111
+
+60. rewarded: 1.875		able: 80.625
+
+61. revenues: 1.875		paid: 80.156
+
+62. accomplished: 1.875		desire: 79.917
+
+63. fashionable: 1.750		pay: 79.625
+
+64. originally: 1.625		merit: 79.333
+
+65. troubled: 1.625		shew: 76.500
+
+66. pretence: 1.600		method: 74.688
+
+67. harmonious: 1.500		received: 73.839
+
+68. quarrelled: 1.500		recommend: 72.333
+
+69. imagined: 1.500		beg: 71.906
+
+70. approving: 1.417		heartily: 69.500
+
+71. morally: 1.312		assistance: 68.500
+
+72. acquainting: 1.292		long: 67.688
+
+73. turned: 1.292		account: 67.607
+
+74. rewards: 1.250		affairs: 65.200
+
+75. committing: 1.250		power: 65.100
+
+76. emotion: 1.250		favourable: 64.500
+
+77. suspension: 1.232		court: 63.500
+
+78. troubles: 1.136		highly: 62.500
+
+79. indiscretion: 1.125		expect: 61.500
+
+80. midshipmen: 1.125		take: 61.381
+
+81. quarter: 1.069		safe: 61.000
+
+82. marshall: 1.050		prevent: 60.875
+
+83. consoled: 1.000		agreed: 60.536
+
+84. infirmities: 1.000		reasonable: 60.500
+
+85. absurdities: 0.938		day: 59.300
+
+86. opposed: 0.911		quite: 58.438
+
+87. working: 0.893		truth: 58.175
+
+88. sermons: 0.875		sufficient: 58.125
+
+89. advancement: 0.833		old: 57.750
+
+90. designing: 0.750		convenient: 57.188
+
+91. disturbed: 0.750		contrary: 57.000
+
+92. unequivocally: 0.750		favor: 55.250
+
+93. erudition: 0.750		health: 55.000
+
+94. fascinates: 0.750		sensible: 55.000
+
+95. tame: 0.714		rather: 54.688
+
+96. reciprocally: 0.667		interest: 54.450
+
+97. wandering: 0.667		fit: 54.367
+
+98. saying: 0.635		fear: 52.938
+
+99. abilitys: 0.625		agree: 52.500
+
+100. connive: 0.625		send: 52.219
+
+101. remotest: 0.625		right: 52.097
+
+102. admires: 0.625		told: 51.844
+
+103. modestly: 0.625		entirely: 51.750
+
+104. sortes: 0.625		compliments: 50.625
+
+105. guarded: 0.594		fine: 50.500
+
+106. dunkirk: 0.583		given: 49.300
+
+107. china: 0.500		already: 49.125
+
+108. nicely: 0.500		sent: 48.850
+
+109. skilfully: 0.500		often: 48.333
+
+110. consents: 0.500		true: 47.750
+
+111. appropriately: 0.500		certainly: 47.750
+
+112. effusions: 0.500		see: 47.745
+
+113. workmanship: 0.500		procure: 46.875
+
+114. knowingly: 0.500		add: 46.446
+
+115. avails: 0.500		major: 46.406
+
+116. transported: 0.475		however: 46.375
+
+117. natures: 0.400		desirous: 44.250
+
+118. liaisons: 0.375		respects: 44.250
+
+119. feasibility: 0.375		use: 44.087
+
+120. toil: 0.375		easily: 43.750
+
+121. grasping: 0.375		never: 43.438
+
+122. humbler: 0.375		suit: 43.225
+
+123. duer: 0.375		advantage: 43.094
+
+124. dues: 0.375		suppose: 42.375
+
+125. tamely: 0.375		seems: 42.188
+
+126. fascinated: 0.375		find: 41.319
+
+127. roll: 0.360		even: 41.288
+
+128. music: 0.350		reasons: 40.792
+
+129. size: 0.344		greatly: 40.500
+
+130. conceded: 0.344		extremely: 39.688
+
+131. knock: 0.341		belonging: 39.643
+
+132. adorns: 0.333		captain: 39.609
+
+133. similitude: 0.312		taken: 39.580
+
+134. shocks: 0.294		desired: 39.500
+
+135. tempted: 0.271		wanted: 39.000
+
+136. agreing: 0.268		easy: 39.000
+
+137. adapt: 0.250		assure: 38.646
+
+138. seizures: 0.250		consideration: 38.125
+
+139. idly: 0.250		worth: 38.000
+
+140. ire: 0.250		fully: 37.625
+
+141. ravenously: 0.250		recommended: 37.625
+
+142. sycophants: 0.250		immediately: 37.375
+
+143. shadow: 0.250		glad: 36.875
+
+144. encourageing: 0.250		hopes: 36.167
+
+145. unintentionally: 0.250		days: 35.545
+
+146. captive: 0.208		private: 35.500
+
+147. herds: 0.208		properly: 35.250
+
+148. imagines: 0.188		get: 35.000
+
+149. mystic: 0.167		master: 34.714
+
+150. cheaply: 0.167		conduct: 34.688
+
+151. exaggerations: 0.167		judge: 34.625
+
+152. intoxicating: 0.167		come: 34.364
+
+153. anticipations: 0.156		consider: 34.306
+
+154. crowd: 0.146		known: 33.833
+
+155. marshals: 0.143		character: 33.487
+
+156. serially: 0.125		endeavour: 33.375
+
+157. resignations: 0.125		large: 32.800
+
+158. whored: 0.125		seem: 32.656
+
+159. purges: 0.125		intelligence: 32.400
+
+160. promiscuously: 0.125		trust: 32.083
+
+161. boarded: 0.125		expected: 32.000
+
+162. cur: 0.125		affair: 31.833
+
+163. conditioned: 0.125		circumstances: 31.500
+
+164. victualling: 0.125		hand: 31.289
+
+165. indicative: 0.125		hence: 30.625
+
+166. childs: 0.125		hands: 30.250
+
+167. blustering: 0.125		granted: 30.214
+
+168. chopping: 0.125		informed: 29.625
+
+169. celebrates: 0.125		camp: 29.455
+
+170. liberalizing: 0.125		observe: 29.250
+
+171. antipathy: 0.125		meet: 29.000
+
+172. unlikelihood: 0.125		means: 28.011
+
+173. incentives: 0.125		consequence: 27.833
+
+174. lingering: 0.125		came: 27.714
+
+175. defensively: 0.125		little: 27.475
+
+176. plate: 0.109		depend: 27.125
+
+177. distortions: 0.104		likely: 27.000
+
+178. conditiones: 0.100		concerning: 26.812
+
+179. variable: 0.100		first: 26.792
+
+180. sullys: 0.100		concern: 26.714
+
+181. safeguard: 0.094		thing: 26.344
+
+182. reconciling: 0.094		sure: 26.333
+
+183. hanging: 0.090		men: 26.302
+
+184. buryed: 0.083		ordered: 25.833
+
+185. oversight: 0.083		need: 25.625
+
+186. absorbs: 0.083		george: 25.500
+
+187. beings: 0.075		gentlemen: 25.125
+
+188. deferring: 0.062		copy: 25.062
+
+189. projection: 0.062		readily: 24.938
+
+190. asylums: 0.062		answer: 24.875
+
+191. exclaimed: 0.062		flatter: 24.833
+
+192. heating: 0.062		friend: 24.825
+
+193. unsteadiness: 0.062		times: 24.809
+
+194. deranging: 0.062		equal: 24.750
+
+195. opposes: 0.062		friends: 24.375
+
+196. temperate: 0.062		accounts: 24.000
+
+197. sorted: 0.062		light: 23.887
+
+198. frames: 0.059		mention: 23.583
+
+199. cramp: 0.054		sold: 23.500
+
+
+
+ Analysis for Negative Words:
+
++--------------------+-----------------------------+
+  Adams Word         |       Washington Word
++--------------------+-----------------------------+
+0. much: 140.893		must: 659.750
+
+1. want: 107.250		might: 501.500
+
+2. wrong: 49.786		little: 467.075
+
+3. affairs: 44.100		humble: 398.500
+
+4. disgrace: 36.000		sufficient: 348.750
+
+5. former: 24.312		never: 304.062
+
+6. pretence: 24.000		sorry: 198.125
+
+7. absolute: 21.125		hope: 195.875
+
+8. tyranny: 21.000		mutilated: 184.500
+
+9. troubled: 20.312		glad: 184.375
+
+10. unjust: 17.333		yet: 177.917
+
+11. extant: 16.875		soon: 161.750
+
+12. wants: 16.500		fear: 154.000
+
+13. concern: 16.429		bad: 145.950
+
+14. effects: 16.250		militia: 143.750
+
+15. modest: 15.750		different: 135.312
+
+16. fit: 12.000		trouble: 128.364
+
+17. inconsistent: 10.750		want: 118.097
+
+18. impracticability: 10.500		immediately: 112.125
+
+19. seriously: 8.000		unhappy: 104.000
+
+20. errors: 7.893		ill: 102.500
+
+21. idle: 7.875		nothing: 101.625
+
+22. troubles: 7.273		opinion: 101.438
+
+23. neglect: 7.167		rather: 98.438
+
+24. despised: 6.750		servant: 96.188
+
+25. alarming: 6.500		beg: 95.875
+
+26. suffice: 6.000		sentiments: 92.750
+
+27. imagined: 6.000		guilty: 91.250
+
+28. mortified: 5.812		utmost: 88.500
+
+29. choice: 5.500		lost: 87.600
+
+30. misrepresentations: 5.312		notwithstanding: 86.500
+
+31. rich: 5.025		much: 82.750
+
+32. needed: 4.792		long: 78.969
+
+33. disturbed: 4.500		still: 77.018
+
+34. humbled: 4.500		small: 75.469
+
+35. crown: 4.484		give: 74.400
+
+36. bringing: 4.438		care: 72.045
+
+37. service: 4.354		impossible: 70.500
+
+38. fix: 4.103		less: 68.906
+
+39. complicated: 4.000		wish: 65.888
+
+40. saving: 3.643		none: 64.375
+
+41. altogether: 3.625		suffer: 64.091
+
+42. humbles: 3.500		necessary: 62.250
+
+43. opposite: 3.292		expect: 61.500
+
+44. tenacious: 3.000		thomas: 60.875
+
+45. awaiting: 3.000		near: 59.438
+
+46. guarded: 2.969		quite: 58.438
+
+47. betraying: 2.833		difficulty: 58.094
+
+48. opposed: 2.732		old: 57.750
+
+49. embark: 2.708		greater: 55.250
+
+50. immunities: 2.625		servants: 53.062
+
+51. positively: 2.500		loss: 51.719
+
+52. feeling: 2.368		camp: 51.545
+
+53. quarter: 2.139		short: 50.271
+
+54. master: 2.062		matter: 49.554
+
+55. reciprocally: 2.000		large: 49.200
+
+56. indiscretion: 1.875		quantity: 49.125
+
+57. accomplished: 1.875		well: 48.427
+
+58. hindered: 1.750		take: 47.216
+
+59. spoken: 1.750		given: 46.561
+
+60. shocks: 1.706		power: 46.500
+
+61. wholesome: 1.500		satisfaction: 46.500
+
+62. discountenance: 1.500		however: 46.375
+
+63. irrecoverable: 1.500		fresh: 45.000
+
+64. vigour: 1.500		certain: 44.125
+
+65. admired: 1.438		thing: 43.906
+
+66. reverence: 1.375		pretty: 43.000
+
+67. turned: 1.292		know: 42.438
+
+68. humiliateing: 1.250		likely: 40.500
+
+69. dunkirk: 1.167		need: 40.268
+
+70. wandering: 1.167		difficulties: 40.219
+
+71. wickedly: 1.125		expected: 40.000
+
+72. mutilated: 1.125		answer: 39.800
+
+73. shadow: 1.125		told: 37.031
+
+74. greatness: 1.062		number: 36.765
+
+75. disturber: 1.000		best: 36.273
+
+76. affaire: 1.000		major: 36.094
+
+77. sour: 1.000		dear: 35.500
+
+78. antipathy: 1.000		private: 35.500
+
+79. estimate: 0.929		assistance: 34.250
+
+80. sermons: 0.875		endeavour: 33.375
+
+81. enjoys: 0.800		brought: 33.136
+
+82. canaries: 0.750		sick: 31.500
+
+83. cur: 0.750		poor: 31.406
+
+84. grasping: 0.750		done: 31.308
+
+85. imagines: 0.750		imagine: 31.250
+
+86. knock: 0.739		generally: 31.000
+
+87. impressions: 0.694		thought: 30.662
+
+88. extend: 0.691		safe: 30.500
+
+89. diminishing: 0.688		taken: 30.446
+
+90. scold: 0.667		defence: 30.000
+
+91. oversight: 0.667		wanted: 29.250
+
+92. bottom: 0.636		favour: 28.042
+
+93. locked: 0.625		possible: 27.250
+
+94. similitude: 0.625		bring: 26.864
+
+95. absurdities: 0.625		pay: 26.542
+
+96. irremediable: 0.625		sure: 26.333
+
+97. unsteadiness: 0.562		relative: 26.333
+
+98. temperate: 0.562		matters: 24.821
+
+99. size: 0.516		get: 24.500
+
+100. forbore: 0.500		affairs: 24.450
+
+101. humbler: 0.500		manner: 24.208
+
+102. working: 0.446		favourable: 24.188
+
+103. fashionable: 0.438		affair: 23.875
+
+104. roll: 0.432		true: 23.875
+
+105. fry: 0.417		wait: 23.833
+
+106. suspension: 0.411		common: 23.417
+
+107. disobeying: 0.375		hopes: 23.250
+
+108. affronted: 0.375		inclosed: 23.188
+
+109. ire: 0.375		wanting: 23.100
+
+110. sycophants: 0.375		importance: 23.000
+
+111. despises: 0.375		convenient: 22.875
+
+112. incapacitates: 0.375		desire: 22.833
+
+113. blustering: 0.375		excuse: 22.333
+
+114. conceded: 0.344		things: 22.260
+
+115. bankrupts: 0.312		necessity: 22.188
+
+116. asylums: 0.312		ready: 21.688
+
+117. crowns: 0.297		miss: 21.250
+
+118. whored: 0.292		secure: 21.111
+
+119. tempted: 0.271		weather: 20.750
+
+120. feasibility: 0.250		view: 20.519
+
+121. forbeared: 0.250		brown: 20.250
+
+122. confronts: 0.250		fine: 20.200
+
+123. exclaimed: 0.250		leave: 20.118
+
+124. nettle: 0.250		merit: 19.833
+
+125. clumsiness: 0.250		let: 19.625
+
+126. ira: 0.250		always: 19.500
+
+127. requisites: 0.250		concern: 19.429
+
+128. malefactors: 0.250		ordered: 19.375
+
+129. boiled: 0.250		copy: 18.797
+
+130. deranging: 0.250		situation: 18.600
+
+131. auditors: 0.250		apprehend: 18.500
+
+132. elaborate: 0.219		killed: 18.417
+
+133. cramp: 0.214		even: 18.350
+
+134. outraging: 0.208		endeavours: 18.250
+
+135. captive: 0.208		night: 18.125
+
+136. mortifies: 0.188		gave: 17.909
+
+137. opposes: 0.188		black: 17.900
+
+138. dooms: 0.188		paid: 17.812
+
+139. hanging: 0.181		think: 17.554
+
+140. tame: 0.179		entirely: 17.250
+
+141. stamping: 0.167		wishes: 17.238
+
+142. prostrate: 0.167		late: 17.071
+
+143. crowd: 0.146		fall: 17.062
+
+144. lots: 0.136		former: 17.062
+
+145. liaisons: 0.125		light: 17.062
+
+146. abilitys: 0.125		believe: 16.825
+
+147. complainers: 0.125		attack: 16.750
+
+148. chine: 0.125		purpose: 16.300
+
+149. pinto: 0.125		tell: 16.181
+
+150. impossibly: 0.125		got: 16.163
+
+151. resignations: 0.125		important: 15.917
+
+152. rehash: 0.125		left: 15.886
+
+153. unintentionally: 0.125		guard: 15.857
+
+154. restitutions: 0.125		head: 15.833
+
+155. harassed: 0.125		sold: 15.667
+
+156. civilian: 0.125		fit: 15.533
+
+157. marly: 0.125		add: 15.482
+
+158. pulled: 0.118		war: 15.400
+
+159. plate: 0.109		daily: 15.125
+
+160. cooks: 0.107		require: 15.094
+
+161. purges: 0.100		really: 15.000
+
+162. safeguard: 0.094		pounds: 14.955
+
+163. snatch: 0.094		order: 14.896
+
+164. mystic: 0.083		exceedingly: 14.625
+
+165. disconnect: 0.083		necessaries: 14.375
+
+166. exaggerations: 0.083		spare: 14.286
+
+167. fascinates: 0.083		otherwise: 14.250
+
+168. sullys: 0.075		regular: 13.969
+
+169. stays: 0.066		longer: 13.786
+
+170. cooking: 0.062		place: 13.535
+
+171. deferring: 0.062		made: 13.320
+
+172. anticipations: 0.062		desired: 13.167
+
+173. basque: 0.062		giving: 13.149
+
+174. spit: 0.062		rank: 13.000
+
+175. numerated: 0.062		white: 12.958
+
+176. admires: 0.062		happen: 12.800
+
+177. stifled: 0.062		away: 12.760
+
+178. refreshed: 0.062		george: 12.750
+
+179. concentrated: 0.057		keep: 12.725
+
+180. split: 0.055		better: 12.545
+
+181. marches: 0.055		single: 12.536
+
+182. beings: 0.050		make: 12.500
+
+183. stifles: 0.050		flatter: 12.417
+
+184. shoots: 0.045		begin: 12.409
+
+185. heating: 0.042		equal: 12.375
+
+186. distortions: 0.042		orders: 12.354
+
+187. fascinated: 0.042		james: 12.353
+
+188. menacing: 0.042		serve: 12.305
+
+189. patch: 0.038		easy: 12.000
+
+190. agreing: 0.036		case: 11.966
+
+191. fawn: 0.025		peace: 11.800
+
+192. variable: 0.025		dispatch: 11.667
+
+193. humming: 0.021		justice: 11.625
+
+194. overturned: 0.021		lay: 11.393
+
+195. gown: 0.021		settle: 11.359
+
+196. had: 0.000		means: 11.205
+
+197. has: 0.000		presume: 11.062
+

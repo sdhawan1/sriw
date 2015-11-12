@@ -1,0 +1,215 @@
+From Major General Philip Schuyler, 27 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 27 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0120&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-04-27-7">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0119" title="From Brigadier Generals John Sullivan, Nathanael Greene, and Lord Stirling, 27 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0121" title="From Major General John Thomas, 27 April 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 27 April 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0120&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0119" title="From Brigadier Generals John Sullivan, Nathanael Greene, and Lord Stirling, 27 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0121" title="From Major General John Thomas, 27 April 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0146">146</span><div id="Rev04d115" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Fort George [N.Y.] April 27th 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>I had the Honor to receive your Favor of the 15th Instant at Tyconderoga on the 25th, on which Day the Remainder of Maxwells, De Haass and Burrels Regiments moved from thenceI stayed to see St Clairs and their Baggage across the portage and embarked, and at six in the Evening set out for this place, which I reached at five Yesterday Morning.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0001" id="GEWN-03-04-02-0120-fn-0001-ptr">1</a></p>
+<p>Being restricted by Congress to build no more than one hundred Batteaus, and eighty of these being occupied by the Troops above mentioned, General Thomas[,] the Commissioners, the Artillery and Stores, provisions &amp; Captain Stevenss Company with the Mortars &amp; Shells, I have only twenty new ones left, and thirty seven of those built last Yearthe whole of which will carry no more than fifteen hundredI have however ventured to construct an additional Number; and such a Number of Carpenters are now employed as will daily build for the Conveyance of fifty Men;<a class="ptr" href="#GEWN-03-04-02-0120-fn-0002" id="GEWN-03-04-02-0120-fn-0002-ptr">2</a> hence I hope no considerable Delay will be experienced: but I fear the Troops in Canada, when joined by those coming up will be in want of pork before a Supply can be thrown in as we have not 150 Barrels of pork
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0147">[147]</span>
+left at this place and Tyconderoga, and those that are gone on<a class="ptr" href="#GEWN-03-04-02-0120-fn-0003" id="GEWN-03-04-02-0120-fn-0003-ptr">3</a> could not take more than 100 Barrels exclusive of ten Days provision which was issued to them at Tyconderoga.</p>
+<p>Yesterday Afternoon Bennet delivered me your Excellencys Letter of the 19thI find the Troops are arrived at Albany, and I fear they will be much retarded in their March to Skenesborough for want of Carriage, as all the Forage in this Country is expended and the Grass only begins to peepThe Season has been remarkably severe: the Ice had not left the Lake on Friday last when we crossed, so that we were obliged to break thro the Ice for many Miles.</p>
+<p>Inclose you Copy of a Letter received on the 25th from General Arnold, together with a Return of the Troops before Quebecthe first I have had from Canada.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0004" id="GEWN-03-04-02-0120-fn-0004-ptr">4</a></p>
+<p>I am perfectly in Sentiment with you my dear General that we ought to engage the Indians to co-operate with us; but I fear it will be a difficult, if not an impossible Task to accomplish, unless Canada should be entirely in our possessionYou will be able to form an Idea of their present Temper and Disposition from the inclosed Copy of a Journal of Mr Dean the Interpreter.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0005" id="GEWN-03-04-02-0120-fn-0005-ptr">5</a></p>
+<p>I have written to Mr Wisner for powder, and hope he will send some; there is much too little in Canada.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0006" id="GEWN-03-04-02-0120-fn-0006-ptr">6</a> The Licentiousness of our Troops both in Canada and in this Quarter is not easily to be described nor have all my Efforts been able to put a Stop to those scandalous ExcessesI shall however continue to give the most pointed Orders, and shall hope for a more becoming Conduct in Future.</p>
+<p>I have Reason to think General Thomas, who left Tyconderoga on Sunday will reach Quebec to Day or to Morrow, and that the Commissioners will arrive about the same Time at MontrealThey parted with me on Wednesday with a fair Wind.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0007" id="GEWN-03-04-02-0120-fn-0007-ptr">7</a></p>
+<p>Our Military Chest is exhausted, and we are deeply involved in DebtTen Thousand pounds will hardly pay what I am personally bound for on the public Account: Should it be replenished by Congress how is it to be drawn out for the Currant Expence of the Day? as I cannot be justified in granting Warrants whilst I have the Happiness to find your Excellency in this Department, without your Leave and approbation; and yet the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0148">[148]</span>
+Force of Necessity will oblige me to tresspass before I can be honored with your Commands on this Head.</p>
+<p>the Vessels on Lake Champlain are sufficient to convey five hundred Men to St Johns, but no Sailors are yet arrivedThe Convention of New York have been wrote to long since to send them.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0008" id="GEWN-03-04-02-0120-fn-0008-ptr">8</a></p>
+<p>A vile Ague seized me some Days Ago, but Dr Franklin and the other Gentlemen administered such a Number of Doses of peruvian Bark, that it has left me, and hope that I shall last at least this Campaign.</p>
+<p>I shall not fail to advise you of every Occurrence in this Quarter.</p>
+<p>Before I heard of your Arrival at New York, I ordered all Colo: Clintons Regiment, which is levying in the Vicinity of Albany to this place and Ticonderoga excepting two Companies, which I judged it prudent to leave in Tryon CountyI also directed Colonel Wyncoop with three Companies of his, to repair to Ticonderoga, those will be barely sufficient to send on the provisions and Stores for Canada, and open a Communication by the Way of Wood Creek to Lake Champlain, which Congress has ordered me to do; but I fear those Troops will not come up, as I find General Putnam had already ordered them to New YorkI shall be under the disagreeable Necessity of detaining Van Schaicks Regiment, (which is also raising in the Neighbourhood of Albany and is destined for Canada) at these posts, until relieved by those I have mentioned or some other.<a class="ptr" href="#GEWN-03-04-02-0120-fn-0009" id="GEWN-03-04-02-0120-fn-0009-ptr">9</a></p>
+<p>If half of those to be employed on the Communication to Canada are supplied with Arms it will suffice, as four fifths of them must be constantly at some Kind of Labour. I am with the most affectionate and respectful Sentiments Your Excellencys most obedient humble Servant</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0120-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0001-ptr" id="GEWN-03-04-02-0120-fn-0001">1</a>
+
+   <p>Schuyler enclosed a Return of the Forces of the united Colonies which passed Fort George in their way to Canada between the 12 &amp; 26th April 1776. Those forces were: 183 rank and file, 10 noncommissioned officers, and 12 commissioned officers from Col. William Maxwells 2d New Jersey Regiment; 110 rank and file, 3 noncommissioned officers, and 7 commissioned officers from Col. John Philip De Haass 1st Pennsylvania Regiment; 350 rank and file, 42 noncommissioned officers, and 23 commissioned officers
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0149">[149]</span>
+from Col. Charles Burralls Connecticut regiment; 62 rank and file, 9 noncommissioned officers, and 4 commissioned officers from Col. Goose Van Schaicks New York regiment; and about 500 rank and file from Col. Arthur St. Clairs 2d Pennsylvania Regiment, a total of 1,205 rank and file, 64 noncommissioned officers, and 46 commissioned officers. At the end of the return Schuyler added: Capt. [Ebenezer] Stevenss of the Artillery unknown as he went by the way of Otter CreekCapt. [Bernard] Romans [independent Pennsylvania artillery company] passed me in the Night on Lake George (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). Parts of Maxwells, De Haass, and Burralls regiments had previously marched to Canada, and Van Schaicks regiment was not yet complete (see <a href="default.xqy?keys=GEWN-print-03-04-02-0042" class="document">Schuyler to GW, 12 April 1776</a>). For Stevenss artillery detachment, see note 2 below.</p>
+
+
+   <p>Arthur St. Clair (17371818), who lived at Fort Ligonier in western Pennsylvania, became colonel of the 2d Pennsylvania Regiment on 3 Jan. 1776. Born and educated in Scotland, St. Clair came to America during the French and Indian War as a subaltern in the Royal American Regiment and remained in the colonies after the war as a civilian. In the Continental army St. Clair rose rapidly in rank, being promoted to brigadier general in August 1776 and to major general in February 1777. His controversial abandonment of Ticonderoga in July 1777 damaged his military reputation despite the fact that a court-martial eventually cleared him of any blame. St. Clair played a relatively minor role in events during the last years of the war but remained on active duty until November 1783.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0002-ptr" id="GEWN-03-04-02-0120-fn-0002">2</a>
+
+   <p>Schuyler is thinking of Congresss resolution of 8 Jan. 1776 which directed him to employ shipwrights sent from New York and Philadelphia in constructing a number of batteaus, not exceeding one hundred, to transport troops to Canada. In March, however, Congress resolved that General Schuyler be directed to provide such a number of batteaus for the service in Canada, as shall be sufficient for it (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:38, 191). On 3 May 1776 Schuyler wrote Hancock: I have found myself under the necessity of building a number of Batteaus far Exceeding what Congress ordered, One hundred and thirty are now built and I propose to Compleat them to two hundred, but If more troops should be sent Even that number will be Insufficient (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 153; see also <a href="default.xqy?keys=GEWN-print-03-04-02-0167" class="document">Schuyler to GW, 4 May 1776</a>).</p>
+
+
+   <p>Ebenezer Stevens (17511823) at this time commanded two companies of artillery that Col. Henry Knox had detached from his regiment at Cambridge on 28 Mar. for service in Canada. The detachment, which consisted of Stevenss own company and that of Capt. Stephen Badlam, marched to Lake Champlain from Cambridge by way of Number Four (Charlestown, N.H.) and Otter Creek in Vermont. Although slowed by two heavy mortars, it reached the St. Lawrence River sometime in May. Stevens, who was a carpenter by profession, served in Boston before the war as a member of Maj. Adino Paddocks provincial artillery company. In the summer or fall of 1774 Stevens moved from Boston to Providence, and in May 1775 he was commissioned a first lieutenant in the independent company of Rhode Island artillery commanded by Capt. John Crane. Cranes company participated in the siege of Boston, and when it was disbanded at the end of 1775, Stevens became
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0150">[150]</span>
+a captain in Knoxs Continental artillery regiment. From 1776 to 1778 Stevens acted as commanding officer of the artillery in the northern department. He was promoted to major in October 1776 and brevetted a lieutenant colonel in April 1778. In November 1778 Congress gave Stevens the permanent rank of lieutenant colonel, and he served the remainder of the war in the 2d Regiment of Continental Artillery.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0003-ptr" id="GEWN-03-04-02-0120-fn-0003">3</a>
+
+   <p>In the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, Schuylers secretary inadvertently wrote gone in. The letterbook copy reads gone on.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0004-ptr" id="GEWN-03-04-02-0120-fn-0004">4</a>
+
+   <p>The copies of Arnolds letter to Schuyler of 20 April and his Return of the Troops before Quebec . . . March 30th 1776 are both in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. The return reports 1,719 effectives out of the 2,505 men around Quebec, not counting 350 more soldiers of various regiments who had recently joined. At the end of the return Arnold adds that 1500 of the above Men are at Liberty the 15th April probably one half of them will be retained in the Service. Arnolds letter, written from Montreal where he arrived on 19 April from Quebec, contains a pessimistic assessment of the situation in Canada. Our Force before Quebec . . . , he writes, is so very inconsiderable and illy supplied with every Requisite to carry on a Seige, that I am very dubious of their Success. . . . If we are not immediately supported with eight or ten thousand Men, a good Train of Artillery well served and a Military Chest well furnished, the Ministerial Troops, if they attempt it will regain this Country and we shall be obliged to quit it; the latest Consequences of which are too obvious.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0005-ptr" id="GEWN-03-04-02-0120-fn-0005">5</a>
+
+   <p>The thirteen-page extract from James Deanes journal describes his journey between 21 Mar. and 3 April to attend the general council of the Six Nations at Onondaga, New York. Although the tribes reaffirmed their neutrality at that council, Deanes account indicates that sharp differences were developing within the confederation about their future course in the conflict between Britain and the colonies. This was evident in the councils reaction to Deanes announcement of the British evacuation of Boston. A variety of passions appeared in the Faces of the assembly upon the Recital, Deane wrote. Some seemed much elated with Joy and others as much depressed with vexation &amp; Disappointment (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0006-ptr" id="GEWN-03-04-02-0120-fn-0006">6</a>
+
+   <p>Henry Wisner, Jr. (17421812), wrote to the president of the New York committee of safety on 24 April, informing him that the gunpowder mill which he and his father Henry Wisner, Sr. (17201790), owned in Ulster County, N.Y., was producing a thousand pounds of gunpowder a week. The weather being very changeable, he reported, we are much troubled to get it dry; but have above three tons made, which we shall send to <span class="hi-italic" style="font-style: italic;">Fort Constitution</span> as soon as dry (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Peter Force, ed. &lt;i&gt;American Archives&lt;/i&gt;. 9 vols. Washington, D.C., 183753. ]">Force, <span class="hi-italic" style="font-style: italic;">American Archives</span></span>, 4th ser., 5:1053).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0007-ptr" id="GEWN-03-04-02-0120-fn-0007">7</a>
+
+   <p>Ice delayed both parties. John Thomas left Ticonderoga on 21 April and reached Quebec on 1 May (see <a href="default.xqy?keys=GEWN-print-03-04-02-0121" class="document">Thomas to GW, this date</a> and <a href="default.xqy?keys=GEWN-print-03-04-02-0193" class="document">8 May 1776</a>). The three commissioners to Canada departed on 24 April and arrived at Montreal five days later.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0008-ptr" id="GEWN-03-04-02-0120-fn-0008">8</a>
+
+   <p>See Schuyler to Nathaniel Woodhull, 8 Mar. 1776, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Provincial Congress, Provincial Convention, Committee of Safety, and Council of Safety of the State of New-York, 177517761777&lt;/i&gt;. 2 vols. Albany, 1842. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">N.Y. Prov. Congress Journals</span></span>, 1:364.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0151">[151]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0120-fn-0009-ptr" id="GEWN-03-04-02-0120-fn-0009">9</a>
+
+   <p>To facilitate the transportation of men and supplies from the Hudson River to Lake Champlain, Congress resolved on 9 Jan. 1776 that a communication should be forthwith opened between Skenesborough and fort Ann, and that Wood creek be cleared for that purpose. Congress gave Schuyler more specific instructions about this project on 17 June (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:44, 5:45051). Skenesboro (now Whitehall, N.Y.) was at the mouth of Wood Creek where it enters the southern end of Lake Champlain, and Fort Ann was about twelve miles upstream. A wagon road was to connect Fort Ann with Fort Edward on the Hudson.</p>
+
+
+   <p>For GWs disposal of Col. James Clintons and Col. Cornelius D. Wynkoops New York regiments, see <a href="default.xqy?keys=GEWN-print-03-04-02-0158" class="document">his first letter of 3 May 1776 to Schuyler</a>. Cornelius D. Wynkoop (17341792), who had served first as major and then as lieutenant colonel of the 3d New York Regiment during 1775, was commissioned colonel of the colonys 4th Regiment in March 1776. Wynkoop left the Continental army in November 1776, but as a civilian he assisted in raising the militia in the Mohawk Valley during 1777 and in building gunboats to defend the Hudson River in the spring of 1778.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0120 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0119" title="From Brigadier Generals John Sullivan, Nathanael Greene, and Lord Stirling, 27 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0121" title="From Major General John Thomas, 27 April 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

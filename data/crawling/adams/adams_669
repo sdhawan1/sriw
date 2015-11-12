@@ -1,0 +1,203 @@
+From Richard Devens, 16 – 20 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Richard Devens, 16  20 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-04-02-0080&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1776-05-16-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-04-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0079" title="To James Warren, 15 May 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-04-02-0081" title="From Henry Knox, 16 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-04&amp;mode=TOC">Volume 4, FebruaryAugust 1776</a>&gt; <a href="?keys=ADMS-print-06-04-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Richard Devens, 16  20 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-04-02-0080&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0079" title="To James Warren, 15 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-04-02-0081" title="From Henry Knox, 16 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-04-02-pb-0187">187<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0187.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA04d095" class="doc letter">
+
+    <h1>From Richard Devens</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Very Dr sir</td>
+		<td class="salutationRight">Watertown <del title="deleted text">&lt;Boston&gt;</del>May 16 <span class="hi-italic" style="font-style: italic;">1776</span></td>
+	      </tr>
+      </table>
+     </div>
+     <p>Yesterday I was honoured with yours of April 29.<a class="ptr" href="#PJA04d095n1" id="PJA04d095n1-ptr">1</a> It gives me much pleasure that any inteliganc I was capable of giving respecting Salt Petre was in any degree sattisfactory.</p>
+     <p>My last to you Was April 10.<a class="ptr" href="#PJA04d095n2" id="PJA04d095n2-ptr">2</a> At that time we had taken into the Colony Store 7670 lb saltpetre. The next period for receiving it was the 23d. when we took in 4500 lb. The next time was the day before yesterday when we received 12310 which with 328 at different times Amounts in the whole to 24808 lb. The Gen Court have appointed a person to receive and pay for it at adover [<ins title="editorial addition or explanation" class="ed">Andover</ins>] Mill.<a class="ptr" href="#PJA04d095n3" id="PJA04d095n3-ptr">3</a> I am not <span class="pb" title="page number in print edition" id="ADMS-06-04-02-pb-0188">[188<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0188.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>able to Inform you what quantity has been Delivered there, but will as Soone as I can,<a class="ptr" href="#PJA04d095n4" id="PJA04d095n4-ptr">4</a> as to the quality of it, it is in the General pure to the last degree. It is at least 10, or 12 p Cent purer than that Sent from Phila. to Watertown.</p>
+     <p>If I had it in my power I would Send a specimen of it, for a pressent to Great Britain.</p>
+     <p>The powder Mill at Andover is at work. I drew an order last week on Mr. Phillips there for 10 halfe Barrils in favour of Marblehead and I hear since they have received it.</p>
+     <p>I wish I could give you as agreeable an account of the Manufacture of salt Sulphure and lead, but the genious of the people of America is daily drawing out, and I trust nothing will be left unattempted till we are in every respect Independant of a State who appear to <span title="unclear; reading uncertain" class="unclear">[be?]</span> determined to destroy us.</p>
+     <p>As to Cannon, the man I Employed at Abbington in that business has by various accidents been unsuccessfull, and has cast but one 3 pounder. I have no doubt but he will Succeed.</p>
+     <p>Our Enimies left at Boston and Castle Island 250 pieces of Cannon great and small. I have taken the account of them, have viewd them over and over again, and am employing a Number of men in repairing and mounting some of them, and from the best Judgement I am capable of forming, more than halfe the Number will soone be fitt for service, and as it was the heaviest of them that are the least Injured, those that will be fit for service will Amount to 3/4 or 4/5s of the weight of the whole.</p>
+     <p>Our fortifycation work now goes on with great Vigour on Camp Hill, and at the Castle, we have a good Committee for fortifycation also an exelent Councill of War.</p>
+     <p>You will excuse me from being More particular. I am exceedingly Crowded with business in my department. Am most respectfully Yr. Humble sevt</p>
+     <div class="closer">
+      <p class="signed">Richd. Devens<a class="ptr" href="#PJA04d095n5" id="PJA04d095n5-ptr">5</a></p>
+     </div>
+     <div class="postscript">
+      <p>PS. please to inform the Honorable J. Hancock Esqr. that we have 77000 flints arrived at Dartmouth.</p>
+      <p>Pray the Honorable Mr. Gerry to forward the Tent Cloth he mentions in his letter. I have not been able to make one Tent for this Colony.</p>
+     </div>
+    </div>
+    <div class="docbody">
+     <div class="dateline">
+      [<ins title="editorial addition or explanation" class="ed">19 May</ins>]<a class="ptr" href="#PJA04d095n6" id="PJA04d095n6-ptr">6</a>
+     </div>
+     <p>Since writing the Above 3 of our small Cruizers brought into the gut at point Shirley a Ship 34 days from Ireland.<a class="ptr" href="#PJA04d095n7" id="PJA04d095n7-ptr">7</a> I had an oppertunity to cast my eye on the Inventory and she has on board 1500 Barrils of <span class="pb" title="page number in print edition" id="ADMS-06-04-02-pb-0189">[189<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0189.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>powder and 1000 Stand of Arms. The rest of the Cargo Consists of intrenching Tools &amp;c. in Such Abundance as tho they intended to Cut Cannals thro America, and Station their Navy up in the Wilderness. As the prize Could not get up to Town this Tide all the Boats in Boston, Charlestown and Dorchester, were sent on board her to bring up the powder and arms, and part of the powder is Already in the Magazine in Boston.</p>
+     <p>The Men of War in Nantaskett could not get out to her Assistance the wind being Easterly.</p>
+     <p>The hand of Providence is Conspicuous.</p>
+    </div>
+    <div class="docbody">
+     <div class="dateline"><span class="hi-italic" style="font-style: italic;">Boston</span>. The 20th.</div>
+     <p>I must now mention something that will in Some measure Allay the Joy of taking the Above Ship yesterday. In the afternoone Captain Mugford the Captain of the privatiter who tooke her;<a class="ptr" href="#PJA04d095n8" id="PJA04d095n8-ptr">8</a> went down with his Vessell to point Shirley in Company with the privateer Lady Washington; and there Anchord; About 10O Clock in the evening they Were Attacked by 13 Boats from the men of war in Nantaskett. They made a Gallant defence. Sunk 3 Boats and killed Numbers, bothe the privateers are safe but here fell the brave Mugford. This account we have by the Leiutent who is come up by land.</p>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA04d095sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA04d095n1-ptr" id="PJA04d095n1">1</a>
+      
+   <p>Not found.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n2-ptr" id="PJA04d095n2">2</a>
+      
+   <p>Not found.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n3-ptr" id="PJA04d095n3">3</a>
+      
+   <p>Zebediah Abbot of Andover was one of a committee to receive and pay for saltpeter and took up his station near the powder mill of Samuel Phillips Jr. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the House of Representatives of Massachusetts&lt;/i&gt; [[1715-]], Boston, reprinted by the Massachusetts Historical Society, 1919-. (For the years for which reprints are not yet available, the original printings are cited, by year and session.) ]">Mass., <span class="hi-italic" style="font-style: italic;">House Jour.</span></span>, 17751776, 4th sess., p. 264, 276; <span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 20 May).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n4-ptr" id="PJA04d095n4">4</a>
+      
+   <p>On <a href="default.xqy?keys=ADMS-print-06-08-03-0001-0028" class="document">6 June</a>, Devens reported to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> that Andover had taken in more than 8,000 pounds. He also reported figures for Watertown, Stoughton, Newburyport, and the eastern ports of the province, for a grand total of 102,635 pounds, which included the earlier figures (<span class="ref-terms">Adams Papers</span>, not printed).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n5-ptr" id="PJA04d095n5">5</a>
+      
+   <p>Member of the House of Representatives and commissary-general for Massachusetts forces (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ L. Kinvin Wroth, George H. Nash III, and Joel Meyerson, eds., &lt;i&gt;Province in Rebellion&lt;/i&gt;, Cambridge, 1975. ]">Wroth and others, eds., <span class="hi-italic" style="font-style: italic;">Province in Rebellion</span></span>, p. 28472848).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n6-ptr" id="PJA04d095n6">6</a>
+      
+   <p>The seizure was made on Friday, 17 May (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 20 May), but Devens wrote two days later, as is apparent from his postcript dated the 20th.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n7-ptr" id="PJA04d095n7">7</a>
+      
+   <p>The <span class="hi-italic" style="font-style: italic;">Hope</span>, captained by Alexander Lumsdale (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark, William James Morgan (from vol. 5), and others, eds., &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;, Washington, 1964- ]"><span class="hi-italic" style="font-style: italic;">Naval Docs. Amer. Rev.</span></span>, 5:133).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d095n8-ptr" id="PJA04d095n8">8</a>
+      
+   <p>James Mugford, commander of the schooner <span class="hi-italic" style="font-style: italic;">Franklin</span> (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark, William James Morgan (from vol. 5), and others, eds., &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;, Washington, 1964- ]">same</span>).</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-04-02-0080 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 4, FebruaryAugust 1776
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0079" title="To James Warren, 15 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-04-02-0081" title="From Henry Knox, 16 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

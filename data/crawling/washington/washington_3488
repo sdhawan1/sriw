@@ -1,0 +1,168 @@
+I. Notes for Letter, 10 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>I. Notes for Letter, 10 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0047-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-10-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02-0047&amp;mode=TOC" title="To John Hancock"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0047-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0047-0003" title="II. Letter Sent, 1011 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-03-01-02-0047&amp;mode=TOC">To John Hancock</a>&gt; I. Notes for Letter, 10 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0047-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0047-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0047-0003" title="II. Letter Sent, 1011 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0084">84</span><div id="Rev01d45" class="doc">
+
+<h2>I. Notes for Letter</h2>
+
+<div class="docbody">
+<p>The time of my arrival.</p>
+<p>The Situation of the TroopsWorks&amp; things in genlEnemy on Bunkers Hill.</p>
+<p>The almost impossibility of giving up the present Incampment in the Face of the Enemy, &amp; after so much work has been bestowd notwithstanding our Situation from the devidedness of it, &amp; length of our lines &amp;ca is by no means desirable.</p>
+<p>The exceeding difficulty of getting returns of the Forces &amp;ca is the reason why I could not write soonerto this may be added the necessity of bestowing a good deal of time &amp; attention to the defence of our lines wch are within gunshot of the Enemy.</p>
+<p>Want of Tents a great disadvantage as the men are much dispersd in Quarters, &amp; unavoidably so, which is an essential reason for continuing in the Quarters at Cambridge &amp; Roxbury.</p>
+<p>Express gratitude for the readiness wch the Congress &amp; difft Committees<a class="ptr" href="#GEWN-03-01-02-0047-0002-fn-0001" id="GEWN-03-01-02-0047-0002-fn-0001-ptr">1</a> have shewn to make every thing as convenient &amp; as agreeable as possible, but point out the Inconvenence of depending upon a number of Men &amp; different channels through which these supplies are to be furnishd and the necessity of appointg a Com[missar]y Genl for these purposesrecomd Mr Trumbell for this Office.</p>
+<p>The necessity also of a Quarter Master GenlComy of Musters&amp;caAlso the want of Money for these difft branches of business. The want of Laws for the Governmt of the army<a class="ptr" href="#GEWN-03-01-02-0047-0002-fn-0002" id="GEWN-03-01-02-0047-0002-fn-0002-ptr">2</a>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0085">[85]</span>
+and the want of Cloathing which I do not find is likely to be had here.</p>
+<p>Comply with Instructions in giving answr and acknowledge the rect of Mr Hancocks Letter &amp; answer it.<a class="ptr" href="#GEWN-03-01-02-0047-0002-fn-0003" id="GEWN-03-01-02-0047-0002-fn-0003-ptr">3</a></p>
+<p>A great want of Engineersand our distress on that acct as well as for the want of Powder which must be kept for small arms.</p>
+<p>The great dissatisfaction at the appointment of Genl OfficersGenl Spencer will not continue because Genl Putnam is appointed over. Genl Thomas much esteemd &amp; earnestly desired to remain, the Provincial Congress requesting that Genl Pomroy (who was when I came here, &amp; now is abst) might not have his Comn givenSpencer gone home without leave.</p>
+<p>Tents to be sent from Phila.</p>
+<p>More riffle Men.<a class="ptr" href="#GEWN-03-01-02-0047-0002-fn-0004" id="GEWN-03-01-02-0047-0002-fn-0004-ptr">4</a></p>
+<p>Engen.</p>
+<p>provision Return.<a class="ptr" href="#GEWN-03-01-02-0047-0002-fn-0005" id="GEWN-03-01-02-0047-0002-fn-0005-ptr">5</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0047-0002-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document: a document in the handwriting of the author ]">AD</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Carter Brown Library, Providence, R.I. ]">RPJCB</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0047-0002-fn-0001-ptr" id="GEWN-03-01-02-0047-0002-fn-0001">1</a>
+
+   <p>GW is referring to the Massachusetts provincial congress and the various committees appointed by that body, such as the committee of safety and the committee of supplies.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0047-0002-fn-0002-ptr" id="GEWN-03-01-02-0047-0002-fn-0002">2</a>
+	
+   <p>This matter was omitted from the letter sent to Hancock because Hancocks <a href="default.xqy?keys=GEWN-print-03-01-02-0032" class="document">letter of 5 July 1775</a>, which reached Cambridge on 10 July, informed GW of the approval of the Continental articles of war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0047-0002-fn-0003-ptr" id="GEWN-03-01-02-0047-0002-fn-0003">3</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-01-02-0010" class="document">Instructions from the Continental Congress, 22 June 1775</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0020" class="document">Hancock to GW, 28 June 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0047-0002-fn-0004-ptr" id="GEWN-03-01-02-0047-0002-fn-0004">4</a>
+
+   <p>Riflemen are not mentioned in the letter sent to Hancock.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0047-0002-fn-0005-ptr" id="GEWN-03-01-02-0047-0002-fn-0005">5</a>
+
+   <p>These two words are in Joseph Reeds writing.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0047-0002 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0047-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0047-0003" title="II. Letter Sent, 1011 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

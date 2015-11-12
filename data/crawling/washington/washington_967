@@ -1,0 +1,262 @@
+From William Peachey et al., 12 November 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From William Peachey et al., 12 November 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-04-02-0003-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1756-11-12-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-04-02-0003&amp;mode=TOC" title="From William Peachey et al. [document with enclosures]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-04-02-0003-0002" title="Enclosure: Officers of the Virginia Regiment to Adam Stephen, 6 October 1756"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-04&amp;mode=TOC">Volume 4 (9 November 175624 October 1757)</a>&gt; <a href="?keys=GEWN-print-02-04-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-04-02-0003&amp;mode=TOC">From William Peachey et al. [document with enclosures]</a>&gt; From William Peachey et al., 12 November 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-04-02-0003-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0003-0002" title="Enclosure: Officers of the Virginia Regiment to Adam Stephen, 6 October 1756"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0018">18</span><div id="Col04d4" class="doc">
+
+<h2>From William Peachey et al.</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Dated at Fort Cumberland [Md.] 12th Novr 1756</td>
+	      </tr>
+      </table>
+</div>
+<p>On the 5th or 6th of October, We met with a papr in the Virginia Gazette intitled the Centinel <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York State Library, Albany ]">N</span>: 10, wherein some person
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0019">[19]</span>
+or persons have undertaken to callumniate Us in the most vile &amp; scandalous Manner,<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0001" id="GEWN-02-04-02-0003-0001-fn-0001-ptr">1</a> on which We addressd ourselves to Lieutt Collo. Stephen (a Copy of which Address You have herewith) desiring him to apply to the Governr for Redress,<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0002" id="GEWN-02-04-02-0003-0001-fn-0002-ptr">2</a> but as his Honour has not thot propper to give it us, &amp; the Time We proposed to resign being nigh at Hand, We hope You will lay our Case before the Assembly now setting,<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0003" id="GEWN-02-04-02-0003-0001-fn-0003-ptr">3</a> being determined, if they take no more Notice of our Grievance than the Governr has, no longer to serve a Country that is guilty of the basest Ingratitude to a Sett of Men who have made it their Study to defend &amp; protect it at all Times: But as the Time prefixd by us for giving up our Commissions, seems to you too short, (thro the Regard We have for his Majesty, the best of Kings, as knowing it must be of infinite Disadvantage to his American Settlemts to leave this Quartr exposed to a rapacious &amp; merciless Enemy) We agree at yr Request to defer the Matter till We hear from You,<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0004" id="GEWN-02-04-02-0003-0001-fn-0004-ptr">4</a> whether we shall recieve Satisfaction in some Measure equivalent to the Injury done Us, (and We think that Nothing less will be sufficient than the Thanks of the Assembly in the publick prints for what We have already done &amp; are still willing to do, might we with Honr continue in a Capacity for that purpose, joind with as publick a Declaration of their Disbelief of evry Article the Centinel has alledged against Us) or, that they or the Governr are pleased to choose &amp; appoint a Sett of Gentlemen who will more fully ansr their &amp; his Expectation &amp; perform that for their Country which it seems the Governr, if not they, little hope for from a Company of dastardly Debauchees; We say, We agree to defer it, provided either of the two Things proposed be speedily done, otherwise we are as we informd Collo. Stephen determined soon to make good our Resolves, &amp; expect that They or the Governr will be answerable to Lord Loudon, or to his Majesty for the Consequences, for We think that We cannot with Justice be blamed for any Event that shall happen after our Departure, having first acquainted the Governr with our Determination &amp; now the Country in General in communicating it to its Representatives.<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0005" id="GEWN-02-04-02-0003-0001-fn-0005-ptr">5</a></p>
+<p>We are not, Sir, induced to address You thro a Concientiousness of any Neglect, for You yrself know &amp; can witness for us that We have faithfully done our Duty &amp; always with Alacrity performd (as far as was in our power) the Orders of our Superiour
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0020">[20]</span>
+Officers, but because we imagined that You were as particularly aimd at as any among Us, We having acted in Obedience to yr Commands.</p>
+<p>You know &amp; can represent better than We the Reasons why We have not with a thousd Men (which Number We have not been always fortunate enough to have) coverd the whole Frontiers of Virga &amp; made more Excursions to the Westward (tho We dont know but that quite the Reverse to what our latent Enemy mentions of our lurking in Forts, was the Matter scrutinously examined, we shoud rather be blameable for having made them so frequently as We have).</p>
+<p>You can inform them of our luxurious and dainty Living. You can in short fully answer evry Article that the Centinel has urged against Us &amp; make it appear that He or his Informers were malicious, wilfull and (as they fear to discover themselves) cowardly Lyars.</p>
+<p>We beg of You that You will push the Matter immediatly &amp; as soon as possible let Us know their Resolves, for, as indigent as some persons have hinted Us to be we are resolvd to let them see, That Men of Spirit will not bear patiently any Thing unbecoming the Character of Gentlemen. We are Sir with due Respect Yr mo: Obedt and very humble Servts<a class="ptr" href="#GEWN-02-04-02-0003-0001-fn-0006" id="GEWN-02-04-02-0003-0001-fn-0006-ptr">6</a></p>
+<table class="bodytext" id="Col04d4t1" style="margin-top: 1em; width: 100%; margin-right: 1%;">
+               <tr>
+	      <td style="white-space: nowrap; width: 33%;">Willm Peachy</td>
+	      <td style="white-space: nowrap; width: 33%;">Thos Waggener</td>
+	      <td style="white-space: nowrap; width: 33%;">Chas Smith</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Peter Steenbergen</td>
+	      <td style="white-space: nowrap;">Robt Spotswood</td>
+	      <td style="white-space: nowrap;">Natha. Milner</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Austin Brockenbrough</td>
+	      <td style="white-space: nowrap;">Robert McKensie</td>
+	      <td style="white-space: nowrap;">John McNeil</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Mordi Buckner</td>
+	      <td style="white-space: nowrap;">John Lomax</td>
+	      <td style="white-space: nowrap;">John Blagg</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Wm Daingerfield</td>
+	      <td style="white-space: nowrap;">Leond Price</td>
+	      <td style="white-space: nowrap;">John Williams</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Jas Baker</td>
+	      <td style="white-space: nowrap;">Hanck Eustace</td>
+	      <td style="white-space: nowrap;">James Roy</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Wm Bronaugh</td>
+	      <td style="white-space: nowrap;">George Weedon</td>
+	      <td style="white-space: nowrap;">Bryan Fairfax</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">H. Woodward</td>
+	      <td style="white-space: nowrap;">Walter Steward</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">C. Lewis</td>
+	      <td style="white-space: nowrap;">Jas Dunncaston</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">H. Harrison</td>
+	      <td style="white-space: nowrap;">John King</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Edwd Hubbard</td>
+	      <td style="white-space: nowrap;">Jethro Somnor</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">John Dean</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Nathl Thompson</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Griffin Pert</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">John Lawson</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Thos Cocke</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+            </table>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0021">[21]</span>
+<div class="note-source" id="GEWN-02-04-02-0003-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ The letter appears to be in the hand of William Peachey, whose signature is first. At this time Peachey was spelling his name Peachy. He was made a captain in GWs Virginia Regiment when it was formed in September 1755 and lost his company when the number of companies was reduced in May 1757.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0001-ptr" id="GEWN-02-04-02-0003-0001-fn-0001">1</a>
+
+   <p>For a discussion of the Virginia-Centinel No. X, see <a href="default.xqy?keys=GEWN-print-02-03-02-0355&amp;expandNote=GEWN-02-03-02-0355-fn-0002#GEWN-02-03-02-0355-fn-0002" class="document">John Kirkpatrick to GW, 22 Sept. 1756, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0002-ptr" id="GEWN-02-04-02-0003-0001-fn-0002">2</a>
+
+   <p>The letter of 6 Oct. 1756 to Adam Stephen is printed as an enclosure, below.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0003-ptr" id="GEWN-02-04-02-0003-0001-fn-0003">3</a>
+
+   <p>The assembly was prorogued to 9 Nov., but further prorogations delayed its meeting until April 1757.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0004-ptr" id="GEWN-02-04-02-0003-0001-fn-0004">4</a>
+
+   <p>GW had recently come to Fort Cumberland and intended to leave soon for Alexandria and Williamsburg.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0005-ptr" id="GEWN-02-04-02-0003-0001-fn-0005">5</a>
+
+   <p>A copy of a document headed To the Worshipful the Speaker &amp; Gentlemen of the House of Burgesses. The Address of the Officers of the Virginia Regiment is entered in GWs letter book at the end of 1756. The text is as follows: The act being expired which rendered your Forces subject to military discipline, has made us with some impatience wait for the time of this present Session of Assembly: For, as from experience we are become very sensible, that our vigilant and active Enemy have usually made their horrid incursions early in the Spring: But, a little time will remain to put our Regiment into such a fitness as may be capable of defending our Frontiers, and acting offensively, when supported by a renewal of the act and proper Orders to execute in our future marches: and we being now reminded that in a late Virginia Gazette, a narrative was published under the title of The Centinel, No. X. wherein the officers of our Regiment were particularly charged with many immoral practises; which Gazette is dispersed throughout his Majestys Dominions; and as the said unjust aspersions therein contained, may obtain too easy credit, not being in a like public manner gainsaid or answeredWe humbly entreat that you will kindly take into consideration, and agreeably to the hopes assured us by Colo. Washington, give us public testimony, that in your esteem we have not deserved the obloquy complained of.</p>
+
+
+   <p>We can not omit mentioning that notwithstanding our early entrance into the Service of our Country; the many attacks &amp; skirmishes had with several of the french parties and their Indians, wherein great slaughter on both sides hath been effected: and when the approaching Winter has necessitated Regular Troops to retreat into Winter quarters, the Officers and Soldiers of our Regiment, have been constantly and fully employed in building a new Fort at Winchester; and by adding new works to Fort Cumberland, thereby endeavouring to make it defensible: Likewise erecting other Fortresses, and transporting Stores &amp; provisions which have proved very laborious and fatiguing: also the Workmens wages too low and discouraging. Under this head, we further take the humble liberty to remonstrate the little or no notice taken of our Address at Home, setting forth the frequent trials of our Loyalty, courage and activity to do His Majesty good &amp; faithful service; not without presuming we might be thought of, and put on an Honorable Establishment, among the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0022">[22]</span>
+many Battalions raised and lately sent over to assist and strengthen our operations against the common Enemy. As we have on many occasions been convinced of your friendly thoughts and dispositions toward us, which we shall desire no longer than our merit may claim; So we with grateful hearts present ourselves, and refer all our interest and concerns to your Wisdom &amp; Judgment; subscribing ourselves as we truly are, Your most faithful and obedt Servants.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0003-0001-fn-0006-ptr" id="GEWN-02-04-02-0003-0001-fn-0006">6</a>
+
+   <p>A number of the names following are misspelled in a way to indicate that they are certainly not signatures. Known to have been at Fort Cumberland only two weeks before, on 30 Oct., were fifteen of these officers, thirteen of whom (all but Charles Smith and Robert McKenzie) are among the first fifteen names listed here. It is probable that the first fifteen did sign the letter at Fort Cumberland. It is also certain that most of the other officers named here were on 12 Nov. not at Fort Cumberland but were either on the South Branch or at Winchester. Some of these undoubtedly did sign the letter. GW was at the fort on 12 Nov. and presumably took the letter with him when he went to Alexandria shortly thereafter, but he may have gone to Alexandria via Winchester.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-04-02-0003-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 4 (9 November 175624 October 1757)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0003-0002" title="Enclosure: Officers of the Virginia Regiment to Adam Stephen, 6 October 1756"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

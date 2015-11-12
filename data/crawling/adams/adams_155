@@ -1,0 +1,210 @@
+none 19
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>VI. To the Boston Gazette, 8 February 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0096-0007&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1773-02-08-5">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC" title="On the Independence of the Judges: 11 January  22 February 1773"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0008" title="VII. To the  Boston Gazette , 15 February 1773"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC">On the Independence of the Judges: 11 January  22 February 1773</a>&gt; VI. To the <span class="italic">Boston Gazette</span>, 8 February 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0096-0007&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0008" title="VII. To the  Boston Gazette , 15 February 1773"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0287">287<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0287.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d151" class="doc published">
+
+     <h2>VI. To the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To the PRINTERS.</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">Monday, February 8, 1773</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>Two or three anecdotes, were omitted in my last, for want of room, which may be here inserted, in order to shew that General Brattles rule of the common law of England originated in the reign of King Charles the first. I say originated, because the example of Hubert de Burgo, is so ancient and so uncertain, that it is even doubted by Baron Gilbert, whether he was ever chief justiciary or not.</p>
+      <p>In 1641 King Charles the first, finding his affairs in a desperate condition was obliged to consent to an act of the Scottish parliament, that no member of the privy council, no officer of state, none of the judges, should be appointed, but by advice and approbation of parliament; and all the officers of state were to hold their places quam diu se bene gesserint. Four of the present judges, who had been active on the side of prerogative, were displaced.</p>
+      <p>In 1642, the parliament of England, transmitted to the King at York, nineteen propositions, in order for an accommodation of the differences then subsisting, the twelfth of which, was, that the judges should hold their places quam diu se bene gesserint. See Rapin and Mrs. Maccaulay.</p>
+      <p>This was but about two years after the King had given orders, at the instance of parliament, and his royal promise in his public speech, that the judges commissions should for the future be granted quam diu se bene gesserint. And it proves incontestibly one of these things, either that the parliament thought the Kings promise was void, as being what he had not power by law to promiseor that the grants so made would be void, at least as to the Habendum during good behaviour, or at least that the crown had its election by law to make judges at pleasure or at will, as it should see fit. Now if either of these apprehen-<span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0288">[288<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0288.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>sions were just, it could not be true that at common law, the judges had their commissions quam diu se bene gesserint, nor could it be true that by common law, the judges had estates for life in their offices, whether quam diu se bene gesserint was in their commissions or not.</p>
+      <p>I believe enough has been said, concerning these dark sayings of Powis and Levenz, let us now proceed to consider what was said by Lord Holt. And I must think the General has discovered a degree of art in managing his lordships words that is very remarkable; and I beg the readers patience while I develope in some detail this complicated mystery. In order to this I must state the case of Harcourt against Fox, for this will shew that the decision of that case, is no proof of any thing that I have ever denied, and that General Brattle has unaccountably misinterpreted Lord Holts words.</p>
+      <p>The act of Parliament made in the first year of William and Mary says, the Custos Rotulorum, or other having right to nominate a Clerk of the Peace, shall nominate and appoint a fit Person for the same, for so long Time only as such Clerk of the Peace shall demean himself well in his office.</p>
+      <p>The Earl of Clare is made Custos, according to that Statute. By his deed he constituted the Plaintiff Harcourt to be Clerk of the Peace, to have and execute that office so long as he did well behave himself in it.</p>
+      <p>After this the Earl of Clare was removed, and my lord of Bedford was made Custos, and he by his deed appointed Fox the Defendant to be Clerk of the Peace, for so long Time as he should continue Custos, if the said Fox did behave himself well in the Office. And the Question as stated by Lord Holt, was Whether or no, by the amotion of my lord of Clare from the office of Custos, Harcourt ceased to be Clerk of the Peace? for then the Law was for the Defendant, otherwise it was for the Plaintiff.</p>
+      <p>Lord Holt concurred with his Brothers, that Judgment should be for the Plaintiff, and that he was still Clerk of the PeaceAnd after explaining his Reasons, at great length, and with great Learning and Perspicuity, he hath these Words.</p>
+      <p>All that the Custos hath to do in reference to this Office of Clerk of the Peace, is to point out the Person that should have it; and as the other (i.e. the officer appointed by the <span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Chief Justice.&lt;/expan&gt; ]">C.J.</span>) is in by <span class="hi-italic" style="font-style: italic;">custom</span>, so here <span class="hi-italic" style="font-style: italic;">he is in by act of parliament</span>; the custos where [<ins title="editorial addition or explanation" class="ed">when</ins>] he hath named him, he hath executed his authority, and cannot qualify the interest, which passeth by the act.</p>
+      <p>I am the more inclined to be of this opinion, because I knew the <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0289">[289<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0289.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span><span class="hi-italic" style="font-style: italic;">temper and inclination of the parliament</span>, at the time when this act was made; <span class="hi-italic" style="font-style: italic;">their design</span> was that men should have places not to hold precariously, or determinable upon will and pleasure, but have a certain durable estate, that they might act in them without fear of loosing them; <span class="hi-italic" style="font-style: italic;">we all know it</span>, and our places as judges are so settled, only determinable upon misbehaviour.<a class="ptr" href="#PJA01d151n1" id="PJA01d151n1-ptr">1</a></p>
+      <p>Now I would ask any impartial person, to what those words We all know it refer? We all know it? Know what?<span class="hi-italic" style="font-style: italic;">That such was the temper and inclination of that parliament, and that such was</span> their design. Can it be said that these words refer to words that follow? We all know it. Know what? that our places as Judges are so settled? Some new kind of grammar, logick and common sense must be invented, and applied to this paragraph, before this construction can be adopted.</p>
+      <p>I will now repeat the words of General Brattle, It is manifest to every one that doth not depend upon their memory, that Lord Chief Justice Holt, one of the sages of the law, apprehended that <span class="hi-italic" style="font-style: italic;">for the judges commissions being during good behaviour, was upon the rule of the common law. He says</span> after a cause had been argued upon a special verdict; after Sir T. Powis and Serjeant Levenz had most positively affirmed, <span class="hi-italic" style="font-style: italic;">that this was the rule of the common law</span>, not denied by the council for the other side, but rather conceded to; that in giving his opinion upon the whole matter, <span class="hi-italic" style="font-style: italic;">we all know it</span>, says that great lawyer, and our places as judges are so settled, only determinable by misbehaviour.<a class="ptr" href="#PJA01d151n2" id="PJA01d151n2-ptr">2</a></p>
+      <p>Now I will ask the same impartial person, to what those words We all know it appear to refer, in the foregoing words of General Brattle? We all know it. Know what? <span class="hi-italic" style="font-style: italic;">That this was the rule of the common law as Powis and Levenz had most positively affirmed.</span></p>
+      <p>In Lord Holts own mouth they referred to the temper, inclination and design of parliament, in General Brattles writings they are made to refer seemingly, if not necessarily, to the sayings of Powis and Levenz, and to the rule of the common law. I hope this was the effect of haste, inadvertence, any thing rather than design in the General.</p>
+      <p>I must intreat every gentleman to look into that case of Harcourt and Fox, which is repeated in 1 Shower, at great length, and he must be convinced that taken all together, it makes against General Brattle rather than for him. It was determined, in that case as it had been long before 3. Ass. p1. 9<a class="ptr" href="#PJA01d151n3" id="PJA01d151n3-ptr">3</a> that to hold an office during good behaviour, was to hold it for life, determinable upon misbehaviour: this was never, and will never be denyd by me. But it was not determined, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0290">[290<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0290.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>that the judges offices were held so, or that the King had power to grant them soWhat was said by Lord Holt concerning the judges offices, had no direct relation to the point then in judgment before him, which concerned only the office of clerk of the peace. It was only said incidentally, and not explained. It might and probably did mean no more than it was so settled by King William, in the patents he had given the judges as far as it was in his power to settle it; and that it was the inclination and design of the parliament and the then governing interest in the nation, that it should be so settled by act of parliament as soon as it would bear. For it should be here observed, that, although the friends of K. William were most numerous and powerful, yet James had friends toomany and powerful friends, and the government was then weakthe revolution was so recent, that they all had their fears. And the most sagacious of King Williams friends might not choose to have this matter settled very suddenlythey might choose that the judges should remain, subject to a revocation of their patents, if they should fail in supporting King William, altho they chose to have their patents granted quam diu bene se gesserint, that they might have some hold of the royal word and honour, in order to obtain in due time a settlement of it by act of parliament.</p>
+      <p>Let me subjoin to this the authority of a very modern, tho a very able and upright judge, I mean Sir Michael Foster 394.<a class="ptr" href="#PJA01d151n4" id="PJA01d151n4-ptr">4</a> The King (Richard the second) and his ministers, soon after the dissolution of the parliament, entered into measures for defeating this commission. One expedient was to take the opinion of the judges upon the whole proceeding; a refuge constantly open to a corrupt administration, though, be it spoken to the honor of the profession, not always a sure one; <span class="hi-italic" style="font-style: italic;">even while the judges commissions were determinable, at the pleasure of the Crown.</span> And in page 396, We find the eighth question propounded by the King to those judges was this, Since the King can whenever he pleaseth, remove any of his judges and officers, and justify or punish them for their offences; Whether the lords and commons can without the will of the King impeach in parliament any of the said judges or officers for any other offences. To which the judges answered unanimously, That they could not, and if any one should do so, he is to be punished as a traitor. See 1 State Trials,<a class="ptr" href="#PJA01d151n5" id="PJA01d151n5-ptr">5</a> the proceedings against Chief Justice Tresillian and others.</p>
+      <p>It was said in a former paper, that the supream jurisdiction in all causes, and the power of creating and annihilating magistrates, was an important branch of the Jura Regalia Principis of the Feudal Law. These regalia were distributed into two principal divisions, the regalia <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0291">[291<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0291.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>majora and minora. The majora were those quae personam et dignitatem principis et administrationem republics concernunt, ut collatio dignitatum regalium,<a class="ptr" href="#PJA01d151n6" id="PJA01d151n6-ptr">6</a> et <span class="hi-italic" style="font-style: italic;">jurisdictio summa in causis ecclesiasticis et secularibus,</span> as well as the jus belli et pacis &amp;c. et haec alias jura magistatis dicuntur. Strykii Examen Juris Feudalis.<a class="ptr" href="#PJA01d151n7" id="PJA01d151n7-ptr">7</a></p>
+      <p>Supream sovereign jurisdiction therefore in all causes temporal and spiritual, was one of the greater royalties, or sublimest prerogatives of the feudal princes, and were inseparable from the feudal majesty: and they could not be granted away by the prince to any subject, so as to be irrevocable. And the feudal law says expressly, if an infeudation of these regalia majora should be made, majestas divisionem non recipiat, nec jura ab ea seperari possint; distinguendum est inter ipsum, jus, et exercitium hujus juris; hoc alteri concedi potest, ut eodem utatur <span class="hi-italic" style="font-style: italic;">dependenter; illud veropenes principem remanet.</span></p>
+     </div>
+     <div class="docbody">
+      <p>Stryk. 173.</p>
+      <p>That this was one of the regalia majora. see, the Consuetudiners Feudorum, Tit. 56. Quae sint RegaliaePotestas constituendorum magistratuum ad justitiam expediendam.</p>
+      <p>It was this old feudal idea, that such prerogatives were inseparable from majesty, and so incident and essential to the kingly office that not even an act of parliament could divest it of them; which puzzled the heads of the two Jamess and the two Charless, and cost them and the nations they governed, very dear. It was this which was intended by Sir Edward Herbert and his brothers, who determined for Sir Edward Hales case mentioned in a former paper,<a class="ptr" href="#PJA01d151n8" id="PJA01d151n8-ptr">8</a> and gave their opinions and made it a general rule in law that the dispensing power, was an incident inseperable prerogative of the Kings of England, as of all other sovereign princes; and that this was not a trust invested in and granted to the King, but the <span class="hi-italic" style="font-style: italic;">ancient remains</span> of the <span class="hi-italic" style="font-style: italic;">sovereign power</span> of the Kings of England, which was never yet taken from them <span class="hi-italic" style="font-style: italic;">nor can be.</span></p>
+      <p>The way is now prepared for the most important question of all.</p>
+      <p>General Brattle declares his opinion in very strong terms, that the Governor and Council cannot legally or constitutionally remove a justice of the superior court, as the commissions now are, unless there is a fair hearing and trial, and then a judgment that he hath behaved ill.</p>
+      <p>This, I am content to make a question, after premising, that we ought in such enquiries, always to obtain precise ideas, and to give exact definitions of the terms we use, in order to arrive at truth. The <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0292">[292<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0292.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>question then appears to me to be different from what it would be, if we were to ask whether a justice of that court can be <span class="hi-italic" style="font-style: italic;">constitutionally</span> removed without a trial and judgment? Many people receive different ideas from the words <span class="hi-italic" style="font-style: italic;">legally</span> and constitutionally. The law has certainly established in the crown many prerogatives, by the bare exertion of which, in their utmost extent, the nation might be undone. The prerogatives of war and peace, and of pardon, for examples, among many others. Yet it would be absurd to say that the crown can constitutionally ruin the nation, and overturn the constitution. The British constitution is a fine, a nice, a delicate machine, and the perfection of it depends upon such complicated movements, that it is as easily disordered as the human body. And in order to act constitutionally every one must do his duty. If the King should suffer no parliament to sit for 12 years, by reason of continual prorogations, this would be an unconstitutional exercise of prerogative. If the commons should grant no supplies for 12 years, this would be an unconstitutional exertion of their privilege. Yet the King has power legally to do one, and the commons to do the other. I therefore shall not contend with General Brattle, what the Governor and Council can constitutionally do, about removing justices, nor what they can do in honor, integrity, conscience, or Christianity. These things I shall leave to the internal sentiments of future Governors and Councils: And shall confine myself to the question, whether they can legally remove a judge.</p>
+      <p>And it is with great reluctance that I frankly say, I have not been able hitherto, to find sufficient reason to convince me, that the Governor and Council have not, as the law now stands, power to remove a judge as the commissions now are, without a trial and judgment, for ill behaviour.</p>
+      <p>I believe it to be true that the judges, in all King Williams reign, had their commissions quam diu se bene gesserint: Our Charter, and our Province Law erecting the Superior Court, were made in that reign. In the charter the King grants power to the Governor with advice and consent of Council to nominate judges, &amp;c. and to the General Court to erect Judicatories, &amp;c. and that all and every of the subjects of us, our heirs and successors, which shall go to and inhabit within our said province and territory, and every of their children which shall happen to be born there, or on the seas in going thither, or returning from thence, shall have and enjoy, all liberties and immunities of free and natural subjects within any of the dominions of us, our heirs and successors, to all intents, constructions and purposes <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0293">[293<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0293.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>whatsoever, as if they and every of them were born within this our realm of England.<a class="ptr" href="#PJA01d151n9" id="PJA01d151n9-ptr">9</a></p>
+      <p>Now admitting for arguments sake, that the judges in England in that reign held their offices legally for life, determinable upon mis-behaviour, and that it was by law in that reign a liberty, of free and natural subjects born within the realms, that the judges should hold such an estate in their offices, what will be the consequence? Will it not be, that the Governor and Council, have power by charter and by law, to grant their commissions quam diu se bene gesserint? And that if the Governor and Council should grant their commissions in that manner, the judges would have estates for life in their offices. But will it follow, that they have such estates, if the Governor and Council do not grant them in that manner? Here then, if these principles are all just, let the just consequence be drawn; let the Governor and Council, I speak with humble defference and submission, issue the commissions to the judges, quam diu se bene gesserint; and if that is declined, let the province, I speak with all possible respect again, make their humble supplications to his Majesty that his Governor may be permitted, or instructed if you will, to grant them in that manner. I fear there is too much reason to think, as no judicature can be created but by the legislature, and the jurisdiction must appear in the erection, and as no judge at common law, or by the law of the province, can hold an office but by commission, that the duration of the judges office or estate must appear in the commission itself.</p>
+      <p>However, all this reasoning in favour of an estate for life in our judges, is built upon this principle, that Lord Holt and the judges in England, under King William, had estates for life, by law in their offices. And this principle implies, that the Crown at common law had authority to make judges to hold for life, or at will, at its pleasure, which is a problematical doctrine at least. Some of the passages of law and history which I have quoted in former papers, seem to be evidence, that at sometimes the houses of parliament, and some of the ministers of the law had such an apprehension, but a multitude of others, produced in the same papers betray an apprehension of the contrary. But I dont recollect a single circumstance in law or history, that favours the opinion that a judge there had an estate for life, without the words quam diu se bene gesserit, in his commission.</p>
+      <p>General Brattle took the right way of establishing the independency of our judges, by affirming that they had estates for life, by their nomination and appointment, and by common law, whether their commissions expressed quam diu se bene gesserint or not, or whether they <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0294">[294<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0294.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>had any commissions at all or not. And if he could have proved these allegations, he would have got his cause. But he has been extreamly unfortunate, in having Bracton, Fortescue, Coke, Foster, Hume, Rapin and Rushworth, directly against him, and nothing in his favour, but the say of a lawyer in arguing a cause for his client, and that say by no means so extensive as the Generals assertionsfor Powis himself dont say the judges at common law were in for their lives, without the clause quam diu se bene gesserint in their commissions. The questions that have been considered are liberal and of much importance. I have done little more than labour in the mines of oar and the quarries of stones. The materials are at the service of the public; and I leave them to the Jeweller and Lapidary, to refine, fabricate and polish them.</p>
+      <div class="closer">
+       <p class="signed">JOHN ADAMS</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d151n1-ptr" id="PJA01d151n1">1</a>
+       
+   <p>Holts opinion is given in Shower, <span class="hi-italic" style="font-style: italic;">Reports</span>, 1:527536, the passage concerning the temper and inclination of the Parliament being on p. 535.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n2-ptr" id="PJA01d151n2">2</a>
+       
+   <p>See No. III, <a href="default.xqy?keys=ADMS-print-06-01-02-0096-0004&amp;expandNote=PJA01d148n7#PJA01d148n7" class="document">note 7</a>, above.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n3-ptr" id="PJA01d151n3">3</a>
+       
+   <p><span class="hi-italic" style="font-style: italic;">Book of Assizes</span>, third year of Edward III, Plea 9.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n4-ptr" id="PJA01d151n4">4</a>
+       
+   <p>Sir Michael Foster, A <span class="hi-italic" style="font-style: italic;">Report of Some Proceedings on the Commission of Oyer and Terminer and Goal Delivery for the Trial of the Rebels in the Year 1746 in the County of Surry . . . </span>, Oxford, 1762. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n5-ptr" id="PJA01d151n5">5</a>
+       
+   <p>A <span class="hi-italic" style="font-style: italic;">New Abridgement and Critical Review of the State Trials . . . </span> The case cited begins on p. i; the relevant passage is on p. 4.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n6-ptr" id="PJA01d151n6">6</a>
+       
+   <p>Here <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> omitted the phrase: <span class="hi-italic" style="font-style: italic;"> Fundatio Academiarum, potestas ferendi Leges, Cura Religionis Jurisdictio summa.</span></p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n7-ptr" id="PJA01d151n7">7</a>
+       
+   <p>Which of the many editions of Samuel Stryks <span class="hi-italic" style="font-style: italic;">Examen Juris Feudalis</span> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> consulted is not known. This quotation is taken from ch. 9.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n8-ptr" id="PJA01d151n8">8</a>
+       
+   <p>See <a href="default.xqy?keys=ADMS-print-06-01-02-0096-0003" class="document">No. II</a>, above.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d151n9-ptr" id="PJA01d151n9">9</a>
+       
+   <p>See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis N. Thorpe, ed., &lt;i&gt;The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories and Colonies&lt;/i&gt; Now &lt;i&gt;or Heretofore Forming the United States of America&lt;/i&gt;, Washington, 1909; 7 vols. ]">Thorpe, <span class="hi-italic" style="font-style: italic;">Federal and State Constitutions</span></span>, 3:1857.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0096-0007 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0006" title="V. To the  Boston Gazette , 1 February 1773"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0008" title="VII. To the  Boston Gazette , 15 February 1773"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.251.86</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

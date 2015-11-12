@@ -1,0 +1,216 @@
+none 7
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>VIII. U to the Boston Gazette, 5 September 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0009&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1763-09-05-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0010" title="IX. Humphrey Ploughjogger to the  Boston Evening-Post , 5 September 1763"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; VIII. U to the <span class="italic">Boston Gazette</span>, 5 September 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0009&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0010" title="IX. Humphrey Ploughjogger to the  Boston Evening-Post , 5 September 1763"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0084">84<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0084.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d055" class="doc letter">
+
+     <h2>VIII. U to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <h3><span class="hi-small-caps" style="font-variant: small-caps;">To the PRINTERS</span>.</h3>
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">5 September 1763</ins>]
+       </td>
+	      </tr>
+      </table>
+       <div class="epigraph">
+        <div class="linegroup">
+         <p class="line">
+          <span class="hi-italic" style="font-style: italic;">Impiger, iracundus, inexorabilis, acer</span>
+         </p>
+         <p class="line">
+          <span class="hi-italic" style="font-style: italic;">Jura neget sibi nata; nihil non arrogat Armis.</span>
+         </p>
+        </div>
+         <div class="warning"><span class="rotunda_alert" title="Unknown element" xmlns:tei="http://www.tei-c.org/ns/1.0">&lt;tei:author&gt;</span><span class="hi-small-caps" style="font-variant: small-caps;">Hor</span>.<span class="rotunda_alert" xmlns:tei="http://www.tei-c.org/ns/1.0">&lt;/tei:author&gt;</span><a class="ptr" href="#PJA01d055n1" id="PJA01d055n1-ptr">1</a></div>
+       </div>
+       <div class="epigraph">
+        <div class="linegroup">
+         <p class="line">
+          <span class="hi-italic" style="font-style: italic;">Rebuke the Spearmen, and the Troops</span>
+         </p>
+         <p class="line">
+          <span class="hi-italic" style="font-style: italic;">Of Bulls that mighty be.</span>
+         </p>
+        </div>
+         <div class="warning"><span class="rotunda_alert" title="Unknown element" xmlns:tei="http://www.tei-c.org/ns/1.0">&lt;tei:author&gt;</span><span class="hi-small-caps" style="font-variant: small-caps;">Novang</span>.<span class="rotunda_alert" xmlns:tei="http://www.tei-c.org/ns/1.0">&lt;/tei:author&gt;</span><a class="ptr" href="#PJA01d055n2" id="PJA01d055n2-ptr">2</a></div>
+       </div>
+      </div>
+      <p>It seems to be necessary for me, (notwithstanding the declaration in my last)<a class="ptr" href="#PJA01d055n3" id="PJA01d055n3-ptr">3</a> once more to digress from the road of <span class="hi-italic" style="font-style: italic;">Agriculture</span> and <span class="hi-italic" style="font-style: italic;">Mechanic</span> Arts; and to enter the list of disputation with a <span class="hi-italic" style="font-style: italic;">Brace</span> of writers in the Evening Post, one of whom has subscribed himself, <span class="hi-italic" style="font-style: italic;">X</span>, and the other, <span class="hi-italic" style="font-style: italic;">W.</span><a class="ptr" href="#PJA01d055n4" id="PJA01d055n4-ptr">4</a>I shall agree with the first of these Gentlemen, that to preach up <span class="hi-italic" style="font-style: italic;">non resistance</span>, with the zeal of a <span class="hi-italic" style="font-style: italic;">Fanatick</span>, would be as extraordinary as to employ a <span class="hi-italic" style="font-style: italic;">Bastile</span> in support of the <span class="hi-italic" style="font-style: italic;">freedom</span> of speech or the Press; or an <span class="hi-italic" style="font-style: italic;">inquisition</span>, in favour of <span class="hi-italic" style="font-style: italic;">Liberty</span> of conscience: But if he will leave his own <span class="hi-italic" style="font-style: italic;">imagination</span>, and recur to what I have written he will not find a syllable against resistanceResistance to sudden violence, for the preservation not only of my person, my limbs and life, but of my property, is an indisputable right of <span class="hi-italic" style="font-style: italic;">nature</span>, which I never surrendered to the public by the <span class="hi-italic" style="font-style: italic;">compact</span> of society; and which, perhaps, <span class="hi-italic" style="font-style: italic;">I could not</span> surrender if I would. Nor is there any thing in the common law of <span class="hi-italic" style="font-style: italic;">England</span> (for which Mr. X supposes I have so great a fondness) inconsistent with that rightOn the contrary, the dogmas of <span class="hi-italic" style="font-style: italic;">Plato</span>, the maxims of the <span class="hi-italic" style="font-style: italic;">Law</span>, and the precepts of <span class="hi-italic" style="font-style: italic;">Christianity</span>, are precisely coincident, in relation to this subject.</p>
+      <p><span class="hi-italic" style="font-style: italic;">Plato</span> taught that revenge was <span class="hi-italic" style="font-style: italic;">unlawful</span>, altho he allowed of self-defence. The divine Author of our religion has taught us, that trivial provocations are to be over lookd; and that if a man should offer you an insult by boxing one Ear rather than indulge a furious passion, and return blow for blow, you ought even to turn the other also. This expression however, tho it inculcates strongly the duty of moderation and <span class="hi-italic" style="font-style: italic;">self-government</span> upon sudden provocations, imports nothing against the right of resistance or of <span class="hi-italic" style="font-style: italic;">self-defence.</span> The sense of it seems <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0085">[85<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0085.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>to be no more than this: that little injuries and insults ought to be born patiently <span class="hi-italic" style="font-style: italic;">for the present</span> rather than run the risque of violent consequences by retaliation.</p>
+      <p>Now the common law seems to me, to be founded on the same great principle of <span class="hi-italic" style="font-style: italic;">philosophy</span> and <span class="hi-italic" style="font-style: italic;">religion</span>.It will allow of nothing as a justification of blows, but blowsNor will it justify a furious beating, bruising and wounding, upon the provocation of a fillip of the finger, or a kick upon the shins: But if I am assaulted, I can justify nothing but laying my hands <span class="hi-italic" style="font-style: italic;">lightly</span> upon the aggressor for my own <span class="hi-italic" style="font-style: italic;">defence</span>; nothing but what was <span class="hi-italic" style="font-style: italic;">absolutely necessary</span> for my preservation. I may parry, or ward off, any blow: But a blow received is no sufficient provocation for fifty times so severe a blow, in return.When life, which is one of the three favourites of the law, comes into consideration we find a wise and humane provision is made for its preservation. If I am assaulted by another, sword in hand, and if I am even <span class="hi-italic" style="font-style: italic;">certain</span> of his intention to <span class="hi-italic" style="font-style: italic;">murder</span> me, the common law will not suffer me to defend myself by killing him, if I can avoid itNay, my behaviour must absolutely be what would be called <span class="hi-italic" style="font-style: italic;">cowardice</span>, perhaps, by Messirs X and W, tho it would be thought the truest <span class="hi-italic" style="font-style: italic;">bravery</span>, not only by the greatest philosophers and legislators, but by the best <span class="hi-italic" style="font-style: italic;">generals</span> of the world: I must <span class="hi-italic" style="font-style: italic;">run away</span> from such an assailant, and <span class="hi-italic" style="font-style: italic;">avoid</span> him, if I have room, rather than stand my ground and defend myself: But if I have no room to escape, or if I run and am pursued to the wall or into a corner, where I cannot elude his fury, and have <span class="hi-italic" style="font-style: italic;">no other</span> way to preserve my own Life from his violence but by taking his, there, I have an indisputable right to do it, and should be justified in warding thro the blood of an whole army, if I had power to shed it and had <span class="hi-italic" style="font-style: italic;">no other</span> way to make my escape.</p>
+      <p>What is said by Mr. W, that if a gentleman should be hurried by his Passions, so far as to take the life of another, the common law<a class="ptr" href="#PJA01d055n5" id="PJA01d055n5-ptr">5</a> will not adjudge it murder or manslaughter, but justifiable homicide only, by which he must mean, if in truth he had any meaning at all, that killing upon a sudden Provocation, is justifiable homicide, is a Position in comparison of which the observations of the grave-digger upon the death of the young lady in <span class="hi-italic" style="font-style: italic;">Shakespears Hamlet</span> ought to be ranked among the <span class="hi-italic" style="font-style: italic;">responsa prudentum.</span></p>
+      <p>Every chatechumen in law, nay every common man, and even every porter upon the dock, that ever attended a trial for murder, knows, that a sudden provocation, raising a violent passion, where there is no <span class="hi-italic" style="font-style: italic;">precedent</span> malice, is in consideration of human frailty, allowed to <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0086">[86<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0086.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>soften killing, from murder down to manslaughter; but <span class="hi-italic" style="font-style: italic;">manslaughter</span> is an <span class="hi-italic" style="font-style: italic;">heinous crime</span>, and subjected to <span class="hi-italic" style="font-style: italic;">heavy Punishments.</span></p>
+      <p>Such is the wisdom and humanity of <span class="hi-italic" style="font-style: italic;">English</span> law; upon so thorough a knowledge of human nature is it founded; and so well is it calculated to preserve the lives and limbs of men, and the interior tranquility of societies!I shall not dispute with Mr. X. my affection for <span class="hi-italic" style="font-style: italic;">this</span> law, in preference to all other systems of law, that have ever yet appeared in the world.I have no <span class="hi-italic" style="font-style: italic;">connection</span> with parishioners, nor patients, nor clients, nor any <span class="hi-italic" style="font-style: italic;">dependance</span> upon either for business or bread; I study law as I do divinity and physick; and all of them as I do <span class="hi-italic" style="font-style: italic;">husbandry</span> and <span class="hi-italic" style="font-style: italic;">mechanic</span> arts, or the motions and revolutions of the heavenly bodies; or as I do magistracy and legislation, viz. as means and instruments of <span class="hi-italic" style="font-style: italic;">human happiness.</span> It has been my amusement for many years past, as far as I have had leisure, to examine the systems of all the legislators, ancient and modern, fantastical and real, and to trace their effects in history upon the <span class="hi-italic" style="font-style: italic;">felicity</span> of mankind: And the result of this long examination is a settled opinion that the liberty, the unalienable, indefeasable rights of men, the honor and dignity of human nature, the grandeur and glory of the public, and the universal happiness of individuals, was never so skilfully and successfully consulted, as in that most excellent monument of human art, the <span class="hi-italic" style="font-style: italic;">common law</span> of <span class="hi-italic" style="font-style: italic;">England.</span> A law that maintains a great superiority, not only to every other system of laws, martial, or cannon, or civil, but to all officers, and magistrates civil and military, even to majesty itselfIt has a <span class="hi-italic" style="font-style: italic;">never sleeping</span> jealousy of the <span class="hi-italic" style="font-style: italic;">cannon</span> law, which in many countries, <span class="hi-italic" style="font-style: italic;">Spain</span> in particular, has subjected all officers and orders, civil and military, to the avarice and ambition, the caprice and cruelty of a <span class="hi-italic" style="font-style: italic;">Clergy</span>And it is not less watchful over the <span class="hi-italic" style="font-style: italic;">martial</span> law which in many cases, and in many countries, <span class="hi-italic" style="font-style: italic;">France</span> in particular, is able to <span class="hi-italic" style="font-style: italic;">rescue</span> men from the justice of the <span class="hi-italic" style="font-style: italic;">municipal laws</span> of the kingdom.And I will own that to revive in the minds of my countrymen a reverence for <span class="hi-italic" style="font-style: italic;">this</span> law, and to prevent the growth of sentiments that seemed to me to be in their tendency destructive of it, especially to revive a jealousy of <span class="hi-italic" style="font-style: italic;">martial</span> laws and <span class="hi-italic" style="font-style: italic;">cavelier like</span> tempers, was the <span class="hi-italic" style="font-style: italic;">turn</span> which I designed to serve for myself and my friends, in that Piece which has given offence to X and W.</p>
+      <p>A certain set of sentiments have been lately so fashionable, that you could go into few companies without hearing such smart sayings as these: If a man should insult <span class="hi-italic" style="font-style: italic;">me</span>, by kicking my shins, and I had a sword by my side, I would make the sun shine thro him.If any man, let him be as big as Goliah, shoud take me by the nose, I would <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0087">[87<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0087.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>let his bowels out with my sword, if I had one; and if I had none, I would beat his brains out with the first club I could find.And such tempers have been <span class="hi-italic" style="font-style: italic;">animated</span> by some <span class="hi-italic" style="font-style: italic;">inadvertent</span> expressions that have fallen from persons of <span class="hi-italic" style="font-style: italic;">higher rank</span> and better sentiments, some of these have been heard to say, that should a man offer a sudden insult to them, they could not answer for themselves, but they should lay him prostrate at their feet in his own blood.Such expressions as these, which are to be supposed but modest expressions of the Speakers diffidence of his own presence of mind and government of his passions, when suddenly assaulted, have been taken for a <span class="hi-italic" style="font-style: italic;">justification</span> of such returns to an insult, and a <span class="hi-italic" style="font-style: italic;">determination</span> to practice them, upon occasion. But such persons as are watching the <span class="hi-italic" style="font-style: italic;">lips</span> of others for <span class="hi-italic" style="font-style: italic;">wise</span> speeches, in order to utter them afterwards as <span class="hi-italic" style="font-style: italic;">their own</span> sentiments, have generally as little of understanding, as they have of spirit, and most miserably spoil, in reporting, a good reflection.Now what I have written upon this subject was intended to shew the <span class="hi-italic" style="font-style: italic;">inhumanity</span> of taking away the life of a man, only for pulling my nose, or boxing my ear; and the <span class="hi-italic" style="font-style: italic;">folly</span> of it too, because I should be guilty of an <span class="hi-italic" style="font-style: italic;">high crime</span>, that of <span class="hi-italic" style="font-style: italic;">manslaughter</span> at least, and forfeit all my goods, besides receiving a brand of <span class="hi-italic" style="font-style: italic;">infamy.</span></p>
+      <p>But I have not yet finished my history of <span class="hi-italic" style="font-style: italic;">sentiments.</span> It has been said by others, that no man ought to receive a blow, without returning it.A man ought to be despised that receives a cuff, without giving another in return.This I have heard declared for a sober opinion by some men of <span class="hi-italic" style="font-style: italic;">figure</span>, and <span class="hi-italic" style="font-style: italic;">office</span>, and <span class="hi-italic" style="font-style: italic;">importance.</span>But I beg leave to repeat it; this is the tenet of a coxcomb, and the sentiment of a brute; and the horse, the bull and the cock, that I mentioned before, daily discover <span class="hi-italic" style="font-style: italic;">precisely</span> the same temper and the same sense of <span class="hi-italic" style="font-style: italic;">honor</span> and <span class="hi-italic" style="font-style: italic;">decency</span>.If in walking the streets of this town, I should be met by a <span class="hi-italic" style="font-style: italic;">negro</span>, and that negro should lay me over the head, with his cudgell should I think myself bound in <span class="hi-italic" style="font-style: italic;">honor</span>, or regard to reputation, to return the blow with another cudgell? to put myself on a level with that <span class="hi-italic" style="font-style: italic;">negro</span>, and join with him in a competition <span class="hi-italic" style="font-style: italic;">which</span> was most expert and skilful at cudgells?If a mad dog shoud meet me and bite me, should I think my self bound in <span class="hi-italic" style="font-style: italic;">honor</span> (I mean before the poison had worked upon me enough to make me as mad as the dog himself) to fall down upon that dog and bite him again?It is not possible for me to express that depth of contempt that I feel for such sentiments, and for every mortal that entertains them. And I should chuse to be the butt, the jest, and contempt of all companies that entertain such opinions, rather than to be in their admiration or esteem.I would take some <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0088">[88<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0088.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>other way to preserve myself and other men from such insolence and violence for the future; but I would never place myself upon a level with such an animal for the present.</p>
+      <p>Far from aiming at a reputation for such qualities and <span class="hi-italic" style="font-style: italic;">accomplishments</span> as those of boxing or cuffing, a man of sense would hold even the true <span class="hi-italic" style="font-style: italic;">martial</span> qualities, courage, strength and skill in war, in a much <span class="hi-italic" style="font-style: italic;">lower</span> estimation than the attributes of wisdom and virtue, skill in arts and sciences, and a true taste to what is right, what is fit, what is true, generous, manly, and noble in <span class="hi-italic" style="font-style: italic;">civil</span> life. The competition between <span class="hi-italic" style="font-style: italic;">Ajax</span> and <span class="hi-italic" style="font-style: italic;">Ulysses</span> is well known: <div class="quote">
+        <div class="linegroup">
+         <p class="line">
+          <span class="hi-italic" style="font-style: italic;">Tu vires sine mente geris, mihi cura futuri.</span>
+         </p>
+         <p class="line"><span class="hi-italic" style="font-style: italic;">Tu</span> pugnare <span class="hi-italic" style="font-style: italic;">potes</span>:</p>
+         <p class="line" style="padding-left: 1em;"><span class="hi-italic" style="font-style: italic;">Tu tantum</span> corpore <span class="hi-italic" style="font-style: italic;">prodes</span>;</p>
+         <p class="line"><span class="hi-italic" style="font-style: italic;">Nos</span> animo.</p>
+         <p class="line">Pectora <span class="hi-italic" style="font-style: italic;">sunt potiora</span> manu. <span class="hi-italic" style="font-style: italic;">Vigor omnis in illis.<a class="ptr" href="#PJA01d055n6" id="PJA01d055n6-ptr">6</a></span></p>
+         <p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Ovid Met</span>.</p>
+        </div>
+       </div> and we know in whose favour the prize was deemd.</p>
+      <p>I shall not be at the pains of remarking upon all the <span class="hi-italic" style="font-style: italic;">Rhodomontade</span>, in the two pieces under consideration, and Mr. X and Mr. W. and the whole <span class="hi-italic" style="font-style: italic;">Alphabet</span> of Writers may scribble as many volumes as the twenty-four letters are capable of variations, without the least further notice from me unless more reasoning and merit appears, in proportion to the quantity of lines, than is to be found in those two pieces.But since I have made some remarks upon them it will perhaps, before I conclude be worth my while to mention one thing more in each.Mr. X tells us that cases frequently occur where a mans person or reputation suffer to the greatest degree, and yet tis impossible for the Law to make him any satisfaction.</p>
+      <p>This is not strictly true, such cases but seldom occur; tho it must be confessed, they sometimes do.But it seldom happens very seldom indeed, where you know the man who has done you the injury, that you can get no satisfaction by lawAnd if such a case should happen nothing can be clearer than that you ought to sit down and bear it.And for this plain reason, because it is necessary, and you cannot get satisfaction in any way.The law by the supposition cannot redress youAnd you cannot, if you consider it by any means redress yourselfA <span class="hi-italic" style="font-style: italic;">flagilation</span> in the <span class="hi-italic" style="font-style: italic;">dark</span> would be no <span class="hi-italic" style="font-style: italic;">reparation</span> of the injury, no <span class="hi-italic" style="font-style: italic;">example</span> to others, nor have any tendency to <span class="hi-italic" style="font-style: italic;">reform</span> the subject of it, but rather a provocation to him to contrive some other way to injure you again; and of consequence would be no satisfaction at all to a man even of that <span class="hi-italic" style="font-style: italic;">false</span> honour and delicacy of which I have been speaking; <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0089">[89<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0089.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>unless he will avow an appetite for <span class="hi-italic" style="font-style: italic;">mere revenge</span>, which is not only worse than <span class="hi-italic" style="font-style: italic;">brutal</span>, but the attribute of <span class="hi-italic" style="font-style: italic;">Devils</span>And to take satisfaction by a <span class="hi-italic" style="font-style: italic;">flagilation</span> in <span class="hi-italic" style="font-style: italic;">public</span>, would be only, in other words, taking a severe revenge upon <span class="hi-italic" style="font-style: italic;">yourself.</span> For this would be a trespass and a violation of the peace, for which you would expose yourself to the resentment of the magistrate, and the action of the party: and would be like running your sword thro your own body, to revenge yourself on another for boxing your ears; or like the behaviour of the rattlesnake, that will snap and leap and bite at every stick that you put near him, and at last when provoked beyond all <span class="hi-italic" style="font-style: italic;">honourable</span> bearing, will fix his sharp and poisonous teeth into his own body.</p>
+      <p>I have nothing more to add, excepting one word of advice to Mr. W, and all his readers, to have a care how they believe or <span class="hi-italic" style="font-style: italic;">practice</span> his rule about passion and killing lest the halter and the gibbet should become their portion: for a killing that should happen by the hurry of passion would be much more likely to be adjudged murder, than justifiable homicide only.Let me conclude by advising all men to look into their own hearts, which they will find to be deceitful above all things and desperately wicked. Let them consider how extreamly addicted they are to magnify, and exaggerate the injuries that are offered to themselves, and to diminish and extenuate the wrongs that <span class="hi-italic" style="font-style: italic;">they</span> offer to <span class="hi-italic" style="font-style: italic;">others</span>.They ought therefore to be too modest and diffident of their own judgment, when their own passions, and prejudices, and interests are concerned, to desire to <span class="hi-italic" style="font-style: italic;">judge for themselves</span> in their own causes, and to take <span class="hi-italic" style="font-style: italic;">their own</span> satisfactions for wrongs and injuries of any kind.</p>
+      <div class="closer">
+       <p class="signed">U.</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d055sn1">
+       
+   <p>
+        <span class="docSource"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr> not found. <span class="dType">Reprinted</span> from the  (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 5 Sept. 1763).</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d055n1-ptr" id="PJA01d055n1">1</a>
+       
+   <p>Tireless, quick to anger, inexorable, fierce, / Let him deny that laws are made for him; / Let him think that everything must yield to force of arms. (Horace, <span class="hi-italic" style="font-style: italic;">Ars Poetica</span>, I. 121122.)</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d055n2-ptr" id="PJA01d055n2">2</a>
+       
+   <p>The author of these lines has not been identified.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d055n3-ptr" id="PJA01d055n3">3</a>
+       
+   <p>U letter, <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0007" class="document">29 Aug.</a>, above.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d055n4-ptr" id="PJA01d055n4">4</a>
+       
+   <p>X and W were two otherwise unidentified writers who emphatically disagreed with <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s veiled criticism of Murrays attack on Brattle (see <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0001" class="document">Editorial Note</a>, above). X sneered that U wanted to convince the world, that an injured person ought never to demand satisfaction but by a law-suita doctrine truly serviceable to lawyers, but not always so comfortable to the injured person, and pointed to the many and various salutary effects <span class="hi-italic" style="font-style: italic;">club-logick</span> has produced in the world in every period of life (<span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span>, 22 Aug.). W, on the other hand, argued that even if U were correct in saying that the law afforded a remedy for every wrong, nevertheless men of honor were not obliged to obtain satisfaction for personal insult or injury through legal channels, because there are those of a <span class="hi-italic" style="font-style: italic;">different</span> character, who know how to resent, and to <span class="hi-italic" style="font-style: italic;">punish</span> men for ill usage, without troubling a magistrate or a court of justice (<span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span>, 29 Aug.).</p>
+
+      </div>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0090">[90<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0090.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <div class="footnote"><a class="note-ref" href="#PJA01d055n5-ptr" id="PJA01d055n5">5</a>
+       
+   <p>Following the common law, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> omitted the qualifying phrase used by W: as I am informd.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d055n6-ptr" id="PJA01d055n6">6</a>
+       
+   <p>You have strength without intelligence; I have concern for the future. / You are able to fight: / You are outstanding only in body; I am outstanding in intellect. / My mind is superior to my hand. All my force is in my mind. (Ovid, <span class="hi-italic" style="font-style: italic;">Metamorphoses</span>, 13:363369, with some lines and parts of lines omitted.)</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0009 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0010" title="IX. Humphrey Ploughjogger to the  Boston Evening-Post , 5 September 1763"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

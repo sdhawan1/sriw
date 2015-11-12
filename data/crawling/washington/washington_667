@@ -1,0 +1,220 @@
+From Robert Dinwiddie, 8 May 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert Dinwiddie, 8 May 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-03-02-0099-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1756-05-08-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-03-02-0099&amp;mode=TOC" title="From Robert Dinwiddie [document with enclosures]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-03-02-0099-0002" title="Enclosure: Death Warrant, 8 May 1756"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-03&amp;mode=TOC">Volume 3 (16 April 17569 November 1756)</a>&gt; <a href="?keys=GEWN-print-02-03-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-03-02-0099&amp;mode=TOC">From Robert Dinwiddie [document with enclosures]</a>&gt; From Robert Dinwiddie, 8 May 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-03-02-0099-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0099-0002" title="Enclosure: Death Warrant, 8 May 1756"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0102">102</span><div id="Col03d99" class="doc">
+
+
+<h2>From Robert Dinwiddie</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Williamsburg May 8th 1756</td>
+	      </tr>
+      </table>
+</div>
+<p>Your Letter of the 3d I recd Yesterday, &amp; observe its Contents. I have recd the Indian Scalp &amp; I doubt not but many more were killed in that small Skermish.</p>
+<p>I am glad the Indians are gone over the Mountains,<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0001" id="GEWN-02-03-02-0099-0001-fn-0001-ptr">1</a> but I cannot think they were so numerous as represented, unless they have prevailed on the Twightwees to join with them; I am of Opinion if You coud send a Message to them by some trusty Indian, to let them know our Intentions against the French, &amp; the Number of Warriors sent by their Father the King, to exterpate the French, &amp; to protect their Lands, they woud continue steady in our Interest, for they will never forget the Insults &amp; Murders committed against them by the French in the Year 1752.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0002" id="GEWN-02-03-02-0099-0001-fn-0002-ptr">2</a></p>
+<p>We must not be too secure, for probably the Indians are gone to the Fort with their Plunder &amp; may return reinforced, or more probable are ordered to the Northwd where the greatest Push is intended against them, but we must be on our Guard.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0003" id="GEWN-02-03-02-0099-0001-fn-0003-ptr">3</a></p>
+<p>I have by this Express wrote to Fredericksburg to stop the rest of the Militia from marching to Winchester; And the Draughts from the different Counties to compleat Your Regiment, I have ordered to be marched to Fredericksburg by the Majors of each County, where I expect they will be the End of this Month; I therefore desire You to send some of the best &amp; most sedate of Your Officers to Fredericksburg by the last of this Month to receive them from the different Majors to be marchd to You.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0004" id="GEWN-02-03-02-0099-0001-fn-0004-ptr">4</a></p>
+<p>A Chain of Forts are proposed, &amp; an Association of Gentlemen<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0005" id="GEWN-02-03-02-0099-0001-fn-0005-ptr">5</a> will march from the North to the South, with Your Advice to propose the proper Places to erect these Forts.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0006" id="GEWN-02-03-02-0099-0001-fn-0006-ptr">6</a></p>
+<p>I have given Orders to be particularly careful in making the Draughts from each County, by choosing the best of their Young Men. As to the Plan of Operations, what can I concert when our neighbouring Colonies are asleep &amp; afford us no Assistance? no Great Guns or Ingineers to attack their Fort which I much desired to be on the Offensive,<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0007" id="GEWN-02-03-02-0099-0001-fn-0007-ptr">7</a> but as we are now situated we can only remain on the Defensive to protect our Frontiers, unless we shoud be assisted by Lord Loudon, for which
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0103">[103]</span>
+Purpose Colo. Ludwell goes to New York with a Representation of our present Affairs, &amp; to desire his Assistance,<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0008" id="GEWN-02-03-02-0099-0001-fn-0008-ptr">8</a> which, if agreed to, I fear will come too late for this YearSo that on the whole I must depend on Your conducting the Forces in the most eligible manner for the protection of the People on our Frontiers; by perswading the Inhabitants to return to their Plantations, &amp; directing by proper Signals their retiring to the Forts contiguous to them on any Emergency. When the Draughts arrive with You, You will then be able to dispose of Your Forces in a more regular Manner, by each Captains having the Command of his own Company, at such Places, as You, by a Council of War may order, &amp; their Pay may then be properly sent to them.</p>
+<p>I coud not prevail with the Assembly to put the Articles of War in Force, but as it is now, by their Act, You may conduct them pretty well; &amp; I think the Act provides against Cowardice or Corresponding with the Enemy; &amp; as to other Neglects, You may venture to take it upon Yourself by inflicting Corporal Punishment for quiting their Post, or Sleeping on their Post.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0009" id="GEWN-02-03-02-0099-0001-fn-0009-ptr">9</a> The Assembly was Prorogued last Friday, so Nothing more can be expected at present. I hope eer this You have Militia sufficient till the Draughts join You, having stopd any more marching to Winchester. I suppose this will be delivered You at Fort Cumberland, where I doubt not You will find Affairs in a much better Condition than were represented here.</p>
+<p>Cloths for the Men I cannot supply, as no Ships are arrived; I think the Men lately enlisted, if not Clothed, shoud have no Stopage made, if that will please them till clothed; You shoud have wrote to the Treasurer on that head as You know I do not meddle with their Money.</p>
+<p>The Commissary must be with You before this, he carried some Money with him &amp; I spoke to the Treasurer to send him moreI am sensible You must have much Fatigue, but hope soon Affairs will be more regular than it possibly coud be under the late great Surprize &amp; unexpected Invasion.</p>
+<p>I send You a Death Warrant for shooting Sergeant Lewis, which I doubt not You will order to be executed, by having as many of the Forces present as You can, that he may be a public Example to deter others from such like Offences; You are to fill up the Blank to the Day You may think most proper, declaring the Crime for which he suffers.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0010" id="GEWN-02-03-02-0099-0001-fn-0010-ptr">10</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0104">[104]</span>
+<p>I paid Jenkins to the Time You was orderd a Military Chest,<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0011" id="GEWN-02-03-02-0099-0001-fn-0011-ptr">11</a> &amp; You are to continue to pay him as its a necessary Service, &amp; I shall support You therein.</p>
+<p>Pray God protect &amp; direct You in every Thing for the Service of the King &amp; Country And I remain with Esteem &amp; Regard Sir Your most humble Servant</p>
+<div class="closer">
+<p class="signed">Robt Dinwiddie</p>
+</div>
+<div class="postscript">
+<p>Enclosd You have the Act of Assembly.<a class="ptr" href="#GEWN-02-03-02-0099-0001-fn-0012" id="GEWN-02-03-02-0099-0001-fn-0012-ptr">12</a> If more of the Militia are with You, than You have occasion for, order them back.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-03-02-0099-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0001-ptr" id="GEWN-02-03-02-0099-0001-fn-0001">1</a>
+
+   <p>The letter-book copy identifies the mountains as the Alleghenys.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0002-ptr" id="GEWN-02-03-02-0099-0001-fn-0002">2</a>
+
+   <p>French-led Indians from the region of the Michilimakinac attacked the Twightwee at Pickawillany in June 1752, killing and reportedly eating their chief.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0003-ptr" id="GEWN-02-03-02-0099-0001-fn-0003">3</a>
+
+   <p>Gen. William Shirley, who was soon to be replaced by Gen. James Abercromby until Loudouns arrival, had fixed in December 1755 as one objective in 1756 an attack on Fort Frontenac and other forts that secured the French hold on the Great Lakes and St. Lawrence River, but he was receiving very little support for such a campaign from the American colonies. In a letter to Henry Fox on 10 May 1756 Dinwiddie reported that the Indians had withdrawn, whether to reinforce &amp; retn or orderd up the Ohio to the defence of Niagara &amp; Crown Point, I know not (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0004-ptr" id="GEWN-02-03-02-0099-0001-fn-0004">4</a>
+
+   <p>Dinwiddies instructions to each county lieutenant to send his Draught of Men to Fredericksburg are dated 5 May 1756 (ibid.); his instructions of 8 May halting the militia have not been found. The act of the assembly for drafting the militia (7 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 920) stipulated that within twenty days after the passing of this act [on 1 May 1756], the county lieutenant . . . in every county, . . . except . . . Hampshire, is . . . required, to . . . hold a council of war, of the field officers and captains of the militia, . . . at which . . . the several captains of the militia . . . shall deliver in lists . . . of all the single men in their respective muster-rolls . . .; which council of war shall enter the names of all the able-bodied single men upon a list, and shall immediately appoint a certain day, within ten days after the day on which they first met . . . for the said able-bodied single men . . . to meet at the court-house. The county lieutenant and the field officers and captains of the militia were to meet at the courthouse as well in order to receive all those who would voluntarily enlist. They then were to hold a drawing to obligate a sufficient number of the single men on the list <span class="hi-italic" style="font-style: italic;">immediately to enter his majestys service</span> so that the total number of recruits would be one-twentieth of the number of militiamen in the county. A draftee would be excused from serving, however, if he found another man to take his place or if he paid a fine of 10 at once. Dinwiddie later reported that nearly all of the recruits were volunteers and that it was because a man drafted could pay 10 and not serve that there were fewer than 400 recruits rather than the 1,500 hoped for. See <a href="default.xqy?keys=GEWN-print-02-03-02-0189&amp;expandNote=GEWN-02-03-02-0189-fn-0002#GEWN-02-03-02-0189-fn-0002" class="document">Orders, 2 June 1756, n.2</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0180" class="document">Dinwiddie to GW, 27 May
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0105">[105]</span>
+1756</a>, and <a href="default.xqy?keys=GEWN-print-02-03-02-0217" class="document">GW to Dinwiddie, 25 June 1756 (first letter)</a>. The act also provided that the soldiers so drafted would be taken into the Virginia Regiment, could not be forced to serve after 1 Dec. 1756, and should not be marched out of this colony. For the passage of the defense act that included these provisions for drafting of the militia, see <a href="default.xqy?keys=GEWN-print-02-02-02-0358&amp;expandNote=GEWN-02-02-02-0358-fn-0002#GEWN-02-02-02-0358-fn-0002" class="document">Dinwiddie to GW, 15 April 1756, n.2</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0008" class="document">John Robinson to GW, 17 April 1756</a>, and <a href="default.xqy?keys=GEWN-print-02-03-02-0075&amp;expandNote=GEWN-02-03-02-0075-fn-0002#GEWN-02-03-02-0075-fn-0002" class="document">GW to Dinwiddie, 3 May 1756, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0005-ptr" id="GEWN-02-03-02-0099-0001-fn-0005">5</a>
+
+   <p>Between Gentlemen and will the letter-book copy has the following words: are determind to be at Fredericksburg by the 25th in their Way to you these Gentlemen.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0006-ptr" id="GEWN-02-03-02-0099-0001-fn-0006">6</a>
+
+   <p>The act for raising 25,000 for defense passed in the recent session of the legislature included provisions for building the forts, but apparently it was Dinwiddies own decision to have the Association under Peyton Randolph help GW choose the sites for the forts. Dinwiddies letter of 12 June suggests that the Gentlemen did not, in fact, perform this role. The legislature specified that 2,000 should be allocated for building the forts.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0007-ptr" id="GEWN-02-03-02-0099-0001-fn-0007">7</a>
+
+   <p>Dinwiddie wrote Henry Fox on 24 May 1756: We can only be on the defensive havg no Cannon fit to attack Ft DuQuesne 4 twelve P[ounde]rs that were sent here from the Bd of Ordnance I proposd keepg here for that purpose, but in compliance with Gl Shirleys repeated Orders I was obligd to send em to NYork (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). See also Dinwiddie to Shirley, 13 Mar. 1756 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ R. Alonzo Brock, ed. &lt;i&gt;The Official Records of Robert Dinwiddie, Lieutenant-Governor of the Colony of Virginia, 17511758&lt;/i&gt;. 2 vols. Richmond, 188384. ]">Brock, <span class="hi-italic" style="font-style: italic;">Dinwiddie Papers</span></span>, 2:36970), in which he said he had given orders for the cannon to be sent.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0008-ptr" id="GEWN-02-03-02-0099-0001-fn-0008">8</a>
+
+   <p>Dinwiddies letter welcoming Loudoun and describing Virginias plight is dated 24 May 1756. Philip Ludwell (17161767), who took to New York Dinwiddies letter and an address drawn up by the council for Loudoun, had been a member of the council since 1751. Dinwiddie called him a worthy, good Man . . . possesd of a large Estate here (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0009-ptr" id="GEWN-02-03-02-0099-0001-fn-0009">9</a>
+
+   <p>For GWs expression of dissatisfaction with the act of the assembly regulating military discipline, see <a href="default.xqy?keys=GEWN-print-02-03-02-0075" class="document">his letter to Dinwiddie, 3 May 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0010-ptr" id="GEWN-02-03-02-0099-0001-fn-0010">10</a>
+
+   <p>The unexecuted warrant is printed as an enclosure to this letter.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0011-ptr" id="GEWN-02-03-02-0099-0001-fn-0011">11</a>
+
+   <p>GW received authorization for his military chest, or allowance, in November 1755. See <a href="default.xqy?keys=GEWN-print-02-02-02-0166" class="document">Memorandum . . ., 811 Nov. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0099-0001-fn-0012-ptr" id="GEWN-02-03-02-0099-0001-fn-0012">12</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-03-02-0099-0001&amp;expandNote=GEWN-02-03-02-0099-0001-fn-0004#GEWN-02-03-02-0099-0001-fn-0004" class="document">note 4</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-03-02-0099-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 3 (16 April 17569 November 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0099-0002" title="Enclosure: Death Warrant, 8 May 1756"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.255.125</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

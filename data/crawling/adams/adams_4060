@@ -1,0 +1,174 @@
+From Engelbert François van Berckel [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Engelbert Franois van Berckel [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0118&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0117" title="To Edmund Jenings, 20 July 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0119" title="From Samuel Cooper, 22 July 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-13-02-0118-0001" title="From Engelbert Franois van Berckel, 22 July 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Engelbert Franois van Berckel [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0118&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0117" title="To Edmund Jenings, 20 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0119" title="From Samuel Cooper, 22 July 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0191">191</span><div id="PJA13tg14" class="transgroup">
+
+<div id="PJA13d139" class="doc letter">
+
+<h2>From Engelbert Franois van Berckel</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Amsterdam 22 Juillet 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Par Madame dHogendorp, qi demere actellement a La Hae, Son Epoux, le Conseiller de la Ville de Rotterdam, Se trovant, a present, aux Indes orientales, Je me trouve continuellement press, por minteresser en faveur dn Inconnu,<a class="ptr" href="#PJA13d140n1" id="PJA13d140n1-ptr">1</a> qui doit avois t present a votre Excellence, pas le jeune Monsier dHogendorp, fils des Ssmentioner; et a qi, Selon quon me dit, Votre Excellence aroit donn qelqes adresses en Amerique; Sans pourtant avoir trouv a propos, de li donner acune lettre de Recommendation. Comme Je nai pas lhonneur de connoitre le dit Inconn; Et que, daillers, comme vos Scavez, Je ne me mle jamais de ces Sortes dafaires; Jai tach de men excser assi, par raport a elle i. Mais on revient a la charge. On me dit, quil ne Sagit dacune recommendation: qua contraire Le dit Inconn Va qitter Sa patrie, dans le dessein daller Setablir dans les Etats unis dAmeriqe, pour toujors; et que por y trouver n moyen de Subsistance, il demande n employ, que lon y trovera convenable a Ses Lmieres, apres un Examen, qe lon trouvera bon de prendre de Ses connoissances, et de Son merite. Monsier et Madame dHogendorp etants de mes proches Parens; je ne Scarois resister pls longtems a des instances Si vives. En consequence de quoi, je prends la libert, de vos temoigner, que votre Excellence mobligera infiniment, Si elle voudra avoir la bont, Sans donner des lettres immediates de recommendation, de donner a dit Inconn la direction, et les overtres necessaires, por le bt quil Se propose, de pouvoir Setablir Solidement dans votre heurese Repbliqe; et de pouvoir obtenir pour cet effet, un Employ analogue a ces Talens. En Verit, il est encore plus inconn a moi, qua Votre Excellence, pisqe vous vous tes entreten avec li: Mais qelqe Inconn quil nos Soit; il me Semble, quil pet tre recommandable, Sil vet Se Somettre a LExamen, quil vient doffrir li meme. Et ce nest que Sur ce pied la, que jai lhonner dinterceder aupres de votre Excellence, en Sa faver. Pour ce quil en est de Sa Famille, et des circonstances, qui lengagent de qitter Sa Patrie; Votre Excellence poura Sen reposer, Sr les avis, qe Madame dHogendorp Vos en fera parvenir. Ils Seront, Sans doute, conformes a la pls exacte verit.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0192">[192]</span>
+<p>Por ce qi regarde notre trait de Commerce, Vous mobligerez infiniment, Si votre Excellence Voudra avoir la bont, de me donner les eclaircissements reqis, Sr la dificult dadmettre les Remarques, que la Commission de Lers Hates Puissances vos a commniqer, Sur le projet, que votre Excellence Leur a delivr.<a class="ptr" href="#PJA13d140n2" id="PJA13d140n2-ptr">2</a> Si Vous voudriez me mettre en etat de faire Sentir la Solidit d refus, que lon me dit que vous avez fait, a legard de quelqes alterations proposies; ce Seroit le moyen, davancer une afaire, qui pourroit tre traine, Sans cela, encore bien de tems. Mais pour cet effet, il faut que Sois parfaitement Eclair, a Sjet de vos ves; et de celles du Congres, Rien ne me Sera plus agreable, que de vous donner a toute occasion, des preves de mes Sentiments de Estime et de Consideration distingue por Votre Excellence; en vous temoignant Sincerement que je Suis Monsieur Votre Tres Humble et tres obeissant Serviter</p>
+<div class="closer">
+<p class="signed">E. F. van Berckel</p>
+</div>
+</div>
+</div>
+<div id="PJA13d140" class="trans letter">
+
+<h2>Engelbert Franois van Berckel to John Adams: A Translation</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">Amsterdam, 22 July 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Madame dHogendorp, who currently lives at The Hague, and her husband, councilor of Rotterdam, who is presently in the East Indies, are strongly urging me to intercede on behalf of an unknown,<a class="ptr" href="#PJA13d140n1" id="PJA13d140n1-ptr">1</a> introduced to your excellency by the young M. dHogendorp, son of the aforementioned. According to what I hear, it seems your excellency would have given him some addresses in America, but not a letter of recommendation. Since I do not have the honor of knowing this person, and since I do not interfere in this sort of business, as you know, this gives me reason to try to excuse myself from it. But they persist. I am told that it is not a question of a recommendation, but rather that this person is leaving his country with the intention of establishing himself permanently in the United States, and that in order to find a way of making a living there, he is asking for a job suitable to his talents after an appropriate examination. M. and Mme. dHogendorp are close relatives, so therefore I cannot continue to ignore their request. Consequently, I am taking the liberty to ask your excellency whether he would be so kind as to oblige me in giving this person the necessary introduction, rather than letters of recommendation, so that he may reach his goal of establishing himself solidly in your happy republic and obtaining a job equal to his talents. The truth is that he is less known to me than to your excellency, since you spoke with him. But as unknown as he is to us, it seems to me that he may possess a commendable character since he himself offered to submit to an examination. And so it is because of this that I have the honor, your excellency, to intercede on his behalf. Since he and his family are engaged in the details of leaving the country, <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0193">[193]</span>your excellency can rely on the information sent by Mme. dHogendorp, which will, without a doubt, be quite accurate.</p>
+<p>As for our treaty of commerce, you would oblige me greatly, sir, if you could kindly clarify your difficulties with the remarks made on your submitted plan by the commission of their High Mightinesses.<a class="ptr" href="#PJA13d140n2" id="PJA13d140n2-ptr">2</a> If you could explain the reasons for your refusal regarding the proposed alterations, which I have heard that you have already made, it would be a way to advance this business that could otherwise be slowed down. But to this end, your views and Congress views must be perfectly clear. Nothing would be more agreeable to me than to give you, sir, on every occasion, my expression of esteem and distinguished consideration while remaining, sir, your very humble and very obedient servant</p>
+<div class="closer">
+<p class="signed">E. F. van Berckel</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d140sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: Mr Van Berckel. 22. July 1782 ansd. 23. The recipients copy has a black border around it because Berckel was in mourning over the death of his wife, Gertruy Roskam van Berckel, on 25 June (vol. <a href="default.xqy?keys=ADMS-print-06-12-02-0206-0002" class="document">12:336</a>).</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d140n1-ptr" id="PJA13d140n1">1</a>
+
+   <p>The unknown remains unidentified because, as he indicates in his reply of <a href="default.xqy?keys=ADMS-print-06-13-02-0121" class="document">23 July</a>, below, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> had received no representations on his behalf by Mme. dHogendorps son or anyone else.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d140n2-ptr" id="PJA13d140n2">2</a>
+
+   <p>The difficulties largely concerned Arts. 22 and 23 of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s draft, for which see <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s reply of <a href="default.xqy?keys=ADMS-print-06-13-02-0121" class="document">23 July</a>, and <a href="default.xqy?keys=ADMS-print-06-13-02-0121&amp;expandNote=PJA13d143n3#PJA13d143n3" class="document">note 3</a>, below.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0118 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0117" title="To Edmund Jenings, 20 July 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0119" title="From Samuel Cooper, 22 July 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,170 @@
+General Orders, 23 March 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 23 March 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0386&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-03-23-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0385" title="From Major General Artemas Ward, 22 March 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0387" title="From Lieutenant Colonel Joseph Reed, 23 March 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; General Orders, 23 March 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0386&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0385" title="From Major General Artemas Ward, 22 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0387" title="From Lieutenant Colonel Joseph Reed, 23 March 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0516">516</span><div id="Rev03d357" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, March 23rd 1776</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole Cape-Fear.</td>
+		<td class="csigns">Countersign Moore.</td>
+	      </tr></table>
+
+</div>
+<p>Col. James Reeds, Nixons, Poors, Prescots, Arnolds,<a class="ptr" href="#GEWN-03-03-02-0386-fn-0001" id="GEWN-03-03-02-0386-fn-0001-ptr">1</a> and Baldwins Regiments, are the first to march, under Brigadier Genl Sullivan; they are to be ready at a moments warngThe General flatters himself that the commanding Officer of each of these, and the other Corps, will exert themselves (as they are
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0517">[517]</span>
+going to join the Troops of other Colonies) in sprucing up their men, that they may look as Soldierlike, and reputable, as possibleThis, and a proper Attention to the good and orderly behaviour of the men, and the proper care of their Arms, Ammunition and Accoutrements, are qualifications essentially necessary to every commanding Officer, therefore, for their own Honor, and the Honor of the New-England Colonies, it is hoped they will diligently exert themselves at this time.</p>
+<p>Two Companies of Artillery, with such light brass Ordnance, and Stores, as the Commanding Officer of the Artillery shall direct, are to march with Genl Sullivan.<a class="ptr" href="#GEWN-03-03-02-0386-fn-0002" id="GEWN-03-03-02-0386-fn-0002-ptr">2</a></p>
+<p>Col. Gridley is to apply to Genl Ward for such men, as are necessary for the Demolition of the Lines, on Boston neck, who is to see the work executed as fast as possibleThe Pickets, and other useful Materials, to be preserved, and placed so as to be ready when called for, under the care of Sentries, such parts of these works as may be of Service for our defence, are to be preserved.<a class="ptr" href="#GEWN-03-03-02-0386-fn-0003" id="GEWN-03-03-02-0386-fn-0003-ptr">3</a></p>
+<p>Col: Knox will immediately lay out a Battery upon Charles-Town point. to be executed under the direction of Lieut. Col. Mason of the ArtilleryA Field Officer, with all the men off duty, of Col. Robinsons Regiment, to march at Sun-rise to morrow morning to Charles-Town point as a working party.<a class="ptr" href="#GEWN-03-03-02-0386-fn-0004" id="GEWN-03-03-02-0386-fn-0004-ptr">4</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0386-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0386-fn-0001-ptr" id="GEWN-03-03-02-0386-fn-0001">1</a>
+
+   <p>The 20th Continental Regiment, which had been reserved for Benedict Arnold before he was promoted to brigadier general, was commanded by Lt. Col. John Durkee. On 10 Aug. 1776 Congress officially appointed Durkee colonel of the regiment (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 5:644; see also <a href="default.xqy?keys=GEWN-print-03-05-02-0365" class="document">GW to the Board of War, 29 July 1776</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0386-fn-0002-ptr" id="GEWN-03-03-02-0386-fn-0002">2</a>
+
+   <p>Sullivans detachment, which was the third one that GW sent to New York, did not depart until 29 Mar. because of the British fleets delay in sailing from Boston Harbor. See <a href="default.xqy?keys=GEWN-print-03-03-02-0409-0001" class="document">GW to Hancock, 27 Mar.</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0414" class="document">General Orders, 28 Mar. 1776</a>. For the march of the riflemen on 15 Mar. and of Heaths detachment on 18 Mar., see <a href="default.xqy?keys=GEWN-print-03-03-02-0336" class="document">General Orders, 13</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0340" class="document">14</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0347" class="document">15</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0351" class="document">16</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0354" class="document">17 Mar. 1776</a>. Sullivans marching brigade consisted of the three regiments remaining from his old brigade at Winter Hill (James Reads, John Nixons, and Enoch Poors regiments), two from Gen. William Heaths old Cambridge brigade (William Prescotts and Loammi Baldwins regiments), and one from Gen. Joseph Fryes brigade at Cambridge (Arnolds regiment).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0386-fn-0003-ptr" id="GEWN-03-03-02-0386-fn-0003">3</a>
+
+   <p>An unidentified Connecticut officer wrote in his diary entry for 29 Mar. that he went on fatigue with a party, at levelling the works of the enemy on
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0518">[518]</span>
+    the Neck, which we demolished much faster than those villains erected (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Camp Life in 1776Siege of Boston. &lt;i&gt;Historical Magazine, and Notes and Queries concerning the Antiquities, History, and Biography of America&lt;/i&gt; 8 (1864): 32632. ]">Camp Life in 1776,</span> 331).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0386-fn-0004-ptr" id="GEWN-03-03-02-0386-fn-0004">4</a>
+
+   <p>One of the Massachusetts militia regiments that recently had reinforced the Continental army was commanded by Col. John Robinson (17351805) of Westford, who had served during 1775 as lieutenant colonel of Col. William Prescotts Massachusetts regiment, and another one was led by Col. Lemuel Robinson (17361776) of Dorchester, who died of smallpox in the summer of 1776.</p>
+
+
+   <p>GW apparently ordered the construction of this battery because he continued to be apprehensive that the British fleet in the harbor might attack his army at some point before sailing. The Enemy still remaining in Nantaskett Road after so many opportunities to sail out of the Harbour, William Palfrey wrote to Loammi Baldwin on this date, carries with it so strong an appearance that they intend to make a push before their departure, that the General desires you would be particularly attentive to their movements, especially round Pulling point Gut &amp; along the back of the Islands to ChelseaIf any attempt should be made it will probably be about the time of High water, You will therefore be very vigilant at those times, &amp; if any thing should take place, immediately make the Signals agreed on (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Miscellaneous Bound Collection).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0386 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0385" title="From Major General Artemas Ward, 22 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0387" title="From Lieutenant Colonel Joseph Reed, 23 March 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,174 @@
+General Orders, 23 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 23 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0095&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-23-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0094" title="From William Trent, 22 July 1775 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0096" title="To Brigadier General John Thomas, 23 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 23 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0095&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0094" title="From William Trent, 22 July 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0096" title="To Brigadier General John Thomas, 23 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0158">158</span><div id="Rev01d89" class="doc">
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, July 23rd 1775</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole, Brunswick.</td>
+		<td class="csigns">Countersign, Princeton.</td>
+	      </tr></table>
+
+</div>
+<p>As the Continental Army have unfortunately no Uniforms, and consequently many inconveniencies must arise, from not being able always to distinguish the Commissioned Officers, from the non Commissioned, and the Non Commissioned from the private; it is desired that some Badges of Distinction may be immediately provided, for Instance, the Field Officers may have <span class="hi-italic" style="font-style: italic;">red or pink</span> colourd Cockades in their Hatts: the Captains <span class="hi-italic" style="font-style: italic;">yellow or buff</span>; and the Subalterns <span class="hi-italic" style="font-style: italic;">green</span>. They are to furnish themselves accordinglyThe Serjeants may be distinguished by an Epaulette, or stripe of <span class="hi-italic" style="font-style: italic;">red Cloth</span>, sewed upon the right shoulder; the Corporals by one of <span class="hi-italic" style="font-style: italic;">green</span>.<a class="ptr" href="#GEWN-03-01-02-0095-fn-0001" id="GEWN-03-01-02-0095-fn-0001-ptr">1</a></p>
+<p>The people employed to make spears, are desired by the General to make four dozen of them immediately, thirteen feet in lenght, and the wood part a good deal more substantial than those already made, particularly in the New Hampshire Lines, are ridiculously short and light, and can answer no sort of purpose, no more are therefore to be made on the same model.</p>
+<p>The Commanding Officers of the different works and posts, are once more enjoined, to furnish themselves with a sufficient Number of Gabions and Fascines, which are to stop up the Entrances of their respective Redoubts and Lines; and to repair their works which may either be damaged by the weather, or the Fire of the enemy; it is observed that several of the Entrances of the Redoubts, are still left open without any sort of defence; The Commanding Officers of each Redoubt, are therefore ordered to cut a wide deep ditch, at the entrances, and throw a bridge of strong plank across; this to be done without delay.<a class="ptr" href="#GEWN-03-01-02-0095-fn-0002" id="GEWN-03-01-02-0095-fn-0002-ptr">2</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0159">[159]</span>
+<p>John Davis of Capt. Fosters Company, in Col. Gridleys regiment of Artillery,<a class="ptr" href="#GEWN-03-01-02-0095-fn-0003" id="GEWN-03-01-02-0095-fn-0003-ptr">3</a> tried for Desertion and suspicion of intending to go to the Enemy is acquitted by the General Court Martial.</p>
+<p>Ensign Trafton accused by Col. Scammons of abusive Language, to the said Colonel Scammons while under Arrest, tried by a General Court Martial of which Col. Nixon was president[.] The Court are unanimously of opinion, that the prisoner is Not guilty and do therefore acquit him with honour.</p>
+<p>Lieut. Trafton to be forthwith released from his arrest.<a class="ptr" href="#GEWN-03-01-02-0095-fn-0004" id="GEWN-03-01-02-0095-fn-0004-ptr">4</a></p>
+<p>Michael Bury, Capt. Parkers Company, and Col. Prescotts Regiment,<a class="ptr" href="#GEWN-03-01-02-0095-fn-0005" id="GEWN-03-01-02-0095-fn-0005-ptr">5</a> tried by the same General Court Martial for refusing his duty and enlisting in another Company: The Court condemn the prisoner, and order him to receive thirty-nine Lashes. The General orders the sentence to be put in execution, at the Head of the regiment the delinquent belongs to.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0095-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0095-fn-0001-ptr" id="GEWN-03-01-02-0095-fn-0001">1</a>
+
+   <p>For the insignia that was designated for general officers and aides-de-camp, see <a href="default.xqy?keys=GEWN-print-03-01-02-0064" class="document">General Orders, 14</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0098" class="document">24 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0095-fn-0002-ptr" id="GEWN-03-01-02-0095-fn-0002">2</a>
+
+   <p>For GWs previous instructions regarding gabions and fascines, see <a href="default.xqy?keys=GEWN-print-03-01-02-0073" class="document">General Orders, 18 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0095-fn-0003-ptr" id="GEWN-03-01-02-0095-fn-0003">3</a>
+
+   <p>Thomas Waite Foster of Massachusetts served as an artillery captain in the Continental army until the end of 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0095-fn-0004-ptr" id="GEWN-03-01-02-0095-fn-0004">4</a>
+	
+   <p>Joshua Trafton of Massachusetts was tried in August for another altercation with Col. James Scammans and was found guilty (<a href="default.xqy?keys=GEWN-print-03-01-02-0257" class="document">General Orders, 25 Aug. 1775</a>). Trafton, nevertheless, continued to serve in Scammanss regiment until the end of the year and was promoted to lieutenant in Col. John Patersons regiment on 1 Jan. 1776. In June 1777 Trafton became a captain in Col. Henry Sherburnes Additional Continental Regiment, where he remained until he resigned from the army in April 1780. For Scammanss arrest and court-martial, see <a href="default.xqy?keys=GEWN-print-03-01-02-0056" class="document">General Orders, 12</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0073" class="document">18 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0095-fn-0005-ptr" id="GEWN-03-01-02-0095-fn-0005">5</a>
+	
+   <p>Capt. Oliver Parker of Massachusetts was cashiered on 2 Aug. 1775 (<a href="default.xqy?keys=GEWN-print-03-01-02-0138" class="document">General Orders, that date</a>; <a href="default.xqy?keys=GEWN-print-03-01-02-0150" class="document">GW to Hancock, 45 Aug. 1775</a>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0095 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0094" title="From William Trent, 22 July 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0096" title="To Brigadier General John Thomas, 23 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

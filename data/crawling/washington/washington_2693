@@ -1,0 +1,198 @@
+From Jonathan Boucher, 4 July 1771
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Boucher, 4 July 1771</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-08-02-0331&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1771-07-04-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-08-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0330" title="Fairfax County Associators to Peyton Randolph, 1 July 1771"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-08-02-0332" title="To Jonathan Boucher, 9 July 1771"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-08&amp;mode=TOC">Volume 8 (24 June 176725 December 1771)</a>&gt; <a href="?keys=GEWN-print-02-08-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Boucher, 4 July 1771</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-08-02-0331&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0330" title="Fairfax County Associators to Peyton Randolph, 1 July 1771"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0332" title="To Jonathan Boucher, 9 July 1771"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0489">489</span><div id="Col08d300" class="doc">
+
+<h1>From Jonathan Boucher</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Annapolis, July the 4th 1771</td>
+	      </tr>
+      </table>
+</div>
+<p>I am sorry to have thrown any additional Difficulties in your Way, respecting the Affair of Mr Custiss Tour. At the Time I wrote, Difficulties seemd to be starting up before me, which I feard could not otherwise be removd than by dropping all Thoughts of leaving Maryland.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0001" id="GEWN-02-08-02-0331-fn-0001-ptr">1</a> I wishd, from many Motives, to accompany Mr Custis: it was, however, as You will readily allow Me to declare, but the second Wish of my Heart, my first was, that I might be independent. After what I had already experienced,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0490">[490]</span>
+it woud have been terrible to have again thrown myself into the wide World, without having first securd a comfortable Retreat to return to. And, I feard, it was too much to ask both a competent Living, &amp; such extraordinary Leave of Absence. I have now, however, the very high Pleasure to inform you, that, with Respect to myself, Things are much altered; and, if You can make it suitable in other Respects, I am willing &amp; ready to accompany Mr Custis, on the proposed TourI am at Liberty to add, on this Condition only that we set out some time in the next Year. Contrary to the Sentimts of my Friends, who thought it better that I should first get my Induction into the Living I mentioned to You in my Last, ere I presumd to make this other Request to the Govr, I resolvd openly &amp; candidly to lay before Him my real Views, with which He was so well pleased, as to promise Me the Parish, so soon as ever it should be in his Power, &amp; also Leave of Absence<a class="ptr" href="#GEWN-02-08-02-0331-fn-0002" id="GEWN-02-08-02-0331-fn-0002-ptr">2</a>for one Year only, at a Time, but renewable: an Expedient He is obliged to use, thro a Fear of giving Cause of Offence to the People here so unreasonably jealous of any Extension of Prerogative. I have had much Talk with Him on the Subject. He had often taken a particular Notice of Mr Custis, &amp;, on this Occasion, professes a strong Desire to oblige Him, and You: and it may be, that I owe, in some Measure, the exceeding obligignesse He shewd to Me in this Matter, to his Desire of being instrumental to the promoting a Scheme He so highly approves of. It will be in his Power to give Mr Custis Letters, which may be very useful to Him; and This He will do with much Pleasure. In short, both He &amp; Mr Danl Dulany, with whom also, at your Request, I have conversd on the Subject, highly approve of the Project<span class="hi-italic" style="font-style: italic;">in Case Mr Custiss Estate will afford it</span>. I said, I believd it might be now worth 1000, or 1200 Sterg per ann:, which Mr Dulany, judging from his own Experience wth his own Son, thinks abundantly sufficient. Yet, He says, Expences in Travel are so exceedingly vague, uncertain, &amp; variable that there is no ascertaining, exactly, what may be a proper Allowance. His Son has cost Him from 100 to 1000. In Paris, I think, He says, He spent 500 in three months, besides the Salary to his Tutor.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0003" id="GEWN-02-08-02-0331-fn-0003-ptr">3</a> Upon the whole, however, He is of Opinion, that, one Year with another, Mr Custis can hardly need to exceed the Income of his Estate.</p>
+<p>In debating this part of the Argumt, it deserves no little
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0491">[491]</span>
+Attention to enquire, how much of his annual Income He would probably expend, if He should continue these three Years in Virginia. Living with You, or under your immediate Influence, He probably woud be restraind within proper Bounds, especially as I do not think He naturally is of an expensive Turn. But, I am mistaken, if, with the most rigid conomy, adapted to his Circumstances, He fell much short of what it will cost Him at Home, exclusive, I mean, of the Expence of his Tutor. And shoud he unluckily fall into the Habit of dealing in Horses, or but in a very moderate Degree, Sporting as it is called, neither of which He could well avoid, from the general Prevalence of Example, I need only direct your Eyes to many young Gentlemen, of fair Hopes, so circumstanced, to convince You, that it is not likely to be much more costly to Him to spend these three perilous Years abroad, than at Home. But, what a Difference, my dear Sir, in the manner of spending Them, &amp; in the Consequences! To Me, it is so very striking, that I own I shall sorely lament, if, with your very proper &amp; right Sentiments in the Matter, any untoward Circumstances shoud yet arise from any other Quarter, to prevent it.</p>
+<p>I have, in many of my former Letters, already said so much on the Subjt of Travelling, that I am fearful of falling into Repetitions. I will only add now, what I do not recollect ever before to have mentioned, that it is more peculiarly necessary to Him, than most Youths I have known. He has that Placid Indolence of Nature, &amp; Flexibility of Temper, in his Mind &amp; Manners, which require some better Knowledge of the World, than He is likely here to acquire, to guard Him against the Consequences of too much Compliance &amp; Confidence in the Generality of Mankind.</p>
+<p>There is, to a delicate Mind, much force in some specious objections which You suppose may be urged, from the Consideration of your being but his Guardian. But, They vanish at the approach of fair Reasoning, as it were at the Touch of Ithuriels Spear.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0004" id="GEWN-02-08-02-0331-fn-0004-ptr">4</a> You are in Duty bound to promote Mr Custiss Interest by every Means in your power, &amp; I am sure it is not more your Duty, than it is your Inclination. If, therefore, both Yourself, and every other cool, dispassionate, &amp; well-informed Friend be fully persuaded that thus alone You will most effectually promote his true &amp; lasting Interest, ought You to be deterrd by the vain Fears &amp; mistaken Apprehensions of others? At this Rate
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0492">[492]</span>
+Nothing good or great must ever be done in Life, &amp; You have already far exceeded your Commission, evn wth Regard only to this young Gentleman. I reason upon This, as upon the other Occurrences of Life. I woud gladly do what, upon mature Deliberation &amp; the fullest Enquiry, appeard to be my Duty; and if, after This, malicious or ignorant People woud still put an illnaturd or unfair Construction on my well-meant Aims, I must be contented to bear it, as I do the other Ills of Life, as Something that might vex Me, but shoud not make me very uneasy, nor unhappy.</p>
+<p>Upon the whole, I do very earnestly wish, and, if I might have Leave, I would request, that this Matter may, as soon as possible, be determined either the one Way or the other. The next Spring, if I recollect aright, is the ra I always fixd on for setting out; and there are many Reasons why it should not, and not one that I can recollect why it should, be postponed beyond that Period. And, to Me, as You will easily believe, it must be desirable as well indeed, as essentially necessary, to know what is resolvd on, as soon as may be. My little Affairs will require some Time to put Them into such a posture as I shall wish to leave Them in; and, I suppose, it might be convenient to You too, to know certainly, ere you sent home this Years Invoice. If Mrs Washington &amp; Yourself, &amp; his nearest Friends approve of it, there is little Likelihood, the General Court will disapprove: would it not be a strange Exertion of Power, if They should? Yet, it is right, They should be consulted, &amp; their Consent obtaind. Govr Eden Strongly urges the Expediency of a six Months Tour thro America, ere He crossd the Atlantic: it is certainly right, if for no other Reason, except that a Man might not seem totally unacquainted with his own Country. Is it quite romantic in Me to expect, that, possibly, You might find Leisure to spend a few Months in our Party? April or May woud be about the Time for setting out.</p>
+<p>I am much concernd at your Apprehensions of Mr Custiss slender Improvements. And, to shew You how thankfully I receive such Notices, I will not deny, that, possibly, there may be some Foundans for yr Fears, &amp; that, moreover, Some part of the Blame, possibly, belongs to me. I will go farther, &amp; say that both He &amp; I, as the K. of Prussia said, hereafter will do better. After This, let me now have Leave to add that his Improvemts, tho
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0493">[493]</span>
+not equal to what They might have been, are, I believe, not inferior to Those of any other Young Man so circumstanced. Nay, I will venture to say, He is a better Scholar than most of his Years &amp; Standing. He is not, indeed, as You observe, much farther advanced, than under Mr Magowan. I coud here say a good deal: let This suffice, that I hope He now knows, by just principles, what heretofore, he had acquird by Rote only. He has applyd more closely of late, &amp; has begun Arithmetic over again; &amp; on his Return, is to enter upon French. There is a Deal of Difference to be observed in the Educatg a Gentleman, &amp; a mere Scholar.</p>
+<p>You will receive Physic from Mr Johnson, &amp; enclosd, his Directions as well as Dr Stevensons rect, &amp; mine. And the papers, respectg the Claim to Colvill Esta., of wc. I beg yr Care, as well as that You will, wn in yr power, direct Me wt Ansr to return to the Man, who put Them into my Hands for You.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0005" id="GEWN-02-08-02-0331-fn-0005-ptr">5</a> I am &amp;c.</p>
+<div class="closer">
+<p class="signed">J. Boucher</p>
+</div>
+<div class="postscript">
+<p>In the Hurry of Writing, I had well nigh forgot a Commission a Friend gave me to you. Mr Lloyd Dulany of this City, is going to the Springs this SeasonHe understands You have a House there, if unoccupyd &amp; unengagd, He wd be much obligd to You for Leave to make Use of it.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0006" id="GEWN-02-08-02-0331-fn-0006-ptr">6</a></p>
+<p>I saw Coll Cressap yesterdayHe seems quite confident, the new Grant will take Place, &amp; is taking his Measures accordingly.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0007" id="GEWN-02-08-02-0331-fn-0007-ptr">7</a> Govr Eden hears, that many of the Regulators have passd thro this Province, &amp; is surprizd Govr Tryon has not sent Expresses to the sundry Govrs on the Supposi[tio]n that They would.<a class="ptr" href="#GEWN-02-08-02-0331-fn-0008" id="GEWN-02-08-02-0331-fn-0008-ptr">8</a></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-08-02-0331-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ The words or letters in angle brackets are mutilated and have been taken from <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Stanislaus Murray Hamilton, ed. &lt;i&gt;Letters to Washington and Accompanying Papers&lt;/i&gt;. 5 vols. Boston and New York, 18981902. ]">Hamilton, <span class="hi-italic" style="font-style: italic;">Letters to Washington</span></span>, 4:6975.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0001-ptr" id="GEWN-02-08-02-0331-fn-0001">1</a>
+
+   <p>Boucher last wrote on 9 May.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0002-ptr" id="GEWN-02-08-02-0331-fn-0002">2</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-08-02-0316&amp;expandNote=GEWN-02-08-02-0316-fn-0007#GEWN-02-08-02-0316-fn-0007" class="document">Boucher to GW, 9 May, n.7</a>. Robert Eden (17411784), son-in-law of Charles Calvert, fifth Lord Baltimore (16991751), arrived in Maryland on 5 June 1769 to become its governor. He left the colony on 24 June 1776.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0003-ptr" id="GEWN-02-08-02-0331-fn-0003">3</a>
+
+   <p>The son of Daniel Dulany the younger was also named Daniel (17501824) and, like his father, studied at the Inns of Court before returning to Maryland to practice law. In 1774 Daniel Dulany, usually designated Jr. or III, went to England to live.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0004-ptr" id="GEWN-02-08-02-0331-fn-0004">4</a>
+
+   <p>Ithuriel was the angel in <span class="hi-italic" style="font-style: italic;">Paradise Lost</span> who was sent to find the disguised Satan. He carried a spear, the slightest touch of which exposed deceit.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0005-ptr" id="GEWN-02-08-02-0331-fn-0005">5</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-08-02-0225" class="document">GW to Boucher, both 9 May</a> and <a href="default.xqy?keys=GEWN-print-02-08-02-0332" class="document">9 July</a>.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0494">[494]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0006-ptr" id="GEWN-02-08-02-0331-fn-0006">6</a>
+
+   <p>GW at this time did not have a house at Warm Springs. See <a href="default.xqy?keys=GEWN-print-02-08-02-0332" class="document">GW to Boucher, 9 July</a>. Lloyd Dulany (17421782) was the half brother of Daniel Dulany the younger. He had recently returned from his study at the Inns of Court and was living in Annapolis.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0007-ptr" id="GEWN-02-08-02-0331-fn-0007">7</a>
+
+   <p>Thomas Cresap (16941790) at his fortified trading post near Shawnee Old Town in western Maryland had for nearly half a century been a prominent trader and land speculator. For a discussion of the new Grant to the Walpole Company, see <a href="default.xqy?keys=GEWN-print-02-08-02-0253&amp;expandNote=GEWN-02-08-02-0253-fn-0003#GEWN-02-08-02-0253-fn-0003" class="document">GW to Botetourt, 9 Sept. 1770, n.3</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0331-fn-0008-ptr" id="GEWN-02-08-02-0331-fn-0008">8</a>
+
+   <p>Discontented backcountrymen in North Carolina formally organized as Regulators in 1768. Growing protest and incidences of violence resulted in Gov. William Tryons marching from New Bern into the backcountry with a large militia force. On 16 May 1771 the governors forces met and dispersed the Regulators at Great Alamance Creek.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-08-02-0331 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 8 (24 June 176725 December 1771)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0330" title="Fairfax County Associators to Peyton Randolph, 1 July 1771"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0332" title="To Jonathan Boucher, 9 July 1771"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

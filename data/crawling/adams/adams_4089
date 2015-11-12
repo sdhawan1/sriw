@@ -1,0 +1,178 @@
+From Engelbert François van Berckel [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Engelbert Franois van Berckel [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-13-02-0135&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-13-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0134" title="From Arthur Lee, 7 August 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-13-02-0136" title="From Wilhem &amp; Jan Willink, Nicolaas &amp; Jacob van Staphorst, and De la Lande &amp; Fynje, 8 August 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-13-02-0135-0001" title="From Engelbert Franois van Berckel, 8 August 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-13&amp;mode=TOC">Volume 13, MayOctober 1782</a>&gt; <a href="?keys=ADMS-print-06-13-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Engelbert Franois van Berckel [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-13-02-0135&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0134" title="From Arthur Lee, 7 August 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0136" title="From Wilhem &amp; Jan Willink, Nicolaas &amp; Jacob van Staphorst, and De la Lande &amp; Fynje, 8 August 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0222">222</span><div id="PJA13tg18" class="transgroup">
+
+<div id="PJA13d162" class="doc letter">
+
+<h2>From Engelbert Franois van Berckel</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsier</td>
+		  <td class="salutationRight">Amsterdam 8 aot 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Jai le plaisir et lhonner, de Vos commniqer, qe les Deptez de la Ville dAmsterdam a lassemble des Etats dhollande Vont recevoir, demain, la Resoltion d Conseil de la ditte Ville, prise ajourdhu,<a class="ptr" href="#PJA13d163n1" id="PJA13d163n1-ptr">1</a> a sjet d Trait damiti et de Commerce, entre Lers Hates Pissances, et les Etats Unis en Ameriqe. Cette Resolution d conseil contient les ordres les pls precises, por se conformer avec Le Raport Hollandais d 18 Jillet dernier,<a class="ptr" href="#PJA13d163n2" id="PJA13d163n2-ptr">2</a> avec le qel tots les atres membres de LAssemble setoient deja conformez, avant nos; et des ordres, por ne retarder, sos acn pretexte la conclusion de ce grand ovrage. Assi doivent ils rejetter laddition des mots, <span class="hi-italic" style="font-style: italic;">En Europe</span>, dans le second, troise. et atres articles du Trait, relativement aux <span class="hi-italic" style="font-style: italic;">Nations les pls favorises</span>; ayant t consider, que cette <span class="hi-italic" style="font-style: italic;">addition</span> ou <span class="hi-italic" style="font-style: italic;">Limitation</span> netoit pas selement ne noveat, dont il ny avoit point dexemple; mais en otre, sujette a de tres grands inconvenients. D reste, la Borsse de notre ville nous a sgger encore qelqes remarqes, qi sont comprises dans la ditte Resoltion de notre Conseil; non pas, por proposer a Votre Excellence quelque alteration essentielle, qi pisse trainer la deliberation; mais selement des remarqes, qui <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0223">[223]</span>doivent tre commniqes a Lers Hates Puissances, pour tre jointes ax remarqes, que lers committer ont mises a la marge d Projet, qe Votre Excellence a delivr ax Etats generax. Et por qe les nes et les atres soient le sujet dne conference avec votre Excellence, Afin de faire des arrangements en consequence, et dn commn accord; sans que lon pretende, que lafaire soit encore prise ad referendm; mais qe la Commission de Leurs Hautes puissances soit mnie dun pleinpouvoir pour la Conclusion d dit Projet, avec les alterations, dont on pora tre dacord, entre les dex Parties Contractantes. Por les Remarques de notre Borsse, elles sont dne extrme simplicit; et servent plutot a donner, on a demander des eclaircissements que por ajoter o retrancher quelquechose dessentiel. Jai lhonner de Vos commniqer cette particlarit, dans le dessein de prevenir des Surprizes; et pourque Votre Excellence, en cas que lon hazerderoit de Vos proposer quelquechose, qui ne portat pas le dit Caractere, et qui poroit Vous caser quelqe etonnement; Vos pissiez prendre de moi les eclaircissements necessaires, si votre Excellence le jgeat a propos. Je Vous suis tres oblig, Monsier, de ce qe vos avez e la bont de me temoigner dans votre derniere, a Sujet de LInconn.<a class="ptr" href="#PJA13d163n3" id="PJA13d163n3-ptr">3</a> Depis ce tems la, je nen ai rec acune Novelle. Et jai t extiemement etonn, que tout ce que javois e lhonner de vos communiqer, au Sujet de Madame de Hogendorp, etoit mystere pour vos. Je puis montrer sa Lettre, dans la quelle elle Mecrit qe son fils avoit present linconn a votre Excellence, avant qe jai e lhonner de vous ecrire a son sujet.</p>
+<div class="closer">
+<p class="salute">Jai lhonner dtre avec lestime et la Consideration les pls distinges Monsier Votre tres hmble et tres obeissant Serviter</p>
+<p class="signed">E. F. Van Berckel</p>
+</div>
+</div>
+</div>
+<div id="PJA13d163" class="trans letter">
+
+<h2>Engelbert Franois van Berckel to John Adams: A Translation</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">Amsterdam, 8 August 1782</td>
+		</tr>
+      </table>
+</div>
+<p>I have the pleasure and honor to communicate to you that tomorrow Amsterdams deputies to the States of Holland will receive the Amsterdam councils resolution made today,<a class="ptr" href="#PJA13d163n1" id="PJA13d163n1-ptr">1</a> regarding the treaty of amity and commerce between their High Mightinesses and the United States of America. This councils resolution contains very precise orders to conform with Hollands report of 18 July,<a class="ptr" href="#PJA13d163n2" id="PJA13d163n2-ptr">2</a> with which all the other assembly members have already conformed, and orders not to delay the conclusion of this great work for any reason. Also, they must reject the addition of the words, <span class="hi-italic" style="font-style: italic;">In <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-13-02-pb-0224">[224]</span>Europe</span>, in the second, third, and other articles of the treaty concerning <span class="hi-italic" style="font-style: italic;">most favored nations</span>. After being considered, this <span class="hi-italic" style="font-style: italic;">addition</span> or <span class="hi-italic" style="font-style: italic;">limitation</span> was deemed only a novelty for which there has been no example and which would cause great inconveniences. Moreover, our stock exchange has suggested some remarks be added to our councils resolution, not to propose any essential change to your excellency that could slow down deliberations, but rather remarks that must be communicated to their High Mightinesses in order to add them to notes already made by their committees in the margins of your excellencys plan delivered to the states general. And for that, they must be the subject of a meeting with your excellency to come to an agreement, on the condition that the business be placed ad referendum; and that the commission of their High Mightinesses have ultimate authority for the final version, with the alterations agreed upon between the two contracting parties. As for the comments made by the stock exchange, they are very simple suggestions that serve to clarify the text by adding or omitting essential points. I have the honor of writing to you about these details in order to prevent any surprises, and so that your excellency, in case some proposal is made that is not in line with what was stated here, can ask me for any necessary clarifications. I am very obliged, sir, for the information in your last letter regarding the stranger.<a class="ptr" href="#PJA13d163n3" id="PJA13d163n3-ptr">3</a> I have not received any news of him since that time. I was very surprised that everything I wrote to you regarding Mme. dHogendorp was a mystery to you. I can show you her letter stating that her son introduced the stranger to your excellency. This was before I wrote to you about him.</p>
+<div class="closer">
+<p class="salute">I have the honor to be with the highest esteem and consideration, sir, your very humble and very obedient servant</p>
+<p class="signed">E. F. Van Berckel</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA13d163sn1">
+
+   <p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed: Mr Van Berckel 8 Aug. ans 11. 1782. This letter has a black border around it, for which see Van Berckels letter of 22 July, <span>descriptive note</span>, above.</span>
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA13d163n1-ptr" id="PJA13d163n1">1</a>
+
+   <p>In the <span class="ref-terms">Adams Papers</span>, dated 9 Aug., is a printed copy of Amsterdams observations on the treaty. As <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> indicates in his reply of <a href="default.xqy?keys=ADMS-print-06-13-02-0137" class="document">10 Aug.</a>, below, he was very happy to learn of Amsterdams action regarding the treaty because, as the largest and most important city in the Netherlands, its comments regarding the draft treaty were of great significance, and its failure to act presumably was the principal reason for the four-month delay from the time that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> submitted his draft in April until negotiations began in late August. The importance of these proposals for additions or changes can be seen from the fact that they form the substance of the handwritten additions to the printed Dutch text of the draft treaty with its accompanying proposals for revisions in the text. It is not known when <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> received this printed copy of Amsterdams comments, but it likely was before negotiations formally began. For their inclusion as part of the Dutch proposals for a final treaty and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s comments regarding them, see The Negotiation of the Dutch-American Treaty of Amity and Commerce, 22 Aug.  8 Oct., Nos. <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0003" class="document">II</a> and <a href="default.xqy?keys=ADMS-print-06-13-02-0162-0004" class="document">III</a>, below.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d163n2-ptr" id="PJA13d163n2">2</a>
+
+   <p>See <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter to Van Berckel of 23 July, <a href="default.xqy?keys=ADMS-print-06-13-02-0121&amp;expandNote=PJA13d143n3#PJA13d143n3" class="document">note 3</a>, above.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA13d163n3-ptr" id="PJA13d163n3">3</a>
+
+   <p>Of <a href="default.xqy?keys=ADMS-print-06-13-02-0121" class="document">23 July</a>, above.</p>
+
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-13-02-0135 [accessed 18 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 13, MayOctober 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-13-02-0134" title="From Arthur Lee, 7 August 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-13-02-0136" title="From Wilhem &amp; Jan Willink, Nicolaas &amp; Jacob van Staphorst, and De la Lande &amp; Fynje, 8 August 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

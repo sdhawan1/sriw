@@ -1,0 +1,630 @@
+Invoice from Thomas Knox, 18 August 1758
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Invoice from Thomas Knox, 18 August 1758</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-05-02-0319&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1758-08-18-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0318" title="To Henry Bouquet, 18 August 1758"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-05-02-0320" title="To Henry Bouquet, 19 August 1758"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-05&amp;mode=TOC">Volume 5 (5 October 17573 September 1758)</a>&gt; <a href="?keys=GEWN-print-02-05-02&amp;mode=TOC">Documents</a>&gt; Invoice from Thomas Knox, 18 August 1758</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-05-02-0319&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0318" title="To Henry Bouquet, 18 August 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0320" title="To Henry Bouquet, 19 August 1758"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0399">399</span><div id="Col05d299" class="doc">
+
+<h1>Invoice from Thomas Knox</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Bristol 18th Augt 1758.</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-indent: 0;">Invoice of Sundries Shipd by Thomas Knox on the Nugent</p>
+<p>Only John Copithorn Master for Virginia on Acct &amp; risque of</p>
+<p>Collo. George Washington there<a class="ptr" href="#GEWN-02-05-02-0319-fn-0001" id="GEWN-02-05-02-0319-fn-0001-ptr">1</a> vizt</p>
+<table class="bodytext" id="Col05d299t1" style="width: 70%;">
+               <tr>
+	      <td style="white-space: nowrap;">6 white stone soop Dishes</td>
+	      <td class="curr" style="width: 10%;">.15.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">3 dozn plates  Soop</td>
+	      <td class="curr">.10.6</td>
+	    </tr>
+               <tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0400" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0400">[400]</span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">3 punch Bowls</td>
+	      <td class="curr">1.11.6</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">2 two Quart ditto</td>
+	      <td class="curr">.17.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">1 two Quart ditto colourd</td>
+	      <td class="curr">.7.6</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">4 three pint ditto enameld</td>
+	      <td class="curr">1.1.4</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">2 large quart ditto</td>
+	      <td class="curr">.9.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Box</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.2.</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="internal-table" style="white-space: nowrap;" rowspan="4">
+                     <table class="internal">
+                        <tr>
+		    <td style="padding-right: 0;">20 <span style="text-decoration: line-through;">M</span> each</td>
+		    <td>11 lb.</td>
+		    <td class="num" style="padding-right: 0.5em !important;">8d.</td>
+		    <td>Nails 3/3</td>
+		  </tr>
+                        <tr>
+		    <td>10 <span style="text-decoration: line-through;">M</span></td>
+		    <td>22 lb.</td>
+		    <td class="num">20</td>
+		    <td>ditto 5/11</td>
+		  </tr>
+                        <tr>
+		    <td>20 <span style="text-decoration: line-through;">M</span></td>
+		    <td>5</td>
+		    <td class="num">4</td>
+		    <td>ditto 1/10</td>
+		  </tr>
+                        <tr>
+		    <td>5 <span style="text-decoration: line-through;">M</span></td>
+		    <td>7</td>
+		    <td class="num">6</td>
+		    <td>ditto 2/5</td>
+		  </tr>
+                     </table>
+                  </td>
+	      <td class="curr">6.10.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">2.19.2</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.16.8</td>
+	    </tr>
+               <tr>
+	      <td class="curr">.12.1</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Two Casks</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.4.</td>
+	    </tr>
+              <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">15 dble Loaves Gr. 1.0.19</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Tr. 5 Nt 1.0.14 @ 11d.</td>
+	      <td class="curr">5.15.6</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">20 single Ditto Gr. 1.2.25</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">T. 8 Nt 1.2.17 9d.<a class="ptr" href="#GEWN-02-05-02-0319-fn-0002" id="GEWN-02-05-02-0319-fn-0002-ptr">2</a></td>
+	      <td class="curr">6.18.9</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Cask</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.2.</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="par">11 doz. &amp; 7 Bottles Beer @ 5/</td>
+	      <td class="curr">2.17.11</td>
+	    </tr>
+               <tr>
+	      <td class="par">10 do &amp; 8 ditto Cyder @ 5/6</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">2.18.8</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="internal-table" style="white-space: nowrap;" rowspan="4">
+                     <table class="internal">
+                        <tr>
+		    <td colspan="2" style="padding-right: 0.5em !important;">1 dozn broad Hoes No. 3</td>
+		  </tr>
+                        <tr>
+		    <td style="padding-right: 0.5em !important;">1 ditto narrow Do</td>
+		    <td class="num">3</td>
+		  </tr>
+                        <tr>
+		    <td style="padding-right: 0.5em !important;"> ditto Grubbg do</td>
+		    <td class="num">3</td>
+		  </tr>
+                        <tr>
+		    <td style="padding-right: 0.5em !important;">1 ditto Logwood Axes</td>
+		    <td class="num">3</td>
+		  </tr>
+                     </table>
+                     </td>
+	      <td class="curr">1.5.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.3.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">.15.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.10.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Cask</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.1.4</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="par">1 lb. Nutts 8.81 lb. Cinnamon 15/</td>
+	      <td class="curr">1.3.8</td>
+	    </tr>
+               <tr>
+	      <td class="par"> Cloves 6.33 fig blue 3/6</td>
+	      <td class="curr">.9.9</td>
+	    </tr>
+               <tr>
+	      <td class="par">1 Mace 1610 best Turky Coff. @ 5/</td>
+	      <td class="curr">3.6.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">6 Hyson Tea @ 16/</td>
+	      <td class="curr">4.16.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">6 Fine Green Do @ 10/</td>
+	      <td class="curr">3.</td>
+	    </tr>
+               <tr>
+	      <td class="par">12 Canistrs for Tea 6/1 dito for Coffee 3/</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Cask 2/</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.11.</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="par">6 Grindstones Wt 7.3.6 @ 30/ pr Ton</td>
+	      <td class="curr">.11.6</td>
+	    </tr>
+               <tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0401" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0401">[401]</span></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">1 Mahagony Card Table</td>
+	      <td class="curr">1.2.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Matt &amp; Packing</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.2.</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">two Compleat setts Shoe Brushes</td>
+	      <td class="curr">.2.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">0.2.6 Soap</td>
+	      <td class="curr">1.1.0</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Box &amp; charge of Debenture</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.5.8</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">6 Scyths @ 2/6</td>
+	      <td class="curr">.15.</td>
+	    </tr>
+               <tr>
+	      <td class="par">6 Scythstones 1/34 Curry Combs 3/4</td>
+	      <td class="curr">.4.7</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">4 Brushes 3/ @ Box 8d.</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.3.8</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">2 Setts Counters for Quadrille</td>
+	      <td class="curr">.7.9</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">1 dozn Watch glasses</td>
+	      <td class="curr">.6.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Box</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">..3</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">20 lb. Chocolate 4/6</td>
+	      <td class="curr">4.10.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Box</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.1.6</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">4 Cheeses Wt 0.2.0 26/</td>
+	      <td class="curr">.13.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Cask</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.1.8</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="internal-table" style="white-space: nowrap;" rowspan="10">
+                     <table class="internal">
+                        <tr>
+		    <td> ps. fine Cambrick</td>
+		    <td>No. 1</td>
+		  </tr>
+                        <tr>
+		    <td> ps. ditto</td>
+		    <td>2</td>
+		  </tr>
+                        <tr>
+		    <td>1 ps. Linnen 25 yds</td>
+		    <td>4 12d.</td>
+		  </tr>
+                        <tr>
+		    <td>1 ps. ditto 27 yds</td>
+		    <td>3 15</td>
+		  </tr>
+                        <tr>
+		    <td>1 ps. ditto 24 yds</td>
+		    <td>2 4/</td>
+		  </tr>
+                        <tr>
+		    <td colspan="2">42 Yds Ell wide Sheeting 2/8</td>
+		  </tr>
+                        <tr>
+		    <td>46 Yds ditto</td>
+		    <td>8 3/</td>
+		  </tr>
+                        <tr>
+		    <td colspan="2">10 Ells Linn[e]n Wrapper 8d.</td>
+		  </tr>
+                        <tr>
+		    <td>8 Ells Rolls</td>
+		    <td>4</td>
+		  </tr>
+                        <tr>
+		    <td>4 dozn plaid Hose<a class="ptr" href="#GEWN-02-05-02-0319-fn-0003" id="GEWN-02-05-02-0319-fn-0003-ptr">3</a></td>
+		    <td>1</td>
+		  </tr>
+                        </table>
+                      </td>
+	      <td class="curr">1.8.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.13.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.5.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">1.13.9</td>
+	    </tr>
+               <tr>
+	      <td class="curr">4.16.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">5.12.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">6.18.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">.6.8</td>
+	    </tr>
+               <tr>
+	      <td class="curr">.3.</td>
+	    </tr>
+               <tr>
+	      <td class="curr">2.4.</td>
+	    </tr>
+               <tr>
+	      <td class="par"> do w[hi]te thr[ea]d 2 30/ Scotch do 1 17d.</td>
+	      <td class="curr">1.11.5</td>
+	    </tr>
+               <tr>
+	      <td class="par">2 Oz. ditto 2 13d. 1 Oz. ditto do 3 9d.</td>
+	      <td class="curr">.1.10</td>
+	    </tr>
+               <tr>
+	      <td class="par">1 Oz. ditto 4 11d. 1 do do 5 18d.</td>
+	      <td class="curr">.2.5</td>
+	    </tr>
+               <tr>
+	      <td class="par">1 ditto do 6 21d.  do do 7 9d.</td>
+	      <td class="curr">.2.6</td>
+	    </tr>
+               <tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0402" colspan="2"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0402">[402]</span></td>
+	    </tr>
+               <tr>
+	      <td class="par"> do Machg do 8d.18d.  gr[oss] Shirt B[utto]ns 9 9d.</td>
+	      <td class="curr">.2.3</td>
+	    </tr>
+               <tr>
+	      <td class="par"> do do 10 14d.2 dozn Cards 11 17/</td>
+	      <td class="curr" style="border-bottom: 1px solid black;">.18.2</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td class="par">Gr. 0.3.18 Raisons Tr. 12 nt 0.3.6 @ 36/</td>
+	      <td class="curr">1.9.</td>
+	    </tr>
+               <tr>
+	      <td class="par">63 lb. Currts @ 50/ &amp; Cask 1/</td>
+	      <td class="curr">2.9.</td>
+	    </tr>
+               <tr>
+	      <td class="par">56 lb. Almonds 84/ &amp; Box 1/4</td>
+	      <td class="curr">2.9.4</td>
+	    </tr>
+               <tr>
+	      <td class="par">11 lb. Mustard 14d. &amp; Jar 1/8</td>
+	      <td class="curr">.13.6</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td class="curr" style="border-top: 1px solid black;"> 99.9.9</td>
+	    </tr>
+               <tr>
+	      <td style="padding-top: 1.5em;"></td>
+	      <td style="padding-top: 1.5em;"></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 2%;">Charges</td>
+	      <td></td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Entry, City dues and fees</td>
+	      <td class="curr">.18.</td>
+	    </tr>
+               <tr>
+	      <td class="par">Halling 4/Shipg 2/Bills of Loadg 1/6</td>
+	      <td class="curr">.6.6</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">primage pd the Captn as Customary</td>
+	      <td class="curr">1.1.</td>
+	    </tr>
+               <tr>
+	      <td class="par">Insurd 50 at 12 Gs. prCt policy 5/6</td>
+	      <td class="curr">6.11.6</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td class="curr" style="border-bottom: 1px solid black; border-top: 1px solid black;">8.17.</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td class="curr">108.0.9</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap; padding-left: 8%;">Commissn 2 prCt</td>
+	      <td class="curr">2.14.</td>
+	    </tr>
+               <tr>
+	      <td></td>
+	      <td class="curr" style="border-top: 1px solid black;">111.0.9</td>
+	    </tr>
+            </table>
+
+
+
+
+
+
+
+
+
+
+<table class="bodytext" id="Col05d299t12">
+               <tr>
+	      <td style="white-space: nowrap;">4 Cheeses Wt 0.2.0 26/</td>
+	      <td class="curr punc">.13.</td>
+	    </tr>
+               <tr>
+	      <td style="white-space: nowrap;">Cask</td>
+	      <td class="curr">. 1. 8</td>
+	    </tr>
+            </table>
+
+
+
+<p style="text-align: center;">Errors ExceptedThomas Knox</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-05-02-0319-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ It is in GWs hand. Running totals are omitted.</p>
+
+
+   <p>GW placed his first order with Thomas Knox of Bristol in December 1755 and his second on 18 Jan. 1757 (<a href="default.xqy?keys=GEWN-print-02-02-02-0289&amp;expandNote=GEWN-02-02-02-0289-fn-0004#GEWN-02-02-02-0289-fn-0004" class="document">John Carlyle to GW, 12 Jan. 1756, n.4.</a>). GWs invoices of 1755 and 1757 have not been found, but <a href="default.xqy?keys=GEWN-print-02-04-02-0272" class="document">Knoxs invoice</a> listing the goods sent to GW in 1757 is dated 28 Sept. 1757<span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: 'and is printed above' &lt;span style='font-size: 90%'&gt;[[2014-11-06]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>. The articles listed here in 1758 include items that Knox failed to send in September 1757 (see <a href="default.xqy?keys=GEWN-print-02-05-02-0044" class="document">GW to Knox, 26 Dec. 1757</a>) as well as items that GW ordered on 30 Dec. 1757 and in January 1758.</p>
+
+</div>  
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0319-fn-0001-ptr" id="GEWN-02-05-02-0319-fn-0001">1</a>
+
+   <p>For John Copithorns preceding voyage from Virginia to London, see <a href="default.xqy?keys=GEWN-print-02-05-02-0267&amp;expandNote=GEWN-02-05-02-0267-fn-0003#GEWN-02-05-02-0267-fn-0003" class="document">John Carlyle to GW, 25 July 1758, n.3</a>. Copithorn in the <span class="hi-italic" style="font-style: italic;">Nugent Only</span> entered port at the Rappahannock River on 11 Nov. 1758 with twenty caskets of European goods and two passengers. He entered the South Potomac from the Rappahannock River on 2 Dec. 1758.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0319-fn-0002-ptr" id="GEWN-02-05-02-0319-fn-0002">2</a>
+
+   <p>On 30 Dec. 1757 GW ordered from Knox 100 Wt of dble and 150 of Single refind Sugar. Knox is recording here that he filled GWs order by sending one cask holding (1) 15 double loaves of sugar with a gross weight of 1 hundredweight plus 19 pounds, the tare (container weight) of 5 pounds bringing the net weight to a hundredweight plus 14 pounds, at a price of 11 pence per pound costing 5.15.6; and (2) 20 single loaves of sugar, gross weight 1 hundredweight plus 25 pounds, tare 8 pounds, net weight 1 hundredweight plus 17 pounds, at 9 pence per pound, costing 6.18.9, for a total cost to GW of 12.16.3.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0403">[403]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0319-fn-0003-ptr" id="GEWN-02-05-02-0319-fn-0003">3</a>
+
+   <p>The four dozen plaid hose were among the items that GW complained of not receiving according to order in the September 1757 shipment.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-05-02-0319 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 5 (5 October 17573 September 1758)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0318" title="To Henry Bouquet, 18 August 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0320" title="To Henry Bouquet, 19 August 1758"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

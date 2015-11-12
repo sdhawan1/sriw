@@ -1,0 +1,303 @@
+Document I, 1–4 November 1771
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Document I, 14 November 1771</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-08-02-0358-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1771-11-01-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-08-02-0358&amp;mode=TOC" title="Petition to Governor and Council"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0358-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0003" title="Document II, 46 November 1771"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-08&amp;mode=TOC">Volume 8 (24 June 176725 December 1771)</a>&gt; <a href="?keys=GEWN-print-02-08-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-08-02-0358&amp;mode=TOC">Petition to Governor and Council</a>&gt; Document I, 14 November 1771</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-08-02-0358-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0358-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0003" title="Document II, 46 November 1771"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0534">534</span><div id="Col08d325" class="doc">
+
+<h2 class="main">Document I</h2>
+<h3 class="sub">Memorial to Governor and Council</h3>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[c.14 November 1771]</td>
+	      </tr>
+      </table>
+</div>
+<p>To His Excellency the Right Honble John Earl of Dunmore his Majestys Lieutt &amp; Governor General of the Colony and Dominion of Virginia and vice Admiral of the same and to the Honble the CouncilThe Memorial of George Washington, Colo. of the first Virginia Regiment in behalf of himself and others Most humbly Sheweth</p>
+<p>That it being judgd proper to raise Troops, and erect a Fort at the Confluence of the Rivers Ohio &amp; Monongahela, the Lieutent Governor of Virginia the Honble Robert Dinwiddie Esqr. with the advice and consent of the Council, considering the numberless hardships that must attend Warfare in an uninhabited and Mountainous Country, so remote from the necessary
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0535">[535]</span>
+Supplies an Army required (which would unavoidably subject the Officers to a very considerable expence in the Article of Carriage only) and also to engage on such an emergency Soldiers more chearfully to enlist; on the 19th day of Feby 1754 did Issue a Proclamation whereby, over and above their pay 200,000 Acs. of Land on the East side of the River Ohio (One hundd thousand of which to be contiguous to the Fort now called Fort Pitt, and the other 100,000 to be on, or near the River Ohio) Were promised to be allotted to the Officers &amp; Soldiers who should then enter the Service, in proportion to their Rank and Merit; to be laid off &amp; granted to them immediately after the performance of the said intended Service; and to be held and enjoyd by them, without paying any Rights, &amp; also free from the payment of Quitrents for the Term of fifteen years.</p>
+<p>That your Memorialists composed a part of the Regimt then raised and continued in the Service until the French were entirely dispossed of that Country and presume to say, their behaviour was always approvd of, not only by the General Assembly of this Colony, but by the several General Officers of His Majestys regular forces under whom they had the honour to serve. notwithstanding they were only provided for from time to time, and no fund established for the Support of the Officers, after their Services ceased to be necessary, though they shall always acknowledge with gratitude the favourable disposition of the Country towards them. This however being a true state of the case and the Compact, under which they Imbarkd, it remns further to be added.</p>
+<p>That after the Treaty with the Six Nations held at Fort Stanwix in the year 1768 and the entire Cession of the Lands Eastward of the River Ohio to his Majesty by those Tribes of Indians his late Excellency the Right Honble Lord Botetourt in Council was pleased to recognize your Memorialists claim to the said 200,000 Acres of Land, and being fully satisfied of the Equity, &amp; legallity of their Title thereto was pleased by and with the advice and consent of the Council on the 19th day of Decr 1769 to Order and direct that they should have the same laid off to them within the space of five years in any number of Surveys not exceeding 20 which at that time was thought sufficient to comprehend the full qty of such Land as would redound to the Emolument of the Parties; and was pleasd moreover to advise,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0536">[536]</span>
+as a means of expediting this business, that the President and Masters of the College should be applied to requesting them to Nominate &amp; appoint a particular Surveyor for this purpose; which being accordingly done, and the work undertaken, your Memorialists from experience find, that it is impossible for them from any thing they know, or believe at this time, to get the qty of the 200,000 Acres in three times the number of Surveys abovementioned; without Including so large a proportion of Cragged Hills and inhospitable Vales (such being the Nature of the Lands within the district allowed them to Survey In) as to render the Grant which was intended as a reward for the most laborious, and least desirable Service that any Troops ever engaged In of little or no Value; and many shares, upon division of the Land, most obviously burthensome.</p>
+<p>Your Memorialists for this Reason, and to remove some other inconveniences which they shall beg leave to point out Most Humbly Pray,</p>
+<p>That your Excellency and Honours will be pleased to take their case into Consideration and instead of confining them to any certain Number of Surveys alott the proportion which cannot be done with precission as the respective Claims are given in proportion, which each Claimant according to the Rank he bore, shall have, of the 200,000 Acres; and, permit him to locate, and have the same Surveyed in a seperate Tract, allowing him a certain time, and a certain district to do it in, or forfeit his TitleThis your Memorialists humbly conceive to be reasonable, and consistent with the original Intention of bestowing a Benefit, and in no wise repugnant to his Majestys Interest; as they will then be but upon the same footing in respect to the Location, &amp; Survey, of all other his Majestys Subjects &amp; Land Petitioners saving that they have the first choice of the Lands within a certain district for a limited time which, that they may then steer of any actual Settlementsany Surveysor, as far as possible, of even any Claims by which any Person can be affected; your Memorialists are willing &amp; do accordingly pray that they may be allowed their whole Grant upon the two Kanhawas and Sandy Creek and between the same, the uppermost of which Waters is, by estimation, <span class="hi-italic" style="font-style: italic;">illegible</span> 200 Miles below Fort Pitt, and near as many below the lowermost white Inhabitants now on the Ohio; and consequently, not so valuable, nor contiguous
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0537">[537]</span>
+to Trade, as the Lands about Fort Pitt are, where they are, by Proclamation, entitled to receive one half of their quantity.</p>
+<p>As Reasons to move your Excellency and Honours to think favourably of this Petition, your Memorialists beg leave humbly to remark that, they must, in case of being confind to any certain Number of Surveys, be run to double the expence of other People to obtain these Lands; first by Surveying the whole, and then in Surveying each Mans distinct part, the expence of doing which, in an uninhabited Country, where every necessary is to be had at a dear rate is very considerable, as some of your Memorialists have already experienced&amp; will make that which was intended as an Incouragement, &amp; offered as a Bounty come with more difficulty and at greater expence than any other Individual of the Community is Subject toBesides, a difficulty arises in respect to the Conveyances; first in what manner, &amp; to whom these large Surveys are to be Granted; &amp; next, how, &amp; where, each Mans share is to be re-conveyed; the trouble &amp; expence of doing which cannot be trifling: nor is the discontent wch must naturally arise from a division of Land very different in quality (being composed in part of Baron Hills, &amp; rugged Mountains) a matter of Small Moment. By Ballot this division cannot take place because different Ranks will be (it is presumed) entitled to different quantitiesBy proportioning the good and the Bad it cannot, because that would be a work of almost endless time is next to Impossibleand if done by Seniority the last Servd will be poorly Recompensed for their Toils; Whereas, by permitting each Individual to Locate his own Land; Spots may be found sufficient to answer each Mans purpose, and a desirable emulation set on foot by which means the Country will be explord and settled and in all human probability our Barier strengthend beyond any thing that otherwise could be hoped for.</p>
+<p>For these Reasons, and many others, which your Excellency &amp; Honours will naturally suggest your Memorialists humbly hope to obtain the Prayer of their Petition and they shall ever pray &amp;ca.</p>
+<div class="closer">
+<p class="signed">G: Washington</p>
+</div>
+</div>
+<div class="docbody">
+<p>Your Memorialists further beg leave to represent to your Excellency and honours that pursuant to the recommendation
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0538">[538]</span>
+of the Governor and Council application was made to the President and Masters of the College, who chearfully appointed one William Crawford Surveyor, to lay off the Lands in the said order mentioned; and notice being repeatedly advertizd in the Virginia Gazettes requiring all persons Interested in the said Grant to bring in their respective Claims (which being accordingly done)<a class="ptr" href="#GEWN-02-08-02-0358-0002-fn-0001" id="GEWN-02-08-02-0358-0002-fn-0001-ptr">1</a> a few of your Memorialists whose names are hereunto subjoind, finding a backwardness in the rest to engage in a work which was like to be attended with a certain expence &amp; an uncertain Issue and being unwilling on their parts to forego the advantages which the Authority of Government had been pleasd to Invest them with for exploreing &amp; Surveying their Lands did advance the severals Sums annexd to their names; and in the course of the last Fall, Spring, &amp; Summer Surveyed <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> acres of Land in Ten Tracts; which, as they contain the most extensive bodies of Land to be found together in the part of the Country allowd your Memorialists, evinces beyond a possibility of doubt the Impracticability of getting the full quantity of 200,000 Acres in 20 Surveys without Including so many Mountains &amp; barren Hills as to render the intended bounty of Government a heavy &amp; insupportable charge on them. Your Memorialists further beg leave to observe that those who have contributed to the expence of these Surveys are the only Persons who will Incur any pecuniary loss in case of a Miscarriage and in the Event of Success, are Subjected, they are advisd to say, to a great and irreperable Inconvenience: For by holding a joint and undivided Interest in these Lands they will be deemd Trustees for others who may at a future, &amp; very late period, demand a portion of these Lands upon reimbursing part of the Original expence, in consequence of which, Such as have devoted their moneytheir labour&amp; time are placed upon the same footing as those who are sparing of each &amp; lye by for the fruits of the Harvest witht sharing the toil of it whilst no Man In the Interum can say what part is his or know how, or in what manner either to Improve or dispose of it at the same time that he is subjected to a double expence first in Surveying the whole quantity jointly &amp; then his distinct part seperately.</p>
+<p>Your Memorialists therefore, most humbly pray.</p>
+<p>That instead of confining them to any certain number of Surveys Your Excellency &amp; honours would be pleasd to ascertain
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0539">[539]</span>
+the quantum off each Mans share of the 200,000 Acres (according to his Rank which is now to be done with precision &amp; certainty, as the respective Claims are herewith exhibited) and permit him to locate, and have the same Surveyd in a seperate Tract; allowing him a certain time, &amp; the same district of Country to do this in as formerly Granted, or forfeit his Title: This your Memorialists humbly conceive to be reasonable, and in no wise repugnant to his Majestys Interest, as they will be then only on the same footing (in respect to the Location &amp; Survey) of all his other Subjectts &amp; Land Petitionersand lastly your Memorialists whose names are hereunto subjoined beg leave to Submit it to your Excellency and honours whether the <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> Acres of Land which has actually been Surveyed at their Sole cost &amp; charge should not be allotted to them in proportion to their respective advances and go in part of the quantity which should be allowed to their several RanksBy this means each Man will reap the benefit of his own labour and purseno person receive any possible Injury&amp; a desirable Emulation set on foot by which a Territory now barren &amp; uncultivated may soon become a proper Scene for the Imployment of the Industrious Planter to the great Emolument as well of this as the Mother Country by furnishing raw Materials for the Manufacturers thereof.</p>
+<p>For these Reasons your Memorialist George Washington for himself and others concernd hath taken the liberty to make this application to your Excellency &amp; honours in full confidence of obtaining that redress which this case shall meritResting in that assurance I have the honour to be Yr Excellencys &amp; Yr Honours Most Obedient &amp; very Hble Servt</p>
+<div class="closer">
+<p class="signed">Go: Washington<a class="ptr" href="#GEWN-02-08-02-0358-0002-fn-0002" id="GEWN-02-08-02-0358-0002-fn-0002-ptr">2</a></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-08-02-0358-0002-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Draft Signed: a draft of a letter or document in the handwriting of, and signed by, the author ]">ADfS</abbr> (photocopy), <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Mount Vernon Ladies Association of the Union, Mount Vernon, Va. [[former abbreviation: ViMtV]] ]">ViMtvL</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0358-0002-fn-0001-ptr" id="GEWN-02-08-02-0358-0002-fn-0001">1</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-08-02-0190" class="document">Advertisement, 16 Dec. 1769</a>, and notes.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0358-0002-fn-0002-ptr" id="GEWN-02-08-02-0358-0002-fn-0002">2</a>
+
+   <p>Immediately following the draft of the second memorial GW listed the payments that officers and soldiers had made to defray the cost of the survey. He labels the account: Names referd to in the Memorial. He presented a copy of this to the council, for it is printed at the end of the council minutes of 6 Nov. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ H. R. McIlwaine et al., eds. &lt;i&gt;Executive Journals of the Council of Colonial Virginia&lt;/i&gt;. 6 vols. Richmond, 192566. ]"><span class="hi-italic" style="font-style: italic;">Exec. Journals of Virginia Council</span></span>, 6:441). The printed total is 180.6.0.</p>
+
+<table class="bodytext" id="Col08d325t1">
+<tr>
+		<td style="white-space: nowrap;">Colo. Joshua Frys heir</td>
+		<td></td>
+		<td class="curr" style="width: 7em; padding-right: 2.5em; vertical-align: bottom;">15.0.0</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">George Washington</td>
+		<td class="curr" style="width: 7em; padding-right: 2.5em; vertical-align: bottom;">26.5.0</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Ditto for Geo: Muse</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">26.5.0</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Ditto for Rudolph Brickr</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">1.1.0</span></td>
+		<td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">53.11.0*</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0540" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0540">[540]</span></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Capt. Adam Stephen</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">15.15.0</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Andrew Lewis</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">15.15.0</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Peter Hog</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">15.15.0</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Lieutt George Mercer</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">10.10.0</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Do for his Bror John</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">10.10.</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">Do for Two Soldiers</td>
+		<td></td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">viz. Jno. Hamilton &amp; Mark Hollis</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">2.2.</span></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">23.2.0</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Lieutt Thos Wageners Heir</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">John West</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">10.10.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">John Savage</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.0.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 1em;">James Craik</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">10.10.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">McGuire for Jas Commack</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Magnus Tate for David Gorman</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.0</td>
+		<td></td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap; text-indent: 8em;">Patk Gallaway</td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">1.1.0</span></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.2.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Isaac Larew for Nathl Barrett</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">John Gholson</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Richd Morris</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">Richd Smith</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td style="white-space: nowrap;">John Creagh for Robt Tunstall</td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.1.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td></td>
+		<td class="curr" style="padding-right: 2.0em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">170.6</span></td>
+	      </tr>
+</table>
+
+   <p style="text-indent: 0; margin-top: 1em;">*Besides 12 or 15 for Postage of Letters &amp; other Exps. in receivg the Claims</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-08-02-0358-0002 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 8 (24 June 176725 December 1771)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0358-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0358-0003" title="Document II, 46 November 1771"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

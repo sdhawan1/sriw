@@ -1,0 +1,176 @@
+none 14
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>I. To the Boston Gazette, 11 January 1773</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0096-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1773-01-11-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC" title="On the Independence of the Judges: 11 January  22 February 1773"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0001" title="Editorial Note"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0003" title="II. To the  Boston Gazette , 18 January 1773"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0096&amp;mode=TOC">On the Independence of the Judges: 11 January  22 February 1773</a>&gt; I. To the <span class="italic">Boston Gazette</span>, 11 January 1773</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0096-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0003" title="II. To the  Boston Gazette , 18 January 1773"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0256">256<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0256.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d146" class="doc published">
+
+     <h2>I. To the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To the PRINTERS.</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">Monday, January 11, 1773</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>GENERAL BRATTLE, by his rank, station and character, is intituled to politeness and respect, even when he condescends to harrangue in town-meeting, or to write in a news-paper: But the same causes require that his sentiments when erroneous and of dangerous tendency, should be considered, with entire freedom, and the examination be made as public, as the error. He cannot therefore take offence at any gentleman for offering his thoughts to the public, with decency and candor, tho they may differ from his own.</p>
+      <p>In this confidence, I have presumd to publish a few observations, which have occured to me, upon reading his narration of the proceedings of the late town meeting at Cambridge. It is not my intention to remark upon all things in that publication, which I think exceptionable, but only on a few which I think the most so.</p>
+      <p>The General is pleased to say, That no man in the province could say whether the salaries granted to the Judges were <span class="hi-italic" style="font-style: italic;">durante bene placito</span>, or <span class="hi-italic" style="font-style: italic;">quam diu bene se gesserint</span>, as the Judges of England have their salaries granted them. I supposed the latter, tho these words were not expressed, but necessarily implied. This is said upon the supposition, that salaries are granted by the crown to the judges.</p>
+      <p>Now, it is not easy to conceive, how the General or any man in the province could be at a loss to say, upon supposition that salaries are granted, whether they are granted in the one way or the other. If salaries are granted by the crown, they must be granted, in such a manner as the crown has power to grant them. Now it is utterly denyd, that the crown has power to grant them, in any other manner than <span class="hi-italic" style="font-style: italic;">durante bene placito.</span></p>
+      <p>The power of the crown to grant salaries to any judges in America is derived solely from the late act of parliament, and that gives no <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0257">[257<a style="padding-left: 0px" onkeypress="this.onclick();" tabindex="0" title="Permission not granted to display this page image"><img src="/img-ML/page-icon-nopermission.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span><span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0258">[258<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0258.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> power to grant salaries for life, or during good behaviour.<a class="ptr" href="#PJA01d146n1" id="PJA01d146n1-ptr">1</a> But not to enlarge upon this at present.</p>
+      <p>The General proceeds. I was very far from thinking there was any necessity of having quam diu bene se gesserint in their commissions: For they have their commissions now by that tenure, as truly as if said words were in:</p>
+      <p>It is the wish of almost all good men, that this was good law. This country would be forever obliged to any gentleman who would prove this point from good authorities, to the conviction of all concerned in the administration of government, here and at home. But I must confess that, my veneration for General Brattles authority, by no means prevails with me, to give credit to this doctrine. Nor do his reasons in support of it, weigh with me, even so much as his authority. He says, What right, what estate vests in them, (i.e. the Judges,) in consequence of their nomination and appointment, the common law of England, the Birth-right of every man here, as well as at home, determines, and that is an estate for life, provided they behave well: I must confess I read these words with surprize and grief. And the more I have reflected upon them the more these sentiments have increased in my mind.</p>
+      <p>The common law of England is so far from determining, that the Judges have an estate for life in their offices, that it has determined the direct contrary. The proofs of this are innumerable and irresistable. My Ld. Coke in his 4th institute,<a class="ptr" href="#PJA01d146n2" id="PJA01d146n2-ptr">2</a> 74, says, Before the reign of E. 1. the chief justice of this court, was created by letters patents, and the form thereof (taking one for all) was in these words.</p>
+      <p>Rex, &amp;c. Archiepiscopis, Episcopis, Abbatibus, Prioribus, Comitibus, Baronibus, Vice-comitibus, Forestariis, et omnibus aliis fidelibus Regni Angliae, salutem, cum pro Conservatione nostra, et tranquilitatis Regni nostri, et ad Justitiam universis et singulis de Regno nostro exhibendum constituerimus dilectum et fidelem nostrum Philippum Basset Justiciarium Angliae <span class="hi-italic" style="font-style: italic;">quam diu nobis placuerit</span> capitalem.&amp;c.</p>
+      <p>And my Lord Coke says, afterwards in the same page, King E. I. being a wise and prudent prince, knowing that cui plus licet quam par est plus vult quam licet (as most of the summi justiciarii did) made three alterations, 1. By limitation of his authority. 2. By changing summus justiciarius to capitalis justiciarius. 3. By a new kind of creation, viz. by writ, lest if he had continued his former manner of creation, he might have had a desire of his former authority, which three do expressly appear by the writ, yet in use, viz. Rex, &amp;c. E.C. militi salutem, sciatis quod constitumus vos justiciarium nostrum <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0259">[259<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0259.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>capitalem, ad placita coram nobis tenenda, <span class="hi-italic" style="font-style: italic;">durante beneplacito nostro</span> teste, &amp;c. Afterwards in the same page Ld. Coke observes, it is a rule in law, that ancient offices must be granted in such forms and in such manner, as they have been used to be unless the alteration were by authority of parliament. And continual experience approveth, that for many successions of ages without intermission, they have been, and yet are called by the said writ. His Lordship informs us, also in the same page, that the rest of the Judges of the Kings bench have their offices by letters patent in these words. Rex omnibus ad quos presentes literae pervenient, salutem, sciatis quod constituimus dilectum et fidelem Johannem Doderidge militem unum justiciariorum ad placita coram nobis tenenda <span class="hi-italic" style="font-style: italic;">durante beneplacito, nostro</span>, teste, &amp;c.</p>
+      <p>His Lordship says indeed, from Bracton, that these Judges are called Perpetui by Bracton, because they ought not to be removed without just cause. But the question is not what the Crown ought to do, but what it had legal power to do.</p>
+      <p>The next reason given by the General in support of his opinion, is that these points of law have been settled and determined by the greatest sages of the law formerly and more lately. This is so entirely without foundation, that the General might both with safety and decency be <span class="hi-italic" style="font-style: italic;">challenged</span>, to produce the name of any one sage of the law ancient or modern, by whom it has been so settled and determined, and the book in which such determination appears. The General adds, It is so notorious that it becomes the common learning of the law. I believe he may <span class="hi-italic" style="font-style: italic;">decently and safely be challenged again</span>; to produce one Lawyer in this country, who ever before entertained such an opinion, or, heard such a doctrine. I would not be misunderstood; there are respectable Lawyers, who maintain that the Judges here hold their offices during good behaviour; but it is upon other principles, not upon the common law of England. My Lord chief justice Holt settled it so, not long before the statute of William and Mary, that enacts that the words quam diu bene se gesserint, shall be in the Judges Commissions. And afterwards he says, that the commissions as he apprehends, were without these words inserted in them, during the reigns of King William, Queen Mary and Queen Ann.</p>
+      <p>This I presume must have been conjectured from a few words of Lord Holt in the case of Harcourt against Fox, which I think are these. I repeat them from memory, having not the book before me at present. Our places as judges are so settled, determinable only upon misbehaviour.<a class="ptr" href="#PJA01d146n3" id="PJA01d146n3-ptr">3</a></p>
+      <p>Now, from these words I should draw an opposite conclusion from <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0260">[260<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0260.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>the General, and should think that the influence of that interest in the nation which brought King William to the throne, prevailed upon him to grant the commissions to the Judges, expressly during good behavior. I say, this is the most natural construction, because it is certain, their places were not at that time, viz. 5 Wm. and Mary, determined by an act of parliament to be determinable only upon Misbehavior, and it is as certain, from Lord Coke, and from all history, that they were not so settled by the common law of England.</p>
+      <p>However, we need not rest upon this reasoning, because we happen to be furnished with the most explicit and decisive evidence, that my conclusion is just, from my Lord Raymond.<a class="ptr" href="#PJA01d146n4" id="PJA01d146n4-ptr">4</a> In the beginning of his second volume of reports, his lordship has given us a list of the chief officers in the law at the time of the death of King William the third 8 March 1701, 2. And he says in these words, that Sir John Holt, knight, chief justice of the Kings bench, holding his office by writ, <span class="hi-italic" style="font-style: italic;">though it was quam diu se bene gesserint</span>, held it to be determined by the demise of the King, notwithstanding the act of 12 &amp; 13 Will. 3d.<a class="ptr" href="#PJA01d146n5" id="PJA01d146n5-ptr">5</a> And therefore the Queen in council gave orders, that he should have a new writ, which he received accordingly, and was sworn before the lord keeper of the great seal the Saturday following, viz. the 14th of March, Chief Justice of Kings Bench. From this several things appear,</p>
+      <p>1. That General Brattle is mistaken in apprehending that the Judges commissions were without the clause <span class="hi-italic" style="font-style: italic;">quam diu bene se gesserint</span>, in the reign of King William and Queen Mary, and most probably also in the reign of Queen Ann, because, it is not likely that Lord Holt would have accepted a commission from the Queen during pleasure, when he had before had one from King William during good behaviour. And because if Queen Ann had made such an alteration in the commission, it is most likely Lord Raymond would have taken notice of it. 2. That Lord Holts opinion was, that by common law he had not an estate for life in his office, for if he had, it could not expire on the demise of the King. 3. That Lord Holt did not think the clause in the statute of 12 &amp; 13 Wm. 3. to be a declaration of what was common law before, nor in affirmance of what was law before, but a new law and a total alteration of the tenure of the Judges commissions, established by parliament, and not to take place till after the death of the Princess Ann. 4. That in Lord Holts opinion it was not in the power of the Crown, to alter the tenure of the Judges commissions, and make them a tenure for life determinable only upon <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0261">[261<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0261.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>misbehaviour, even by inserting, that express clause in them, <span class="hi-italic" style="font-style: italic;">quam diu se bene gesserint.</span></p>
+      <p>I have many more things to say upon this subject, which may possibly appear some other time.</p>
+      <div class="closer">
+       <p class="salute">Mean while I am, Messirs Printers, Your humble Servant,</p>
+       <p class="signed">JOHN ADAMS</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d146n1-ptr" id="PJA01d146n1">1</a>
+       
+   <p>The preamble to the Townshend Revenue Act of 1767 stated explicitly that the revenues raised in America under this statute would be used for making a more certain and adequate Provision for defraying the charge of the Administration of Justice, and the Support of Civil Government, in such Provinces where it shall be found necessary (7 Geo. III, ch. 46).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d146n2-ptr" id="PJA01d146n2">2</a>
+       
+   <p>Sir Edward Cokes <span class="hi-italic" style="font-style: italic;">Institutes of the Lawes of England</span> is represented in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s library by volumes from two editions. The first and fourth <span class="hi-italic" style="font-style: italic;">Institutes</span> in his set are from the edition printed in London, 1628, while the second and third are from the 6th edition, London, 1681 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>).</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d146n3-ptr" id="PJA01d146n3">3</a>
+       
+   <p>This passage from the opinion of Chief Justice Sir John Holt (16421710) appears in Sir Bartholomew Shower, <span class="hi-italic" style="font-style: italic;">Reports of Cases Adjudged in the Court of Kings Bench, in the Reign</span> of ... <span class="hi-italic" style="font-style: italic;">King William III, with Several Learned Arguments</span>, London, 1708, 1:535. The case of Harcourt <span class="hi-italic" style="font-style: italic;">v.</span> Fox is discussed by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> at length in <a href="default.xqy?keys=ADMS-print-06-01-02-0096-0007" class="document">No. VI</a>, below.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d146n4-ptr" id="PJA01d146n4">4</a>
+       
+   <p>Sir Robert Raymond, 1st Baron Raymond, <span class="hi-italic" style="font-style: italic;">Reports of Cases Argued and Adjudged in the Courts of Kings Bench and Common Pleas, in the Reigns of the Late King William, Queen Anne, King George the First, and King George the Second</span>, 2d edn., 3 vols., London, 1765, 2:747. Entered in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d146n5-ptr" id="PJA01d146n5">5</a>
+       
+   <p>That is, the Act of Settlement of 12 June 1701, 12 and 13 Wm. III, ch. 20.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0096-0002 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0096-0001" title="Editorial Note"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0096-0003" title="II. To the  Boston Gazette , 18 January 1773"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.248.244</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

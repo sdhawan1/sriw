@@ -1,0 +1,183 @@
+From Hendrik Brouwer Chs. zoon [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Hendrik Brouwer Chs. zoon [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0230&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0229" title="From Samuel Andrews, 31 March 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0231" title="From Joan Derk van der Capellen tot den Pol [document with translation]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0230-0001" title="From Hendrik Brouwer Chs. zoon, 31 March 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Hendrik Brouwer Chs. zoon [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0230&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0229" title="From Samuel Andrews, 31 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0231" title="From Joan Derk van der Capellen tot den Pol [document with translation]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0364">364</span><div id="PJA12tg41" class="transgroup">
+
+<div id="PJA12d277" class="doc letter">
+
+<h2>From Hendrik Brouwer Chs. zoon</h2>
+
+<div class="docbody" xml:lang="nld">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Aan syn Excellentie</td>
+		  <td class="salutationRight">Rotterdam 31. Maert 1782<a class="ptr" href="#PJA12d278n1" id="PJA12d278n1-ptr">1</a></td>
+		</tr>
+      </table>
+</div>
+<p>Vergeeft Bid ik Uw dat ik vry genoeg ben U deese myne missieve te adresseeren, de Liefde voor myn Vaaderland, therdenken wat onse voor Ouders hebben gedaen, Sig Een vry Volk te maaken heeft in my en veele weldenkende Hollanders bevestigt dat tVolk van America onse naeste Broederen in Deugd waaren, dus wierd het onse verschuldigde Pligt hun in hunnen Onderdrukkinge te helpen Onderschraagen, veele Weldenkende Negotianten, Edog dat wel het minste getal uytmaakte waeren hier toe geneygd, dan wy vonden tot ons herten leed Een aental Engelschen Effectief niet alleen, maar nog grooter Partij Hollanders Engels gesind of DEngelse toegedaen, Eventwel niet teegenstaende de Overmagt waer teegen wy Dagelyks <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0365">[365]</span>moesten Worstelen, om de regtvaerdiege Oorlog der Americaanen teegens Engeland in Een helder Dag ligt te Stellen, wierden versterkt door de naergedagten onser voor Ouderen, en heeft ons de vrees van niet eens te Zullen treumpheeren weg genoomen.</p>
+<p>Wy hebben dus volhard in onse Denkenswyse die wy voorgenoomen hadden te Maintineeren, van DEerste tyt af dat de Onlusten tusschen America en Engeland Syn begonnen, wy hebben in de Waagschaal gestelt onse Huyse, Goederen, en famielies geplundert te Zien door de Oproggeling van onse teegen Party, was tmoogelyk tGepeupel in hun belang te Krygen, dan Een regtvaardig God heeft hier in voorsien, wy Danken dien Selven Opperheerscher met Needergeslaagen Oogen, dan met traanen van blydschap dat wy Eindelyk in weerwil van de Quaade Geintentioneerde tot ons doelwit Zyn geraakt, Eene Zaak van dat gewigt (Sonder dat ik wil my in laaten in het Politique) had men myns gedagten direct moeten Aenvaarden by de Onregtvaardiege Oorlogs de Claratie van Engeland Aen Ons, niets is Evenreedieger als Synen Onnatuurlyken Vyand, Ja God beetert onse Zoo genaemde Geloofs en bontgenooten afbreuk te doen, en Juyst bragt men hun de Grootste Slag met Americaa Een vry Volk te verklaaren Dit nu by Holland En Vriesland geschied Synde in weerwil der Ridderschap, heb ik nu geen moment twyffel of het Zal by alle 7. Provencies werden doorgedrongen God bekragtige dit heylsaem werk met Syne Zegeningen en Vermurwe de herten die van ander Gevoelen Zyn.</p>
+<p>Neemt dan niet Qualyk dat Een hart Overstulpt van Vergenoeging vry genoeg is Uw Excellentie te fielieciteeren met de Erkentenis van Minister Pleni Potentiarisby Holland en Vriesland, in Weiniege Daagen hoop ik Zal ik met Uw Excellenties Goed Gunstiege Permissie my mogen verstouten U in Persoon Geluk te wenschen de Gantsche Unie U dusdanig Erkent heeft.</p>
+<p>Myn Huys heeft het Geluk gehad, en myne vrienden daar teegenwoordig hebben Sig met my Eene biesondere Eer gemaakt, Sig met DEerste hier Gearriveerde Americaanen ter myner Tafel te bevinden, op Welker Maeltyt tRespectabel Congres der 13. Verenigde Staaten heylig wierd indagtig Gehouden.</p>
+<p>Niemant moet Eygen belang naauwer ter herten Gaen als twelsyn van Syn Vader Land, of van Zyne Broederen die dus daanig Denken, maar myn s bedunkens is er buyten Eygen Intrest ook Eene Reedelykheid, dat de Soo daaniege ingeval van Vrugten te kunnen Plukken niet moeten vergeeten werden, t is om die reeden ik Uw Excel-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0366">[366]</span>lentie wil Kenbaer maaken Eeniege myner Goede Geintentioneerde Vrienden, wy verlangen niets meer als Eene Geschikte Correspondentie met Sollide Huysen van N: America wy verbeelden ons door onse bestendiegen Yver ons Een Gedeelte der Preferentie toekomt.</p>
+<p>En wy Zyn bereyd met de Scheepen en Gelt dat wy hebben, ons Een voordeeliegen handel Weederzyds te Procureeren, Inclosa Vind U Een Nota der bovenaengehaelde Vrienden,<a class="ptr" href="#PJA12d278n2" id="PJA12d278n2-ptr">2</a> en wy recommandeere ons in U Gunstige Aendenken in Americaa.</p>
+<p>Mogt nu myn Huys by Geleegenheid dat U Zig in Rotterdam Liet vinden, Sig begunstigt Zien Uw Excellentie ter myner Tafel te moogen Ontfangen, niets Zoude my meer vergenoegen, buyten DEer die alle hoogagting waerdig is, Zoude ik my biesonder met myne Lieve Kinderen Kittelen tot Spyt der Engelsgesinde, Ik bid vergeeft dat ik vry genoeg ben Een antwoort te vraagen,<a class="ptr" href="#PJA12d278n3" id="PJA12d278n3-ptr">3</a> en naer U voor myn Aendeel Gronthertig Dank Gesegt te hebben voor Uw aller Vriendelykste missive aen tCorps van Negotianten alhier,<a class="ptr" href="#PJA12d278n4" id="PJA12d278n4-ptr">4</a> noeme my met de verschuldigde Eerbied en hoogagting, Uw Excellenties Onderdaniege En Gehoorsaamste Dienaer</p>
+<div class="closer">
+<p class="signed">Hendrik Brouwer Chs. zoon</p>
+</div>
+</div>
+</div>
+<div id="PJA12d278" class="trans letter">
+
+ <h2>Hendrik Brouwer Chs. zoon to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">To his Excellency</td>
+		  <td class="salutationRight">Rotterdam, 31 March 1782<a class="ptr" href="#PJA12d278n1" id="PJA12d278n1-ptr">1</a></td>
+		</tr>
+      </table>
+</div>
+<p>I pray you forgive me that I am so free as to address this letter of mine to you, to recall the love for my fatherland, what our forefathers have done to make themselves a free people, has confirmed in me and many right-thinking Dutchmen that the people of America were our closest brothers in virtue, so that it has become our obligatory duty to help support them in their oppression, many right-thinking businessmen, but yet nonetheless making up a minority, were inclined to this, then we could be strengthened, to our hearts sorrow not only a number of English effectively but an even greater group of Anglophile Dutchmen, or supporters of the English, however, notwithstanding the superior power against which we had to wrestle daily, to put the just war of the Americans against England in the clear light of day, by the thoughts of our forefathers, and that has removed from us the fear of never triumphing in the future.</p>
+<p>We have thus persevered in our manner of thinking that we had intended to maintain, from the first moment that the disturbances between America and England began, we have risked seeing our houses, goods, and families plundered, by the fomenting of our opponents, if it proved possible to get the mob to support them in their interests, then a just God has provided in this, we thank the same Lord of all with downcast eyes, then <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0367">[367]</span>with tears of joy that finally, against the will of those of evil intentions, we have reached our goal, a matter of such importance (without wanting to involve myself in politics) should have been accepted immediately, in my opinion, on the unjust declaration of war by England against us, nothing is more equal than its unnatural enemy, yea, God forbid causing damage also to so-called fellow believers and allies, and just now the greatest blow to them has been accomplished by declaring America a free people, this now having happened in Holland and Friesland against the desires of the nobility, I now do not doubt for a moment that it will be pushed through in all 7 provinces, God strengthen this healing work with his blessings and soften the hearts of those of another persuasion.</p>
+<p>Forgive it that a heart bursting with satisfaction takes the liberty to congratulate your excellency on your recognition as minister plenipotentiary by Holland and Friesland, in a few days I hope I shall, with your excellencys well-intentioned permission, be able to wish you happiness in person that the entire Union has recognized you as such.</p>
+<p>My house had the pleasure, and my friends there present, have joined me in making a special honor to invite to my table the first Americans who have arrived here, at which meal the respectable Congress of the 13 United States was held in holy commemoration.</p>
+<p>Personal interest should not lie closer to anyones heart than the well-being of his fatherland, or of his brothers who feel the same way, but my idea is that beyond private interest there is a reasonableness, that the appropriate opportunity should not be forgotten, to pluck the fruits, it is for that reason that I would like to introduce to your excellency some of my well-intentioned friends, we desire nothing more than an appropriate correspondence with solid houses of North America, we imagine that a share of preference is due us for our continuing zeal.</p>
+<p>And we are prepared, with the ships and money that we have, to procure a profitable mutual trade. Enclosed you will find a note of the friends just mentioned,<a class="ptr" href="#PJA12d278n2" id="PJA12d278n2-ptr">2</a> and we commend ourselves in your favorable consideration in America.</p>
+<p>In case you find yourself in Rotterdam, might my house find itself benefited in being allowed to receive your excellency to my table, nothing would please me more, beyond the honor that is worth all respect, my sweet children and I would be especially tickled to spite the Anglophiles. I pray you forgive me that I am so free as to ask a reply,<a class="ptr" href="#PJA12d278n3" id="PJA12d278n3-ptr">3</a> and having for my part sincerely said thanks to you for your very friendly letter to the group of businessmen here,<a class="ptr" href="#PJA12d278n4" id="PJA12d278n4-ptr">4</a> I call myself with the obligatory respect and honor, your excellencys humble and most obedient servant,</p>
+<div class="closer">
+<p class="signed">Hendrik Brouwer Chs. zoon</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d278sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed by John Thaxter: H. Brouwer Chz 31st. March 1782.; by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>: ansd 7 April.</span>
+</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA12d278n1-ptr" id="PJA12d278n1">1</a>
+<p>This letter was received as an enclosure in a brief note of <a href="default.xqy?keys=ADMS-print-06-12-03-0001-0049" class="document">1 April</a> from M. H. van son [Hendkz?] (<span class="ref-terms">Adams Papers</span>), who is otherwise unidentified. The author congratulated <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> on the action of the States of Holland and expressed his hope that the remaining mem-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0368">[368]</span>bers of the States General would soon follow.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d278n2-ptr" id="PJA12d278n2">2</a>
+<p>Brouwer failed to enclose the list and apologized and enclosed it with his <a href="default.xqy?keys=ADMS-print-06-12-02-0267" class="document">15 April</a> letter, below.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d278n3-ptr" id="PJA12d278n3">3</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s endorsement indicates that he replied on 7 April; no copy of the letter has been found, but see Brouwers letter of <a href="default.xqy?keys=ADMS-print-06-12-02-0267" class="document">15 April</a>, below.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d278n4-ptr" id="PJA12d278n4">4</a>
+<p>Perhaps a reference to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s letter of <a href="default.xqy?keys=ADMS-print-06-12-02-0215" class="document">22 March</a> to Adrianus Dubbeldemuts, above, in which <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> commented on the petition by Rotterdam merchants supporting a commercial treaty between the Netherlands and the United States. No other letter from <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> to a Rotterdam businessman has been found.</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0230 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0229" title="From Samuel Andrews, 31 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0231" title="From Joan Derk van der Capellen tot den Pol [document with translation]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

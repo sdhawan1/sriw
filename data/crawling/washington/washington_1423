@@ -1,0 +1,163 @@
+From John St. Clair, 24 May 1758
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John St. Clair, 24 May 1758</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-05-02-0151&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1758-05-24-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0150" title="From John Blair, 24 May 1758"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-05-02-0152" title="To John Blair, 28 May 1758"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-05&amp;mode=TOC">Volume 5 (5 October 17573 September 1758)</a>&gt; <a href="?keys=GEWN-print-02-05-02&amp;mode=TOC">Documents</a>&gt; From John St. Clair, 24 May 1758</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-05-02-0151&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0150" title="From John Blair, 24 May 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0152" title="To John Blair, 28 May 1758"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0197">197</span><div id="Col05d145" class="doc">
+
+<h1>From John St. Clair</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[Winchester, 24 May 1758]</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-indent: 0;">Orders for Colo. Washington Comg the Troops of the Collony &amp; Dominion of Virginia.</p>
+<p>I am directed by the Commander in Chief of the Forces in the Southern district of North America to acquaint you that it is his orders that you call the whole Regt that is under your Command to Winchester excepting the Two Companys on the So. Branch of Pattomack &amp; if the Militia should come up to releive those they are Likewise to Join at Winchester.<a class="ptr" href="#GEWN-02-05-02-0151-fn-0001" id="GEWN-02-05-02-0151-fn-0001-ptr">1</a></p>
+<p>You are to hold your Regt &amp; the 2d Regt ready to March at the first notice, either the whole or any part of them &amp; prepare
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0198">[198]</span>
+every thing for taking the Field[.] You will take care that your Commissarys have always in readiness for your March 8 Days Provisions until you can reach the Kings Magazines from the Time you come to them the Virginia Forces will be victualld as his Majestys Regular Troops.<a class="ptr" href="#GEWN-02-05-02-0151-fn-0002" id="GEWN-02-05-02-0151-fn-0002-ptr">2</a></p>
+<p>You are to give 40 Men to Capt. Stewart for a Troop of Light Horse from the 1st Virginia Regt those Men to be replacd from the 2d Regt &amp; the 40 Men given to Capt. Stewart to be carried on the Rolls &amp; Returns of the 2d Regt &amp; paid by them as a part of the Troops furnished by the Collony of Virginia.</p>
+<p>You are to compleat the 1st Regt and are to receive directions from Mr Prest Blair in what manner he would have it done. I have sent to Philadelphia for Tents for the 2 Regts which shall be deliverd you upon Mr Prest Blairs engaging to pay what they Cost.<a class="ptr" href="#GEWN-02-05-02-0151-fn-0003" id="GEWN-02-05-02-0151-fn-0003-ptr">3</a></p>
+<p>It will be expected that these Genl Forbess orders will be complyd with so that the whole may be in readiness to move in Fifteen days from the date hereof. Given under my Hand at Winchester this Twenty fourth day of May 1758.</p>
+<div class="closer">
+<p class="signed">John St clair.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-05-02-0151-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document Signed: a document not in the authors handwriting, but signed by the author  ]">DS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0151-fn-0001-ptr" id="GEWN-02-05-02-0151-fn-0001">1</a>
+
+   <p>No orders to this effect from Forbes have been found, but he may have issued them in his missing letter of 15 May to which St. Clair responded on 21 May (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers). Soon after his arrival in Winchester on 16 May, St. Clair reported to Forbes twice, on 19 May and 21 May, on the state of the Virginia forces at that place. On 19 May he wrote: I have seen the 4 Companys of Colo. Washingtons Regimt who are in Garrison at Fort Loudoun [at Winchester], if the other Companys are in as good order as those are you may expect a great deal of Service from them. That Regimt does Honour to its Collo. They are [in] want only of tents. . . . As to the 2d Regt I hear they are compleat, I have reviewed (the Captains Complement of) three Companys of 70 men each, who are good men; and shall review about 300 more to morrow, who are in, and near this Town; Besides I have account of 300 who are on their March: So that it is certain that in 4 or 5 days we shall have 800 of them here, but where to put them I cannot tell. On 21 May he added details about William Byrds 2d Virginia Regiment: I have reviewed 633 Men of the 2d Virginia Regt and there is near 200 more about Town who I am to see this day, Those are in want of everything as I told you in my Letter of the 19thI do not know where I can put them having no room in this place (ibid.). For the location of the other companies of GWs 1st Virginia Regiment at this time, see <a href="default.xqy?keys=GEWN-print-02-05-02-0089&amp;expandNote=GEWN-02-05-02-0089-fn-0005#GEWN-02-05-02-0089-fn-0005" class="document">GW to St. Clair, 12 April, n.5</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0151-fn-0002-ptr" id="GEWN-02-05-02-0151-fn-0002">2</a>
+
+   <p>On 1 June after GW had gone to Williamsburg (on 24 or 25 May) and contrary to Bouquets wishes, St. Clair sent Lt. Col. Adam Stephen with a
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-05-02-pb-0199">[199]</span>
+party of Virginia troops from Winchester to Pennsylvania. See <a href="default.xqy?keys=GEWN-print-02-05-02-0148" class="document">GW to Stephen, 24 May</a>, especially n.3, but see also Bouquet to St. Clair, 31 May, St. Clair to Bouquet, 31 May, Bouquet to St. Clair, 3 June, St. Clair to Bouquet, 3 June, and Stephen to Bouquet, 6 June, all in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald H. Kent et al., eds. &lt;i&gt;The Papers of Henry Bouquet&lt;/i&gt;. 6 vols. Harrisburg, Pa., 1951-94. ]">Stevens, <span class="hi-italic" style="font-style: italic;">Bouquet Papers</span></span>, 1:400402, 4025, 2:2225, 29, 41. See also St. Clair to Bouquet, 27 May, Forbes to St. Clair, 30 May, St. Clair to Forbes, 30 May, St. Clair to Blair, 31 May, and St. Clair to Forbes, 3 June, all in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>: Forbes Papers. After arriving at Fort Loudoun in Pennsylvania on 6 June, Stephen and his party moved with Bouquets forces to Raystown and during the summer helped build the encampment there as well as the new road toward Fort Duquesne. (For Stephens comments on opening the road from Fort Loudoun to Raystown, see <a href="default.xqy?keys=GEWN-print-02-05-02-0192" class="document">his letter to GW of 28 June</a>). GW left Winchester on 24 June with the three companies of the 1st Virginia Regiment remaining there and a company of artificers from the 2d Virginia Regiment. En route to Fort Cumberland, he was joined by captains Thomas Waggener and Robert McKenzie with their companies from his regiment. He completed his march on 2 July and set up camp near the fort. Robert Stewart, who was still forming his horse troop at Winchester when GW marched out, joined GW with his horsemen a little later. Col. William Byrd left Winchester on 26 June with his men and arrived at GWs camp at Fort Cumberland with eight companies of the 2d Virginia Regiment on 6 July. A return of the 2d Virginia Regiment of 12 June 1758 reports 37 commissioned officers, 5 staff officers, 50 noncommissioned officers, and 836 soldiers (Scottish Record Office: Dalhousie Muniments).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-05-02-0151-fn-0003-ptr" id="GEWN-02-05-02-0151-fn-0003">3</a>
+
+   <p>For St. Clairs letter to John Blair about the tents and other things, see <a href="default.xqy?keys=GEWN-print-02-05-02-0152&amp;expandNote=GEWN-02-05-02-0152-fn-0002#GEWN-02-05-02-0152-fn-0002" class="document">GW to Blair, 28 May, n.2</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-05-02-0151 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 5 (5 October 17573 September 1758)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-05-02-0150" title="From John Blair, 24 May 1758"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-05-02-0152" title="To John Blair, 28 May 1758"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

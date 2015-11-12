@@ -1,0 +1,175 @@
+Instructions to Colonel John Glover and Stephen Moylan, 4 October 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Instructions to Colonel John Glover and Stephen Moylan, 4 October 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0090&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-10-04-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0089" title="General Orders, 4 October 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0091" title="To Captain Daniel Morgan, 4 October 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; Instructions to Colonel John Glover and Stephen Moylan, 4 October 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0090&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0089" title="General Orders, 4 October 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0091" title="To Captain Daniel Morgan, 4 October 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0090">90</span><div id="Rev02d81" class="doc">
+
+<h1>Instructions to Colonel John Glover and Stephen Moylan</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[4 October 1775]</td>
+	      </tr>
+      </table>
+</div>
+<p>His Excelly having resolved to equip two armed Vessels has impowired you to negotiate this Business<a class="ptr" href="#GEWN-03-02-02-0090-fn-0001" id="GEWN-03-02-02-0090-fn-0001-ptr">1</a> in which the followg Directions are to be observed.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0091">[91]</span>
+<ul class="simple">
+	    <li>1. That the Vessels be approved Sailors &amp; as well found as possible.</li>
+	    <li>2. That you have an Appraismt made of them by indifferent People to be returned to Head Quarters.</li>
+	    <li>3. That you agree at as reasonable a Rate as you can for the Hire of the Vessels&amp; if possible procure the Cannon &amp; Swivels on Loan if not purchase them at the cheapest Rate <img class="char" src="images/char-per-trans.png" alt="[per]"/> Month.</li>
+	    <li>4. If you cannot equip them suitably at Salem or Marbleheadone of you to proceed to Newbury Port where there are several Vessels &amp; sundry Cannon provided suitable for this Purpose.<a class="ptr" href="#GEWN-03-02-02-0090-fn-0002" id="GEWN-03-02-02-0090-fn-0002-ptr">2</a></li>
+	    <li>5. You are as soon as possible to send down proper Directions for the making of the Cartridges &amp; providing Ammunition &amp; a List of what will be wanted.</li>
+	    <li>6. You are to nominate some suitable Person at Cape Ann, Marblehead &amp; each other Place where any Prizes may be sent as an Agent to take Care of such Prizes instructing him to give as early Information as possible of all Captures &amp; the List of the Cargo as far as he can do it from PapersThese Persons when nominated by you to receive Instructions from Head Quarters<a class="ptr" href="#GEWN-03-02-02-0090-fn-0003" id="GEWN-03-02-02-0090-fn-0003-ptr">3</a>You are also to settle with them the Terms &amp; let them be Persons of approved good Character &amp; known Substance. All Agreemts &amp;c. to be put in Writing.</li>
+	    <li>7. All Contracts entered into by you jointly when together or separately in Case one should go to Newbury the General will ratify &amp; confirm.</li>
+	    <li>8. As soon as either of the Vessels are in such forwardness as to be ready to sail in a few Days you are to send Notice to Head Quarters that the Officers &amp; Men may march down.</li>
+	  </ul>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-02-02-0090-sn">
+
+   <p>
+Copy in Joseph Reeds writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+
+Although Reeds copy has no dateline, it is endorsed Octr 4th 1775. The <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr> includes the closing, I am, Gentn Your Most Obt Servt G. Washington.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0090-fn-0001-ptr" id="GEWN-03-02-02-0090-fn-0001">1</a>
+
+   <p>GW left much of the correspondence concerning the fitting out of these vessels to Joseph Reed. On Saturday 30 Sept. Reed discussed the matter with a committee of the Massachusetts house of representatives, and on 2 Oct. he wrote to James Warren: Pursuant to the Declaration I had the Honour of Communicating to you and the other Gentlemen last Saturday from his Excellency, he has directed 3 Vessels to be immediately equipped: But as he gave the Several Captures to the Disposal of the General Court it may be necessary for them to Signify in some proper way that these Vessels are to be at the Direction
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0092">[92]</span>
+of the General or such as he shall appoint: Which may prevent any Obstacles arising with the Committees or other Persons with whom the Management of this Business is intrusted (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+ 
+   <p>The General Court resolved on the afternoon of 3 Oct. that the Marblehead committee of correspondence dispose of the captured schooner <span class="hi-italic" style="font-style: italic;">Industry</span> and the Gloucester committee of safety dispose of the captured brigantine <span class="hi-italic" style="font-style: italic;">Dolphin</span> by having each vessel appraised by three persons under oath, sending the appraisements to the General Court as soon as possible, and then delivering each vessel to his Excellency General <span class="hi-italic" style="font-style: italic;">Washingtons</span> Order, for him to improve her as an Armed Vessel for Defence of the Country, he giving his Receipt for the same accordingly (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A Journal of the Honorable House of Representatives of the Colony of the Massachusetts-Bay in New-England&lt;/i&gt;. Watertown, Mass., 1775. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">Mass. House of Rep. Journal</span>, JulyNov. 1775 sess. and Nov. 1775Feb. 1776 sess</span>, 13637; see also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ In &lt;i&gt;Journals, Minutes, and Proceedings, State of Massachusetts Bay, 17751780&lt;/i&gt;. (Microfilm Collection of Early State Records.) ]">Mass. Council Journal, July 1775Feb. 1776 sess</span>, 2012, and the copies of these resolutions in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p>The Vote of the General Court is at length received, Reed wrote to John Glover on 4 Oct., but upon Such Terms &amp; in Such a Manner that his Excellency the General does not chuse to meddle with either of these VesselsYou will therefore on Receipt of this take up two other Vessels the most suitable for our Purpose upon the best Terms you canlet them be prime Sailors, put them into the best Order &amp; loose no TimeA great Number of Transports are hourly expected at Boston from England and elswhereIf you cannot equip them with Guns Suitable from Salemby going to Newbury Port you may find not only a suitable Vessel but have your Choice of Guns for the PurposeAs you may have more men upon your Hands than you will be able to manage Mr Moyland the Muster Master General is associated with you in this Business &amp; whatever Engagements are entered into by you &amp; Mr Moyland when you may happen to be together or by either in Case one goes to Newbury the General will fully ratify &amp; Confirm (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+
+   <p>Reed also wrote on 4 Oct. to the Salem and Gloucester committees of safety: I am directed by his Excellency General Washington to inform you that he has referrd the Disposal of the Cargo of the Vessel lately taken within your District to the General Court of this Colony, to whom he has also recommended the brave Captors for a suitable Compensation. He now proposes to equip the Vessels as Ships of War &amp; immediately to send them on a Cruize, or if these Vessels are not fit for the Service to exchange them for others. For which Purpose he has dispatchd Colo. Glover, &amp; as it will not only be a Protection for the Coast but probably greatly distress the Enemy, his Excellency requests your kind Assistance to Colo. Glover in managing this Business (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0090-fn-0002-ptr" id="GEWN-03-02-02-0090-fn-0002">2</a>
+
+   <p>The Newburyport committee of safety petitioned the Massachusetts General Court on 27 Sept. for an armed vessel to protect the towns harbor, promising to procure a Vessell, &amp; Commander &amp; Men and if necessary eight or ten Carriage Guns, a number of Swivels, &amp; a small Quantity of Powder &amp; Provissions (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 2:21819).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0090-fn-0003-ptr" id="GEWN-03-02-02-0090-fn-0003">3</a>
+
+   <p>See the draft of instructions to prize agents and the nearly identical letter-book copy of instructions to William Watson, both dated 17 Oct. 1775 and signed by Joseph Reed by order of GW, in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. The latter document is printed, ibid., 49294.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0090 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0089" title="General Orders, 4 October 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0091" title="To Captain Daniel Morgan, 4 October 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,233 @@
+From Major General Philip Schuyler, 20 September 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 20 September 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0023&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-09-20-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0022" title="From Benjamin Church, 20 September 1775 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0024" title="General Orders, 21 September 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 20 September 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0023&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0022" title="From Benjamin Church, 20 September 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0024" title="General Orders, 21 September 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0017">17</span><div id="Rev02d19" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">Tionderoga [N.Y.] September 20th 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>The Day after I did Myself the Honor to write Your Excellency from Albany,<a class="ptr" href="#GEWN-03-02-02-0023-fn-0001" id="GEWN-03-02-02-0023-fn-0001-ptr">1</a> I set out for this Place &amp; arrived here on the 30th Ult: much indisposed with a billious Fever, next Day I followed General Montgomery whom I overtook on the 4th instant at the Isle au Motte he having been detained by Adverse Winds &amp; rainy Weather, On that Day we moved on to Isle au Noix (twelve Miles South of St Johns) on the fifth I drew a Declaration (but was so ill that it is not such as I could wish Copy of which No. 1. You have inclosed) which I sent into Canada by Major Brown &amp; Mr Allen<a class="ptr" href="#GEWN-03-02-02-0023-fn-0002" id="GEWN-03-02-02-0023-fn-0002-ptr">2</a> &amp; as we judged that going to St Johns weak as we were, (our Numbers not exceeding one Thousand and the little Artillery we had not come up) might have a Good Effect on the Canadians &amp; to encourage them to join Us, We resolved upon the Measure and landed our Baggage and Provisions Except for four Days &amp; early on the 6th embarked and without any Obstructions proceeded towards St Johns, when we arrived in Sight of It and at the Distance of about two Miles, the Enemy began to canonade, but did Us no Damage,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0018">[18]</span>
+We approached half a Mile nearer and then landed without Opposition in a close deep Swamp which extends to very near the Fort, here we formed and marched in the best Order we could towards the Fort to Reconnoitre, Major Hobby of Waterberys with a Detachment flanked the left Wing, and was Something advanced before the main Body when he was attacked in crossing a deep Muddy Brook by a Party of Indians from whom he received a heavy Fire, but our Men pushing on they soon gave Way and left us the Ground; in this Rencountre we had a Serjeant, a Corporal &amp; three Privates killed and one missing, Eight Privates wounded, three of which died the ensuing night, Major Hobby shot thro the Thigh, Capt. Mead thro the Shoulder &amp; Lieut. Brown in the Hand, these Gentlemen are all out of Danger<a class="ptr" href="#GEWN-03-02-02-0023-fn-0003" id="GEWN-03-02-02-0023-fn-0003-ptr">3</a>Night coming on &amp; the Swamp almost impassible we drew our Men together &amp; cast up a small Intrenchment to defend Ourselves in Case of an Attack in the Night. In the Evening a Gentleman <span class="hi-italic" style="font-style: italic;">Mr</span> <span class="hi-italic" style="font-style: italic;">mutilated</span> <span class="hi-italic" style="font-style: italic;">whose Name I can only mention to Your Excellency, not having even ventured it to the Congress &amp; therefore beg You to eraze the Scored Part of the Letter after Perusal</span> came to me &amp; gave me the following account,<a class="ptr" href="#GEWN-03-02-02-0023-fn-0004" id="GEWN-03-02-02-0023-fn-0004-ptr">4</a> That there were no Regular Troops in Canada but the 26th Regiment; That all these except 50 at Montreal were at St Johns &amp; Chamblee; That there were then at St Johns about 100 Indians &amp; that there was a considerable Body with Colo: Johnson; That the Fortifications were compleat &amp; strong &amp; plentifully furnished with Cannon; That the Vessel was launched &amp; had one Mast in and the Other ready to raise; That she would be ready to sail in three or four Days and is to carry 16 Guns; That he does not believe that our Army will be joined by one Canadian; That they wish to be neuter on the Occasion, but if We should penetrate into Canada, it would not displease them provided their Persons &amp; Properties were safe and we paid them in Gold &amp; Silver for what we had; That in the Situation we were in he judged it would be imprudent to attack St Johns and advised Us to send some Parties amongst the Inhabitants &amp; the Remainder of the Army to retire to the Isle-au-Noix, from whence we might have an Intercourse with La Praire; He told me that in the Afternoons Engagement five Indians were killed &amp; four badly wounded, besides several Others the Condition of whose Wounds he did not know &amp; Capt. Tyce of Johnstown, who was wounded in the Belly.<a class="ptr" href="#GEWN-03-02-02-0023-fn-0005" id="GEWN-03-02-02-0023-fn-0005-ptr">5</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0019">[19]</span>
+<p>On the 7th in the Morning (having been undisturbed thro the Night excepting by a few Shells which did no Other Damage than slightly wounding Lieut. Mills, I called a Council of War of all the Field Officers present, to whom I communicated the Information I had received &amp; inclose a Copy of their Opinion No. 2 which being perfectly consonant to my own I immediately ordered the Troops to embark &amp; we retired.<a class="ptr" href="#GEWN-03-02-02-0023-fn-0006" id="GEWN-03-02-02-0023-fn-0006-ptr">6</a></p>
+<p>On my Return to Isle au-Noix I immediately began to fortify the Place and to throw a Boom across the Channel until my Artillery should come up. On the 9th I received a Letter from Canada without Signature but which I knew to be written by Mr James Livingston Copy inclosed No. 3. As I had thro other Channels a Corroboration of the Intelligence contained in the former part of his Letter, I resolved as I had not yet my Artillery to detach 500 Men into Canada and gave Orders on the 9th for their Embarkation on the 10th with an Additional Number of about 300 to cover their Landing &amp; bring back the Boats. Copy of my Instructions to the Commanding Officer inclosed Number 4.<a class="ptr" href="#GEWN-03-02-02-0023-fn-0007" id="GEWN-03-02-02-0023-fn-0007-ptr">7</a></p>
+<p>For the Event of this intended Expedition see the Paper No. 5 which was drawn and delivered me by one of the Party and from what I can learn is just.<a class="ptr" href="#GEWN-03-02-02-0023-fn-0008" id="GEWN-03-02-02-0023-fn-0008-ptr">8</a> This Body returned on Monday the Eleventh, on Tuesday the twelfth I found I had upwards of 600 sick, Waterberys Regiment being reduced to less than 500. General Montgomery (for I was too ill to leave my Bed) perceived however with Pleasure, that the Men were unable to bear the Reproach of their late unbecoming Behaviour &amp; taking Advantage of this happy Return to a Sense of their Duty, on the 13th I issued the Orders contained in the Paper Number 6;<a class="ptr" href="#GEWN-03-02-02-0023-fn-0009" id="GEWN-03-02-02-0023-fn-0009-ptr">9</a> the fourteenth proved rainy &amp; retarded the Embarkation of the Cannon, on this Day Colo: Allen arrived and made the Report No. 7;<a class="ptr" href="#GEWN-03-02-02-0023-fn-0010" id="GEWN-03-02-02-0023-fn-0010-ptr">10</a> And I found Myself so much better that I had Hopes of moving with the Army, but by 10 at Night my Disorder reattacked me with double Violence and every fair Prospect of a speedy Recovery vanished. Great Part of the 15th rainy, the Embarkation much retarded by it, On the same Day I received the Letter of which No. 8 is a Copy;<a class="ptr" href="#GEWN-03-02-02-0023-fn-0011" id="GEWN-03-02-02-0023-fn-0011-ptr">11</a> on the 16th I was put into a covered Boat and left Isle aux Noix and as it rained Part of the Day I do not suppose that General Montgomery could move until the 17th which proved fair.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0020">[20]</span>
+<p>The Mode of the intended Attack on St Johns &amp;ca as judged best both by General Montgomery and Myself was as follows; To land as near the Fort as we did the first Time we went down, The two Row Gallies carrying a twelve Pounder each and well manned The Sloop &amp; Schooner and ten Batteaus with picked Men to lay in the River, ready to attack the Enemys Schooner (which is compleat and carries 16 Guns) in Case she should attempt to destroy our Boats or get to the Southward of them &amp; thereby effectually cut off all Communication between this Place and the ArmyAfter this Naval Arrangement (which will take 350 Men) 500 Men to be sent as a Corps of Observation to intercept any Succours between St Johns and Chamblee and to keep as near the former as possible, two hundred Men at the proposed Landing to cover the Boats and secure a Retreat for the Men in the Vessels and Boats should the Enemys Vessel be too many for them, the Remainder of the Army to invest the Place, make the Approaches &amp; erect the Batteries.</p>
+<p>You will perceive by No. 5 that some of the Enemys Boats fired on our People, Capt. Douglass who commands one of our armed Boats pointed and fired a twelve Pounder loaded with Ball and Grape Shot at them &amp; We have Accounts that about thirty of the Unfriendly Canadians were killed or drowned,<a class="ptr" href="#GEWN-03-02-02-0023-fn-0012" id="GEWN-03-02-02-0023-fn-0012-ptr">12</a> In the first Engagement on the 7th we killed them six Indians, two Caghnawagas, as many Mohawks (Daniel &amp; <span class="hi-italic" style="font-style: italic;">William</span> a Bastard Son of Sir William Johnstons),<a class="ptr" href="#GEWN-03-02-02-0023-fn-0013" id="GEWN-03-02-02-0023-fn-0013-ptr">13</a> one Connasadago and one Huron &amp; we are informed by a Caghnawaga &amp; Huron whom I left at Isle-au-Noix, That not an Indian remained at St Johns &amp; which I believe to be true, The four Deputies who were sent by the six Nations and left Isle au noix the 10th to request the Canadian Indians to remain Neuter, were not returned when I left Isle aux Noix. I have taken the liberty to desire General Montgomery to make a Present in the Name of the Congress to the Canadian Indians if he should think it necessary.</p>
+<p>Since the Affair of the 10th the Army at Isle aux Noix which then conscisted of 1394 Effectives, all Ranks included, has been reinforced by Capt. Livingstons Company of New Yorkers nearly compleat, on the 16th by Colo: Warner whom I met an Hour after my Departure with 170 Green Mountain Boys (being the first that have appeared of that boasted Corps, he left this with
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0021">[21]</span>
+about 50 More, but they mutinyed &amp; the Remainder are at Crown Point, Capt. Allens Company of the same Corps arrived here last Night, every Man of which was raised in Connecticut About 100 Men of Colo: Beadles from New Hampshire (This Corps was to have been up a fortnight before, the Remainder 150 of that Body were yet to come) joined the 16th at Night; and I suppose the Artillery Company under Captain Lamb will join them to Day, these last were indispensably necessary as we had none that knew any Thing of the Matter; So that the whole Reinforcement consists of about 400. Yesterday I sent off 60 of Eastons and 140 more are just embarking, this is the whole of that Corps, About 125 of the first New York Battalion will embark early to Morrow together with the Company of Green Mountain Boys consisting of about 70.<a class="ptr" href="#GEWN-03-02-02-0023-fn-0014" id="GEWN-03-02-02-0023-fn-0014-ptr">14</a></p>
+<p>Two hundred and sixty of the 3d New York Battalion remain here, which I will forward on as soon as I can procure Craft which is building slowly as most of the Carpenters are gone home Sick Your Excellencys Letter of the 8th instant I received Yesterday I am happy to learn that the Troops under the Command of Colo: Arnold were to march so soon; I hope our People will Commit no Depredations in Canada, all possible Care will be taken of it, but Yet I have many Fears on that Score, as they stole thirty two Sheep at Isle au Noix contrary to the most pointed Orders.</p>
+<p>Be assured Sir that I shall not fail of giving You the most early Intelligence of every Occurrance worthy Your Attention.</p>
+<p>I find Myself much better as the Fever has left me and hope soon to Return where I ought and wish to be Unless a barbarous Relapse should dash this Cup of Hope from my Lips.</p>
+<p>The Number of sick is incredible, and I have very little Assistance to afford them, I wish I could make You a Return of the Army under my Command, but I cannot get one, a great Deal of foul Play is carrying on.</p>
+<p>I am indebted to General Lee and Colo: Read for a Letter but I am too feeble to write, Be pleased to assure them of my Respect and be so good as to make my Compliments acceptable to all the Gentlemen of Your Suit. I am my Dear Sir Your Excellencys most Obedt &amp; Most Humble Servt</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0022">[22]</span>
+<div class="note-source" id="GEWN-03-02-02-0023-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0001-ptr" id="GEWN-03-02-02-0023-fn-0001">1</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-01-02-0266" class="document">Schuyler to GW, 27 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0002-ptr" id="GEWN-03-02-02-0023-fn-0002">2</a>
+
+   <p>Schuyler informed the Canadians in this document that he entered their country under the most positive orders [from Congress] to Cherish Every Canadian and Every friend to the Cause of Liberty, and Sacredly to guard their property (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). John Brown and Ethan Allen carried copies of the declaration to James Livingston, who distributed them. Ethan Allen (17381789) had lost his position as commander of the Green Mountain Boys in July and was at this time serving under Schuyler as a civilian scout. The British captured Allen on 25 Sept. when he rashly attacked Montreal with a small party of Americans and Canadians.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0003-ptr" id="GEWN-03-02-02-0023-fn-0003">3</a>
+
+   <p>The wounded officers are Thomas Hobby (17221798), Matthew Mead, and Bezaleel Brown (c.17291805), all of Greenwich, Connecticut. In 1776 Hobby became lieutenant colonel of a Connecticut militia regiment, and Mead became major of a Connecticut state regiment. Mead returned to the Continental army on 1 Jan. 1777 as a lieutenant colonel and served until May 1778. David Waterbury (17221801) of Stamford was colonel of the 5th Connecticut Regiment. He left the Continental army in December 1775 and subsequently served as a brigadier general of the Connecticut militia.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0004-ptr" id="GEWN-03-02-02-0023-fn-0004">4</a>
+
+   <p>Schuylers informant was Moses Hazen (17331803), a native of Massachusetts who had lived at St. Jean since 1763. Although Hazen was a retired British officer on half pay, the authorities in Canada had good reason to suspect him of being sympathetic to the American cause and had earlier imprisoned him for a time and confiscated his considerable property in the area. Hazen subsequently joined Gen. Richard Montgomerys force and participated in the sieges of Montreal and Quebec. In January 1776 Hazen became colonel of the 2d Canadian Regiment, and in June 1781 he was brevetted brigadier general.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0005-ptr" id="GEWN-03-02-02-0023-fn-0005">5</a>
+
+   <p>Gilbert Tice received a thigh wound while leading Indians against the Americans. Formerly a captain in the New York militia, Tice left the Mohawk Valley with Guy Johnson in July 1775 to go to Canada. Tice served the British throughout the war in the Indian Department, recruiting and commanding various bands of warriors. In August 1776 General Howe gave Tice a commission as captain in the British army.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0006-ptr" id="GEWN-03-02-02-0023-fn-0006">6</a>
+  
+   <p>The council recommended fortifying <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Ile' &lt;span style='font-size: 90%'&gt;[[2010-06-04]]&lt;/span&gt; ]">le</span> aux Noix to prevent the enemys armed vessel from sailing into Lake Champlain. It was further agreed to wait there for certain Intelligence touching the Intentions of the Canadians, &amp; when reinforced, [to] send a strong Detachment into the Country by Landshould the Canadians favor such a Design (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). The wounded lieutenant may be Benjamin Mills of the 4th Connecticut Regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0007-ptr" id="GEWN-03-02-02-0023-fn-0007">7</a>
+
+   <p>Livingston requested in his letter of 8 Sept. that a detachment be sent from Schuylers army to cut communications between St. Jean and Chambly (ibid.). Schuyler assigned that task to Lt. Col. Rudolphus Ritzema. In his instructions of 10 Sept. to Ritzema, Schuyler recommended approaching St. Jean as near as the Enemies Artillery will admit (ibid.). General Montgomery had overall command of Ritzemas detachment and the covering force.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0008-ptr" id="GEWN-03-02-02-0023-fn-0008">8</a>
+
+   <p>According to this anonymous report, Ritzemas detachment failed twice
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0023">[23]</span>
+on the night of 1011 Sept. to reach its objective. After landing about three miles from St. Jean, the troops dissolved in panic on their first march around the town when they mistook their flankers for the enemy, and on their second march they again retreated after the enemy fired a few shells at them. A third attempt the next morning was called off before it began when an officer reported that the enemys armed vessel was now finished and anchored nearby (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0009-ptr" id="GEWN-03-02-02-0023-fn-0009">9</a>
+
+   <p>Schuyler ordered the army to move down the Richelieu River again for another attack on St. Jean. The artillery was to be embarked on 14 Sept., and the troops were to leave on 15 Sept. (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0010-ptr" id="GEWN-03-02-02-0023-fn-0010">10</a>
+
+   <p>Ethan Allen reported on his recent conversations with representatives of the Caughnawaga Indians and Canadians at Chambly. The Indians gave Allen tokens of friendship and said that runners had gone to St. Jean to order the Caughnawaga in British service to leave. The Canadians treated Allen well, but it appeared, he wrote, that many of them were watching the Scale of Power. Only an immediate attack on St. Jean would induce them to take up arms for the Americans (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0011-ptr" id="GEWN-03-02-02-0023-fn-0011">11</a>
+
+   <p>This letter from James Livingston, apparently written on 15 Sept., contains a renewed request for a detachment to be sent out from Schuylers army. See note 7. The Canadians, Livingston wrote, desire nothing more than to see a party of your Men, and instead of three hundred now with me, coud procure you three thousand (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0012-ptr" id="GEWN-03-02-02-0023-fn-0012">12</a>
+
+   <p><span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Asa Douglas (17151792) was one of the Green Mountain Boys under Ethan Allen who captured Ticonderoga in May 1775.' &lt;span style='font-size: 90%'&gt;[[2015-03-16]]&lt;/span&gt; ]">William Douglas (Douglass; 17421777) was at this time a captain in the 1st Connecticut Regiment. He wrote to his wife on 16 Sept., giving an account of the action: "As I had the Command of our water Craft, I Lay in the front of the whole, where I Plainly Discovered the first fire of the enemy, on the 500 men we had Landed from boats and an ambuscade Laid on Shore for us. I Soon Made toward them, gave their bots a few Shot, with a twelve Pound Canon which made their fire Soon to Seise. Our men on Shore Kiled three on the Spot &amp; by the Inteligence of twenty Canadiens the Shots I gave them Sunk a boat with thirty eight men on board and wounded Several in other boats" (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letters Written during the Revolutionary War by Colonel William Douglas to His Wife Covering the Period July 19, 1775, to December 5, 1776. New-York Historical Society, &lt;i&gt;Quarterly Bulletin&lt;/i&gt; 12 (1929): 14554; 13 (192930): 3740, 7982, 11822, 15762; 14 (1930): 3842. ]">Douglas Letters</span>, 12:152).
+</span></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0013-ptr" id="GEWN-03-02-02-0023-fn-0013">13</a>
+
+   <p>Sir William Johnsons half-breed son, William, Tagawirunte (also known as William of Canajoharie) apparently fought for the British at St. Jean but did not die there.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0023-fn-0014-ptr" id="GEWN-03-02-02-0023-fn-0014">14</a>
+
+   <p>Henry Beekman Livingston (17501831) was appointed a captain in the 4th New York Regiment on 28 June 1775. After holding the ranks of major and lieutenant colonel, he became colonel of the 4th New York Regiment in November 1776 and served until January 1779. Seth Warner (17431784) was elected lieutenant colonel commandant of the Green Mountain Boys on 26 July 1775. Promoted to colonel in July 1776, Warner commanded a Continental regiment until the end of 1780. Capt. Heman Allen (c.17401778), a brother of Ethan Allen, was one of Warners captains. John Lamb (17351800) commanded an independent company of New York artillery. Wounded and captured at Quebec on 31 Dec., Lamb was later exchanged and served as colonel of the 2d Continental artillery from January 1777 to June 1783. James Easton, a militia officer and innkeeper from Pittsfield, Mass., led a company of volunteers under Ethan Allen at Ticonderoga in May and subsequently raised a regiment that served on the Canadian expedition until the capture of Montreal on 13 Nov., when it was disbanded. Congress confirmed Eastons rank as colonel on 1 Aug. 1776 but offered him no new command. He was formally dismissed from the Continental service on 16 July 1779. For a discussion of Col. Timothy Bedels ranger companies, see <a href="default.xqy?keys=GEWN-print-03-01-02-0114&amp;expandNote=GEWN-03-01-02-0114-fn-0003#GEWN-03-01-02-0114-fn-0003" class="document">GW to Schuyler, 27 July 1775, n.3</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0023 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0022" title="From Benjamin Church, 20 September 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0024" title="General Orders, 21 September 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

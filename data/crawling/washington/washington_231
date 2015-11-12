@@ -1,0 +1,164 @@
+Orders, 17 September 1755
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Orders, 17 September 1755</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-02-02-0034&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1755-09-17-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0033" title="Memorandum, 17 September 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-02-02-0035" title="Memorandum, 17 September 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-02&amp;mode=TOC">Volume 2 (14 August 175515 April 1756)</a>&gt; <a href="?keys=GEWN-print-02-02-02&amp;mode=TOC">Documents</a>&gt; Orders, 17 September 1755</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-02-02-0034&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0033" title="Memorandum, 17 September 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0035" title="Memorandum, 17 September 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0040">40</span><div id="Col02d37" class="doc">
+
+<h1>Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[17 September 1755]</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-indent: 0;">Ensign Forgie for the Day.<a class="ptr" href="#GEWN-02-02-02-0034-fn-0001" id="GEWN-02-02-02-0034-fn-0001-ptr">1</a> Parole Success. Fort Cumberland: September 17, 1755.</p>
+<p>George Washington Esquire, is by His Honor Governour Dinwiddie, appointed Colonel of the Virginia Regiment, and Commander in Chief of all the Forces that now are, and shall be Raised &amp;c. &amp;c.</p>
+<p>Captain Adam Stephen is appointed Lieutenant Colonel; and Captain Andrew Lewis, Major of the same RegimentCaptain George Mercer, of the Virginia Forces, is appointed aid de Camp to Colonel Washington.</p>
+<p>Lieutenants John Savage, John Mercer, Joshua Lewis, and Henry Woodward, are promoted as Captains in the Virginia Regiment.</p>
+<p>Mr Robert Spotswood, Carter Harrison, Charles Lewis, William Peachy, David Bell, and Robert McKenzie, are appointed Captains in the same Regiment.</p>
+<p>Ensigns Thomas Bullet, Walter Stewart, John Blegg, Hancock Eustace, and George Frazier, are promoted to LieutenantsMr John Edward Lomax, Peter Steenbergen, John Williams, Augustine Brokenborough, John Campbell, John Hall, John Lowry, John King, and James Baker, are appointed Lieutenants: Quarter Master, Mordecai Buckner, is appointed Ensign. Mr John Polson, William Dangerfield, Edward Hubbard, John Dean, Nathaniel Milner, William Fleming, Leonard Price, Nathaniel Thomson, Thomas Carter, Charles Smith, Lee Hessius
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0041">[41]</span>
+Dekeyzier; George Gordon, and George Weeden, are appointed Ensigns.</p>
+<p>The former Captains and Lieutenants, who are not promoted, continue in their former posts<a class="ptr" href="#GEWN-02-02-02-0034-fn-0002" id="GEWN-02-02-02-0034-fn-0002-ptr">2</a>James Livingston, Fort-Major, is appointed Adjutant to the Virginia RegimentEvery Officer of the Virginia Regiment, to provide himself as soon as he can conveniently, with a Suit of Regimentals of good blue Cloath; the Coat to be faced and cuffed with Scarlet, and trimmed with Silver: a Scarlet waistcoat, with silver Lace, blue Breeches, and a silver-laced Hat, if to be had, for Camp or Garrison Duty.</p>
+<p>Besides this, each Officer to provide himself with a common Soldiers Dress, for Detachments, and Duty in the Woods.</p>
+<p>The Captain or Commanding Officer, of each Company, to give in an exact Return of the State of his Company; specifying the number of Arms, Tents, Kettles, and Clothing thereto Belonging. All Orders before given for the Regulation of the Fort and Camp, to be punctually obeyed.</p>
+<p>Mr Defever, Conductor of the Train, to give in an exact Return of the ammunition of all Sorts, and Tools of every kind.<a class="ptr" href="#GEWN-02-02-02-0034-fn-0003" id="GEWN-02-02-02-0034-fn-0003-ptr">3</a></p>
+<p>All the Officers of the Virginia Regiment, to attend Colonel Washington at five OClock this Evening, in the Room adjoining the Fort Majors.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-02-02-0034-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0034-fn-0001-ptr" id="GEWN-02-02-02-0034-fn-0001">1</a>
+
+   <p>Charles Lewis mentions in his journal an Ens. Winter Fargie who was in Dec. 1755 in charge of a party of men who were harvesting corn from deserted farms on the war-ravaged frontier near Fort Cumberland (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>). Fargie was probably an officer of the Maryland or North Carolina troops remaining at the fort.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0034-fn-0002-ptr" id="GEWN-02-02-02-0034-fn-0002">2</a>
+
+   <p>The officers here promoted from lieutenant to captain or from ensign to lieutenant in the Virginia Regiment were all serving in the Virginia forces before GW formed the new regiment in early September, as were the two regimental officers named, GWs aide-de-camp, and the regimental adjutant. The 6 newly appointed captains and the 9 newly appointed lieutenants are the same men that GW listed on 3 Sept. when he sent these new officers from Williamsburg to recruit. He also listed at Williamsburg 9 of the 14 men whom he named here to serve as ensigns in the regiment; he added at Fort Cumberland the names of ensigns Mordecai Buckner, Lehaynsius De Keyser, John Polson, Charles Smith, and George Gordon. The officers who continued in rank and, except for George Mercer, are not named in these orders of 17 Sept. are captains Peter Hog, George Mercer, Thomas Waggener, Robert Stewart, Thomas Cocke, and William Bronaugh and lieutenants John McNeill and William Stark. Although a number of new names were added to the roster
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-02-02-pb-0042">[42]</span>
+of officers in the regiment after Sept. 1755, and the names of other officers had already disappeared through death and resignation before 1 Sept. 1755, these men holding commissions in the Virginia Regiment at this time include most of the Virginia officers with whom GW served beginning with his defeat at Fort Necessity in 1754 and ending with his resignation as colonel of the Virginia Regiment at the end of 1758. See <a href="default.xqy?keys=GEWN-print-02-02-02-0033&amp;expandNote=GEWN-02-02-02-0033-fn-0001#GEWN-02-02-02-0033-fn-0001" class="document">note 1 in GWs first Memorandum of 17 Sept. 1755</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-02-02-0034-fn-0003-ptr" id="GEWN-02-02-02-0034-fn-0003">3</a>
+
+   <p>As conductor of the train of artillery John Defever had custody of the kings stores at Fort Cumberland until his departure, probably in the summer of 1756. For the time of his departure, see <a href="default.xqy?keys=GEWN-print-02-03-02-0158" class="document">GW to Adam Stephen, 18 May 1756</a>, and <a href="default.xqy?keys=GEWN-print-02-04-02-0096" class="document">to John Stanwix, 28 May 1757</a>. His <a href="default.xqy?keys=GEWN-print-02-02-02-0045" class="document">return of the stores to GW <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from ',' &lt;span style='font-size: 90%'&gt;[[2014-11-06]]&lt;/span&gt; ]">is</span> dated 18 Sept. 1755</a><span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ', is printed below' &lt;span style='font-size: 90%'&gt;[[2014-11-06]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-02-02-0034 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 2 (14 August 175515 April 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-02-02-0033" title="Memorandum, 17 September 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-02-02-0035" title="Memorandum, 17 September 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,179 @@
+none 6
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>VI. U to the Boston Gazette, 29 August 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0007&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1763-08-29-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; VI. U to the <span class="italic">Boston Gazette</span>, 29 August 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0007&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0076">76<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0076.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d053" class="doc letter">
+
+     <h2>VI. U to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To the PRINTERS.</td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">29 August 1763</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>My worthy and ingenious friend, Mr. <span class="hi-italic" style="font-style: italic;">J</span>, having strutted and foamed his hour upon the stage and acquired as well as deserved a good reputation as a man of sense and learning, some time since made his exit, and now is heard no more.<a class="ptr" href="#PJA01d053n1" id="PJA01d053n1-ptr">1</a></p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0077">[77<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0077.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>Soon after Mr. Js departure, your present correspondent made his appearance; but has not yet executed his intended plan.Mr. <span class="hi-italic" style="font-style: italic;">J</span> inlisted himself under the banners of a <span class="hi-italic" style="font-style: italic;">faction</span>, and employed his <span class="hi-italic" style="font-style: italic;">agreable</span> pen, in the propagation of the principles and prejudices of a <span class="hi-italic" style="font-style: italic;">party</span>: and for this purpose he found himself obliged to exalt some characters and depress others, equally beyond the truthThe greatest and best of all mankind, deserve less admiration; and even the worst and vilest deserve more candour, than the world in general is willing to allow them.The favourites of parties, altho they have always some virtues, have always many imperfections. Many of the ablest tongues and pens, have in every age been employd in the foolish, deluded, and pernicious flattery of one set of partisans; and in furious, prostitute invectives against another: But such kinds of oratory never had any charms for me.And if I must do one or the other, I would quarrel with both parties, and with every individual of each, before I would subjugate my understanding, or prostitute my tongue or pen to either.</p>
+      <p>To divert mens minds from subjects of vain curiosity or unprofitable science, to the useful as well as entertaining speculations of agriculture,To eradicate the Gothic and pernicious principles of <span class="hi-italic" style="font-style: italic;">private revenge</span>, that have been lately spread among my countrymen, to the debasement of their character, and to the frequent violation of the public peace,and to recommend a careful attention to political <span class="hi-italic" style="font-style: italic;">measures</span>, and a candid manner of reasoning about them; instead of abusive <span class="hi-italic" style="font-style: italic;">insolence</span>, or uncharitable <span class="hi-italic" style="font-style: italic;">imputations</span> upon <span class="hi-italic" style="font-style: italic;">men</span> and characters, has, since I first undertook the employment of entertaining the Public, been my constant and invariable point of view. The difficulty or impracticability of succeeding in my enterprize, has often been objected to me, by my friends: but even this has not wholly disheartened meI own it would be easier to depopulate a province, or subvert a monarchy; to transplant a nation, or enkindle a new war; and that I should have a fairer prospect of success, in such designs as those: But my consolation is this, that if I am unable by my writings to effect any good purpose I never will subserve a bad one. If engagements to a <span class="hi-italic" style="font-style: italic;">party</span>, are necessary to make a fortune, I had rather make none at all, and spend the remainder of my days like my favourite author, that ancient and immortal husbandman, philosopher, politician and general, <span class="hi-italic" style="font-style: italic;">Xenophon</span>, in his retreat; considering kings and princes as shepherds, and their people and subjects like flocks and herds, or as mere objects of contemplation and parts of a curious machine in which I had no interest; than to wound my own mind by engaging in any <span class="hi-italic" style="font-style: italic;">party</span>, and spreading prejudices, vices or follies.Notwithstanding this, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0078">[78<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0078.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>I remember the <span class="hi-italic" style="font-style: italic;">Monkish</span> maxim, <span class="hi-italic" style="font-style: italic;">fac officium taliter qualiter, sed sta ben cum priore.<a class="ptr" href="#PJA01d053n2" id="PJA01d053n2-ptr">2</a></span> And it is impossible to <span class="hi-italic" style="font-style: italic;">stand well</span> with the Abbot, without <span class="hi-italic" style="font-style: italic;">fighting</span> for his cause thro <span class="hi-italic" style="font-style: italic;">fas</span> and <span class="hi-italic" style="font-style: italic;">nefas</span>.<a class="ptr" href="#PJA01d053n3" id="PJA01d053n3-ptr">3</a></p>
+      <p>Please to insert the foregoing and following, which is the last Deviation I purpose to make from my principal and favourite Views of writing on <span class="hi-italic" style="font-style: italic;">Husbandry</span> and <span class="hi-italic" style="font-style: italic;">Mechanic</span> Arts.</p>
+      <div class="closer">
+       <p class="signed">U.</p>
+      </div>
+     </div>
+     <div class="docbody">
+      <p>There is nothing in the science of human nature, more curious, or that deserves a critical attention from every order of men, so much, as that principle, which moral writers have distinguished by the name of <span class="hi-italic" style="font-style: italic;">self-deceit.</span> This principle is the spurious offspring of <span class="hi-italic" style="font-style: italic;">self-love</span>; and is perhaps the source of far the greatest, and worst part of the vices and calamities among mankind.</p>
+      <p>The most abandoned minds are ingenious in contriving excuses for their crimes, from constraint, necessity, the strength, or suddenness of temptation, or the violence of passion; which serves to soften the remordings of their own consciences, and to render them by degrees, insensible equally to the charms of virtue, and the turpitude of vice. What multitudes, in older countries, discover, even while they are suffering deservedly the most infamous and terrible of civil punishments a tranquility, and even a magnanimity, like that, which we may suppose in a real patriot, dying to preserve his country!Happy would it be for the world, if the fruits of this pernicious principle were confined to such profligates. But if we look abroad, shall we not see the most modest, sensible and virtuous of the common people, almost every hour of their lives, warped and blinded, by the same disposition to flatter and deceive themselves! When they think themselves injured, by any foible or vice in others, is not this injury always seen thro the magnifying end of the perspective: When reminded of any such imperfection in themselves, by which their neighbours or fellow citizens are sufferers, is not the perspective instantly reversed? Insensible of the beams in our own eyes, are we not quick in discerning motes in those of others?Nay however melancholy it may be, and how humbling soever to the pride of the human heart, even the few favourites of nature, who have received from her clearer understandings, and more happy tempers than other men; who seem designed under providence to be the great conductors of the art and science, the war and peace, the laws and religion of this lower world, are often seduced by this unhappy disposition in their minds, to their own destruction, and the injury, nay often to the utter desolation of millions of their fellow-men.Since truth and virtue, as the means of <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0079">[79<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0079.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>present and future happiness, are confessed to be the only objects that deserve to be pursued; to what imperfection in our nature or unaccountable folly in our conduct, excepting this of which we have been speaking, can mankind impute the multiplyd diversity of opinions, customs, laws and religions, that have prevailed, and is still triumphant, in direct opposition to both? From what other source can such fierce disputations arise concerning the two things which seem the most consonant to the entire frame of human nature?Indeed it must be confessed, and it ought to be with much contrition lamented, that those eyes which have been given us to see, are willingly suffered by us to be obscured; and those consciences, which by the commission of God almighty have a rightful authority over us, to be deposed by prejudices, appetites and passions, which ought to hold a much inferior rank in the intellectual and moral system.Such swarms of passions, avarice and ambition, servility and adulation, hopes, fears, jealousies, envy, revenge, malice and cruelty are continually buzzing in the world, and we are so extremely prone to mistake the impulses of these for the dictates of our consciences; that the greatest genius, united to the best disposition, will find it hard to hearken to the voice of reason, or even to be certain of the purity of his own intentions.</p>
+      <p>From this true but deplorable condition of mankind, it happens that no improvements in science or literature, no reformation in religion or morals, nor any rectification of <span class="hi-italic" style="font-style: italic;">mistaken measures</span> in government can be made, without opposition from numbers, who, flattering themselves that their own intentions are pure (how sinister soever they may be in fact,) will reproach impure designs to others; or fearing a detriment to their interest, or a mortification to their passions from the innovation, will even think it lawful directly and knowingly to falsify the <span class="hi-italic" style="font-style: italic;">motives</span> and <span class="hi-italic" style="font-style: italic;">characters</span> of the innovators.</p>
+      <p>Vain ambition and other vicious motives, were charged by the sacred congregation, upon <span class="hi-italic" style="font-style: italic;">Gallilaei</span>, as the causes of his hypothesis concerning the motion of the earth, and charged so often and with so many terms, as to render the old man at last suspicious, if not satisfyd that the charge was true: tho he had been led to this hypothesis by the light of a great genius, and deep researches into Astronomy.Sedition, rebellion, pedantry, desire of fame, turbulence and malice, were always reproached to the great reformers, who delivered us from the worst chains that were ever forged by Monks or Devils, for the human mind.<span class="hi-italic" style="font-style: italic;">Zozimus</span><a class="ptr" href="#PJA01d053n4" id="PJA01d053n4-ptr">4</a> and <span class="hi-italic" style="font-style: italic;">Julian</span> could easily discover, or invent annecdotes, to dishonour the conversion of <span class="hi-italic" style="font-style: italic;">Constantine</span>, and his establishment of Christianity, in the empire.</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0080">[80<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0080.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>For these reasons, we can never be secure in a resignation of our understandings, or in confiding <span class="hi-italic" style="font-style: italic;">enormous power</span>, either to the <span class="hi-italic" style="font-style: italic;">Bramble</span> or the <span class="hi-italic" style="font-style: italic;">Cedar</span>; no, nor to <span class="hi-italic" style="font-style: italic;">any mortal</span>, however great or good: And for the same reasons, we should always be upon our guard against the epithets and reflections of writers and declaimers, whose constant art it is to falsify and blacken the characters and measures they are determined to discredit.</p>
+      <p>These reflections have been occasioned by the late controversies in our News-Papers, about certain measures in the political world.Controversies that have this, in common with others of much greater figure and importance; and indeed with all others (in which numbers have been concerned) from the first invention of letters to the present hour: that more pains have been employed in charging desire of popularity, restless turbulence of spirit, ambitious views, envy, revenge, malice, and jealousy, on one side: and servility, adulation, tyranny, principles of arbitrary power, lust of dominion, avarice, desires of civil or military commissions on the other; or in fewer words, in attempts to blacken and discredit the motives of the disputants on both sides; than in rational enquiries into the merits of the cause, the truth and rectitude of the measures contested.</p>
+      <p>Let not writers nor statesmen deceive themselves. The springs of their own conduct and opinions are not always so clear and pure, nor are those of their antagonists in politics, always so polluted and corrupted as they believe, and would have the world believe too. Mere readers, and private persons, can see virtues and talents on each side: and to their sorrow they have not yet seen any side altogether free from atrocious vices, extreme ignorance, and most lamentable folly.Nor will mere readers and private persons be less excuseable, if they should suffer themselves to be imposed on by others, who first impose upon themselves.Every step in the public administration of government, concerns us <span class="hi-italic" style="font-style: italic;">nearly.</span> Life and fortune, our own, and those of our posterity, are not <span class="hi-italic" style="font-style: italic;">trifles</span> to be neglected or <span class="hi-italic" style="font-style: italic;">totally entrusted</span> to other hands: And these, in the vicissitudes of human things, may be rendered in a few years, either totally uncertain, or as secure as fixed Laws and the <span class="hi-italic" style="font-style: italic;">British</span> constitution <span class="hi-italic" style="font-style: italic;">well administered</span> can make them, in consequence of <span class="hi-italic" style="font-style: italic;">measures</span> that seem at present but <span class="hi-italic" style="font-style: italic;">trifles</span>, and to many scarcely worth attention. Let us not be bubbled then out of our reverence and obedience to Government, on one hand; nor out of our right to think and act <span class="hi-italic" style="font-style: italic;">for ourselves</span>, in our own departments, on the other. The steady management of a good government is the most anxious arduous and hazardous vocation on this side the grave: Let <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0081">[81<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0081.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>us not encumber those, therefore, who have <span class="hi-italic" style="font-style: italic;">spirit</span> enough to embark in such an enterprize, with any kind of opposition, that the preservation or perfection of our mild, our happy, our most excellent constitution, does not <span class="hi-italic" style="font-style: italic;">soberly</span> demand.</p>
+      <p>But on the other hand, as we know that ignorance, vanity, excessive <span class="hi-italic" style="font-style: italic;">ambition</span> and venality, will in spight of all human precautions creep into government, and will ever be aspiring at <span class="hi-italic" style="font-style: italic;">extravagant</span> and <span class="hi-italic" style="font-style: italic;">unconstitutional</span> emoluments to <span class="hi-italic" style="font-style: italic;">individuals</span>; let us never relax our attention, or our resolution to keep these unhappy imperfections in human nature, out of which material, frail as it is, all our rulers <span class="hi-italic" style="font-style: italic;">must be</span> compounded, under a strict <span class="hi-italic" style="font-style: italic;">inspection</span>, and a just <span class="hi-italic" style="font-style: italic;">controul</span>.We <span class="hi-italic" style="font-style: italic;">Electors</span> have an important <span class="hi-italic" style="font-style: italic;">constitutional</span> power placed in our hands: We have a check upon two branches of the legislature, as each branch has upon the other two; the power I mean of electing, at stated periods, <span class="hi-italic" style="font-style: italic;">one</span> branch, which branch has the power of electing another. It becomes necessary to every subject then, to be in some degree a <span class="hi-italic" style="font-style: italic;">statesman</span>: and to examine and judge for <span class="hi-italic" style="font-style: italic;">himself</span> of the <span class="hi-italic" style="font-style: italic;">tendency</span> of political <span class="hi-italic" style="font-style: italic;">principles</span> and <span class="hi-italic" style="font-style: italic;">measures.</span> Let us examine them with a <span class="hi-italic" style="font-style: italic;">sober</span>, a <span class="hi-italic" style="font-style: italic;">manly</span>, a <span class="hi-italic" style="font-style: italic;">British</span>, and a <span class="hi-italic" style="font-style: italic;">Christian</span> spirit. Let us neglect all <span class="hi-italic" style="font-style: italic;">party</span> virulence and advert to <span class="hi-italic" style="font-style: italic;">facts.</span> Let us believe no man to be <span class="hi-italic" style="font-style: italic;">infallible</span> or <span class="hi-italic" style="font-style: italic;">impeccable</span> in government, any more than in religion: take no mans word against evidence, nor <span class="hi-italic" style="font-style: italic;">implicitly</span> adopt the sentiments of others, who may be deceived themselves, or may be <span class="hi-italic" style="font-style: italic;">interested</span> in deceiving us.</p>
+      <div class="closer">
+       <p class="signed">U.</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d053sn1">
+       
+   <p>
+        <span class="docSource"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr> not found. <span class="dType">Reprinted</span> from the  (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 29 Aug. 1763). In <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Works of John Adams, Second President of the United States: with a Life of the Author&lt;/i&gt;, ed. Charles Francis Adams, Boston, 18501856; 10 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Works</span></span>, 3:432437, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Francis Adams (18071886), son of John Quincy Adams and Louisa Catherine Adams ]">CFA</abbr> reprinted the two U letters in this issue of the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span> as a single essay with the title On Self-Delusion. The first is a kind of preamble to the second and directly precedes it in the newspaper.</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d053n1-ptr" id="PJA01d053n1">1</a>
+       
+   <p>Jonathan Sewalls last article as J in 1763 was published in the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span>, 13 June.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d053n2-ptr" id="PJA01d053n2">2</a>
+       
+   <p>Do what is required as it should be done, but stand well with the abbot.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d053n3-ptr" id="PJA01d053n3">3</a>
+       
+   <p>Through fair means and foul.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d053n4-ptr" id="PJA01d053n4">4</a>
+       
+   <p>Zosimus, <span class="hi-italic" style="font-style: italic;">Zosimi Com. Historiarum libri VI, Procopius</span> [sic] <span class="hi-italic" style="font-style: italic;">De bell. Justiniani libri totidem . . . </span> MDCV. Recensuit . . . D.D. [sic] 1736 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Catalogue of the John Adams Library in the Public Library of the City of Boston&lt;/i&gt;, Boston, 1917. ]"><span class="hi-italic" style="font-style: italic;">Catalogue of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s Library</span></span>). Zosimus, a professed pagan, covered the history of Rome to the time of its fall before Alaric (<span class="hi-italic" style="font-style: italic;">The Cambridge Medieval History</span>, N.Y., 1911, <span class="hi-italic" style="font-style: italic;">1:passim</span>).</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0007 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0006" title="V. U to the  Boston Gazette , 1 August 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0008" title="VII. An Essay on Mans Lust for Power, with the Authors Comment in 1807"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

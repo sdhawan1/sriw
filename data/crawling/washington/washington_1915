@@ -1,0 +1,176 @@
+From Robert Carter Nicholas and George Wythe, 27 May 1760
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert Carter Nicholas and George Wythe, 27 May 1760</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-06-02-0231&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1760-05-27-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0230" title="To Robert Carter Nicholas and George Wythe, 21 May 1760 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-06-02-0232" title="From Joseph Valentine, 27 May 1760"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-06&amp;mode=TOC">Volume 6 (4 September 175826 December 1760)</a>&gt; <a href="?keys=GEWN-print-02-06-02&amp;mode=TOC">Documents</a>&gt; From Robert Carter Nicholas and George Wythe, 27 May 1760</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-06-02-0231&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0230" title="To Robert Carter Nicholas and George Wythe, 21 May 1760 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0232" title="From Joseph Valentine, 27 May 1760"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0422">422</span><div id="Col06d238" class="doc">
+
+<h1>From Robert Carter Nicholas and George Wythe</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Williamsburg 27th May 1760</td>
+	      </tr>
+      </table>
+</div>
+<p>Yesterday we received your Letter of the 21st Instant<a class="ptr" href="#GEWN-02-06-02-0231-fn-0001" id="GEWN-02-06-02-0231-fn-0001-ptr">1</a> &amp; are sorry to find you are likely to be involved in so much Trouble by your late Purchase of Cliftons Neck, &amp; the more so, because we dont find ourselves able, even after the maturest Deliberation, to point out such Measures for you to conduct yourself by, as can with any Certainty be relied on; however, as you desire it, we &amp; will freely &amp; candidly give you our private Opinions of the Matter, private we call them, because we can give no Assurances that they will correspond with those of superior Judges, indeed we know they differ materially in some Respects with the Judgt of the supreme Court in this Colony.</p>
+<p>We think with you that the greatest Danger is to be apprehended from Mr Carrols Demand; he at entering the final Decree moved for an Appeal, in which he seemd very sanguine, but the Court refused it because they thought the Sum under 500 Stg. If he should continue as earnest in the Matter as he seemd to be the last Time we heard from him, we suppose he will apply for &amp; obtain a Writ of privy Seal to remove the Cause to England; if he should do this, we have very little Doubt but that so much of the Decree, as respects him, will be reversed. Mr Carrols original Demand, or rather Mr Ig. Diggess for Carrol assignd the Debt to him; agt Clifton was 627.9.4 Sterlg with 6 <img class="char" src="images/char-per-trans.png" alt="[per]"/>Ct Int. from the 16th Octr 1752, as youll observe by the inclosed Acct; in this Sum was included the accumulated or comp[o]und Interest so much complaind of by Clifton &amp; which our Court disallowd; but we incline to think that Carrol, considering the whole Circumstances of this Case, would upon an Appeal be allowd his whole Demand; but at all Events, after deducting the comp[o]und Interest, the Money Mr Mercer recoverd, if that should be allowed, &amp; in short after making every Deduction which we think there is the least colourable Foundation for, we are convinced Mr Carroll is at least well entituled to 584.12.1 Stg; so that by comparing these Sums with what
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0423">[423]</span>
+is allowd Mr Carroll by the Decree, youll be able to judge whether it is worth your while to offer him 100; tho if you still incline to do it &amp; he will accept your Proposal, we think you will purchase his Acquiescence at an easy Rate.<a class="ptr" href="#GEWN-02-06-02-0231-fn-0002" id="GEWN-02-06-02-0231-fn-0002-ptr">2</a> As to Mr Masons Pretensions, we dont know whether he will put his Threats in Execution; but if he should we cant pretend to say what will be the Consequence of them. The General Court was much divided whether they should renew the Order for a Sale, as Mr Mason offerd to lodge Money enough to satisfy the several Creditors; many of the Court, Bar &amp; Bystanders thought it hard that this Proposal was not accepted. We think the Court here would &amp; ought to do every Thing in their Power to confirm the Sale &amp; enforce every other Part of their Decree; but you know there is a superior Jurisdiction; which will not think herself bound by any Steps our Court has taken. If Mr Masons Agreement should be establishd there is an End to yours &amp; if Mr Carrol should recover more than is decreed to him by our Court, the Land undoubtedly will remain a Security for the Exceeding Sum; as these material Points depend upon future Determinations of Mens Judgments, than which you know Nothing is more uncertain, we really are at a Loss, as we said before, how to advise you.<a class="ptr" href="#GEWN-02-06-02-0231-fn-0003" id="GEWN-02-06-02-0231-fn-0003-ptr">3</a> As to Cliftons Declaration that he will not deliver Possession of the Land till the year 1762, we cant find out his Reason for it, but are sure there is nothing in the Case to countenance such a Piece of Obstinacy.<a class="ptr" href="#GEWN-02-06-02-0231-fn-0004" id="GEWN-02-06-02-0231-fn-0004-ptr">4</a> We think, according to the Decree, that the Commissioners ought to pay such of the creditors as are willing &amp; ready to comply with the Terms of it, &amp; upon their Receipt of the Money they ought to convey to you their Title &amp; Interest of the Land, which we fear will not be a sufficient Security to you agt Carrol, if the Decree should be reversed &amp; he should recover his whole Demand. If Clifton continues obstinate, upon proper affadavits of his refusing to join in a Conveyance &amp; deliver Possession I imagine the General Court would commit him for a Contempt till he complys with the Decree, which perhaps may be the spediest method of gaining you the Possession; but Nothing of this Sort can be done till October. You cant recover the Possession in a Court of Law till you are invested with the Legal Title, which you cant have but by a Deed from the Maryland Creditors, who are the Mortgagees.<a class="ptr" href="#GEWN-02-06-02-0231-fn-0005" id="GEWN-02-06-02-0231-fn-0005-ptr">5</a> If Messrs Digges &amp; Addison convey to you their Interest
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0424">[424]</span>
+in the Land, perhaps you might be let into such Part of it as is proportionate to the Terms they receive; but the method of doing this will be excessively tedious &amp; very expensive. We would send you a Conveyance as you desire, but cant prepare it properly without the Title Deeds nor without knowing who are to be the Parties; we would therefore recommend your Neighbour Mr Johnston to you as the properest Gentleman for this Business, as he is upon the Spot &amp; may be acquainted with every Circumstance as it may turn out.<a class="ptr" href="#GEWN-02-06-02-0231-fn-0006" id="GEWN-02-06-02-0231-fn-0006-ptr">6</a> If the Money is not paid to such of the Creditors as are willing to comply with the Terms of the Decree, their Interest in Justice ought to run on, &amp; whoever is the Cause of the Moneys being with-held, without Doubt ought to answer it. As you have already paid the Money &amp; its probable youll not very soon get Possession of the Land, we think you are well entituled to the Rents &amp; Profits; perhaps the Tenants will agree to pay their Rents to you, upon their being fully indemnified; if they will not, we think you should forbid their paying them to any other Person; Clifton surely can have no Right to receive them, &amp; we suppose most of the Creditors will agree that they may be paid to you, after they have received their Money. If Carrol appeals, we think in Justice Clifton ought to defend it, though we suppose hell not concern himself about the Matter, &amp; therefore it probably will go undone unless you will undertake it; the Expence is very uncertain &amp; as to the Consequence, we have before given you our Sentiments. Bills of Exchange no Doubt are a good Payment, if accepted by the Creditor, otherwise not; we would therefore advise you to pay Mr Carrolls Proportion in Current Money at 40 <img class="char" src="images/char-per-trans.png" alt="[per]"/>ct, the Rate, at which Excha. was settled at our last Court. As you have gone so far into the Purchase, it may be worth your while to sound Mr Carroll, the Terms you are the best Judge of, &amp; if you could satisfy him, perhaps Mr Mason might cool a little. We are, Sir, Yr most obt humble Serts</p>
+<div class="closer">
+<p class="signed">Ro. C. Nicholas</p>
+<p class="signed">G. Wythe</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-06-02-0231-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, anonymous donor.
+ The letter is in Robert Carter Nicholass hand.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0001-ptr" id="GEWN-02-06-02-0231-fn-0001">1</a>
+   
+   <p>Letter not found. After buying Cliftons Neck on 20 May at public auction for 1,210 sterling, GW the next day Wrote to Messrs. Nicholas &amp; With for Advice how to act in regard to Cliftons Land. Sent the Letter by the Post (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-01-02-0005-0005#GEWN-01-01-02-pb-0281" class="document">1:281</a>).</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0425">[425]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0002-ptr" id="GEWN-02-06-02-0231-fn-0002">2</a>
+
+   <p>Charles Carroll of Annapolis refused to settle with GW. For a discussion of the Clifton affair, see <a href="default.xqy?keys=GEWN-print-02-06-02-0221&amp;expandNote=GEWN-02-06-02-0221-fn-0001#GEWN-02-06-02-0221-fn-0001" class="document">GW to Benjamin Waller, 2 April 1760, n.1</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0003-ptr" id="GEWN-02-06-02-0231-fn-0003">3</a>
+
+   <p>For Thomson Masons attempt to buy William Cliftons land, see ibid.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0004-ptr" id="GEWN-02-06-02-0231-fn-0004">4</a>
+
+   <p>There is nothing in the deeds of lease and release of 1617 June 1760 to indicate Clifton retained use of the land after the sale.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0005-ptr" id="GEWN-02-06-02-0231-fn-0005">5</a>
+
+   <p>William Digges and John Addison both received the money due them for the sale of the Clifton land when the release was signed. Ignatius Digges, however, whose name was included in the deeds, but who refused to sign them, received no money. His heirs finally gave a deed to the land in 1791.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0231-fn-0006-ptr" id="GEWN-02-06-02-0231-fn-0006">6</a>
+
+   <p>George Johnston represented GW in the Clifton land deal, as he did in the earlier Darrell purchases and several other land transfers during the next year (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 133).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-06-02-0231 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 6 (4 September 175826 December 1760)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-06-02-0230" title="To Robert Carter Nicholas and George Wythe, 21 May 1760 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0232" title="From Joseph Valentine, 27 May 1760"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

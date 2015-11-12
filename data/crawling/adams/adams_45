@@ -1,0 +1,128 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0002" title="I. Humphrey Ploughjogger to the  Boston Evening-Post , 3 March 1763"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0002" title="I. Humphrey Ploughjogger to the  Boston Evening-Post , 3 March 1763"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0058">58<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0058.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d047" class="docgroup_front">
+
+     <h2>Editorial Note</h2>
+     <div class="docbody">
+      <p>In 1763, John Adams made his first verifiable entry into print with the publication of his Humphrey Ploughjogger letter in the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span> on 14 March (<a href="default.xqy?keys=ADMS-print-06-01-02-0045-0002" class="document">No. I</a>, below). He was to use the pseudonym several more timestwice that summer, once in 1765, and twice in 1767. His authorship of the 1763 Ploughjogger pieces is attested to in his own words, written long after the fact and inaccurate in detail, but convincing nonetheless.</p>
+      <p>In an enumeration of his published works prepared for the Abb de Mably, 17 January 1783, Adams listed 2 or 3, fugitive peices written in the <span title="text unclear" class="unclear">[year]</span> 1762 or 3., under the Signature of Humphrey Ploughjogger, not worth mentioning (<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ letterbook copy (Letterbook copies are normally unsigned, but any such copy is assumed to be in the hand of the person responsible for the text unless it is otherwise described.) ]">LbC</abbr>, never sent, <span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 108). On 13 February 1792, in a letter to his son Charles, Adams recollected writing only one Ploughjogger letter, but he now gave a better report of its reception: That my Confessions may be compleat I must tell you that I wrote a very foolish unmeaning thing in Fleets Paper in 1762 or 1763 under the signature of Humphrey Ploughjogger. In this there was neither good nor Evil, yet it excited more merriment than all my other writings together (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society ]">MHi</span>: Seymour Coll. of Charles Adams Letters).</p>
+      <span class="pb center" title="page number in print edition" id="ADMS-06-01-02-pb-0059">[59<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0059.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+      <p>Adams made only one other reference to Humphrey Ploughjogger in extant documents, considerably earlier than either of those just cited, but probably arising out of his 1765 use of the pseudonym. In his Diary, <a href="default.xqy?keys=ADMS-print-01-01-02-0010-0001-0011" class="document">10 January 1766</a>, he wrote: Humphry Ploughjogger received a Letter from a Friend, thanking him for his good Advice and presenting him with a Crimson, Homespun Cap to wear with his Hide, as a Reward (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]"><span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, 1:290). Since it was customary for 18th-century contributors to newspapers who used a pseudonym to continue to employ the same one, a practice insisted upon by colonial printers who wanted to be able to identify contributors in the event of prosecution for libel, writers only very rarely used a pseudonym already claimed by another. This practice was followed even if the pseudonym was used at long intervals over a period of years (Roger B. Berry, John Adams: Two Further Contributions to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 17661768, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[  &lt;i&gt;New England Quarterly.&lt;/i&gt;  ]"><span class="hi-italic" style="font-style: italic;">NEQ</span></span>, 31:9495 [March 1958]). Thus, Adams authorship of the Ploughjogger pieces would seem well substantiated.</p>
+      <p>The pseudonymous pieces signed U, appearing in the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span> between July and September 1763, were also claimed by Adams in the listing he prepared for Abb de Mably. Adams recalled that he composed these letters in answ<span title="text unclear" class="unclear">[er]</span> to a Tory-Writer, who subscribed himself J [<ins title="editorial addition or explanation" class="ed">Jonathan Sewall</ins>]. Actually Adams intention was more complicated than he remembered, for he sought to serve several purposes, not all of them related to J.</p>
+      <p>The Humphrey Ploughjogger letters are in an American tradition of humor that arises from illiterate phonetic spelling and rustic dialect, and that is meant to cover an undertone of serious purpose. One thinks, for example, of James Russell Lowells Hosea Biglow. In his first Ploughjogger letter, Adams sought to ridicule grate men <span title="text unclear" class="unclear">[who]</span> dus nothin but quaril with one anuther and put peces in the nues paper and to poke fun at bugbears of the daya standing army, popery, and the Pretender. For months the Boston press had been filled with vituperative charges and countercharges of two factions, one that gathered around James Otis Jr. and his cause, and the other that supported Gov. Francis Bernard and Lt. Gov. Thomas Hutchinson. The quarrel had its origin in the Governors naming Hutchinson to the post of chief justice, despite his not being a lawyer and despite the promise made by a Bernard predecessor to name Otis Sr. to the next vacancy. Young Otis saw an insult to his family and, more important, the gathering in Hutchinsons hands of a multiplicity of offices, some of which would lead to a conflict of interests. Within a month or two of his appointment, Hutchinson participated in the famous writs of assistance case that Otis pleaded unsuccessfully before the Superior Court (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Legal Papers of John Adams&lt;/i&gt;, ed. L. Kinvin Wroth and Hiller B. Zobel, Cambridge, 1965; 3 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Legal Papers</span></span>, <a href="default.xqy?keys=ADMS-print-05-02-02-0006-0001%20ADMS-print-05-02-02-0006-0002-0001#ADMS-05-02-02-pb-0106" class="pageNo">2:106147</a>). After that, Hutchinson had been involved, unintentionally and to his detriment, in the dispute between the Governor and the House over the naming of a new colonial agent (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Bernard Bailyn, &lt;i&gt;The Ordeal of Thomas Hutchinson&lt;/i&gt;, Cambridge, 1974. ]">Bailyn, <span class="hi-italic" style="font-style: italic;">Thomas Hutchinson</span></span>, p. 5160). By 1763 these were already old quarrels, but it took little to revive them in young Otis con-<span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0060">[60<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0060.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>tinuing campaign of harassment against the Lieutenant Governor. The immediate spark setting off fresh controversy was Otis criticism of the Governor for spending money on a gunboat in the fall of 1762, in Otis eyes a threat to legislative prerogative. The door was then opened to rehearsal of old grievances (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Carol Berkin, &lt;i&gt;Jonathan Sewall: Odyssey of an American Loyalist&lt;/i&gt;, New York and London, 1974. ]">Berkin, <span class="hi-italic" style="font-style: italic;">Jonathan Sewall</span></span>, p. 2930).</p>
+      <p>The intemperate language and abusive tone of these publications would have disturbed John Adams in any case (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]"><span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-01-02-0008-0001-0006#ADMS-01-01-02-pb-0243" class="pageNo">1:243</a>), but his concern deepened when one of his closest friends entered the fray. On 14 February 1763 in the <span class="hi-italic" style="font-style: italic;">Boston Evening-Post</span> appeared Jonathan Sewalls first effort in a defense of the Bernard-Hutchinson administration which grew into a series of newspaper contributions, the last published June 13. Writing as J, Sewall satirized the Otises and their allies in terms no worse than other newspaper combatants, but his enthusiasm and commitment to his task aroused Adams (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Carol Berkin, &lt;i&gt;Jonathan Sewall: Odyssey of an American Loyalist&lt;/i&gt;, New York and London, 1974. ]">Berkin, <span class="hi-italic" style="font-style: italic;">Jonathan Sewall</span></span>, p. 167). Thus, it was no accident that he wrote the first Ploughjogger letter only seventeen days after Sewall had made his debut as J.</p>
+      <p>One can only speculate that the humorous first letter of Ploughjogger was a mild attempt to reprove Sewall and other disputants, but when Sewall continued, wholly committed to one side, his good friend felt betrayed. In this period Adams was an exemplar of the Anglo-American tradition that considered blind factionalism detrimental to the public good. Thus sometime in the spring of 1763, but most likely after Adams first newspaper article appeared, he wrote an outraged and outrageous letter to his friend, identified only as Jonathan, which he broke off abruptly and apparently never copied and sent (<a href="default.xqy?keys=ADMS-print-06-01-02-0045-0003" class="document">No. II</a>, below). The writing of it vented his spleen; keeping the letter prevented, for the time being at least, what would probably have been an irreparable breach in their friendship.</p>
+      <p>Shortly after the last of Sewalls J pieces appeared in print, Humphrey Ploughjogger came back after a three-month absence, still complaining about newspaper quarrels but directing his energies now to a call for agricultural diversification, particularly the cultivation of hemp. His postscript suggests he was driven to take up his pen once more by the outbreak of fisticuffs between two members of the legislature.</p>
+      <p>Gen. William Brattle of the Council and Col. John Murray, representative from Rutland, got into a scuffle outside the Town House on 8 June when Murray demanded an apology for a slighting remark he claimed Brattle had made some time before. When Brattle denied the accusation, Murray called him a liar and attacked him. The sheriff separated the two men, but when they met again the same afternoon another scuffle broke out. Although Murray apologized for his conduct the next day before the Council and was pardoned by the governor and the councilors, Brattle was not satisfied. Before the end of June, he retained John Adams as counsel in his suit for trespass against Murray, and the case first came to court in Boston on 5 July. (For <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s legal notes on the case, see No. V, <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0006&amp;expandNote=PJA01d052n2#PJA01d052n2" class="document">note 2</a>, below.) Brattles suit was not disposed of until 1766, with Adams acting as attorney through the whole process. Brattle won token damages of 30, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0061">[61<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0061.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>although he had sued for 1,500. The episode was important for Adams as an instance of resort to unwritten law in defense of honor, a custom he was to attack in several of the U letters.</p>
+      <p>The first of the U letters, however, was an answer to Ploughjoggers request for information about the cultivation of hemp (<a href="default.xqy?keys=ADMS-print-06-01-02-0045-0005" class="document">No. IV</a>, below); thus, Adams began a dialogue with himself carried on in two different newspapers. His original purpose was not as he remembered it many years later, when he told the Abb de Mably the U letters were written to answer a tory. It was characteristic and understandable for Adams to shove farther back in the past his dedication to whig principles and his strong opposition to tory ideas. Sewall, of course, could not be called a tory in 1763. Although U began by posing as a learned gentleman who would satisfy Ploughjoggers desire to turn mens minds away from factional strife and toward the practical and needful matter of agricultural diversification, Adams was deflected from his purpose after the first letter by the Brattle-Murray imbroglio and by Sewalls dedication to one side in the political clash between the Otis and Bernard-Hutchinson factions. Subsequent U letters bemoan the writers failure to get back to agricultural reform; only two, one of them unpublished, are addressed directly to J (<a href="default.xqy?keys=ADMS-print-06-01-02-0045-0007" class="document">Nos. VI</a> and <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0008" class="document">VII</a>, below). Adams lengthy treatment of the immorality of private revenge grew out of deep personal conviction, but he may have sought also to sway public opinion to his side as the plaintiffs attorney in Brattles suit against Murray, who had sought directly to defend his honor.</p>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0001 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0002" title="I. Humphrey Ploughjogger to the  Boston Evening-Post , 3 March 1763"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

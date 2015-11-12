@@ -1,0 +1,201 @@
+From Bartholomew Dandridge, 16 February 1774
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Bartholomew Dandridge, 16 February 1774</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-09-02-0359&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1774-02-16-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-09-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0358" title="To Jonathan Boucher, 15 February 1774"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-09-02-0360" title="To Thomas Lewis, 17 February 1774"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-09&amp;mode=TOC">Volume 9 (8 January 177218 March 1774)</a>&gt; <a href="?keys=GEWN-print-02-09-02&amp;mode=TOC">Documents</a>&gt; From Bartholomew Dandridge, 16 February 1774</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-09-02-0359&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0358" title="To Jonathan Boucher, 15 February 1774"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0360" title="To Thomas Lewis, 17 February 1774"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0478">478</span><div id="Col09d315" class="doc">
+
+<h1>From Bartholomew Dandridge</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">New Kent February 16, 1774.</td>
+	      </tr>
+      </table>
+</div>
+<p>I am sorry my Letter was so long on its passage to you as the most perfect Account of my proceeding with Black would not be very satisfactory. As I have not seen or heard from Mr Hill I took what I thought the best conveyance by a Gentleman who was going directly from hence to Fredericksburg &amp; promised me he
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0479">[479]</span>
+would deliver the Letter to Col. Lewis which he has since informed me he did with my request that it might be immediately sent to you.<a class="ptr" href="#GEWN-02-09-02-0359-fn-0001" id="GEWN-02-09-02-0359-fn-0001-ptr">1</a> Col. Bassett was so kind as to send yours to me this Evening and promises to deliver this to Capt. Crawfurd You may depend on my care of the Bond, and compliance with every thing you desire, which will give me great pleasure if it proves any way serviceable,<a class="ptr" href="#GEWN-02-09-02-0359-fn-0002" id="GEWN-02-09-02-0359-fn-0002-ptr">2</a> I had a Letter from Mr Wythe since I wrote to you in which he says, he did not know any thing more I could do with Black than I had done, unless it was to tender him the Bond you now have sent upon his complying with the Condition of it, I have not seen or heard from Mr Moore lately so that I cannot inform you whether Mrs Blacks mind is yet altered or not but tomorrow at King William Court I expect to hear something of the matter,<a class="ptr" href="#GEWN-02-09-02-0359-fn-0003" id="GEWN-02-09-02-0359-fn-0003-ptr">3</a> I always concluded that Col. Byrds Trustees would not make a Conveyance to Black until he had complied with his bargain with you, and that I take to be your best Security for Mrs Blacks relinquishing her Dower, as she cannot but be sensible that it is greatly for her advantage to do it.<a class="ptr" href="#GEWN-02-09-02-0359-fn-0004" id="GEWN-02-09-02-0359-fn-0004-ptr">4</a> Mr Wythes saying she would not be intitled to Dower in the Lands in King William the legal titles whereof are in other Persons seems inconsistent with his former Opinion,<a class="ptr" href="#GEWN-02-09-02-0359-fn-0005" id="GEWN-02-09-02-0359-fn-0005-ptr">5</a> now Col. Moores Deed to his Trustees is found &amp; must be a mistake, I have no doubt but she will be intitled to Dower in all except the Mill &amp; 100 Acres of Land purchased of Seton, and altho. Mr Lyons has engaged that he &amp; Col. Pendleton will join in a conveyance to you (of Romoncocke) he thinks it not necessary &amp; I hope it is not. I shall apply to Mr Lyons &amp; Mr Power tomorrow for performance of their promise of a Conveyance of the Mill &amp;c.<a class="ptr" href="#GEWN-02-09-02-0359-fn-0006" id="GEWN-02-09-02-0359-fn-0006-ptr">6</a></p>
+<p>As it was necessary that the Serjeants &amp; Soldiers who I contracted with for their Lands should make a personal application to the Governor, I desired them all to go down at the Court of Oyer &amp; Terminer &amp; not being there myself, sent a Letter by Mr Aylett desiring a person there to act on my behalf with directions what to do, but Mr Aylett was so careless to loose the Letter,<a class="ptr" href="#GEWN-02-09-02-0359-fn-0007" id="GEWN-02-09-02-0359-fn-0007-ptr">7</a> and my not being there or any Person to act for me furnished them with an excuse for selling their Lands at a better price that then offered, few of them were honest enough to abide by their bargain with me, &amp; the others were not informed how to direct their Warrants, but this last mistake I did not know of til now, when I heard that a sufficient number of Warrants
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0480">[480]</span>
+had not been delivered to Mr Craig I sent some others, but he chose to return them as he apprehended it was too late for your purpose, I have but one Serjeants Warrant by me (in Augusta) which I inclose &amp; which you are welcome to use if you have Occasion, if not, it will be no disadvantage to me to have it returned when it suits you, your keeping the others has been attended with no prejudice to me as I should not have used them, The Assemblys sitting will hinder as much time as I can spare from my other business or more, &amp; I am a little at a loss what to do with my Warrants the Principal of which is a Lieutenants 2000 Acres.<a class="ptr" href="#GEWN-02-09-02-0359-fn-0008" id="GEWN-02-09-02-0359-fn-0008-ptr">8</a></p>
+<p>Be pleased to make a tender of my sincere Affection to my Sister, in which My Wife joins me Nancy &amp; the Boys<a class="ptr" href="#GEWN-02-09-02-0359-fn-0009" id="GEWN-02-09-02-0359-fn-0009-ptr">9</a> send their Duty to their Uncle &amp; Aunt, I am Dr Sir Your very affectionate humble Servt</p>
+<div class="closer">
+<p class="signed">B. Dandridge</p>
+</div>
+<div class="postscript">
+<p>Be pleased to tell Mr Custis &amp; his Lady that We sincerely congratulate them on their Nuptials &amp; wish them all happiness.</p>
+<p>N.B. I have generally thought that Mrs Blacks unwillingness to acknowledge her right was feigned for some mean purpose of Blacks, but sometimes I am inclined to think that she is afraid Black will by some means prevent her having a right to Dower in the Jas River land after she has acknowledged the other, this may be done, &amp; he is capable of it.<a class="ptr" href="#GEWN-02-09-02-0359-fn-0010" id="GEWN-02-09-02-0359-fn-0010-ptr">10</a></p>
+<p>My Paper has accidentally got dirty &amp; I have not time to write it over.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-09-02-0359-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0001-ptr" id="GEWN-02-09-02-0359-fn-0001">1</a>
+
+   <p>Dandridge is referring to <a href="default.xqy?keys=GEWN-print-02-09-02-0320-0001" class="document">his letter of 30 Dec. 1773</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0002-ptr" id="GEWN-02-09-02-0359-fn-0002">2</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-09-02-0353" class="document">GW to Dandridge, c.12 February</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0003-ptr" id="GEWN-02-09-02-0359-fn-0003">3</a>
+
+   <p>Dandridge did not see Black at the King William courthouse on 17 Feb. but wrote to him the following day. Black replied on 26 Feb., reiterating his reasons for not complying with GWs wishes, and stating that Mrs Black is very easy whether she has or has not a Right of Dower in the K. Wm Estate. I am satisfyd she would have been always ready to have acknowledged her Right, when she saw there was Reason for her so doing. He added that there are none yet who have heard my Reasons but think they were good ones (Black to Dandridge, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: George Bolling Lee Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0004-ptr" id="GEWN-02-09-02-0359-fn-0004">4</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-09-02-0339" class="document">GW to William Black, 17 January</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0005-ptr" id="GEWN-02-09-02-0359-fn-0005">5</a>
+
+   <p>GW quotes at length George Wythes missing letter in his letter to Dandridge of 12 Feb.; Wythes former Opinion is Wythes memorandum enclosed by <a href="default.xqy?keys=GEWN-print-02-09-02-0320-0001" class="document">Dandridge in his letter to GW of 30 Dec. 1773</a>.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-09-02-pb-0481">[481]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0006-ptr" id="GEWN-02-09-02-0359-fn-0006">6</a>
+
+   <p>For the problems relating to the transfer of ownership of the mill included in GWs purchase of Romancoke plantation, see note 7 of George Wythes memorandum printed as an enclosure in <a href="default.xqy?keys=GEWN-print-02-09-02-0320-0001" class="document">Dandridge to GW, 30 Dec. 1773</a>. See also <a href="default.xqy?keys=GEWN-print-02-10-02-0014" class="document">Dandridge to GW, 2 April 1774</a>. Jack Power was one of the trustees of Bernard Moores property; Peter Lyons was a trustee of Moores property as well as that of John Robinson.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0007-ptr" id="GEWN-02-09-02-0359-fn-0007">7</a>
+
+   <p>Mr. Aylett is probably John Aylett, Dandridges brother-in-law.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0008-ptr" id="GEWN-02-09-02-0359-fn-0008">8</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-09-02-0353&amp;expandNote=GEWN-02-09-02-0353-fn-0005#GEWN-02-09-02-0353-fn-0005" class="document">GW to Dandridge, c.12 Feb., n.5</a>. Mr. Craig may be Alexander Craig.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0009-ptr" id="GEWN-02-09-02-0359-fn-0009">9</a>
+
+   <p>Nancy was probably Anne Dandridge, Bartholomew Dandridges daughter by his first wife, Elizabeth Macon Dandridge. Bartholomew Dandridge had three sonsBartholomew, Jr., John, and William.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-09-02-0359-fn-0010-ptr" id="GEWN-02-09-02-0359-fn-0010">10</a>
+
+   <p>In order to persuade Mrs. Black at last to sign the deeds surrendering her right to dower in the Robinson and Moore properties (see <a href="default.xqy?keys=GEWN-print-02-09-02-0286&amp;expandNote=GEWN-02-09-02-0286-fn-0003#GEWN-02-09-02-0286-fn-0003" class="document">GW to Robert Cary &amp; Co., 10 Nov. 1773, n.3</a>), Black entered into bond in the penalty of 2000. to Mr. [John] Blair as her Trustee, with condition that he would procure a legal conveyance of the Falls Plantation to intitle her to Dower (Edmund Pendletons Opinion in <span class="hi-italic" style="font-style: italic;">Black v. Black</span>, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ David John Mays, ed. &lt;i&gt;The Letters and Papers of Edmund Pendleton, 17341803&lt;/i&gt;. 2 vols. Charlottesville, Va., 1967. ]">Mays, <span class="hi-italic" style="font-style: italic;">Pendleton Papers</span></span>, 2:43033). <a href="default.xqy?keys=GEWN-print-02-09-02-0359&amp;expandNote=GEWN-02-09-02-0359-fn-0003#GEWN-02-09-02-0359-fn-0003" class="document">But see also note 3</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-09-02-0359 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 9 (8 January 177218 March 1774)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-09-02-0358" title="To Jonathan Boucher, 15 February 1774"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-09-02-0360" title="To Thomas Lewis, 17 February 1774"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

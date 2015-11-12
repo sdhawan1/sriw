@@ -1,0 +1,167 @@
+none 10
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Humphrey Ploughjogger to the Boston Gazette, 14 October 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0057&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1765-10-14-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0056" title="From Jonathan Sewall, 5 October 1765"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0058" title="From William Cooper, 18 December 1765"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; Humphrey Ploughjogger to the <span class="italic">Boston Gazette</span>, 14 October 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0057&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0056" title="From Jonathan Sewall, 5 October 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0058" title="From William Cooper, 18 December 1765"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0146">146<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0146.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d077" class="doc letter">
+
+    <h1>Humphrey Ploughjogger to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-italic" style="font-style: italic;">Messieurs</span><span class="hi-small-caps" style="font-variant: small-caps;">Edes &amp; Gill</span>,</td>
+		<td class="salutationRight">Monday, October 14, 1765</td>
+	      </tr>
+      </table>
+     </div>
+     <p>I Hant rit nothing to be printed a great while:<a class="ptr" href="#PJA01d077n1" id="PJA01d077n1-ptr">1</a> but I cant sleep a nights, one wink hardly, of late. I hear so much talk about the stamp act and the governors speech,<a class="ptr" href="#PJA01d077n2" id="PJA01d077n2-ptr">2</a> that it seems as if twould make me crazy. The governor has painted a dreadful picture of the times after the first of NovemberI hate the thoughts of the first of November. I hope twill be a great storm, and black and gloomy weather, as our faces and hearts will all be. Tis worse than all the fifth of Novembers<a class="ptr" href="#PJA01d077n3" id="PJA01d077n3-ptr">3</a> that ever was. The Pope never did half so much mischief, as that stamp act will do, if the world stands as long as the Pope has done. However, seems to me the governor has represented the times worse than they will be. For in the first place they do say, that thieves and robbers and rioters, ay and lyars too, and all sorts of rogues, may be punishd as well after the stamp act takes place as before. And as to suing poor folks for money, that does no body no good but the lawyers. But as to trade and shipping and such like, it seems to me we had better be without the most of that than with itfor it only makes rum and such things cheap, and so makes folks drink toddy and flip instead of cyder, when they ant half so good and holsomeand it mades <span title="text unclear" class="unclear">[makes]</span> us all beaus, and dresses us up fine. We got into a way ont o late,our young men buy them blue surtouts, with fine yellow buttons, and boughton broad cloth coats jackets and breechesand our young women wear callicoes, chinces and laces, and other nicknacks to make them fine. But the naughty jacks and trollops must leave off such vanity, and go to nitting and spinning. I always used to keep a comely boughten coat to go to meeting in, but Ile vow Ile <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0147">[147<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0147.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>never put it on again after first November, if the stamp act takes place; Ile cut up the hide of my fat Ox that Im fatting for my winters beef first, and make a coat of that, with the hair on. Im sure I could be edified as much with the sermon, as if I had on a royal robe, and be as warm in it too. Ive read somewhere that the folks in old England before Caesar went there, wore such skins of beasts, and yet loved liberty, and knew how to keep it too. I dont believe our young folks would love to dance together at husking frolicks, and to kiss one another a bit the less, if they wore woolen shirts and shifts of their own making, than they do now in their fine ones. I do say, I wont buy one shilling worth of any thing that comes from old England, till the stamp act is appeald, nor I wont let any of my sons and daughters; Ide rather the Spittlefield weavers should pull down all the houses in old England, and knock the brains out of all the wicked great men there, than this country should loose their liberty. Our fore fathers came over here for liberty of conscience, and we have been nothing better than servants to em all along this 100 years, and got just enough to keep soul and body together, and buy their goods to keep us from freezing to death, and we wont be their negroes. Providence never designed us for negroes, I know, for if it had it woud have given us black hides, and thick lips, and flat noses, and short woolly hair, which it hant done, and therefore never intended us for slaves. This I know is good a sillogissim as any at colledge, I say we are as handsome as old England folks, and so should be as free.</p>
+     <p>So I dont like the governors speech very well, any more than I did tother speech that he made, where he has not done fairly by me.<a class="ptr" href="#PJA01d077n4" id="PJA01d077n4-ptr">4</a> Ime sure I wrote abundance, about Hemp before he said a word about it. Mr. U and I wrote a good many papers,<a class="ptr" href="#PJA01d077n5" id="PJA01d077n5-ptr">5</a> and usd many arguments for it, and told the way of managing ont, a year or two before the governor said a word about it. Ay, and a great many folks were stirred up to try it, by our writings too, and I believe raly Mr. U and I ought to have the honor and glory and profit ont tooof bringing ont into fashion. I dont see why it would not be reasonable for our Deputies to make Mr. U and I a grant or two for our extraordinary services, as they do sometimes to other great men that dont deserve it half so much.</p>
+     <div class="closer">
+      <p class="signed">
+       <span class="hi-small-caps" style="font-variant: small-caps;">Humphry Ploughjogger</span>
+      </p>
+     </div>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA1d077sn1">
+      
+   <p>
+       <span class="docSource"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr> not found. <span class="dType">Reprinted</span> from the  (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 14 Oct. 1765).</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d077n1-ptr" id="PJA01d077n1">1</a>
+      
+   <p>On Humphrey Ploughjogger, see above, Editorial Note, <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0001" class="document">3 March  5 Sept. 1763</a>.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d077n2-ptr" id="PJA01d077n2">2</a>
+      
+   <p>Gov. Francis Bernard addressed the General Court, 25 Sept. 1765, defending Parliaments right to tax the colonies. Although he did not specifically justify the Stamp Act, he warned that Massachusetts would virtually lapse into anarchy if it did not obey the act after it <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0148">[148<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0148.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>went into effect on 1 Nov. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ [[Alden Bradford, ed.]] &lt;i&gt;Speeches of the Governors of Massachusetts, from&lt;/i&gt; 17651775. . ., Boston, 1818. ]">Mass., <span class="hi-italic" style="font-style: italic;">Speeches of the Governors, &amp;c.</span>, 1765  1775</span>, p. 3943).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d077n3-ptr" id="PJA01d077n3">3</a>
+      
+   <p>Popes Day, commemorating the frustration of the Gunpowder Plot of 1605. In Boston this was usually the occasion for an outburst of anti-Catholic demonstrations and bruising battles between the towns South End and North End mobs.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d077n4-ptr" id="PJA01d077n4">4</a>
+      
+   <p>Among other things, Gov. Bernards address to the General Court, 30 May 1765, recommended the approval of bounties to encourage the production of hemp.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA01d077n5-ptr" id="PJA01d077n5">5</a>
+      
+   <p>Humphrey Ploughjogger and U wrote three and four pieces respectively for Boston newspapers; see <a href="default.xqy?keys=ADMS-print-06-01-02-0057&amp;expandNote=PJA01d077n1#PJA01d077n1" class="document">note 1</a>, above.</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0057 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0056" title="From Jonathan Sewall, 5 October 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0058" title="From William Cooper, 18 December 1765"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.54</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

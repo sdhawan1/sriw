@@ -1,0 +1,135 @@
+The Letter Book for the Braddock Campaign
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Letter Book for the Braddock Campaign</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-01-02-0119&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0118" title="From Adam Stephen, JanuaryFebruary 1755"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-01&amp;mode=TOC">Volume 1 (7 July 174814 August 1755)</a>&gt; <a href="?keys=GEWN-print-02-01-02&amp;mode=TOC">Documents</a>&gt; The Letter Book for the Braddock Campaign</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-01-02-0119&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0118" title="From Adam Stephen, JanuaryFebruary 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0236">236</span><div id="Col01d111" class="editorial">
+
+<h1 class="main">The Letter Book for the Braddock Campaign</h1>
+<h2 class="sub">2 March14 August 1755</h2>
+
+<div class="docbody">
+<p>The Preface to this volume includes an extended discussion of the problems relating to the letter books that GW kept during the French
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0237">[237]</span>
+and Indian War, all of which are in the Washington Papers at the Library of Congress. There are two manuscript copies of the letter book for the Braddock campaign in the library. One is the original letter book kept by GW during the campaign and revised by him. Most of the many changes written on the manuscript are in Washingtons later hand, indicating that he made them no earlier than the 1770s and probably later. The fact that there are two sets of these later changes, written with different ink and different pens, make clear that GW made major revisions not once but at least twice. The other manuscript letter book is a copy made by a clerk and incorporates all of GWs revisions. Both these manuscripts of the Braddock campaign letter book contain not only letters that GW wrote but also two letters that he received. The recopied letter book includes in addition other material such as a partial collection of Braddocks daily orders.</p>
+<p>Of the letter books that GW kept as colonel of the Virginia Regiment in the years following the Braddock campaign, we have, with a single exception in 1758, only the copies of them made by a clerk, and in every instance the clerk incorporated changes later made by GW. This presents problems because most of the many letters and orders that GW wrote during more than 3 years as colonel are to be found nowhere but in these recopied letter books. To establish some basis for judging how widely the revised letter books may differ from the lost originals, the editors of the <span class="hi-italic" style="font-style: italic;">Papers</span> decided not only to print what GW initially wrote in the original letter book for the Braddock campaign but to show his later emendations and insertions as well. This policy has the additional advantage of allowing others to observe the ambitious and often querulous young officer of the primary text being here and there tactfully corrected by his mature self, confident of his place in history.</p>
+<p>GWs own revised letter book for the Braddock campaign is a complex document, with changes within changes, made in different ways. GW achieved some of his revisions by superimposing in heavy ink new words or letters on older ones and achieved others by inserting the changes between words or in the margins. At times he carefully scraped the original ink off the paper with a knife and then wrote his changes there. Most often he simply struck out letters, words, or whole lines, usually with a series of heavy loops, and inserted his new wording above his previous wording, sometimes indicating the exact placement in the text with a caret but often not.</p>
+<p>No attempt has been made to show in print exactly how GWs changes appear on the manuscript page. Instead, the 1755 text is printed in text type on the main line and the later revisions in smaller
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0238">[238]</span>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0239">[239]</span>
+
+ 
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-01-02-pb-0240">[240]</span>
+type on the change line above. The main line, what GW originally wrote in the letter book, we have transcribed and printed in the same way as we have any other document, but with certain additional devices. The words or letters that GW later marked out, those upon which he later superimposed new words or letters, and those that he later attempted to erase but which remain legible are all printed in canceled type. Illegible erasures are indicated by the word <span class="hi-italic" style="font-style: italic;">erasure</span> in angle brackets. The carets GW inserted in the original text when making his revisions are retained on the main line. We have also retained on the main line all punctuation marks and underlinings except those that are clearly an integral part of later additions. It is often impossible to tell whether a period, comma, or line was in the original text or was later inserted.</p>
+<p>The second line of type, the change line, contains all of GWs later revisions in the final form that the clerk copied. No matter where these later changes appear in the original manuscript, whether on, above, or beside the lines of the original text, they have been moved to the change line in this printed version and are transcribed and printed there in accordance with our usual procedures. All changes within the later changes have been silently incorporated on the change line, and no canceled type, carets, or indications of erasures appear there.</p>
+ <p>For judging the reliability of the recopied letter books, 175558, it is of some use to know that the clerks copy of GWs revised letter book for the Braddock campaign is on the whole an accurate one. A comparison of the original with the clerks copy reveals few significant differences between the two. Nor do there seem to have been important differences between the letters GW actually wrote or received in the spring and summer of 1755 and the copies of them that he made at the time. Of the 52 documents in the letter book proper, 3 have survived in other forms. These are an <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr> from <a href="default.xqy?keys=GEWN-print-02-01-02-0120" class="document">Robert Orme to GW, 2 Mar. 1755</a>, a photostatic copy of <a href="default.xqy?keys=GEWN-print-02-01-02-0153" class="document">GWs <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr> to Sarah Cary Fairfax, 7 June 1755</a>, and several contemporary copies of his letter to Robert Dinwiddie, 7 June 1755. A comparison of each of these with the primary text of each of the letter-book copies indicates that, like his clerk, GW was also a careful copyist.</p>
+<p>It is not known precisely when GW corrected this letter book for the Braddock campaign and his other letter books dating from the French and Indian War, nor is it known when and by whom the corrected letter books were copied. For the suggestion that GW made his revisions first in 178687 and again in 179798 and thereafter had them copied by one or two men in his employ at Mount Vernon, see the Preface to this volume.</p>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-01-02-0119 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 1 (7 July 174814 August 1755)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-01-02-0118" title="From Adam Stephen, JanuaryFebruary 1755"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-01-02-0120" title="From Robert Orme, 2 March 1755"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.253.124</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

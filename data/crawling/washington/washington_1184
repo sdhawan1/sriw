@@ -1,0 +1,200 @@
+From Robert Dinwiddie, 18 July 1757
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert Dinwiddie, 18 July 1757</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-04-02-0205-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1757-07-18-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-04-02-0205&amp;mode=TOC" title="From Robert Dinwiddie [document with enclosures]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-04-02-0205-0002" title="Enclosure: Commission to Hold General Court-Martials, 18 July 1757"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-04&amp;mode=TOC">Volume 4 (9 November 175624 October 1757)</a>&gt; <a href="?keys=GEWN-print-02-04-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-04-02-0205&amp;mode=TOC">From Robert Dinwiddie [document with enclosures]</a>&gt; From Robert Dinwiddie, 18 July 1757</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-04-02-0205-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0205-0002" title="Enclosure: Commission to Hold General Court-Martials, 18 July 1757"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0311">311</span><div id="Col04d194" class="doc">
+
+<h2>From Robert Dinwiddie</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Williamsburg July 18th 1757</td>
+	      </tr>
+      </table>
+</div>
+<p>Your two Letters of 10th &amp; 11th I recd by Jenkins &amp; observe their ContentsI wrote You the 13th which sent up by Serjt FentThere will soon be Publicats. for any Persons inclineable to contract for Provisions for the Forces at Winchester, &amp; those in Augusta; they are to give in their Proposals in Writing, &amp; by this Method I hope they will be properly supplied.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0001" id="GEWN-02-04-02-0205-0001-fn-0001-ptr">1</a></p>
+<p>The Money remaining of the 2000 for Drafts may be applied to Contingt Charges, the Accounts to be kept seperate<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0002" id="GEWN-02-04-02-0205-0001-fn-0002-ptr">2</a>And this Day have signd a Warrant for 1500 more for paymt of Arrears due on Provisions, which the Treasurer is to deliver to Mr Walkerthat I expect will be sufficient to pay all Arrearages. I do not understand the Demands of the People for Inds. an Acct of them shd be sent down here. Jenkins has recd 31.3.3 for the two Receipts for Skins for the Inds.&amp; You are to continue Jenkins in Pay he giving close attendance.</p>
+<p>I sent You by Fent 16 blank Coms. which I doubt not You will fill up carefully &amp; to those of most Merit &amp; Spirit.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0003" id="GEWN-02-04-02-0205-0001-fn-0003-ptr">3</a> Our Printg Office is so much engagd in printing the Paper Money, that I coud not get the Mutiny &amp; Desertion Act in Print, but You have a Copy of it atested by the Clerk of the Assembly. The former Como. for holding Genl Court Martials woud have done; but in Case of its being mislaid I send You a new one; &amp; six blank Warrants to be made use of as occasion may require.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0004" id="GEWN-02-04-02-0205-0001-fn-0004-ptr">4</a></p>
+<p>Its too premature to appoint Ct. McNeill in the room of Ct. Spotswood, as I hope we shall have some good Acct of him. You are to allow the two Officers to resign on their Application, appointg as good Men in their roomWhen You have formd Yr
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0312">[312]</span>
+Compas. send me a Muster Roll of each Company seperate with the Names of each private Man, Serjt Corporal &amp; Drums, signd by the Capts. &amp; Subalterns.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0005" id="GEWN-02-04-02-0205-0001-fn-0005-ptr">5</a> The Detachmt intended for Augusta will be supplied with Provisions from Colo. Clemt Read, County Lieut. of Lunenburg, who will order them to the Place the Forces may be destind to.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0006" id="GEWN-02-04-02-0205-0001-fn-0006-ptr">6</a></p>
+<p>I am uneasy on reading the List of the many Deserters from the Drafts, I shall advise &amp; publish Advertisemts for apprehending them if possible, tho they are too much countenancd &amp; protected to the Shame of the Country.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0007" id="GEWN-02-04-02-0205-0001-fn-0007-ptr">7</a></p>
+<p>Colo. Stanwixs Account I have perused, &amp; must observe thereon, that Your Allowance is much more than there specified; &amp; as the Officers have very great Pay, I adhere to my former Regulations as to Bat Men, &amp; that they appear in Rank &amp; File;<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0008" id="GEWN-02-04-02-0205-0001-fn-0008-ptr">8</a> You well know the Country has always paid the Waggons, &amp; Colo. Stephen employd no less than nine Waggons to his two CompaniesThe Rations mentiond by Colo. Stanwix I conceive is in lieu of Provisions, but if the Officers are supplied with Provisions these Rations are out of the Question.</p>
+<p>The Informatn of Jno. Street I hope is sent Co. Stanwix; I cannot believe the Acct of 700 French Men from the Lakes to Fort DuQuesne, as its natural to think they will collect all the Force they can to form a strong Body to the No[rth]wd against Lord Loudoun, but however its necessary to be greatly on Your guard &amp; look out.<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0009" id="GEWN-02-04-02-0205-0001-fn-0009-ptr">9</a> I shall be very glad to have a specifick Acct of the number of Drafts, those that were paid the Bounty Money &amp; had their Regimentals before they deserted<a class="ptr" href="#GEWN-02-04-02-0205-0001-fn-0010" id="GEWN-02-04-02-0205-0001-fn-0010-ptr">10</a>As I wrote You in my last about the Provisions left at Fort Cumberland, You must settle it in the best manner You can.</p>
+<p>I hope I have ommitted nothing essential, indeed I am not in Health for writing long Letters. I wish You Health &amp; am Sir Your humble Servant</p>
+<div class="closer">
+<p class="signed">Robt Dinwiddie</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-04-02-0205-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0001-ptr" id="GEWN-02-04-02-0205-0001-fn-0001">1</a>
+
+   <p>If Dinwiddie printed a notice advertising for contractors to supply provisions for the soldiers at Winchester in the summer of 1757, as he seems to have intended, it has not been found. Only two issues of the <span class="hi-italic" style="font-style: italic;">Virginia Gazette</span> (Williamsburg) in 1757 are known to have survived: 22 April and 2 September.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0002-ptr" id="GEWN-02-04-02-0205-0001-fn-0002">2</a>
+
+   <p>GW asked John Robinson on 10 July whether money left over from the 2,000 sent him to pay draftees could be used for other purposes.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0313">[313]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0003-ptr" id="GEWN-02-04-02-0205-0001-fn-0003">3</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-04-02-0198" class="document">Dinwiddie to GW, 13 July 1757</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0004-ptr" id="GEWN-02-04-02-0205-0001-fn-0004">4</a>
+
+   <p>See the Enclosure.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0005-ptr" id="GEWN-02-04-02-0205-0001-fn-0005">5</a>
+
+   <p>GW was unable to send any company size rolls until fall. For a description of the size rolls of 1757, see <a href="default.xqy?keys=GEWN-print-02-04-02-0223&amp;expandNote=GEWN-02-04-02-0223-fn-0002#GEWN-02-04-02-0223-fn-0002" class="document">GWs Instructions to Company Captains, 29 July 1757, n.2.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0006-ptr" id="GEWN-02-04-02-0205-0001-fn-0006">6</a>
+
+   <p>In a letter to Clement Read, 3 Aug. 1757, Dinwiddie confirmed that he had arranged with Read to supply with provisions the contingent of the Virginia Regiment being sent to Augusta County under the command of Maj. Andrew Lewis (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ R. Alonzo Brock, ed. &lt;i&gt;The Official Records of Robert Dinwiddie, Lieutenant-Governor of the Colony of Virginia, 17511758&lt;/i&gt;. 2 vols. Richmond, 188384. ]">Brock, <span class="hi-italic" style="font-style: italic;">Dinwiddie Papers</span></span>, 2:67778).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0007-ptr" id="GEWN-02-04-02-0205-0001-fn-0007">7</a>
+
+   <p>For a description of Dinwiddies advertisement, or proclamation, see <a href="default.xqy?keys=GEWN-print-02-04-02-0193&amp;expandNote=GEWN-02-04-02-0193-fn-0004#GEWN-02-04-02-0193-fn-0004" class="document">GW to Dinwiddie, 11 July 1757, n.4</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0008-ptr" id="GEWN-02-04-02-0205-0001-fn-0008">8</a>
+
+   <p>For reference to Col. John Stanwixs reply to GW about batmen and other matters, see <a href="default.xqy?keys=GEWN-print-02-04-02-0191" class="document">GW to Dinwiddie, 10 July 1757</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0009-ptr" id="GEWN-02-04-02-0205-0001-fn-0009">9</a>
+
+   <p>For a discussion of John Streets deposition, see <a href="default.xqy?keys=GEWN-print-02-04-02-0192&amp;expandNote=GEWN-02-04-02-0192-fn-0001#GEWN-02-04-02-0192-fn-0001" class="document">John Dagworthy to GW, 10 July 1757, n.1.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0205-0001-fn-0010-ptr" id="GEWN-02-04-02-0205-0001-fn-0010">10</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-04-02-0190&amp;expandNote=GEWN-02-04-02-0190-fn-0007#GEWN-02-04-02-0190-fn-0007" class="document">GW to John Robinson, 10 July 1757, n.7.</a></p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-04-02-0205-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 4 (9 November 175624 October 1757)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0205-0002" title="Enclosure: Commission to Hold General Court-Martials, 18 July 1757"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

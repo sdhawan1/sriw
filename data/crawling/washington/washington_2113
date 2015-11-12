@@ -1,0 +1,598 @@
+Cash Accounts, May 1763
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Cash Accounts, May 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-07-02-0129&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1763-05-00-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0128" title="To Mayne, Burn, &amp; Mayne, 30 April 1763"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-07-02-0130" title="Guardian Accounts, 2 May 1763"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-07&amp;mode=TOC">Volume 7 (1 January 176115 June 1767)</a>&gt; <a href="?keys=GEWN-print-02-07-02&amp;mode=TOC">Documents</a>&gt; Cash Accounts, May 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-07-02-0129&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0128" title="To Mayne, Burn, &amp; Mayne, 30 April 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0130" title="Guardian Accounts, 2 May 1763"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0209">209</span><div id="Col07d109" class="doc">
+
+
+<h1>Cash Accounts</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[May 1763]</td>
+	      </tr>
+      </table>
+</div>
+<table class="bodytext" id="Col07d109t1" style="margin-left: 0; margin-right: 0; width: 95%;">
+<tr>
+	      <td colspan="4" style="padding-right: 0.5em !important; text-align: center;">Cash</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; width: 4em; text-align: right;">May 3</td>
+	      <td colspan="2" style="white-space: nowrap;">To Ditto [cash] for Burgesses Wages</td>
+	      <td class="curr" style="width: 7em; padding-right: 2.0em; vertical-align: bottom;"> 33.18.6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0001" id="GEWN-02-07-02-0129-fn-0001-ptr">1</a></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">To Ditto of Mr [Joseph] Valentine for Marsh Acct 2.15.0 of Ditto Rent for Monconck 4.<a class="ptr" href="#GEWN-02-07-02-0129-fn-0002" id="GEWN-02-07-02-0129-fn-0002-ptr">2</a> Ditto Int. of Mr Wm Dand[ridg]e 22.0.5 Ditto for Corn Sold 132.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">160.15.5</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">4</td>
+	      <td colspan="2" style="white-space: nowrap;">To Collo. Basset Balle Acct</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">86.7.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">To Cash for a Trip to the Dismal<a class="ptr" href="#GEWN-02-07-02-0129-fn-0003" id="GEWN-02-07-02-0129-fn-0003-ptr">3</a></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">of Collo. Lewis</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 3.0.0</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">of Collo. Bassett</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">of Dr Walker</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">3.</span></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">9.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">of G. Washington</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">3.</span></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">12.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">due G. Wn</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">3.5.10 1/2</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">15.5.10 1/2<a class="ptr" href="#GEWN-02-07-02-0129-fn-0004" id="GEWN-02-07-02-0129-fn-0004-ptr">4</a></span></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td colspan="4" style="padding-right: 0.5em !important; text-align: center;">Contra</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">May 2</td>
+	      <td class="par" colspan="2">By 1 Penknife 7/6Club at Trebells 5/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.12.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Mr Wm Scott Strachens Acct<a class="ptr" href="#GEWN-02-07-02-0129-fn-0005" id="GEWN-02-07-02-0129-fn-0005-ptr">5</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.5.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Mr Jno. Kirkpatricks Acct</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">25.7.4 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Play Tickets 12/6. By Doctr Walkr 5<a class="ptr" href="#GEWN-02-07-02-0129-fn-0006" id="GEWN-02-07-02-0129-fn-0006-ptr">6</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">5.12.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Mr Dangerfield for hire of his Bricklr<a class="ptr" href="#GEWN-02-07-02-0129-fn-0007" id="GEWN-02-07-02-0129-fn-0007-ptr">7</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">30.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">3</td>
+	      <td colspan="2" style="white-space: nowrap;">By Club at Trebels 10/Play 8/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.18.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Barber 13/9By Mrs [Christiana]<br/>Campbell 2</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.13.9</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">4</td>
+	      <td colspan="2" style="white-space: nowrap;">By Servts at Collo. Bassets</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.6.9</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">6</td>
+	      <td colspan="2" style="white-space: nowrap;">By Ferriage at Hickmans<a class="ptr" href="#GEWN-02-07-02-0129-fn-0008" id="GEWN-02-07-02-0129-fn-0008-ptr">8</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.11.7</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Exps. at Hubbards<a class="ptr" href="#GEWN-02-07-02-0129-fn-0009" id="GEWN-02-07-02-0129-fn-0009-ptr">9</a></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">1.7.9 1/4</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Collo. Tuts People<a class="ptr" href="#GEWN-02-07-02-0129-fn-0010" id="GEWN-02-07-02-0129-fn-0010-ptr">10</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.6.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">7</td>
+	      <td colspan="2" style="white-space: nowrap;">By Expences at Colchester 4/<a class="ptr" href="#GEWN-02-07-02-0129-fn-0011" id="GEWN-02-07-02-0129-fn-0011-ptr">11</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.4.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">12</td>
+	      <td class="par" colspan="2">By Mr B[ryan] Fairfax balle due for Land bot<br/>of him</td>
+	      <td class="curr" style="padding-right: 1.5em; vertical-align: bottom;">25.10.0<a class="ptr" href="#GEWN-02-07-02-0129-fn-0012" id="GEWN-02-07-02-0129-fn-0012-ptr">12</a></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Mrs Washington</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.12.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">16</td>
+	      <td colspan="2" style="white-space: nowrap;">By Servants 5/pd Edwd Williams 40/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Ferriage at Fendals 17/6Ferrymen 2/6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0013" id="GEWN-02-07-02-0129-fn-0013-ptr">13</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">17</td>
+	      <td class="par" colspan="2">By Ditto at Machodick 3/1.<a class="ptr" href="#GEWN-02-07-02-0129-fn-0014" id="GEWN-02-07-02-0129-fn-0014-ptr">14</a> Do at Laytons<br/>3/6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0015" id="GEWN-02-07-02-0129-fn-0015-ptr">15</a></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">0.6.7 1/2</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">18</td>
+	      <td class="par" colspan="2">By Exps. at Sierss 4/. Collo. Lees Servants<br/>3/6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0016" id="GEWN-02-07-02-0129-fn-0016-ptr">16</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.7.6</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0210" colspan="4"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0210">[210]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Ferriage at Dansies 3/9. Club at Trebls 7/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.11.3</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">19</td>
+	      <td class="par" colspan="2">By Play Ticket 5/Coffee 1/3Dinr at Trebls<br/>5/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.11.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">20</td>
+	      <td class="par" colspan="2">By Supper at Trebels 3/6pd Dinr at<br/>So[uth]alls 3/9<a class="ptr" href="#GEWN-02-07-02-0129-fn-0017" id="GEWN-02-07-02-0129-fn-0017-ptr">17</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.7.3</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By writ of Ad quod damnum for [Simon]<br/>Pearson<a class="ptr" href="#GEWN-02-07-02-0129-fn-0018" id="GEWN-02-07-02-0129-fn-0018-ptr">18</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.11.3</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">21</td>
+	      <td class="par" colspan="2">By Supper at Trebells 6/3 Watch Prints 7/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.13.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Servants 2/6Coffee 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.3.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">25</td>
+	      <td class="par" colspan="2">By Expens. in a trip to the Dismal Swamp viz.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Ferriage to Norfolk</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Gave the Ferrymen</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">paid at the Ropewalk</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.1.3</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Ferriage to Portsmouth</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.1.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2" style="margin-left: 2em;">Exps. at Ivess 1/6gave Servts there 2/6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0019" id="GEWN-02-07-02-0129-fn-0019-ptr">19</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.4.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">27</td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Exps. at Robertss 1/3<a class="ptr" href="#GEWN-02-07-02-0129-fn-0020" id="GEWN-02-07-02-0129-fn-0020-ptr">20</a>Fish 1/3</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Pilot into the Swamp</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Collo. [Mills] Reddicks Servants</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.3.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Willis Riddick Ditto</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">28</td>
+	      <td class="par" colspan="2" style="margin-left: 2em;">Paid Mr Griffin at the Bridge for Services</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Horse hire to Mrs Wood<a class="ptr" href="#GEWN-02-07-02-0129-fn-0021" id="GEWN-02-07-02-0129-fn-0021-ptr">21</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.11.3</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">29</td>
+	      <td class="par" colspan="2" style="margin-left: 2em;">Tavern &amp; Horse hire pd Jno. Reinsburg</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.17.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Ferriage to Hampton</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.15.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">pd Ferrymen 2/6</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">30</td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">pd Mrs Broughs Acct<a class="ptr" href="#GEWN-02-07-02-0129-fn-0022" id="GEWN-02-07-02-0129-fn-0022-ptr">22</a></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">4.3.1 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-indent: 1em;">Mr Jas Mitchells at Yorkat twice<a class="ptr" href="#GEWN-02-07-02-0129-fn-0023" id="GEWN-02-07-02-0129-fn-0023-ptr">23</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.19.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2" style="margin-left: 2em;">Gave Collo. Bassets Joe for attendg on us</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2" style="margin-left: 2em;">Returnd to Collo. Basset for Balle due to<br/>him when he parted with us</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.11.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By 2 Watch Keyes @2/6.</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.5.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By 1 Broach 15/Barber at York 1/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.16.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Raffling for Glasses 20/. Do for Buckles 6/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.6.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">31</td>
+	      <td colspan="2" style="white-space: nowrap;">By Jas Martin[,] Barber 13/9</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.13.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Mr [William] Trebell Subscription to<br/>Wmsburg Purse Apl<a class="ptr" href="#GEWN-02-07-02-0129-fn-0024" id="GEWN-02-07-02-0129-fn-0024-ptr">24</a></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Alexr Craik Sadler 5/7Buttons 4/6<a class="ptr" href="#GEWN-02-07-02-0129-fn-0025" id="GEWN-02-07-02-0129-fn-0025-ptr">25</a></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">0.10.1 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By Mr Secrety [Thomas] Nelson Subn to<br/>Wmsburg P[urse]</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Mrs Campbells acct 40/Copying Repts<br/>15/</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.15.0</td>
+	    </tr>
+</table>
+
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0211">[211]</span>
+<div class="note-source" id="GEWN-02-07-02-0129-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Document: a document in the handwriting of the author ]">AD</abbr>, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 160, 165.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0001-ptr" id="GEWN-02-07-02-0129-fn-0001">1</a>
+
+   <p>This was GWs pay for the assembly session of 2 Nov.23 Dec. 1762: my Burgesses Wages this Session of Assemblyviz. 52 days @10/26; 12 Travelling days @10/6; and Ferriages going &amp; coming1.18.8 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 122). For his attendance at the May 1763 session, see <a href="default.xqy?keys=GEWN-print-02-07-02-0129&amp;expandNote=GEWN-02-07-02-0129-fn-0013#GEWN-02-07-02-0129-fn-0013" class="document">note 13.</a> See also <a href="default.xqy?keys=GEWN-print-02-07-02-0001&amp;expandNote=GEWN-02-07-02-0001-fn-0007#GEWN-02-07-02-0001-fn-0007" class="document">Cash Accounts, 1761, n.7.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0002-ptr" id="GEWN-02-07-02-0129-fn-0002">2</a>
+
+   <p>Moncock Hill, the smallest of the four dower plantations, was probably a part of the Mangohick Dividend tract on the Pamunkey River in King William County. The tract was owned at one time by Daniel Parke (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Malcolm Hart Harris. &lt;i&gt;Old New Kent County&lt;/i&gt;. 2 vols. West Point, Va., 1977. ]">Harris, <span class="hi-italic" style="font-style: italic;">New Kent County</span></span>, 2:93740).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0003-ptr" id="GEWN-02-07-02-0129-fn-0003">3</a>
+ 
+   <p>GW made his first trip to the Great Dismal Swamp in May 1763 with Fielding Lewis, Burwell Bassett, and Thomas Walker (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 194). On 25 May, presumably the day they left Williamsburg for Norfolk and the swamp, William Nelson in behalf of himself and many others petitioned the Virginia council for the unclaimed land in the Dismal Swamp (Dismal Swamp Land Company: Articles of Agreement, 3 Nov. 1763, n.1). GW evidently took extensive notes of his travels through the swamps in late May, for on the occasion of his second visit to the Dismal Swamp in October 1763, he entered in his diary under the date of 15 Oct. 1763 a circumstantial account of where he had gone and what he had observed when traveling in May from Suffolk down the west side of the swamp into North Carolina and then back up the east side of the swamp to Suffolk again. The account is printed in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-01-02-0009-0001" class="document">1:31926</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0004-ptr" id="GEWN-02-07-02-0129-fn-0004">4</a>
+
+   <p>In <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 194, headed Adventurers for Draining the Dismal Swamp, GW has entered for May 1763, on one side of the ledger, By Sundry Sums of 3 put in by Messrs Lewis[,] Basset, Walker &amp; myself in our first trip to the Dismal Swamp[]12; and on the other side, To Expences in visiting, &amp; examining the Swamp the first time in May[]15.5.10.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0005-ptr" id="GEWN-02-07-02-0129-fn-0005">5</a>
+
+   <p>William Scott Strachen may be William Strachan of Fredericksburg who moved from the town sometime between 1766 and 1768.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0006-ptr" id="GEWN-02-07-02-0129-fn-0006">6</a>
+
+   <p>GW paid Thomas Walker 5 in Williamsburg for Fee paid Macleane &amp; Stuart of Phila. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 155).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0007-ptr" id="GEWN-02-07-02-0129-fn-0007">7</a>
+ 
+   <p>See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-01-02-0007-0005" class="document">1:297</a>, for identification of the three William Daingerfields living in Virginia at this time. GW has this entry in his <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span> for 3 May 1763, Mr. Daingerfields Negro Bricklayer Guy came here to work (<a href="default.xqy?keys=GEWN-print-01-01-02-0008-0003" class="document">ibid.</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0008-ptr" id="GEWN-02-07-02-0129-fn-0008">8</a>
+
+   <p>This was probably John Hickman of King William County, the son of William Hickman.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0009-ptr" id="GEWN-02-07-02-0129-fn-0009">9</a>
+
+   <p>Benjamin Hubbards ordinary was in Caroline County southeast of Fredericksburg.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0010-ptr" id="GEWN-02-07-02-0129-fn-0010">10</a>
+
+   <p>Colonel Tut is undoubtedly Richard Tutt (died c.1767), who was appointed colonel of the Spotsylvania County militia in 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0011-ptr" id="GEWN-02-07-02-0129-fn-0011">11</a>
+
+   <p>Colchester was a settlement of Scottish merchants on Occoquan Creek not far from Mount Vernon.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0012-ptr" id="GEWN-02-07-02-0129-fn-0012">12</a>
+
+   <p>GW bought from Bryan Fairfax 275 acres of land on Difficult Run, between the Great and Little falls of the Potomac, for 82.10 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, 49). The principal reason for GWs buying the land was its location at the bridge
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0212">[212]</span>
+ over Difficult Run on the road from Alexandria to Leesburg and Winchester. It served as a stopping place for GWs wagons to and from his Bullskin quarters. <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2008-12-05]]&lt;/span&gt; ]">The deed is recorded in Loudoun County Deed Book C, 458-60 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Loudoun County Courthouse, Leesburg, Va. ]">ViLeeLCh</span>).</span></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0013-ptr" id="GEWN-02-07-02-0129-fn-0013">13</a>
+
+   <p>GW apparently crossed over into Maryland on this day to begin his journey back to Williamsburg for the session of the assembly that began on 19 May. A ferry ran from Benjamin Fendalls landing on the Potomac River in Charles County, Md., to Hooes ferry landing in Virginia. James Nottingham kept the ferry and tavern at Fendalls in 1764.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0014-ptr" id="GEWN-02-07-02-0129-fn-0014">14</a>
+
+   <p>This is probably the ferry that crossed from Maryland to Upper Machodoc Creek which flows into the Potomac River just below the present Dahlgren Proving Grounds.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0015-ptr" id="GEWN-02-07-02-0129-fn-0015">15</a>
+
+   <p>Laytons ferry was on the Rappahannock River about twenty miles above Hobbs Hole (Tappahannock).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0016-ptr" id="GEWN-02-07-02-0129-fn-0016">16</a>
+
+   <p>Colonel Lee was probably Philip Ludwell Lee (17271775) of Stratford Hall in Westmoreland County.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0017-ptr" id="GEWN-02-07-02-0129-fn-0017">17</a>
+   
+   <p>James Barrett Southall (<span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'b. 1726' &lt;span style='font-size: 90%'&gt;[[2006-06-09]]&lt;/span&gt; ]">17261801</span>) took over Henry Wetherburns tavern on the Duke of Gloucester Street in Williamsburg after Wetherburn died in 1760.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0018-ptr" id="GEWN-02-07-02-0129-fn-0018">18</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-07-02-0110&amp;expandNote=GEWN-02-07-02-0110-fn-0001#GEWN-02-07-02-0110-fn-0001" class="document">Cash Accounts, January 1763, n.1.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0019-ptr" id="GEWN-02-07-02-0129-fn-0019">19</a>
+
+   <p>Ives may be Timothy Ives, who was a merchant in Norfolk. For the trip to the Dismal Swamp, see <a href="default.xqy?keys=GEWN-print-02-07-02-0129&amp;expandNote=GEWN-02-07-02-0129-fn-0003#GEWN-02-07-02-0129-fn-0003" class="document">note 3.</a></p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0020-ptr" id="GEWN-02-07-02-0129-fn-0020">20</a>
+ 
+   <p>Roberts may be Lemuel Roberts of Norfolk County. Robertss ordinary was about ten miles from Suffolk, probably just south of Portsmouth (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-01-02-0009-0002#GEWN-01-01-02-pb-0325" class="document">1:32526</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0021-ptr" id="GEWN-02-07-02-0129-fn-0021">21</a>
+
+   <p>Mr. Griffin and Mrs. Wood have not been identified.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0022-ptr" id="GEWN-02-07-02-0129-fn-0022">22</a>
+
+   <p>Mary Brough kept a tavern near the wharves in Hampton.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0023-ptr" id="GEWN-02-07-02-0129-fn-0023">23</a>
+
+   <p>James Mitchell (d. 1772) ran the Swan Tavern in Yorktown.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0024-ptr" id="GEWN-02-07-02-0129-fn-0024">24</a>
+
+   <p>The Williamsburg horse race was run twice a year, in the spring and fall, for a purse of 100.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0129-fn-0025-ptr" id="GEWN-02-07-02-0129-fn-0025">25</a>
+
+   <p>Alexander Craig <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2013-11-11]]&lt;/span&gt; ]">(c.1717-1776)</span> was a saddler in Williamsburg.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-07-02-0129 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 7 (1 January 176115 June 1767)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0128" title="To Mayne, Burn, &amp; Mayne, 30 April 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0130" title="Guardian Accounts, 2 May 1763"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

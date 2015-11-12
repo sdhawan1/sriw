@@ -1,0 +1,657 @@
+Cash Accounts, April 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Cash Accounts, April 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-10-02-0243&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-04-00-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-10-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0242" title="To James Cleveland, March 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-10-02-0244" title="To George William Fairfax, 1 April 1775 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-10&amp;mode=TOC">Volume 10 (21 March 177415 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-10-02&amp;mode=TOC">Documents</a>&gt; Cash Accounts, April 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-10-02-0243&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0242" title="To James Cleveland, March 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-10-02-0244" title="To George William Fairfax, 1 April 1775 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0315">315</span><div id="Col10d200" class="doc">
+
+<h1>Cash Accounts</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[April 1775]</td>
+	      </tr>
+      </table>
+</div>
+<table class="bodytext" id="Col10d200t1" style="margin-left: 0; margin-right: 0; width: 95%;">
+<tr>
+	      <td colspan="3" style="padding-right: 0.5em !important; text-align: center;">Cash</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">Apl 1</td>
+	      <td class="par">To Messrs Robt Adam &amp; Coy 1200 Pern<a class="ptr" href="#GEWN-02-10-02-0243-fn-0001" id="GEWN-02-10-02-0243-fn-0001-ptr">1</a></td>
+	      <td class="curr" style="width: 7em; padding-right: 2.5em;">[] 75.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">3</td>
+	      <td style="white-space: nowrap;">To Merchds.<a class="ptr" href="#GEWN-02-10-02-0243-fn-0002" id="GEWN-02-10-02-0243-fn-0002-ptr">2</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">17</td>
+	      <td class="par">To Fairfax County Recd of Colo. Mason<a class="ptr" href="#GEWN-02-10-02-0243-fn-0003" id="GEWN-02-10-02-0243-fn-0003-ptr">3</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">31.17.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To my own Tythes Vizt 137 @ 3/ each</td>
+	      <td class="curr" style="padding-right: 2.5em;">20.11.0</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0316" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0316">[316]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Colo. Mason, Ball. of his Acct this day Settled</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Mr Gibson Recd from him on his own &amp; Mr Rosss Accot<a class="ptr" href="#GEWN-02-10-02-0243-fn-0004" id="GEWN-02-10-02-0243-fn-0004-ptr">4</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">32.0.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Major Broadwater recd from him on Acct of the Money Pd him 25th March<a class="ptr" href="#GEWN-02-10-02-0243-fn-0005" id="GEWN-02-10-02-0243-fn-0005-ptr">5</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">3.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To Cash Overcharged on Contra Side</td>
+	      <td class="curr" style="padding-right: 2.5em;">101.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Colo. Bassett recd from him 27th March</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.12.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To Merchds. for 8 Bushls Salt<a class="ptr" href="#GEWN-02-10-02-0243-fn-0006" id="GEWN-02-10-02-0243-fn-0006-ptr">6</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">0.16.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">20</td>
+	      <td style="white-space: nowrap;">To Do for 4 Do<a class="ptr" href="#GEWN-02-10-02-0243-fn-0007" id="GEWN-02-10-02-0243-fn-0007-ptr">7</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">0.8.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Colo. Mason recd for 300 Bls Salt @ 1/8</td>
+	      <td class="curr" style="padding-right: 2.5em;">25.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Alexr Henderson for Flour <img class="char" src="images/char-per-trans.png" alt="[per]"/> Acct Sent</td>
+	      <td class="curr" style="padding-right: 2.5em;">15.19.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Mr Gibson Ball. of his Acct</td>
+	      <td class="curr" style="padding-right: 2.5em;">6.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">22</td>
+	      <td style="white-space: nowrap;">To Merchds. 8 Barrls<a class="ptr" href="#GEWN-02-10-02-0243-fn-0008" id="GEWN-02-10-02-0243-fn-0008-ptr">8</a> Salt</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.17.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To Do for Fish</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.14.10</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">23</td>
+	      <td class="par">To Mr Philsmith recd from him by Mr J. H. Washn<a class="ptr" href="#GEWN-02-10-02-0243-fn-0009" id="GEWN-02-10-02-0243-fn-0009-ptr">9</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">9.0.7</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Mr Andw Leitch recd from him towards Paying for the Arms engaged for the P. W. Coy<a class="ptr" href="#GEWN-02-10-02-0243-fn-0010" id="GEWN-02-10-02-0243-fn-0010-ptr">10</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">16.10.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">24</td>
+	      <td class="par">To Thos Bishop on Acct of Salt Sold</td>
+	      <td class="curr" style="padding-right: 2.5em;">5.17.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">25</td>
+	      <td class="par">To Thos Davies on Acct of Powder for the Spossy Evania Inda. Compy [Spotsylvania Independent Company]<a class="ptr" href="#GEWN-02-10-02-0243-fn-0011" id="GEWN-02-10-02-0243-fn-0011-ptr">11</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">4.16.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">27</td>
+	      <td class="par">To 6 Barrls Flour 1260 lbs. @ 16/ &amp; 6 Barrls @ 10/<a class="ptr" href="#GEWN-02-10-02-0243-fn-0012" id="GEWN-02-10-02-0243-fn-0012-ptr">12</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">10.11.7</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To Thos Bishop for Salt Sold</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.9.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Mr Craven Payton on Acct of Colo. Geo. Fairfax</td>
+	      <td class="curr" style="padding-right: 0.5em !important;">193.6.10 1/2</td>
+	    </tr>
+<tr>
+	      <td colspan="3" style="padding-right: 0.5em !important; text-align: center;">Contra</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">Apl 1</td>
+	      <td style="white-space: nowrap;">By Exps. at Dumfries</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.13.3</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Messrs Robt Adam &amp; Coy</td>
+	      <td class="curr" style="padding-right: 2.5em;">75.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Thos Bishop <img class="char" src="images/char-per-trans.png" alt="[per]"/> L. Washington</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.12.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">3</td>
+	      <td class="par">By Merchds. 3 Barrls Tar @ 10/ <img class="char" src="images/char-per-trans.png" alt="[per]"/> Barrl</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Freight of 57075 Shingles from Suffolk @ 5/</td>
+	      <td class="curr" style="padding-right: 2.5em;">14.5.4</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0317" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0317">[317]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Merchds. 1 Bushl Meal</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.2.6</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">5</td>
+	      <td class="par">By John G. Hamilton Freight of 1453 Bls Wht from Md<a class="ptr" href="#GEWN-02-10-02-0243-fn-0013" id="GEWN-02-10-02-0243-fn-0013-ptr">13</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">11.1.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By 1740 Feet 1 Plank</td>
+	      <td class="curr" style="padding-right: 2.5em;">6.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Boat hire &amp;c. of Do</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.14.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By William Robert <img class="char" src="images/char-per-trans.png" alt="[per]"/> Thos Alford</td>
+	      <td class="curr" style="padding-right: 2.5em;">5.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">7</td>
+	      <td style="white-space: nowrap;">By Jas Boyd</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.5.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">9</td>
+	      <td style="white-space: nowrap;">By Mrs Washington</td>
+	      <td class="curr" style="padding-right: 2.5em;"><span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from '3' &lt;span style='font-size: 90%'&gt;[[2011-11-09]]&lt;/span&gt; ]">5</span>.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Colo. Mason, <img class="char" src="images/char-per-trans.png" alt="[per]"/> his Son William<a class="ptr" href="#GEWN-02-10-02-0243-fn-0014" id="GEWN-02-10-02-0243-fn-0014-ptr">14</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">1.15.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">12</td>
+	      <td class="par">By <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> Stone for 2350 Feet 1 Plank</td>
+	      <td class="curr" style="padding-right: 2.5em;">9.8.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">15</td>
+	      <td style="white-space: nowrap;">By Alexr Cleveland</td>
+	      <td class="curr" style="padding-right: 2.5em;">16.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Do my Order on Robt Adam</td>
+	      <td class="curr" style="padding-right: 2.5em;">9.0.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">16</td>
+	      <td class="par">By the Fairfax Inda. Coy Pd towards their Exps.</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.12.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Charity</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.3.9</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">17</td>
+	      <td style="white-space: nowrap;">By Thos Bishop</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.4.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Goin Lanpiere <img class="char" src="images/char-per-trans.png" alt="[per]"/> his Servt Joe</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.10.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Exps. at Mrs Hawkins</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.14.2</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">18</td>
+	      <td style="white-space: nowrap;">By William Keating</td>
+	      <td class="curr" style="padding-right: 2.5em;">5.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Charity</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.16.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">20</td>
+	      <td class="par">By Colo. Mason Recd from him for 300 Bls Salt @ 1/8<a class="ptr" href="#GEWN-02-10-02-0243-fn-0015" id="GEWN-02-10-02-0243-fn-0015-ptr">15</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">25.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Thos Allison Advanced him in pursuit of Servts<a class="ptr" href="#GEWN-02-10-02-0243-fn-0016" id="GEWN-02-10-02-0243-fn-0016-ptr">16</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">3.7.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By the Annapolis Printer</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.6.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Alexr Henderson for Raisd Pews in Pohick Church<a class="ptr" href="#GEWN-02-10-02-0243-fn-0017" id="GEWN-02-10-02-0243-fn-0017-ptr">17</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">3.7.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By 50 lbs. Lead @ 4d. <img class="char" src="images/char-per-trans.png" alt="[per]"/> lb.</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.16.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Colo. Fairfax pd Mr Henderson raisg your Pew<a class="ptr" href="#GEWN-02-10-02-0243-fn-0018" id="GEWN-02-10-02-0243-fn-0018-ptr">18</a></td>
+	      <td class="curr" style="padding-right: 2.5em;">1.2.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Mr Custis 22 Yds Bombazeen in My Acct with Mr [Hector] Ross</td>
+	      <td class="curr" style="padding-right: 2.5em;">3.1.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Joel Cooper his Acct agt Briga. Farmer</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.11.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Peter Wise his Acct agt Do</td>
+	      <td class="curr" style="padding-right: 2.5em;">17.18.1</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By William Wilson Do</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.7.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Leitch &amp; Stewarts Do</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.11.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Harper &amp; Hartshornes Do</td>
+	      <td class="curr" style="padding-right: 2.5em;">17.19.4</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By John &amp; Geo. Fowler</td>
+	      <td class="curr" style="padding-right: 2.5em;">11.0.6</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By McCrea &amp; Maze</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.8.8</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Thos Armat</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.1.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Mr Gilpin</td>
+	      <td class="curr" style="padding-right: 2.5em;">9.6.3</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Robt Donaldson</td>
+	      <td class="curr" style="padding-right: 2.5em;">14.3.10</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0318" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0318">[318]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Hector Macome</td>
+	      <td class="curr" style="padding-right: 2.5em;">14.6.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Thos Wilkenson</td>
+	      <td class="curr" style="padding-right: 2.5em;">8.15.2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Capt. P. Curtis Ball. of his Acct</td>
+	      <td class="curr" style="padding-right: 2.5em;">18.8.8</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">21</td>
+	      <td style="white-space: nowrap;">By 15 Dozn of Lamp Black</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By 12 Fish Barrls</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.2.0</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">26</td>
+	      <td style="white-space: nowrap;">By Mr Custis</td>
+	      <td class="curr" style="padding-right: 2.5em;">14.8.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By my Three Nephews Will Washington George &amp; Chas Lewis given them</td>
+	      <td class="curr" style="padding-right: 1.5em;">4.4.0<a class="ptr" href="#GEWN-02-10-02-0243-fn-0019" id="GEWN-02-10-02-0243-fn-0019-ptr">19</a></td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">27</td>
+	      <td class="par">By 277 lbs. Myrtle Wax @ 1/3</td>
+	      <td class="curr" style="padding-right: 2.5em;">17.6.10</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">28</td>
+	      <td style="white-space: nowrap;">By 293 lbs. Butter @ 9d.</td>
+	      <td class="curr" style="padding-right: 2.5em;">10.19.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Jas Oram Ball. of his Acct</td>
+	      <td class="curr" style="padding-right: 2.5em;">6.7.5</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Exps. at Hawkins 3/9 Charity 2/6</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.6.3</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By William Johnson</td>
+	      <td class="curr" style="padding-right: 2.5em;">0.6.3</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important; text-align: right;">29</td>
+	      <td style="white-space: nowrap;">By Caleb Stone</td>
+	      <td class="curr" style="padding-right: 2.5em;">5.0.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">By Jesse Brummit</td>
+	      <td class="curr" style="padding-right: 2.5em;">1.16.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By William Johnson pd him as a reward for pursuing runaway Servants</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.2.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By Thos Johnson pd him on Same Accot</td>
+	      <td class="curr" style="padding-right: 2.5em;">2.2.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">By <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> pd <span class="space" title="space in original source" style="padding-left:2px; padding-right:2px;">[      ]</span> on Same Accot<a class="ptr" href="#GEWN-02-10-02-0243-fn-0020" id="GEWN-02-10-02-0243-fn-0020-ptr">20</a></td>
+	      <td class="curr" style="padding-right: 1.5em;">2.2.0<a class="ptr" href="#GEWN-02-10-02-0243-fn-0021" id="GEWN-02-10-02-0243-fn-0021-ptr">21</a></td>
+	    </tr>
+</table>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-10-02-0243-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Document: a document (not a letter) neither in the author's handwriting nor signed by the author ]">D</abbr>, <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 2, 1772-93, in George Washington Papers, Library of Congress. ]">Ledger B</span>, 19192.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0001-ptr" id="GEWN-02-10-02-0243-fn-0001">1</a>
+
+   <p>This seems to have been miscopied from GWs <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> by the clerk who made the entries in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 2, 1772-93, in George Washington Papers, Library of Congress. ]">Ledger B</span> at a later time. The <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> reads To Cash recd from Messrs Robt Adam &amp; Co. 200 <span class="hi-italic" style="font-style: italic;">illegible</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0002-ptr" id="GEWN-02-10-02-0243-fn-0002">2</a>
+
+   <p>This probably is an abbreviation for merchandise. The <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> reads To Cash recd for a Bushl Meal.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0003-ptr" id="GEWN-02-10-02-0243-fn-0003">3</a>
+
+   <p>The <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> reads Credit Fairfax County by Cash recd of Colo. Mason. This entry and the one following are the tithes collected by GW and Mason to pay for weapons and ammunition for the Fairfax Independent Company. See <a href="default.xqy?keys=GEWN-print-02-10-02-0198" class="document">George Mason to GW, 17 Feb.</a>, and <a href="default.xqy?keys=GEWN-print-02-10-02-0198&amp;expandNote=GEWN-02-10-02-0198-fn-0003#GEWN-02-10-02-0198-fn-0003" class="document">note 3 of that document</a>, and <a href="default.xqy?keys=GEWN-print-02-10-02-0199" class="document">Mason to GW, 18 February</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0004-ptr" id="GEWN-02-10-02-0243-fn-0004">4</a>
+
+   <p>Six shillings tenpence of this amount was paid for flour bought by John Gibson (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 2, 1772-93, in George Washington Papers, Library of Congress. ]">Ledger B</span>, 134); Mr. Ross may be John Ross.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0005-ptr" id="GEWN-02-10-02-0243-fn-0005">5</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-10-02-0212" class="document">Cash Accounts for March</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0006-ptr" id="GEWN-02-10-02-0243-fn-0006">6</a>
+
+   <p>In his <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> GW wrote To Ditto recd for 8 Bushls Salt. GWs brigantine <span class="hi-italic" style="font-style: italic;">Farmer</span> arrived at Mount Vernon on 2 April with a load of salt. See <a href="default.xqy?keys=GEWN-print-02-10-02-0256&amp;expandNote=GEWN-02-10-02-0256-fn-0001#GEWN-02-10-02-0256-fn-0001" class="document">George Digges to GW, 7 April, n.1</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0007-ptr" id="GEWN-02-10-02-0243-fn-0007">7</a>
+
+   <p>In the <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> there are two entries of two bushels each, the first with the symbol TB and the second with the symbol LW, probably for Thomas Bishop and Lund Washington.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0008-ptr" id="GEWN-02-10-02-0243-fn-0008">8</a>
+
+   <p>In the <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> this is Bls, undoubtedly an abbreviation for bushels, not barrels.</p>
+
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0319">[319]</span>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0009-ptr" id="GEWN-02-10-02-0243-fn-0009">9</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-10-02-0236" class="document">GW to John Augustine Washington, 25 Mar.</a>, and <a href="default.xqy?keys=GEWN-print-02-10-02-0236&amp;expandNote=GEWN-02-10-02-0236-fn-0001#GEWN-02-10-02-0236-fn-0001" class="document">note 1 of that document</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0010-ptr" id="GEWN-02-10-02-0243-fn-0010">10</a>
+
+   <p>Andrew Leitch (d. 1776), a Dumfries merchant, was a member of the Prince William County committee. He later was a major in George Weedons 3d Virginia Regiment and died from wounds received at the Battle of Harlem Heights.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0011-ptr" id="GEWN-02-10-02-0243-fn-0011">11</a>
+ 
+   <p>In his <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> GW calls the man Davis, and in the <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-03-02-0005-0008#GEWN-01-03-02-pb-0323" class="document">3:323</a>, he records that Thos. Davis came Express &amp; returnd.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0012-ptr" id="GEWN-02-10-02-0243-fn-0012">12</a>
+
+   <p>GW calls these casks of flour in his <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0013-ptr" id="GEWN-02-10-02-0243-fn-0013">13</a>
+
+   <p>GW wrote in his <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> that this wheat was shipped from Marlbro, the Mercer plantation.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0014-ptr" id="GEWN-02-10-02-0243-fn-0014">14</a>
+
+   <p>William Mason (17571818) was George Masons second son.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0015-ptr" id="GEWN-02-10-02-0243-fn-0015">15</a>
+
+   <p>The copyist should have put this entry under Cash.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0016-ptr" id="GEWN-02-10-02-0243-fn-0016">16</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-10-02-0266" class="document">Advertisement for Runaway Servants, 23 April</a>, and notes to that document.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0017-ptr" id="GEWN-02-10-02-0243-fn-0017">17</a>
+
+   <p>The <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Vestry Book of Truro Parish, Virginia, 17311802. Manuscript on deposit at the Library of Congress. ]">Truro Parish vestry book</span> contains this entry for the meeting of 3 June 1773: Upon the Motion of the Honble George William Fairfax Esqr: and Alexander Henderson Gent: in behalf of themselves and the other purchasers of the six upper midle Pews above the Cross IsleLeave is granted to the said purchasers to take up the Stones in the Isles and to raise the said six Pews at theire own private Expence to the same height above the Isles and exactly in the same manner with the Pews next to the Walls, they making good any Damage that may happen in doing the same; and it is also ordered that the eight midle pews below the Cross Isle be raised in the same manner at the expence of the Parish (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Vestry Book of Truro Parish, Virginia, 17311802. Manuscript on deposit at the Library of Congress. ]">Truro Parish Vestry Book</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0018-ptr" id="GEWN-02-10-02-0243-fn-0018">18</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-10-02-0243&amp;expandNote=GEWN-02-10-02-0243-fn-0017#GEWN-02-10-02-0243-fn-0017" class="document">note 17</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0019-ptr" id="GEWN-02-10-02-0243-fn-0019">19</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-09-02-0167&amp;expandNote=GEWN-02-09-02-0167-fn-0009#GEWN-02-09-02-0167-fn-0009" class="document">Cash Accounts, May 1773, n.9</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0020-ptr" id="GEWN-02-10-02-0243-fn-0020">20</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-10-02-0243&amp;expandNote=GEWN-02-10-02-0243-fn-0016#GEWN-02-10-02-0243-fn-0016" class="document">note 16</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-10-02-0243-fn-0021-ptr" id="GEWN-02-10-02-0243-fn-0021">21</a>
+
+   <p>Among entries in GWs <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Pocket-day-Book or Cash-Memorandums, 9 Aug. 177227 May 1773, 29 May 177322 March 1774, 26 Oct. 17743 May 1775. Manuscript in George Washington Papers, Library of Congress. 24 March-31 October 1774. Manuscript in Huntington Library, Art Collections and Botanical Gardens, San Marino, Calif. ]">Cash Memoranda, 1772-75</span> that have not been copied into the cash accounts are: on the seventh, Charge Colo. Geo. Wm Fairfax with Ingles &amp; Longs Bill in favour of William Hodgzard for 100 Sterg at 27 prCt dated 14th Mar. last past127.10.0; on the twenty-first, Credit Mr Robt Adam with 60 for a Negro Man Jack bought of him; on the twenty-third, Charge Wm Digges Esqr. with his Order on Mary Goardreturnd him for 15 Maryld Curry; on the twenty-fifth, Charge Thos Newton Junr Esqr. with 30 Bls of Herrgs sent him by Zebulon Brooke abt the 18th of March. 60 Do and 25 of Shipstuff abt the 25th of Doand 110 Barls of Suprfine Flourall by Jesse George; and on the twenty-sixth, Charge Messrs Balfour &amp; Barraud with 1000 Bls of Suprfine Flour pr Inve Nett 206,795 lbs. @ 161. prCt1654.7.2[.] also with 1000 Cask @ 20 d.83.6.8.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-10-02-0243 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 10 (21 March 177415 June 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0242" title="To James Cleveland, March 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-10-02-0244" title="To George William Fairfax, 1 April 1775 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

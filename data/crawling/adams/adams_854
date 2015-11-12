@@ -1,0 +1,318 @@
+From Samuel Holden Parsons, 15 August 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Samuel Holden Parsons, 15 August 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-04-02-0212&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1776-08-15-7">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-04-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0211" title="To Thomas Mifflin, 15 August 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-04-02-0213" title="To Francis Dana, 16 August 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-04&amp;mode=TOC">Volume 4, FebruaryAugust 1776</a>&gt; <a href="?keys=ADMS-print-06-04-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Samuel Holden Parsons, 15 August 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-04-02-0212&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0211" title="To Thomas Mifflin, 15 August 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-04-02-0213" title="To Francis Dana, 16 August 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-04-02-pb-0462">462<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0462.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA04d273" class="doc letter">
+
+    <h1>From Samuel Holden Parsons</h1>
+    
+    <div class="docbody">
+     <div class="opener">
+      <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear Sir</td>
+		<td class="salutationRight">New York 15th. Augt. [<ins title="editorial addition or explanation" class="ed">1776</ins>]</td>
+	      </tr>
+      </table>
+     </div>
+     <p>Your Favors of the 3d. and 11th. Instant I received this Day for which I am much obliged. I know not whither the Promotion of Generals will give perfect Content, the Uneasiness amongst the Brigadiers who are promoted I beleive will Satisfy them,<a class="ptr" href="#PJA04d273n1" id="PJA04d273n1-ptr">1</a> the Promotion of Colonels I dont hear objected to, except that <del title="deleted text">&lt;None&gt;</del> One from Rhode Island are not promoted;<a class="ptr" href="#PJA04d273n2" id="PJA04d273n2-ptr">2</a> on my Part I ought to be contented when you have done much more than my most sanguine Expectations gave Reason to hope, at this Time. The Two Regiments of Tyler and Durkee are Satisfied. To the Majority of these Regiments I beg Leave again to recommend to you Captain James Chapman of Tylers Regiment, the first Captain, an officer faithful and Approved in a Variety of Campaigns the last and present War, of a liberal capacious Mind,<span class="pb" title="page number in print edition" id="ADMS-06-04-02-pb-0463">[463<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0463.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> well acquainted with Men and in every Respect an able good Officer universally esteemed as such, he has already a temporary Appointment by the General which is all he can do. Capt. Dier of Col. Durkees Regiment is Son to Col. Dier, and a Gentleman of a liberal extensive Education and has every Character of a Soldier, he is the Second Captain and without Exception the best Man in the Regiment for a Majority. The first Captain is an honest Man, (and that is a good Character), but by no Means fit to command. I know I may write in Confidence to you, and therefore will endeavor to give the Characters of your Officers as I am able from my Acquaintance, tho I think the Task hard and not the most agreable.</p>
+     <table class="bodytext" id="PJA04d273t1">
+     <tr class="head">
+	      <td>
+       <span class="hi-italic" style="font-style: italic;">Colonels</span>
+       <a class="ptr" href="#PJA04d273n3" id="PJA04d273n3-ptr">3</a>
+      </td>
+	      <td></td>
+	    </tr>
+     <tr>
+	      <td class="text">Whitcomb</td>
+	      <td class="par">has no Trace of an Officer, his Men under no Government</td>
+	    </tr>
+     <tr>
+	      <td class="text">Reed</td>
+	      <td class="par">A good Officer not of the most extensive Knowledge but far from being low or despicable</td>
+	    </tr>
+     <tr>
+	      <td class="text">Prescot</td>
+	      <td class="par">A Good Soldier to fight no Sense after Eight oClock A M</td>
+	    </tr>
+     <tr>
+	      <td class="text">Little</td>
+	      <td class="par">A Midling Officer and of tolerable Genius, not great</td>
+	    </tr>
+     <tr>
+	      <td class="text">Serjeant</td>
+	      <td class="par">has a pretty good Character but I have no Acquaintance</td>
+	    </tr>
+     <tr>
+	      <td class="text">Glover</td>
+	      <td class="par">is said to be a good Officer but am not acquainted</td>
+	    </tr>
+     <tr>
+	      <td class="text">Hutchinson</td>
+	      <td class="par">An easy good Man not of great Genius</td>
+	    </tr>
+     <tr>
+	      <td class="text">Baley</td>
+	      <td class="text">is Nothing</td>
+	    </tr>
+     <tr>
+	      <td class="text">Baldwin</td>
+	      <td class="par">a Personable Man but not of the first Character</td>
+	    </tr>
+     <tr>
+	      <td class="text">Learned</td>
+	      <td class="par">Was a good Officer, is old, Superanuated and Resigned</td>
+	    </tr>
+     <tr>
+	      <td class="text">Greaton</td>
+	      <td class="par">An excellent Disciplinarian his Courage has been questioned, but I dont know with what Justice</td>
+	    </tr>
+     <tr>
+	      <td class="text">Bond</td>
+	      <td class="text">I dont know him</td>
+	    </tr>
+     <tr>
+	      <td class="text">Patterson</td>
+	      <td class="par">A Good Officer of a liberal Education, ingenious and Sensible</td>
+	    </tr>
+    </table>
+   <hr/>
+     <table class="bodytext" id="PJA04d273t2">
+     <tr class="head">
+	      <td>
+       <span class="hi-italic" style="font-style: italic;">Lt. Colonels</span>
+       <a class="ptr" href="#PJA04d273n4" id="PJA04d273n4-ptr">4</a>
+      </td>
+	      <td></td>
+	    </tr>
+     <tr>
+	      <td class="text">Shephard</td>
+	      <td class="par">an excellent Officer none before him, of good Understanding and good common Learning</td>
+	    </tr>
+     <tr>
+	      <td class="text">Jacobs</td>
+	      <td class="text">is less than Nothing</td>
+	    </tr>
+     <tr>
+	      <td class="text">Wesson</td>
+	      <td class="text">An Able Officer</td>
+	    </tr>
+     <tr>
+	      <td class="text">Clap</td>
+	      <td class="text">Pretty good</td>
+	    </tr>
+     <tr>
+	      <td class="text">Reed</td>
+	      <td class="text">Pretty good</td>
+	    </tr>
+     <tr>
+	      <td class="text">Moulton</td>
+	      <td class="text">Am not acquainted</td>
+	    </tr>
+     <tr class="pb_row">
+	      <td title="page number in print edition" id="ADMS-06-04-02-pb-0464" colspan="2"><span class="pb center" title="page number in print edition" id="ADMS-06-04-02-pb-0464">[464<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0464.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></td>
+	    </tr>
+     <tr>
+	      <td class="text">Henshaw</td>
+	      <td class="text">Am not acquainted</td>
+	    </tr>
+     <tr>
+	      <td class="text">Johonnot</td>
+	      <td class="par">Very good a fine Soldier and an extensive Acquaintance</td>
+	    </tr>
+     <tr class="head">
+	      <td>
+       <span class="hi-italic" style="font-style: italic;">Majors</span>
+       <a class="ptr" href="#PJA04d273n5" id="PJA04d273n5-ptr">5</a>
+      </td>
+	      <td></td>
+	    </tr>
+     <tr>
+	      <td class="text">Sprout</td>
+	      <td class="text">a good, able, Officer</td>
+	    </tr>
+     <tr>
+	      <td class="text">Brooks</td>
+	      <td class="par">an Officer, Soldier, Gentleman and Scholar of the first Character</td>
+	    </tr>
+     <tr>
+	      <td class="text">Smith</td>
+	      <td class="text">a midling Officer</td>
+	    </tr>
+     <tr>
+	      <td class="text">Haydon</td>
+	      <td class="par">a good Officer faithful and prudent not of the most Learning or great Knowledge of the World</td>
+	    </tr>
+    </table>
+   <p>Lt. Col. Nixon I had forgot he is a discreet good Officer not of the greatest Mind.<a class="ptr" href="#PJA04d273n6" id="PJA04d273n6-ptr">6</a></p>
+     <p>Col. Ward is a diligent faithful Man and a good Soldier.</p>
+     <p>These are all the Field Officers from your State which I at present recollect with whom I have any Acquaintance; amongst them all tis my Opinion Lt. Col. Shephard would make as good an Officer as any at the Head of a Regiment and that Major Brooks would Honor any Command he Should be appointed to, he is now a Major of Col. Wibbs Regiment<a class="ptr" href="#PJA04d273n7" id="PJA04d273n7-ptr">7</a> and as fit to command a Regiment as any Man in the Lines. Thus you have my Opinion without disguise and I am sure you will make no improper Use of it. Lt. Col. Shephard is a Man of great Spirit he highly resents Col. Learneds being sent for to command the Regiment after his Resignation; I think we shall loose an able good Officer if he leaves the Service and one who was always Col. Learneds equal, at least, before he lost his Health and his Powers of Mind were impaired. I wish him to have the Regiment. Am sure no Man better deserves it. Several Young Gentlemen in the Service I think justly Merit further Notice from their good Conduct and liberal Education and largeness of Mind; Capt. Warham Park<a class="ptr" href="#PJA04d273n8" id="PJA04d273n8-ptr">8</a> of West Field is not the most inconsiderable of the Number. Tudor, Osgood, and Ward I am well acquainted with and think they will honor their Country in any Military Character. Orne I dont know, Warren I imagine will do Justice to your Expectations; but we much differ in our Ideas of a military Character or I am totally deceived in Lincoln who may serve his Country well in a civil Department, but I imagine has very little of the Soldier.</p>
+     <p>The Objection to a grant of Lands to the Soldiery can have very little Weight when it must be purchased. Let it be Scituated in one State or another, And this Purchase at the joint Expence of the United States will make the Burthen equal on the Whole and perhaps a Purchase of the Natives erected into a new Government might <span class="pb" title="page number in print edition" id="ADMS-06-04-02-pb-0465">[465<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-04/ADMS-06-04-02-pb-0465.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>best Answer the Purposes and serve as a Barier to the other States.</p>
+     <p>The great the important Crisis is now at Hand when we must decide the Question whither we will be freemen or Slaves, I wish we may prove to our Enemies that Life without our Liberty we think not worth our Enjoyment; by the Preparations of our Enemy we expect an Attack the first Wind and Tide. I am Sir with Esteem &amp; Regard yr. most obedt. hl Servt.<a class="ptr" href="#PJA04d273n9" id="PJA04d273n9-ptr">9</a></p>
+     <div class="closer">
+      <p class="signed">Saml H. Parsons</p>
+     </div>
+    </div>
+    <div class="docback">
+     <div class="note-source" id="PJA04d273sn1">
+      
+   <p>
+       <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+      </p>
+
+     </div>
+     <div id="fn" class="footnote"><a class="note-ref" href="#PJA04d273n1-ptr" id="PJA04d273n1">1</a>
+      
+   <p>William Heath, Joseph Spencer, John Sullivan, and Nathanael Greene were promoted from brigadier to major general as of 9 Aug. Although his brigadiers commission bore the same date as that of the others, David Wooster was passed over, probably because of congressional criticism of his performance in Canada (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis B. Heitman, comp., &lt;i&gt;Historical Register of Officers of the Continental Army during the War of the Revolution&lt;/i&gt;, new edn., Washington, 1914. ]">Heitman, <span class="hi-italic" style="font-style: italic;">Register Continental Army</span></span>, p. 9).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n2-ptr" id="PJA04d273n2">2</a>
+      
+   <p>James Reed, John Nixon, Arthur St. Clair, Alexander McDougall, Samuel Holden Parsons, and James Clinton were all promoted from colonel to brigadier general as of 9 Aug. Cols. James Mitchell Varnum and Daniel Hitchcock, both from Rhode Island, whose commissions as colonels in the Continental Army dated from 1 Jan. 1776, as did those of Reed, Parsons, and Nixon, were passed over. St. Clairs commission was dated 3 Jan., and the two New Yorkers, Clinton and McDougall, had not held a Continental commission before becoming brigadier generals (same, p. 10, 559, 291, 461, 428, 414, 516, 161, and 368). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> had said that he would cast his vote for promotion for Varnum, Parsons, and Hitchcock (to Hitchcock, <a href="default.xqy?keys=ADMS-print-06-04-02-0190" class="document">3 Aug.</a>, above). Varnum talked to Washington of resigning (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;The Writings of George Washington from the Original Manuscript Sources&lt;/i&gt;, 17451799, ed. John C. Fitzpatrick, Washington, 19311944; 39 vols. ]">Washington, <span class="hi-italic" style="font-style: italic;">Writings</span>, ed. Fitzpatrick</span>, 5:432). For other disappointments see William Tudor to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>, <a href="default.xqy?keys=ADMS-print-06-04-02-0220" class="document">19 Aug.</a> (below).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n3-ptr" id="PJA04d273n3">3</a>
+      
+   <p>For the colonels, as well as for the other officers listed, only those not mentioned earlier are identified by their commands, which are listed in Heitman, <span class="hi-italic" style="font-style: italic;">passim. </span>Joseph Read, commander of the 13th Continental Infantry; Moses Little, commander of the 12th Continental Infantry; John Bailey, commander of the 23d Continental Infantry; Loammi Baldwin, commander of the 26th Continental Infantry (Baldwin was a member of the legislature, 17781779, 1780, and sheriff of Middlesex co., 17801794<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ James Grant Wilson and John Fiske, eds., &lt;i&gt;Appletons' Cyclopaedia of American Biography&lt;/i&gt;, New York, 18871889; 6 vols. ]"><span class="hi-italic" style="font-style: italic;">Appletons Cyclo. Amer. Biog.</span></span>); Ebenezer Learned was 48 in 1776, and although he resigned in May, he became a brigadier general in 1777 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Allen Johnson and Dumas Malone, eds., &lt;i&gt;Dictionary of American Biography&lt;/i&gt;, New York, 19281936; 20 vols. plus index and supplements. ]"><span class="hi-italic" style="font-style: italic;">DAB</span></span>).</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n4-ptr" id="PJA04d273n4">4</a>
+      
+   <p>John Jacobs of the 23d Continental Infantry; James Wesson, of the 26th; Ebenezer Clapp, of the 13th; Seth Reed, of the 15th; Johnson Moulton, of the 7th; Gabriel Johonnot, of the 14th.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n5-ptr" id="PJA04d273n5">5</a>
+      
+   <p>Ebenezer Sprout, of the 3rd Continental Infantry; John Brooks, of the 19th (Federalist governor of Massachusetts, 18161822<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Allen Johnson and Dumas Malone, eds., &lt;i&gt;Dictionary of American Biography&lt;/i&gt;, New York, 19281936; 20 vols. plus index and supplements. ]"><span class="hi-italic" style="font-style: italic;">DAB</span></span>); Calvin Smith, of the 13th; Josiah Hayden, of the 23d.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n6-ptr" id="PJA04d273n6">6</a>
+      
+   <p>Thomas Nixon of the 4th Continental Infantry.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n7-ptr" id="PJA04d273n7">7</a>
+      
+   <p>Charles Webb.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n8-ptr" id="PJA04d273n8">8</a>
+      
+   <p>Warham Parks, a captain in the 3d Continental Infantry.</p>
+
+     </div>
+     <div class="footnote"><a class="note-ref" href="#PJA04d273n9-ptr" id="PJA04d273n9">9</a>
+      
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> answered this letter and an earlier letter from Parsons of 13 Aug. and from his Letterbook copied his answer into his Autobiography, where it is printed (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;, ed. L. H. Butterfield and others, Cambridge, 1961; 4 vols. ]">JA, <span class="hi-italic" style="font-style: italic;">Diary and Autobiography</span></span>, <a href="default.xqy?keys=ADMS-print-01-03-02-0016-0204#DJA03Q1028" class="quote">3:447449</a>).</p>
+
+     </div>
+    </div>
+   </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-04-02-0212 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 4, FebruaryAugust 1776
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0211" title="To Thomas Mifflin, 15 August 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-04-02-0213" title="To Francis Dana, 16 August 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,207 @@
+From Major General Philip Schuyler, 6–7 November 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 67 November 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-02-02-0291&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-11-06-10">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0290" title="To Colonel Edmund Phinney, 6 November 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-02-02-0292" title="From Jonathan Trumbull, Sr., 6 November 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-02&amp;mode=TOC">Volume 2 (16 September 177531 December 1775)</a>&gt; <a href="?keys=GEWN-print-03-02-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 67 November 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-02-02-0291&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0290" title="To Colonel Edmund Phinney, 6 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0292" title="From Jonathan Trumbull, Sr., 6 November 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0314">314</span><div id="Rev02d274" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Dear General</td>
+		<td class="salutationRight">Tionderoga [N.Y.] Novr 6[-7]th 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>Your Excellencys Favor of the 26th Ult. I had the Honor to receive on the 3d instant.</p>
+<p>I have long since signified to Congress the Necessity of a Delegation from them to this Place, and in their last to me of the 12th Ult:, they (unfortunately for me) say that it did not appear necessary then, I took the Liberty to lament that they were not in Sentiment with me on the Subject, &amp; to add that I thought it absolutely necessary that one should be sent, so that I hope soon to see some of the Gentlemen here,<a class="ptr" href="#GEWN-03-02-02-0291-fn-0001" id="GEWN-03-02-02-0291-fn-0001-ptr">1</a> A Variety of Regulations are necessary to be made in this Quarter, A Task to which I feel Myself greatly inadequate, but which, if I had even Judgment enough to arrange with Propriety, the shattered Condition of my Constitution is such, that Matters so Momentous as these, should not be left to so precarious an Event as that of my being able to support the Fatigue, For General Montgomery,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0315">[315]</span>
+tho endowed with shining Abilities will have his Time so totally engrossed with Other Matters that he will not be able to attend to these.</p>
+<p>Should Success crown our Endeavours at St Johns, of which there seems to be little Doubt the entire Reduction of Canada will in all Probability be the Consequence, An Event which will open new Scenes, An Army to be formed &amp; properly disposed of in that Quarter, Provision, Ammunition &amp; every Necessary to be procured for It, Preparations to be made for the next Campaign, Proper Places to be determind on and Fortifications to be erected to defend that Province against any Attacks that may be made on It in the ensuing Year, Small Craft to be constructed here, that a Reinforcement may be speedily sent into Canada in Case it should be found necessary to support what Troops may be stationed there, Gallies carrying heavy Artillery to prevent Vessels of Force from coming up the St Lawrence, A Mode of Government to be adopted in a Country where all will be Anarchy &amp; Confusion without It, and probably a Variety of Other interesting Regulations to take Place, that do not just now occur to me.</p>
+<p>Your Excellency will do me the Justice to believe, that I feel in the most sensible Manner the favorable Opinion, You are pleased to entertain of me, And I am confident General Montgomery will not be less affected on what You observe of him. I do myself the Pleasure this Day to write that Gentleman, &amp; shall convey to him Your best Wishes &amp; Respects.</p>
+<p>The vast Benefit that would result from a successful Conclusion of the Campaign, in this Quarter, has been so deeply impressed upon me, that I have often regretted, that the Operations were not commenced at an earlier Period &amp; when commenced, that so much Tardiness prevailed in sending up the necessary Stores &amp; Troops. That You my Dear General should feel an Anxiety, to induce You to ask those Questions, which You have done in so polite &amp; friendly a Manner, is what I can easily suppose.</p>
+<p>The Difficulties under which General Montgomery has laboured, have been in the extream, &amp; which he most pathetically laments, in a Letter to me of the 13th Ult: (An Extract of which I do Myself the Honor to inclose Your Excellency, together with the Opinion of a Council of War held on that Day &amp; which I
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0316">[316]</span>
+forgot to transmit You, in the Hurry with which I sent off my last),<a class="ptr" href="#GEWN-03-02-02-0291-fn-0002" id="GEWN-03-02-02-0291-fn-0002-ptr">2</a> And in his Letter of the 23d Ult. he says, Our Reinforcements not yet arrived, at this instant I have not in my Camp above 750 Men &amp; I wish much to send a strong Detachment to the Island of Montreal, a Manvre which would have taken Place sooner, had it been in his Power or been prudent to have gone into, neither of which I think it was, &amp; shall beg Leave to make the following Observations, in Support of this Opinion.</p>
+<p>At no Period until this has it appeared to Me that it would have been prudent to have passed St Johns, Altho a sufficient Force could have been left for forming a Blockade; for previous to the Reduction of Chamblee, &amp; the Success of our Troops in repulsing the Attack of Monsieur Regouville who was sent from Montreal, with two hundred &amp; forty Men &amp; expected to be joined by the Inhabitants of three of the most populous Parishes, on the South Side of the St Lawrence, in which he was disappointed to a Man,<a class="ptr" href="#GEWN-03-02-02-0291-fn-0003" id="GEWN-03-02-02-0291-fn-0003-ptr">3</a> &amp; which has in some Measure evinced the Temper of the Canadians towards Us, &amp; given Us better Assurances, than any we have had of their friendly Disposition. for until then, their real Sentiments were problematical; and about this Time too we sunk their best armed Vessel<a class="ptr" href="#GEWN-03-02-02-0291-fn-0004" id="GEWN-03-02-02-0291-fn-0004-ptr">4</a> so that we can now spare more Men for an Attack upon Montreal, Which if not prevented by Other Obstacles, was General Montgomerys Intention, as soon as the Reinforcement above alluded to should arrive, which took Place on the 26th or 27th &amp; Concisted of General Woosters of three hundred &amp; thirty five &amp; Major Tuthill of Colo: Holmess, with two hundred &amp; twenty five, Officers of both included,<a class="ptr" href="#GEWN-03-02-02-0291-fn-0005" id="GEWN-03-02-02-0291-fn-0005-ptr">5</a> In the Numbers however he will be disappointed, as General Wooster had returned four hundred &amp; eighty four Effectives from Albany, but discharged Ninety Nine between this &amp; Albany &amp; left fifty one sick here, &amp; the Others too fell greatly short of what I expected.</p>
+<p>If a Blockade had been formed, before the above mentioned Events took Place, It must have been sufficiently strong, not only to have guarded against the Danger of a Sortie, but to have prevented the Enemys Armed Vessels, which greatly surpassed ours in Strength, from getting to the Southward of Us, &amp; thereby effectually cut off every possibility of Retreat, which if they had been able to accomplish, the Canadians I do firmly believe would immediately have joined Mr Carlton, but if a sufficient
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0317">[317]</span>
+Body had been left, that, to make the Attempt on Montreal would have been too weak for such a Service &amp; if they had met with a Repulse, the Canadians in that Case would not have hesitated one Moment to have acted against Us, as Colo: Allen in his Report to me Observes, And all our Hopes in Canada would have been at an End,<a class="ptr" href="#GEWN-03-02-02-0291-fn-0006" id="GEWN-03-02-02-0291-fn-0006-ptr">6</a> But another Difficulty presented Itself (and which I do not know how the Detachment which General Montgomery proposed to send, or has sent will even now surmount) the Want of Craft to convey a Body of Troops sufficient to promise Success, to the Island of Montreal across the St Lawrence, which is deep, rapid &amp; wide, as no Craft can pass the Fort at St Johns to go down the Sorel, Which Obstacles would be immediately removed on the Reduction of that Fortress, which I hope has taken place by this Time,<a class="ptr" href="#GEWN-03-02-02-0291-fn-0007" id="GEWN-03-02-02-0291-fn-0007-ptr">7</a> &amp; then I shall have the fullest Confidence that our Labours will be at an End in this Quarter, Except from what Difficulties may arise from the intemperate Desire, our People have to return to their Habitations, My Fears on which Account I have expressed to Congress.</p>
+<p>If we had passed it wholly &amp; could have got to &amp; succeeded against Montreal, St Johns would undoubtedly have fallen, but what a vast Risk! No less than that of the Loss of the whole Army, the Command of Lake Champlain, Tionderoga &amp; Crown Point! for no Retreat could possibly have taken Place, the Dependance on the Canadians uncertain &amp; if they had found Us incapable of passing to Montreal, for Want of Boats, or of Retreating on the same Account, It is certain we should have found them opposed to Us.</p>
+<p>In this View of Things, I hope it will be thought that either Attempt would have been Injudicious.</p>
+<p>I do Myself the Honor to inclose You sundry Extracts of my Letters to Congress, with Extracts of their Answers, by which Your Excellency will perceive that I have hinted at several Things which I conceived claimed the Attention of Congress<a class="ptr" href="#GEWN-03-02-02-0291-fn-0008" id="GEWN-03-02-02-0291-fn-0008-ptr">8</a>Inclose You also a List of the Officers made Prisoners at St Johns, the Return of the Non Commissioned Officers &amp; Privates, is either Mislaid or by Mistake inclosed to Governor Trumbull.<a class="ptr" href="#GEWN-03-02-02-0291-fn-0009" id="GEWN-03-02-02-0291-fn-0009-ptr">9</a></p>
+<p>Be so good as to assure the Gentlemen of Your Family, that they have my best Wishes. I have the Honor to be Your Excellencys most Obedt &amp; Very humble Servant</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0318">[318]</span>
+<div class="note-source" id="GEWN-03-02-02-0291-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+
+This letter was not copied in its final form until 7 Nov., when the sentence referring to the prisoners taken at St. Jean was apparently added to the next to the last paragraph. See note 9 below and <a href="default.xqy?keys=GEWN-print-03-02-02-0298" class="document">Schuyler to GW, 7 Nov. 1775</a>.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0001-ptr" id="GEWN-03-02-02-0291-fn-0001">1</a>
+
+   <p>The Congress, Hancock wrote to Schuyler on 11 Oct., see the Necessity of attending to the Situation of Canada, but trust that your Care and Prudence will render any Delegation from this Body unnecessary, at least for the present (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul H. Smith et al., eds. &lt;i&gt;Letters of Delegates to Congress, 17741789&lt;/i&gt;. 26 vols. Washington, D.C., 19762000. ]">Smith, <span class="hi-italic" style="font-style: italic;">Letters of Delegates</span></span>, 2:16163). Schuyler replied on 21 Oct.: I should have been extreamly happy, If Congress had been in Sentiment with me on the Necessity of a Delegation from that respectable Body to this Place, a Necessity which to me appears to be absolute (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 153). On 2 Nov. Congress appointed a committee to confer with Schuyler (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span>,</span> 3:317; see also <a href="default.xqy?keys=GEWN-print-03-02-02-0383" class="document">Schuyler to GW, 22</a> and <a href="default.xqy?keys=GEWN-print-03-02-02-0408" class="document">2830 Nov. 1775</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0002-ptr" id="GEWN-03-02-02-0291-fn-0002">2</a>
+
+   <p>Schuylers previous letter was that of 26 October. The enclosed copies of Richard Montgomerys letter of 13 Oct. and his synopsis of the proceedings of the council of war held that day at his camp near St. Jean are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. Some Time ago, Montgomery wrote to Schuyler, I informed You of my Intentions to make my Approaches on the West Side, as soon as the expected Reinforcement enabled me to undertake ItI had had a Road cut to the intended Ground &amp; some Fascines made, When I was informed by Major Brown that a General Dissatisfaction prevailed, that unless Something was undertaken in a few Days, there would be a Mutiny, &amp; that the Universal Sense of the Army was to direct all our Attention to the East Side, the Impatience of the Troops to get home has prevented their seeing the Impossibility of Undertaking this Buisiness soonerthe Duty being hard for the Troops even on the present confined State of Operations. When I mentioned my Intentions, I did not consider I was at the Head of Troops, who carry the Spirit of Freedom into the Field &amp; think for themselves. Montgomery argued the case for his plan of attack before the council of war and was rebuffed. The field Officers, he reported in his synopsis of the councils proceedings, were to a man of opinion that my reasons were insufficient, being afraid the designed ground was at this season too wet for approaches, &amp; Strongly of opinion our heavy cannon of the East Side would more effectually distress the enemy by annoying their buildings, the Fort having a Gentle Slope to the river. Montgomery replied to the field officers that he had a moral certainty they would find themselves mistaken, &amp; finally that they must take it upon themselves; for I would not oppose the general sense of the army and should enforce the measure by every effort in my power. Montgomery added: I cannot help observing to how little purpose I am here. Were I not afraid the example would be too generally followed, and that the public service might Suffer, I would not stay an hour at the head of Troops whose operations I cannot directI must say I have no hopes of success unless from the garrisons wanting provision.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0003-ptr" id="GEWN-03-02-02-0291-fn-0003">3</a>
+
+   <p>On 30 Oct. the Green Mountain Boys and the 2d New York Regiment defeated a relief force of about 800 Canadians, 80 Indians, and 130 British regulars commanded by Guy Carleton, when it tried to land on the south side
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-02-02-pb-0319">[319]</span>
+of the St. Lawrence at Longueuil. The Canadians and Indians were led by Franois Thomas Verneuil de Lorimier and Saint-Luc de la Corne. See Richard Montgomery to Schuyler, 3 Nov. 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. For the surrender of Chambly on 18 Oct., see <a href="default.xqy?keys=GEWN-print-03-02-02-0220" class="document">Schuyler to GW, 26 Oct. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0004-ptr" id="GEWN-03-02-02-0291-fn-0004">4</a>
+
+   <p>American batteries sank the British schooner <span class="hi-italic" style="font-style: italic;">Royal Savage</span> at St. Jean on 14 October.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0005-ptr" id="GEWN-03-02-02-0291-fn-0005">5</a>
+
+   <p>Barnabas Tuthill was major of Col. James Holmess 4th New York Regiment. Tuthill left the Continental army in September 1776, and Holmes, disturbed by talk of independence, resigned his commission in late 1775. Holmes later became a lieutenant colonel in Col. James De Lanceys Westchester Loyalists.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0006-ptr" id="GEWN-03-02-02-0291-fn-0006">6</a>
+
+   <p>For Ethan Allens report, see <a href="default.xqy?keys=GEWN-print-03-02-02-0023&amp;expandNote=GEWN-03-02-02-0023-fn-0010#GEWN-03-02-02-0023-fn-0010" class="document">Schuyler to GW, 20 Sept. 1775, n. 10</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0007-ptr" id="GEWN-03-02-02-0291-fn-0007">7</a>
+
+   <p>The garrison at St. Jean surrendered on 2 November. See note 9 below and <a href="default.xqy?keys=GEWN-print-03-02-02-0298" class="document">Schuyler to GW, 7 Nov. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0008-ptr" id="GEWN-03-02-02-0291-fn-0008">8</a>
+
+   <p>Schuyler enclosed extracts of his letters to Congress of 19, 25, 29 Sept., 5, 18, 19, 20, 21 Oct. 1775 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). The enclosed extracts of Congresss answers have not been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-02-02-0291-fn-0009-ptr" id="GEWN-03-02-02-0291-fn-0009">9</a>
+
+   <p>This sentence was apparently added on 7 Nov. when the news of the surrender of St. Jean reached Schuyler. See <a href="default.xqy?keys=GEWN-print-03-02-02-0298" class="document">Schuyler to GW, 7 Nov. 1775</a>. Schuyler enclosed returns of the Canadian officers and the officers of the Royal Fusiliers who were taken at St. Jean (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-02-02-0291 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 2 (16 September 177531 December 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-02-02-0290" title="To Colonel Edmund Phinney, 6 November 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-02-02-0292" title="From Jonathan Trumbull, Sr., 6 November 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

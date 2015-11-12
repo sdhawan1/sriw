@@ -1,0 +1,182 @@
+From Henry Lee and Daniel Payne, 24 April 1767
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Henry Lee and Daniel Payne, 24 April 1767</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-07-02-0342&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1767-04-24-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0341" title="Guardian Accounts, 11 April 1767"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-07-02-0343" title="From William Savage, 24 April 1767"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-07&amp;mode=TOC">Volume 7 (1 January 176115 June 1767)</a>&gt; <a href="?keys=GEWN-print-02-07-02&amp;mode=TOC">Documents</a>&gt; From Henry Lee and Daniel Payne, 24 April 1767</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-07-02-0342&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0341" title="Guardian Accounts, 11 April 1767"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0343" title="From William Savage, 24 April 1767"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0502">502</span><div id="Col07d300" class="doc">
+
+<h1>From Henry Lee and Daniel Payne</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Gentlemen</td>
+		<td class="salutationRight">Prince William County April 24th 1767</td>
+	      </tr>
+      </table>
+</div>
+<p>We are informed by Doctor William Savage that You became Security for Mrs Margeret G[r]een in a bond to Fairfax Court as the Law directs for the Administration of the Estate of the late Revd Mr Charles Green deced which Administration being vested in the said Savage We at his desire do hereby become Counter Security to you and do Oblige ourselves our Exrs and Admrs in the same Penalty and as firmly &amp; effectually as your Bond to Fairfax Court Obliges you to Save Indemnify and keep you harmless from all and every Sort of Injury that you Can or may Sustain in Consequence of the Said Bond.<a class="ptr" href="#GEWN-02-07-02-0342-fn-0001" id="GEWN-02-07-02-0342-fn-0001-ptr">1</a> We are Gentlemen Your Most Obt Hble Servts</p>
+<div class="closer">
+<p class="signed">Henry Lee</p>
+<p class="signed">Danl Payne</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-07-02-0342-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, in hand of Henry Lee, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Mount Vernon Ladies Association of the Union, Mount Vernon, Va. [[former abbreviation: ViMtV]] ]">ViMtvL</span>.
+ The letter was addressed to GW and George William Fairfax. William Savages letter of the same date to GW and George William Fairfax is written on the bottom of this letter. Daniel Payne, a justice of Prince William County, ran a store in Dumfries.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-07-02-0342-fn-0001-ptr" id="GEWN-02-07-02-0342-fn-0001">1</a>
+
+   <p>This letter marks the beginning of a long, frustrating affair in GWs life which continued to plague him as late as 1798. See <a href="default.xqy?keys=GEWN-print-06-02-02-0170&amp;expandNote=GEWN-06-02-02-0170-fn-0001#GEWN-06-02-02-0170-fn-0001" class="document">GW to George Deneale, 22 April 1798</a>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. When the Rev. Charles Green died in 1765 he left his property in Ireland to the heirs of his two sisters, who resided in Ireland, and his sizable estate in Virginia to his aging widow, Margaret (d. <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from '1781' &lt;span style='font-size: 90%'&gt;[[2006-03-27]]&lt;/span&gt; ]">1782</span>). Green made out his unwitnessed will almost ten years before his death, and in it he referred to a Deed of Trust to Collo. Catesby Cocke Richd Osborn &amp; William Ramsay for the use of my wife, by wch I settled sundry tracts of land &amp; Sixteen Slaves some of which are since dead. I will that the said Deed have its full &amp; proper effect, &amp; not only sobut I give and bequeath further unto my loving wife Margaret Green &amp; to her heirs for ever all the Land which I shall die possessed of in Virginia to sell or dispose of as she pleases also all my personal Estate whatsoever and Debts Bonds Bills &amp;c. He went on to recommend that his wife sell his effects and move back to Dublin to live. If she preferred to remain in Virginia, however, and if she remarried, she was to make provision for her sister Mary Bolan (Fairfax County Will Book B-1 [175267], 39899).</p>
+
+
+   <p>Greens irregular will was admitted to court on 19 Aug. 1765 on the evidence of five witnesses who swore to Greens handwriting, and the court, of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0503">[503]</span>
+ their own knowledge, affirmed the handwriting. GW and George William Fairfax were named Mrs. Greens securities. <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2006-03-27]]&lt;/span&gt; ]">GWs bond of security from Mrs. Green, dated 19 Aug. 1765, is in the Order Book for 176566 at ViFaCt.</span> Mrs. Green then brought into court the deed of trust referred to in the will, recorded in court 26 Dec. 1749, on which there is an indorsemt of Sevl Negro Slaves made by the Testator in his own hand writing since the Execution of the sd Deed . . . the Court present together with the witns who proved the will of the sd Chas Green knowing the same to be his hand writing it is ordd to be recorded (Fairfax County Order Book [176566], 3031). Green made this deed of trust for and in consideration of her giving up her Right to a certain Settlement in Trust made on her before Marriage by which she might claim as Jointure after the death of the said Charles Green one half of the Rents of several houses and land in or near the City of Dublin in the Kingdom of Ireland (deed of trust from Charles Green to Catesby Cocke, Richard Osborn, and William Ramsay, 20 Dec. 1749, Fairfax County Deed Book B-1 [174650], 52325).</p>
+
+
+   <p>Mrs. Greens troubles began shortly after her marriage, probably early in 1767, to Dr. William Savage, a physician practicing in Dumfries. GW gives a concise account of the Savage affair almost twenty years later in a letter to Mrs. Anne Ennis: The circumstances attending that unfortunate Lady &amp; her Estate are these. Her first husband, the Revd Chas Green, left all his property real &amp; personal to her, estimated at about 5000 current money of this State: not in trust, as you set forth, but at her absolute disposal. When she was about to enter into her second marriage, with Doctr Savage, she previously thereto made this Estate over to him, securing an annuity of 100 currency, for the term of her life, if it should be demanded: And it was this sum, which was secured to her by a trust bond to Bryan Fairfax Esqr. &amp; myself (15 Nov. 1786, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). According to Thomas Brereton, William Savage and Thomson Mason passed bond for 5,000 about 1 Jan. 1767 to pay the annuity to Mrs. Savage (letter to GW, 12 April 1786, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). GWs letter to Anne Ennis continued: The unhappy differences which soon arose, &amp; occasioned a separation between the Doctor &amp; her, obliged Mr Fairfax &amp; myself, in order to obtain support for Mrs Savage, to put the Bond in suit.</p>
+
+
+   <p>GW and, first, George William and, later, Bryan Fairfax acting as trustees for Mrs. Savage were responsible for seeing that her annuity of 100 each year was paid by Dr. Savage out of Greens estate. For years the two trustees tried to make Savage comply with the terms of his bond and pay the money due her. Savage, however, persisted in his refusal to pay, declaring that his wife had affirmed her willingness to forgo her annuity, while Mrs. Savage frequently wrote to GW and Fairfax begging for her money. What seemed to them to be Mrs. Savages inconsistent behavior over the matter, at one time insisting to GW and others that she wished to have the money and at other times, according to Dr. Savages assertions, declaring that she was willing for him to retain it, kept GW and Fairfax uncertain whether or not they should insist on payment. GW in particular wrote several letters admonishing Mrs. Savage to take a firm stand on whether or not she was willing for her husband to pay her annuity. He and Fairfax seem to have been unable to contemplate
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0504">[504]</span>
+the likelihood that Mrs. Savages actions arose from threats and even physical abuse by her husband, that she almost certainly wished to force Savage to pay the annuity but was afraid to say so publicly.</p>
+
+ 
+   <p>Dr. Savage left for Ireland in the late summer or fall of 1768, taking his wife with him. Harry Piper, the Scottish factor in Alexandria for the British firm of Dixon &amp; Littledale, wrote on 12 Sept. 1768 to John Dixon, Mrs. Savages representative in Britain: Doctr Savage &amp; his Wife I am told is gone, or are going to Ireland, both of them they live a most wretched life together (Harry Piper Letter Book, ViU). Savage evidently lived with his wife in Ireland for a short while before he returned to Virginia in the fall or winter of 1771. During this time, GWs old comrade-in-arms George Mercer, while visiting his family in Ireland, wrote GW: I wrote you from hence about two Months since, at the Request of Mrs Savage, praying you to do, what her own Letter now she says repeats, and enforces. I believe the poor Woman has but a bad Time of it, as she is amongst other Things, at the tender Age of three score &amp; ten, denied the Use of Pen Ink Paper &amp; Romances, and a frequent Use of the Strap is substituted in the Place of those Amusements (18 Dec. 1770, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). While they were residing abroad Mrs. Savage sent a power of attorney back to Virginia to at least three people to act in her behalf, one of whom was Thomas Montgomerie. GW and Fairfax then found themselves in the position of receiving money for four years annuity from Dr. Savage through his agent Montgomerie and handing it back to Montgomerie as Mrs. Savages agent. Harry Piper wrote to Dixon &amp; Littledale on 4 Jan. 1772: With regard to Mrs Savages affairs, I am really sorry to find I am greatly disappointed, I expected to have got some Money to remit her, but on examing her Power of Attorney to Mr Montgomerie, it orders him to receive the Money for the use of Doctr Savage, this discovery was never made till after receipts were past between Mr Montgomerie &amp; Messrs Washington &amp; Fairfax for 400 for 4 Years Annuity, to be sure Mrs Savage must know that she had sent such a Power, indeed Mr Montgomerie says had he observed it before, he would not Acted under it, but now he is forewarned by Savage (who is now in the Country,) not to pay the Money to any body but himself agreeable to Power of AttorneyI believe there is another 100 due the 1st of this Month which Colo. Washington has promised to try to get for me, tho probably it may not be paid without a Suit, for it appears as if Doctr Savage were determined she shall never get any thing if he can prevent it (Harry Piper Letter Book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>).</p>
+
+
+   <p>After her husband returned to Virginia Mrs. Savage was living in great want in Ireland, dependent on the charity of friends. In February 1772 GW sent Mrs. Savage a bill of exchange for 53, from his own funds, to pay off her most pressing debts. Although he informed her that he would reimburse himself from her annuities when the doctor finally released them, he undoubtedly knew by this time that there was a real doubt that anything could be expected from Savage. On 15 June 1772 Piper wrote Dixon &amp; Littledale again: I imagine Mr Montgomerie will try to get the receipts distroyed that passed between him &amp; Messrs Washington &amp; Fairfax on Accot of Mrs Savage, in that case a Suit will be commenced agt the Doctr for the whole sum [i.e., the amount of the annuities, including the 400 which Montgomerie paid to Mrs.
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0505">[505]</span>
+Savages trustees in 1771 on Savages behalf and which the trustees paid back to Montgomerie for Savages use], I am pretty certain that Colo. Washington will not spare him, but he will pay nothing till he is compelled (Harry Piper Letter Book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>). On 8 Nov. 1772 Piper noted that he believed the receipts for the 400 had been destroyed and the suit against Savage would be for the full amount of the annuities.</p>
+
+
+   <p>A judgment against Savage was finally obtained in 1774 for the full amount of over 600 (see summary of the case of GW and Bryan Fairfax against William Savage and Thomson Mason, 18 May 177217 May 1774, ViMtV), but Savage carried the case to the General Court where it was thrown into chancery. Piper added, when it will be determd I know not, but fear it will be a long time (4 Aug. 1774, Harry Piper Letter Book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>).</p>
+
+ 
+   <p>Shortly after his return to Mount Vernon at the end of the Revolution, <a href="default.xqy?keys=GEWN-print-04-01-02-0097" class="document">GW received from his attorney Edmund Randolph a letter of 19 Feb. 1784</a> saying: I left the form of an answer in Savages suit against you and Mr B. Fairfax with the latter gentleman, in hopes of receiving it executed in a proper manner, that I might put the most expeditious end to the business. After some further correspondence on the matter, <a href="default.xqy?keys=GEWN-print-04-01-02-0254" class="document">Randolph wrote GW on 15 May 1784</a>: Dr Savage is dead, and his suit has abated. If the injunction be not renewed by his executor, it will be in your power to proceed on the old judgment [presumably that of 1774]. Randolph went on to say that he believed it would be necessary to give the executor time, until the succeeding court, to determine, whether he will revive it or not, such being the rule of the chancery. GW continued to receive requests regarding claims under Mrs. Savages will. In answer to one of the last of these, <a href="default.xqy?keys=GEWN-print-06-01-02-0271" class="document">GW wrote on 20 Aug. 1797 to the Rev. Newburgh Burroughs</a>: from the year 1774 until the beginning of the year 1784, it was not in my power to attend to hers [Mrs. Savages], or any private concerns of my own, being absent from this state (Virginia) eight years of the time; during the whole of which, and for sometime after, I believe there was a suspension of all law and all justice, except such as proceeded from a sense of honour, the last of which was no trait in the character of Doctr Savage, husband of the Lady, for of all ingrates he was the most ingrateful.</p>
+
+
+   <p>While alive, and the Courts were open, he had recourse to all the Chicanery of Law, and all the subterfuge of Lawyers to avoid paying her annuity; and since his death, his Estate, if any, for there are various opinions concerning it, and much contention arising therefrom, would render it uncandid were I not to add, especially as the heirs of his Security (also dead) have pleaded the want of Assetts that it is my opinion . . . that little is to be expected from the prosecution of this business.</p>
+
+
+   <p>The Suit is still going on, but without sufficient means to support it from hence, and the circumstances already mentioned, it has too much the appearance of throwing away good money after bad, to proceed (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Washington Collection). Dr. Savage seems to have moved to Edenton, N.C., about 1772 and was active during the Revolution, serving as a commissioner for navigation and pilotage for Edenton and shipping in goods for the American army. He was called by the governor of North Carolina a Gentn. of great merit and friend to American freedom (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Walter Clark, ed. &lt;i&gt;The State Records of North Carolina&lt;/i&gt;. 16 vols., numbered 11-26. Winston and Goldsboro, N.C., 18951907. ]"><span class="hi-italic" style="font-style: italic;">N.C. State Records</span></span>, 11:496, 12:610, 24:125).</p>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0506">[506]</span>
+ 
+   <p>For other letters dealing with the Savage affair, see especially GW to Sarah Bomford, <a href="default.xqy?keys=GEWN-print-02-09-02-0075" class="document">20 Sept. 1772</a>, <a href="default.xqy?keys=GEWN-print-02-10-02-0099" class="document">28 Aug. 1774</a>, <a href="default.xqy?keys=GEWN-print-04-02-02-0292" class="document">15 Mar. 1785</a>, to <a href="default.xqy?keys=GEWN-print-04-04-02-0026" class="document">Thomas Brereton, 20 April 1786</a>, to <a href="default.xqy?keys=GEWN-print-02-08-02-0173" class="document">William Ellzey, 3 Oct. 1769</a>, to <a href="default.xqy?keys=GEWN-print-04-04-02-0327" class="document">Anne Ennis, 15 Nov. 1786</a>, to Francis Moore, 11 Oct. 1783, to <a href="default.xqy?keys=GEWN-print-04-02-02-0268" class="document">Hannah Moore, 28 Feb. 1785</a>, to <a href="default.xqy?keys=GEWN-print-02-09-02-0006" class="document">Harry Piper, 27 Jan. 1772</a>, to Margaret Savage, <a href="default.xqy?keys=GEWN-print-02-08-02-0007-0001" class="document">28 June</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0084" class="document">4 July 1768</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0348" class="document">5 Sept. 1771</a>, <a href="default.xqy?keys=GEWN-print-02-09-02-0076" class="document">20 Sept. 1772</a>, <a href="default.xqy?keys=GEWN-print-02-10-02-0023" class="document">15 April 1774</a>, to William Savage, <a href="default.xqy?keys=GEWN-print-02-07-02-0351" class="document"> 27 May 1767</a> and <a href="default.xqy?keys=GEWN-print-02-08-02-0081" class="document">28 June 1768</a>, Sarah Bomford to GW, <a href="default.xqy?keys=GEWN-print-02-09-02-0261" class="document">27 Sept. 1773</a>, <a href="default.xqy?keys=GEWN-print-02-10-02-0051" class="document">25 May 1774</a>, <a href="default.xqy?keys=GEWN-print-03-04-02-0126" class="document">28 April 1776</a>, Bryan Fairfax to GW, <a href="default.xqy?keys=GEWN-print-02-08-02-0088" class="document">20</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0092" class="document">30 July 1768</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0222" class="document">16 April 1770</a>, <a href="default.xqy?keys=GEWN-print-02-09-02-0059" class="document">3 Aug. 1772</a>, <a href="default.xqy?keys=GEWN-print-02-10-02-0050" class="document">21 May 1774</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0174" class="document">Thomas Montgomerie to GW, 5 Oct. 1769</a>, Francis Moore to GW, 25 Sept. 1783, <a href="default.xqy?keys=GEWN-print-04-02-02-0197" class="document">Hannah Moore to GW, 20 Jan. 1785</a>, <a href="default.xqy?keys=GEWN-print-02-09-02-0067" class="document">Margaret Savage to GW, 19 Aug. 1772</a>, and <a href="default.xqy?keys=GEWN-print-02-07-02-0349" class="document">William Savage to GW, 25 May 1767</a>, <a href="default.xqy?keys=GEWN-print-02-08-02-0083" class="document">3 July 1768</a>, in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; Harry Piper to Dixon &amp; Littledale, 13 Mar. 1769, 27 Jan., 3 Nov. 1770, 30 Aug., 27 Nov. 1771, 24 Oct. 1772, all in the Harry Piper Letter Book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>. See also <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-02-02-0004-0024#GEWN-01-02-02-pb-0181" class="document">2:18182</a>, <a href="default.xqy?keys=GEWN-print-01-02-02-0005-0009#GEWN-01-02-02-pb-0228" class="document">2:228</a>, <a href="default.xqy?keys=GEWN-print-01-03-02-0002-0001" class="document">3:81</a>, and <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ W. W. Abbot et al., eds. &lt;i&gt;The Papers of George Washington, Presidential Series&lt;/i&gt;. 17 vols. to date. Charlottesville, Va., 1987. ]"><span class="hi-italic" style="font-style: italic;">Papers, Presidential Series</span></span>, 1:36365, 2:2829.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-07-02-0342 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 7 (1 January 176115 June 1767)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0341" title="Guardian Accounts, 11 April 1767"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0343" title="From William Savage, 24 April 1767"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

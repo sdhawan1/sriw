@@ -1,0 +1,181 @@
+From Jonathan Boucher, 21 May 1770
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Boucher, 21 May 1770</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-08-02-0227&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1770-05-21-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-08-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0226" title="To Jonathan Boucher, 13 May 1770"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-08-02-0228" title="From Capel &amp; Osgood Hanbury, 21 May 1770"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-08&amp;mode=TOC">Volume 8 (24 June 176725 December 1771)</a>&gt; <a href="?keys=GEWN-print-02-08-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Boucher, 21 May 1770</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-08-02-0227&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0226" title="To Jonathan Boucher, 13 May 1770"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0228" title="From Capel &amp; Osgood Hanbury, 21 May 1770"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0336">336</span><div id="Col08d206" class="doc">
+
+
+<h1>From Jonathan Boucher</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">St Marys [Caroline County], May the 21st 1770.</td>
+	      </tr>
+      </table>
+</div>
+<p>So hurried as You know Me to be at present, I flatter myself You will not even now expect more of Me than the Outlines of a Plan of Travelling: the filling it up may be the Work of further Leisure, &amp; maturer Consideration.<a class="ptr" href="#GEWN-02-08-02-0227-fn-0001" id="GEWN-02-08-02-0227-fn-0001-ptr">1</a> And, as I have Nothing to lay before You, but mere Conjectures &amp; Opinions, unsupported by any Experience of my own, let Me again have Leave to remind You not to pay any greater Deference to These, or to any Opinions, than They are found fairly to deserve. It is a Project of sufft Importance to warrant yr collectg the Opinions of all who may be supposd to have ever attended to, or thot of the Matter.</p>
+<p>Travelling, You are well aware, is still &amp; long has been much in Vogue in our Mother Country; yet has it so frequently been attempted &amp; executed in so absurd &amp; preposterous a Manner, that it is now become a Question, whether, it be really useful or not. And as warm an Advocate as I profess myself for this method of completg an Educatn, I yet readily own that it is only some Persons to whom Travelling can possibly be useful&amp; that there are perhaps equally many to whom it wd certainly be pernicious. The light, giddy, fantastical frothy &amp; frivolous Characters amongst Us, wd only be made worse, &amp; rendered incurable: but, let Sedentary Men talk as much as They please of the Loss of Time, the Expence, &amp; the unsettled &amp; roving Habits acquired by Travel, to Me it is beyond a Dispute, that to an observant Mind, &amp; to a Person Endued wth Judgmt to draw profitable Knowledge fm the various Objects wc. various Countries are perpetually presentg, there is not ano[the]r so eligible a System to be taken to form &amp; polish the manners of a liberal Youth, &amp; to fit Him for the Business &amp; Conversa[tio]n of the World. And if You will be pleased to apply this Remark to some living Instances to be met with even here, I am mistaken if it will not account for that Objec[tio]n so often started by the Opposers of this Planthat Such, &amp; Such an one have travelled without being any better for it. Depend upon it, They were either originally unfit for the Experiment, or it has been conducted on wrong Principles. Let This be sd witht any Suspicion of my aimg to reflect on any Individuals: the Reflexion is not confind to
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0337">[337]</span>
+Virginia. But there is a certn Captiousness in some of yr Countrymen wc. I cannot but lament, tho. I very freely pardon as being but the Ebullitions of Zeal for thr Country, wc. will hardly allow a Foreigner (&amp; such I must be called, in Spite of my sincere Attachmt to Virga &amp; Virginians) to find Fault wth any Thing belonging either to Them or to their Country. But, as I am well convinced This is not the Case wth You, I return to my Subject.</p>
+<p>It being then agreed, at least by You &amp; Me, that, generally speaking, Travelling is useful &amp; necessary, to young Persons in all Countries, let us, as more immediately interesting us, now more particularly enquire, if it be not peculiarly so to a Virginian &amp; to Mr Custis. The peculiar Advantages wc. result to Youth from Travel, are sd to be first, an Easy Address, the wearing off national Prejudices, &amp; the findg nothg ridiculous in national Peculiarities; &amp;, above all, that supreme Accomplishmt wc. we call a <span class="hi-italic" style="font-style: italic;">Knowledge of the World</span>. A Service so useful as to supersede or disgrace all the Rest: for I understand not the Phrase in the Sense in wc. Fops or Rakes use it, but mean by it that easy that elegant, that useful Knowledge wc. results fm an enlarged observan of Men &amp; Things, fm an Acquaintance wth the Customs &amp; Usages of various &amp; distant Countries, fm some Insight into their Policies, Governmt, Religion &amp; Manners: in a word, fm the Study &amp; Contempla[tio]n of Men, as They present Themselves on the grt Stage of the World, in various Forms, &amp; under diffg Appearances. This is that Master Science, wc. every G[entle]man shd know, &amp; wc. yet no School nor College can teach Him. To apply this to the Country We live in where will You point out to Me another so circumscribd in its Intercourse wth Mankind at large, as Virga? Saving here &amp; there a needy Emigrant from Gt Britain, an illiterate Captn of a Ship, or a subaltern Mercht, to whom can a Virga Youth apply for a Specimen of the Manners &amp;c. of any other People? Thus limited in the Oppty for observan, must not his Ideas necessarily resemble Those of a Caribbee Indian, mentioned by Lafitau, who, offended at being called a Savage, exclaimed, <span class="hi-italic" style="font-style: italic;">I know no Savages but the Europeans, who adopt none of our Customs</span>; or Those of the Inhabitants of the Marian Islands, who, being persuaded that Theirs was the only Language in the Universe, concluded from thence that all other Men knew not how to speak? He finds his Lot cast in a Country amazingly fertile, &amp; thence learns to
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0338">[338]</span>
+conclude that even the rich Plains watered by the Nile, the Grecian Temple, the Roman Campania, the Spanish Andalusia, are all mean &amp; contemptible wn compard wth his <span class="hi-italic" style="font-style: italic;">low Grounds</span>; &amp;, pursuing this Train of Reasoning, soon supposes also like the Baron Thonder ten Tronck, that both his Country &amp; Countrymen, are the finest of all possible Countries &amp; People.<a class="ptr" href="#GEWN-02-08-02-0227-fn-0002" id="GEWN-02-08-02-0227-fn-0002-ptr">2</a> Now, if it were only for the Sake of Truth &amp; Decency, if it were but to avoid the Ridicule to wc. these palpable Absurdities expose Them, one cannot but wish our Youth cd be taught to open thr Eyes, &amp; extend Them beyond thr own foggy Air &amp; dirty Acres. But, This is not all: there is not a Country in the World, where a Man of Capacity cd be more eminently useful by promotg &amp; Encouraging the Arts, than in Virga. Till very lately You coud hardly any where see a piece of Land tolerably ploughd, or a person who cd be persuaded that plowing made any Difference: &amp; even yet it is more than probable, even Those who have made the greatest Improvemts in this most natural, most useful, &amp; most amusing Art, fall infinitely short of Some other Countries. In a political View then, Travelling appears to be exceedingly necessary: since a Man may thus learn to double the Value of his Estate.</p>
+<p>I mentioned too the Improvemt of Manners; by wc. I mean an Ability for ingenious, manly, &amp; useful Conversatn. For a Traveller who makes a proper Use of his opportunities, will be all of a piece, &amp; return as polished in his Mind &amp; Understanding, as in his Person. To this it is frequently objected that wt is gaind in Civility &amp; Politeness, is lost in real Goodness &amp; Virtue, by the various temptg Scenes of Vice to wc. a Youth must be exposed in the Course of his Travels. In Ansr to This, let Me observe that there are Some Tempers who cd not possibly be preserved fm the Taint of Vice, even wth the Benefit of a private Educatn. Or, grant it were practicable to retain the purity of their Morals by such narrow Regulans; do not You think that if, by this Means, They shd chance to have fewer Vices, They wd also have fewer Excellencies? And it shd be remembered that solitary Virtue, however pure &amp; immaculate, is but imperfect Virtue: We are formed for Society, &amp; the Business of the World is a Duty we owe to Society: &amp; it is therefore our Duty to qualify ourselves for the performance of these Duties in the Best manr wc. is by prudent, &amp; well conducted Travel.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0339">[339]</span>
+<p>Let us now, if You please, as a Contrast to This, for a Moment figure to Ourselves the future History of our pupil, shd this Expedient not be approvd of. The chief failings of his Character are that He is constitutionally, somewhat too warmindolent, &amp; voluptuous. As yet these Propensities are but in Embrio. Ere long, however, They will discover Themselves, &amp; if not duly &amp; carefully regulated, it is Easy to see to what They will lead. At best, He will soon lose all Relish for mental ExcellenceHe will unwillingly apply to any Improvemts either in Arts or Sciences. Sunk in unmanly Sloth, his Estate will [be] left to the Managemt of some worthless overseer;<a class="ptr" href="#GEWN-02-08-02-0227-fn-0003" id="GEWN-02-08-02-0227-fn-0003-ptr">3</a> &amp; Himself soon be entangled in some matrimonial Adventure, in wc. as Passion will have much to say, it is not very likely Reason will be much listened to. I appeal to You, Sir, if This Acct be exaggerated, &amp; if it be not sadly verified by many living Instances that have fallen under yr own observatn.</p>
+<p>The Contrast is so striking, to Me, at least, it seems so, that I can not think it possible for any one to hesitate a Moment in determing. Let Me then hasten just to repeat wt I yesterday mentioned to You of the Manner in wc. I coud wish my Scheme to be executed. In the first Place then, I woud have him make the Tour of N. America, at least, the Northern Colonies, wc. might very well be done in six Months. And This chiefly to avoid the Absurdity of going so far to get acquainted wth other Countries ere He knew any Thing of his own. After This, He shd go to Engld, &amp; there immediately be enterd in one of the Universities, not so much fm any Prospect of Advantages to be gaind by Study in the little Time He cd stay there, as that it woud be by much the safest Place for Him. After a Winter or so spent there, He shoud be conducted thro the principal Counties &amp; Towns of the three Kingdoms, which woud possibly take up nearly a Year: After This He might conveniently spend six Months in the Metropolis, &amp; from thence set out on his Tour thro Some of the principal Countries on the Continent, wc. He shd travel thro not as a Virtuoso to collect Rarities, or as a Connoisseur, to gaze at excellent Pictures or magnificent Buildings, but rather like a Really sensible &amp; <span class="hi-italic" style="font-style: italic;">Sentimental</span> Traveller, such as Horace intimates Ulysses was, who travelld thro many Cities to see the Manners of many Men. These are the Outlines of my Plan, which however I no otherwise recommend to You, than as my first
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0340">[340]</span>
+Thoughts, wc. I shall be proud to see improvd by Yrself or others. The Expence of the Undertaking yet remains to be spoken of, in estimating of which, I am even more at a Loss than in what I have heretofore mentioned. However, as I had much rather have my Judgemt called in Questn than my Inclinatn to comply wth every Request of Yours, I hesitate not to give You my Opinion, such as it is. I cannot then believe that it can possibly be executed in any such Manner as You wd wish, or as it ought, for less than 1000 sterlg <img class="char" src="images/char-per-trans.png" alt="[per]"/>r ann: if so little; which I calculate in this Manner. It cannot be thot unreasonable that my appointmt, if finally I shd be pitchd upon to accompany Him, shd at least be equal to wt I relinquish here; as I take not into Acct the Injury I may thus eventually do to my future Prospects in Life, since This, I think, ought to be chargd to the Pleasure I propose to myself fm the Scheme. This then I set down at 250: My Expences &amp; those of a Servt &amp; a pr of Horses, at as much more: His own, &amp; servt &amp;c. at 250the remaining 250 I allot to Cloathg Him, &amp; sundry other unforeseen Expences, such as Purchasg Curiosities, visitg public Places, &amp;c. &amp;c.<a class="ptr" href="#GEWN-02-08-02-0227-fn-0004" id="GEWN-02-08-02-0227-fn-0004-ptr">4</a> For Aught I know, This may be too muchtho I hardly think it is: shoud it be so, as I know his Circumstances, it shd be my Study to propor[tio]n his Expences, as far as They possibly could, to his Income. And, whoever be his Preceptor, shd have it strictly in Charge Punctually to render You a faithfull Acct of every Disbursemt, that so You might have it in yr Power to subject Him to whatever new Regulans You might judge expedient.</p>
+<p>I am much Ashamed to lay before You so confused &amp; ill digested a letter, wc. I beg You to impute to my Hurry, &amp; my being constantly interrupted by Company: If, however, You can only collect from it the Substance of my Plan, &amp; if That only appears tolerably plausible to You, I am not very anxious for the rest, relying so entirely as I do, on yr Candor to excuse any Inaccuracies You may meet wth in wt I have wrote. This only I have to request of You, that wn You consult any of yr Friends on this Matter, You will be so good as not to produce this Letter, which tho I am not afraid to trust to You, I am yet unwilling shd be perused by Strangers.</p>
+<p>As to Mr Custiss living wth Me in Annapolis, shoud I resolve to remove thither, as I suppose I shall, I have not any Thing to add to wt I yesterday told You. I purpose calling on Mrs Washington
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-08-02-pb-0341">[341]</span>
+in my Way to Maryland, &amp; shall then request Her immediately to write to You her Sentiments, so that I shall hope to be obligd wth your final Resolution before I leave Annaps, which will hardly be before the Middle of next Month.<a class="ptr" href="#GEWN-02-08-02-0227-fn-0005" id="GEWN-02-08-02-0227-fn-0005-ptr">5</a> I am, with much Esteem, very truly, Sir, Yr most Obedt &amp; most Hble Servt</p>
+<div class="closer">
+<p class="signed">Jonan Boucher</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-08-02-0227-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0227-fn-0001-ptr" id="GEWN-02-08-02-0227-fn-0001">1</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-08-02-0226" class="document">GW to Boucher, 13 May</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0227-fn-0002-ptr" id="GEWN-02-08-02-0227-fn-0002">2</a>
+
+   <p>Joseph-Franois Lafitau (16811746), a Jesuit priest, spent five years in North America, where he discovered ginseng, and in 1724 published in four volumes his <span class="hi-italic" style="font-style: italic;">Moeurs des savages Ameriquains, compares aux moeurs des premiers temps</span>, a study of the laws and customs of the Iroquois. The Baron Thunder-Ten-Tronckh is the father of Candides love, Cungonde, in Voltaires <span class="hi-italic" style="font-style: italic;">Candide</span> (1759).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0227-fn-0003-ptr" id="GEWN-02-08-02-0227-fn-0003">3</a>
+
+   <p>It was not an overseer but his friend and manager, John Price Posey, who was to help bring John Parke Custis to the brink of financial ruin before Custiss death in 1781. See for instance GW to John Price Posey, 7 Aug. 1782.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0227-fn-0004-ptr" id="GEWN-02-08-02-0227-fn-0004">4</a>
+
+   <p>On 4 April 1771 Boucher wrote his patron and friend, the Rev. John James, in Kendall, England: I shoud suprize you by ye Communican of a fresh Project: in short, I am now full of a Scheme of returning once more to England. Woud I could have an oppty of consultg wth you! But wt cd you advise me? wt but my own Sentimtsthat Inclinan pleads one way, &amp; dicren another a Dilemma it is my perpetual Fate to be involvd in. The friends of a Youth I have had the care of these three years past have almost fully resolved to send Him Home, to finish his Education; &amp; offer Me an handsome Appointment to accompany Him. I askd 250 sterlg Pr ann: Salary, &amp; all my Expenses bore, which I woud not have restricted to less than 250 more. It is a Bait there is no resisting: and yet I well foresee, it will totally ruin all my fair Hopes of very handsome Preferment here (Letters of Rev. Jonathan Boucher, <span class="hi-italic" style="font-style: italic;">Maryland Historical Magazine</span>, 8 [1913], 17678).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-08-02-0227-fn-0005-ptr" id="GEWN-02-08-02-0227-fn-0005">5</a>
+ 
+   <p>GW Breakfasted at Mr. Bouchers on 20 May when en route to Williamsburg (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-02-02-0005-0012#GEWN-01-02-02-pb-0238" class="document">2:238</a>). Boucher left Caroline County and went to Annapolis on about 1 June to become rector of St. Annes Parish.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-08-02-0227 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 8 (24 June 176725 December 1771)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-08-02-0226" title="To Jonathan Boucher, 13 May 1770"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-08-02-0228" title="From Capel &amp; Osgood Hanbury, 21 May 1770"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

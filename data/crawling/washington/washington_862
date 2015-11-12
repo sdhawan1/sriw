@@ -1,0 +1,532 @@
+To Robert Dinwiddie, 4 August 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Robert Dinwiddie, 4 August 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-03-02-0289&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1756-08-04-2">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0288" title="Orders, 4 August 1756"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-03-02-0290" title="To Robert McKenzie, 4 August 1756 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-03&amp;mode=TOC">Volume 3 (16 April 17569 November 1756)</a>&gt; <a href="?keys=GEWN-print-02-03-02&amp;mode=TOC">Documents</a>&gt; To Robert Dinwiddie, 4 August 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-03-02-0289&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0288" title="Orders, 4 August 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0290" title="To Robert McKenzie, 4 August 1756 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0312">312</span><div id="Col03d273" class="doc">
+
+<h1>To Robert Dinwiddie</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">To The Honorable Robert Dinwiddie, Esq. Governor of Virginia.<br/>Honble Sir,</td>
+		<td class="salutationRight">[Winchester, 4 August 1756]</td>
+	      </tr>
+      </table>
+</div>
+<p>Giving the necessary Orders and Directions about the chain of Forts to be built on the Frontiers, has kept me so closely employed, that I could not write fully to your Honor until <span class="hi-italic" style="font-style: italic;">this</span>. But I have got that trouble now pretty well off my hands, as I have dispatched orders, plans and tools to all the officers appointed to that Duty. By the enclosed Council held at Fort Cumberland, your Honor will see our determination there, and where it is necessary to erect the Forts.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0001" id="GEWN-02-03-02-0289-fn-0001-ptr">1</a></p>
+<p>Although we have not kept strictly to the Act of Assembly, I hope it will be overlooked; as I am sensible this will be the best chain that can possibly be erected for the defence of the people, and that the Assembly aimed at <span class="hi-italic" style="font-style: italic;">that</span>but, being unacquainted with the situation of the Country had fallen into an error, agreeable to this Council the chain is ordered to be built.</p>
+<p>Your Honour by the enclosed Rolls of the companies may see their present establishment;<a class="ptr" href="#GEWN-02-03-02-0289-fn-0002" id="GEWN-02-03-02-0289-fn-0002-ptr">2</a> and I send you a copy of their former one, agreeable to your orders; together with the number
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0313">[313]</span>
+of Drafts from each County, delivered at Fredericksburgh<a class="ptr" href="#GEWN-02-03-02-0289-fn-0003" id="GEWN-02-03-02-0289-fn-0003-ptr">3</a> But many of them deserted on their march to this place, and after their arrival here: So we are short of that <span class="hi-italic" style="font-style: italic;">number</span> now: what remain, are divided among the Companies, to make them equal.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0004" id="GEWN-02-03-02-0289-fn-0004-ptr">4</a></p>
+<p>Captains Hogg and Waggeners Rolls I can not yet send, as they are not come to hand.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0005" id="GEWN-02-03-02-0289-fn-0005-ptr">5</a></p>
+<p>The two vacant companies, Captain Savage and the late John Mercers, as I had your Honours approbation for the Field Officers having companies, are disposed of to Colonel Stephens and myselfThe next vacancy the Major must fill.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0006" id="GEWN-02-03-02-0289-fn-0006-ptr">6</a></p>
+<p>I am very glad your Honour intends to order the Draughts now to be made, to be sent herePrince-William, Fairfax and Culpeper, are more convenient to this place than FredericksburghThen their being ordered here saves a ninety miles march.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0007" id="GEWN-02-03-02-0289-fn-0007-ptr">7</a></p>
+<p>I make no doubt your Honour has ere this heard of the Defeat of Lieutenant Rutherford, of the Rangers, escorting an Express to me at Fort Cumberland; and of the dastardly behaviour of the militia, who ran off without one half of them having discharged their pieces, altho they were apprized of the ambuscade by one of the flanking party, before the Indians fired upon them; and ran back to Ashbys Fort, contrary to orders, persuasions, threats, &amp;c.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0008" id="GEWN-02-03-02-0289-fn-0008-ptr">8</a> They are all ordered in so soon as the people have secured their HarvestThose of King-George and Caroline are already here, the rest I expect shortly.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0009" id="GEWN-02-03-02-0289-fn-0009-ptr">9</a> Through the <span class="hi-italic" style="font-style: italic;">passive</span> Behaviour of their Officers, they have been very refractory. Captain Stewarts Troop has for these twelve months past, and must still continue to do Duty on Foot. Their pay is very greatI should be glad of your Honours orders in regard to them, whether they are to be continued?<a class="ptr" href="#GEWN-02-03-02-0289-fn-0010" id="GEWN-02-03-02-0289-fn-0010-ptr">10</a> I think with the number of men we have, there is but a poor prospect of finishing our Forts in time; and a much worse of defending our Frontiers properlyand I would be glad some expedient could be fallen upon to augment it.</p>
+<p>There is an Act of Parliament to allow all Servants to enlist, and the owners to be paid a reasonable allowance for them: if we had this priviledge, we could soon complete the Regiment; and I doubt not but his Majesty would order them to be paid for, if we enlisted, as soon as for the Regulars: nay, shoud he not, the ten pounds fine thro the Country would go a considerable
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0314">[314]</span>
+way towards it.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0011" id="GEWN-02-03-02-0289-fn-0011-ptr">11</a> And this we may depend upon, if we have not this liberty granted us, the Servants will all run off to the Regular Officers, who are recruiting about us<a class="ptr" href="#GEWN-02-03-02-0289-fn-0012" id="GEWN-02-03-02-0289-fn-0012-ptr">12</a>and that would be to weaken our Colony much, when it could receive no immediate benefit from it, but only be benefited in a general way. For my part I see no other expedient. Now your Honour sees plainly the effect the act of Assembly, in regard to the Draughts, has had; and how little our strength has been augmented by that schemeand in three or four months we shall not be the better for themthen they are to be discharged!<a class="ptr" href="#GEWN-02-03-02-0289-fn-0013" id="GEWN-02-03-02-0289-fn-0013-ptr">13</a></p>
+<p>I am confident, if we had had authority to enlist Servants, the Regiment would have been complet ere this; and with little troublefor many have offered, and many have been discharged after enlisting. Mr Kirkpatrick will deliver your Honour a list of the preferments in my Regiment, with the dates of the Officers commissionsThere are five or six more still waiting.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0014" id="GEWN-02-03-02-0289-fn-0014-ptr">14</a> Lieutenant Stark has followed Fraziers example, upon the like occasion; being appointed to Captain Hoggs Company.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0015" id="GEWN-02-03-02-0289-fn-0015-ptr">15</a></p>
+<p>I have sent Lieutenant Bullet to relieve Lieutenant McNeill;<a class="ptr" href="#GEWN-02-03-02-0289-fn-0016" id="GEWN-02-03-02-0289-fn-0016-ptr">16</a> whose seniority entiles him to Captain Lieutenancy: and he has my promise when a vacancy happens to have his commission antedated, and to take his proper rank in the Regiment; as I take him to be a very diligent good officer, and as he was overlooked in the promotions, this indulgence has been promised him.</p>
+<p>I could wish we were clear of Fort CumberlandIt takes a great part of our small force to garrison it: and I see no service it is to our Colony; for since the Indians have drove the Inhabitants so low down, they do not hesitate to follow them as far as Conogochieg and this place<a class="ptr" href="#GEWN-02-03-02-0289-fn-0017" id="GEWN-02-03-02-0289-fn-0017-ptr">17</a>There have been several families murdered within two miles of the mouth of Conogochieg, on the Maryland side, this week<a class="ptr" href="#GEWN-02-03-02-0289-fn-0018" id="GEWN-02-03-02-0289-fn-0018-ptr">18</a>and Fort Cumberland is now so much out of the way, that they seldom hear of those things, within a month after they are done. Our men want many necessaries, until the arrival of their Regimentals, which can not be had without sending to Philadelphia: and the great loss we shall suffer by sending them our paper-money, has prevented my purchasing these things until the men are almost naked. I should be glad your Honour would send me a Letter of Credit to Mr Allen,<a class="ptr" href="#GEWN-02-03-02-0289-fn-0019" id="GEWN-02-03-02-0289-fn-0019-ptr">19</a> or some person there; or Gold, or Bills;
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0315">[315]</span>
+for we can not afford to put up with the loss of sending paper moneywhich I am credibly informed, may be bought up in Philadelphia for fifteen per cent <span class="hi-italic" style="font-style: italic;">their</span> currency; so that the least we woud lose by that traffic, would be ten per cent.</p>
+<p>We are in great want of Drums here, and none can be bought; we now have many young Drummers learning hereso I must beg you will please to order some immediately from Williamsburgh to us, for we can not do without them.</p>
+<p>The Rangers are still paid out of the money in my handsI never received but one hundred pounds from Lord Fairfax, or Colonel George.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0020" id="GEWN-02-03-02-0289-fn-0020-ptr">20</a></p>
+<p>Captain Gist has some accompts against the Country for necessary ServicesI doubt not your Honor will consider the justice of them; and assist the poor man in the affair; as he is put to great inconveniences for want of the moneyhas been obliged to advance his own, as far as it would goand people to whom he owes Balances upon that account, are daily threatning him with Suits.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0021" id="GEWN-02-03-02-0289-fn-0021-ptr">21</a></p>
+<p>Captain McNeil writes me, that out of the three companies of Rangers on the Frontiers of Augusta, which ought to be one hundred and twenty men, there are not thirty: I hope your Honour will have that affair enquired into.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0022" id="GEWN-02-03-02-0289-fn-0022-ptr">22</a></p>
+<p>I am to be summoned against one Napp for making counterfeit paper-money here, I desire your Directions, whether I must appear or notit may, perhaps, be at a time when I am much wanted <span class="hi-italic" style="font-style: italic;">here</span>.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0023" id="GEWN-02-03-02-0289-fn-0023-ptr">23</a></p>
+<p>I could by no means bring the Quakers to any TermsThey chose rather to be whipped to death than bear arms, or lend us any assistance whatever upon the Fort, or any thing of self-defence. Some of their friends have been security for their appearance when they are called for; and I have released them from the Guard-House until I receive further orders from your Honourwhich they have agreed to apply for.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0024" id="GEWN-02-03-02-0289-fn-0024-ptr">24</a></p>
+<p>I am informed there has been application made to your Honor, for the discharge of some of the Militia who enlisted hereas the case may have been represented to your Honor in a wrong light by prejudiced persons, I shall give you a true state of it, from my own knowledge.</p>
+<p>After the Militia were fixed on to march to their different posts, it was common for twenty or more to desert of a night: In
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0316">[316]</span>
+consequence of which I despatched the Militia Officers with what remained, and some of my own Officers in pursuit of these Deserters, who apprehended seventeen or eighteen of them, and brought them to town.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0025" id="GEWN-02-03-02-0289-fn-0025-ptr">25</a> The Militia had then marchedTo send these men after them I was certain would not answerto avoid that, was the cause of their desertion; and I could not spare men to send an Escort with them to their different partiesand, if I had let them pass unpunished, it would have occasioned all the Militia at work on the Fort to desert. So I thought it most advisable to punish them, to deter the rest, and prevent a second Fault in them; and accordingly ordered them twenty lashes each; and then intended to have set them to work on the Fort.</p>
+<p>When they had marched from the Guard-house (where several had enlisted before any punishment was ordered them) some of the officers applied for money, and said all the militia would enlist; which I gave them, and at the same time a charge, to use no unfair means or threats, which they engaged.</p>
+<p>In order to prevent any, I sent out Captain Mercer to acquaint <span class="hi-italic" style="font-style: italic;">them</span> with my charge to the Officers, and to tell them, that if any unfair means had been made use of to engage them to take the money, to declare it, and they should be allowed to return it; and further be acquainted with the indulgence allowed them by act of Parliament; and that they had a right to return the money within twenty-four hours, if they should repent of what they had done in that time: They <span class="hi-italic" style="font-style: italic;">all</span> declared their willingness to enlistsaid no unfair means had been made use of, and that it was better to enlist at <span class="hi-italic" style="font-style: italic;">once</span>, than to be subject to be draughted every <span class="hi-italic" style="font-style: italic;">week</span>: when they were Soldiers, they knew what to depend uponwhich they could not beforeas their being draughted at an unseasonable time might ruin them. They used the same arguments again to Captain Mercer, when he read the Articles of War to them; and he again repeated what he had told them before in the morning; as I have been assured by several of the officers then present.</p>
+<p>The men have always appeared well satisfied, and never have made the least complaint; nor will not, I am sensible, if, they are not persuaded to it by the people below. They have now been enlisted upwards of ten weeks, and are very good men, upon the whole.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0317">[317]</span>
+<p>I dare say your Honour will judge the men to be fairly enlisted, and that they are no ways entitled to a Discharge; which will be applied for by some Gentlemen below; But I shall take your Honours directions on that point.</p>
+<p>In obedience to your Honours commands, to incorporate the Rangers into the Regiment; I gave Furloes to the Captains (who <span class="hi-italic" style="font-style: italic;">both</span> desired it) knowing they would oppose any measures to enlist the men; and then sent some of my officers, to use their influence to engage the menTheir success I have not yet heard ofbut should be glad to know if you approve of this method, or will direct any otherAs <span class="hi-italic" style="font-style: italic;">Rangers</span>, under the present Establishment, they are of no use or benefit to the Country: <span class="hi-italic" style="font-style: italic;">This</span>, I believe, your Honour, as well as the Country, have long since been convinced of.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0026" id="GEWN-02-03-02-0289-fn-0026-ptr">26</a></p>
+<p>I have supplied the Nottoway Indians with some necessaries, and have allowed them to take their arms with them; but they have received no pay, and say, they were <span class="hi-italic" style="font-style: italic;">promised</span> a <span class="hi-italic" style="font-style: italic;">Bitt</span> per day.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0027" id="GEWN-02-03-02-0289-fn-0027-ptr">27</a></p>
+<p>Captain Tom has promised to go to the Tusks with a Speech and Wampum, which I have given <span class="hi-italic" style="font-style: italic;">them</span>He says they have an hundred fighting men to <span class="hi-italic" style="font-style: italic;">spare</span>They would be a great assistance to us, if they could be engaged to come.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0028" id="GEWN-02-03-02-0289-fn-0028-ptr">28</a></p>
+<p>Besides the men on the Rolls sent your Honour, there are about one hundred Draughts, not disposed of in the different Companies which are at work on the Fort, and garrisoning some of the country Forts.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0029" id="GEWN-02-03-02-0289-fn-0029-ptr">29</a></p>
+<p>I have just received your Honours letter of the 12th ultimo. If Mr Tumberlake will enter as a volunteer in the Regiment, and wait, as others have done, his turn, I shall be glad to serve him: But I can not pretend to put him over young gentlemen who have served some months at their own expense, waiting preferment; without orders from your Honour; as such things have caused the greatest discontent and confusion in the Regiment already.</p>
+<p>I observe your Honors proposal to Lord Loudon, of carrying on an Expedition against the Ohio.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0030" id="GEWN-02-03-02-0289-fn-0030-ptr">30</a> I have always thought it the best and <span class="hi-italic" style="font-style: italic;">only</span> method to put a stop to the incursions of the Enemy; as they would <span class="hi-italic" style="font-style: italic;">then</span> be obliged to stay at home, to defend their own possessions. But we are quite unprepared for such an undertaking: If it is fixed upon, <span class="hi-italic" style="font-style: italic;">now</span> is the time for buying up
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0318">[318]</span>
+Provisions and laying them in at the most convenient place. The pensylvania butchers are buying quantities of Beef <span class="hi-italic" style="font-style: italic;">here</span>, which should be put a stop to, if we are to march towards the OhioIf we are still to remain on the defensive, and garrison the chain of Forts; Provision must be laid in at each of <span class="hi-italic" style="font-style: italic;">them</span>and I much fear, if we march from the Frontiers, all the inhabitants will quit their Plantations. Your Honours sentiments and orders on this head, will be very agreeable to meand shall be punctually complied with. By the latest advices from Augusta, it is thought, that <span class="hi-italic" style="font-style: italic;">these</span> outrages were committed by the Cherokees<a class="ptr" href="#GEWN-02-03-02-0289-fn-0031" id="GEWN-02-03-02-0289-fn-0031-ptr">31</a>There have been no accounts of any thing since the first attempt, but <span class="hi-italic" style="font-style: italic;">still</span> I think it woud not be improper to keep the Militia on the Frontiers to oppose a <span class="hi-italic" style="font-style: italic;">second</span>: and if your Honor should think it proper to order them to assist on the Forts to be built in augusta, I think they could not better employ their time.<a class="ptr" href="#GEWN-02-03-02-0289-fn-0032" id="GEWN-02-03-02-0289-fn-0032-ptr">32</a> I am &amp;c.</p>
+<div class="closer">
+<p class="signed">G:W.</p>
+<div class="dateline-closer">Winchester, August 4th 1756.</div>    
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-03-02-0289-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0001-ptr" id="GEWN-02-03-02-0289-fn-0001">1</a>
+
+   <p>There is no record of GWs having written to Dinwiddie since 25 June 1756. <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'The' &lt;span style='font-size: 90%'&gt;[[2014-10-31]]&lt;/span&gt; ]">See the</span> <a href="default.xqy?keys=GEWN-print-02-03-02-0235" class="document">minutes of the council of war</a> held at Fort Cumberland on 10 July<span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ' are printed above' &lt;span style='font-size: 90%'&gt;[[2014-11-06]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0002-ptr" id="GEWN-02-03-02-0289-fn-0002">2</a>
+
+   <p>The size rolls of the companies of the Virginia Regiment that have been found for 1756 are summarized in <a href="default.xqy?keys=GEWN-print-02-03-02-0241&amp;expandNote=GEWN-02-03-02-0241-fn-0001#GEWN-02-03-02-0241-fn-0001" class="document">GW to Thomas Waggener, 13 July 1756, n.1</a>. Twelve of the size rolls are dated 13 July; Robert Stewarts is dated 11 May, GWs, 1 Aug., George Mercers, 2 Aug., and Thomas Waggeners, 19 Sept. 1756. No size roll for Peter Hogs company has been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0003-ptr" id="GEWN-02-03-02-0289-fn-0003">3</a>
+
+   <p>No complete list of the militiamen drafted from each county has been found. For a list of those returns of drafts for May which are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>, see <a href="default.xqy?keys=GEWN-print-02-03-02-0189&amp;expandNote=GEWN-02-03-02-0189-fn-0002#GEWN-02-03-02-0189-fn-0002" class="document">Orders, 2 June 1756, n.2</a>; for the roster of the 125 draftees who were discharged on 1 Dec., see <a href="default.xqy?keys=GEWN-print-02-04-02-0016" class="document">GWs Memorandum, 4 Dec. 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0004-ptr" id="GEWN-02-03-02-0289-fn-0004">4</a>
+
+   <p>GWs attempt to make the companies equal in size took place 11, 12, and 13 July. See <a href="default.xqy?keys=GEWN-print-02-03-02-0237" class="document">GWs Orders, 11</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0238" class="document">12 July</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0241&amp;expandNote=GEWN-02-03-02-0241-fn-0001#GEWN-02-03-02-0241-fn-0001" class="document">GW to Waggener, 13 July, n.1</a>, and the twelve company size rolls of 13 July 1756 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0005-ptr" id="GEWN-02-03-02-0289-fn-0005">5</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-03-02-0289&amp;expandNote=GEWN-02-03-02-0289-fn-0002#GEWN-02-03-02-0289-fn-0002" class="document">note 2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0006-ptr" id="GEWN-02-03-02-0289-fn-0006">6</a>
+
+   <p>The Major, Andrew Lewis, the third of the three field officers of the Virginia Regiment, was in the Cherokee country. See <a href="default.xqy?keys=GEWN-print-02-03-02-0042&amp;expandNote=GEWN-02-03-02-0042-fn-0006#GEWN-02-03-02-0042-fn-0006" class="document">Dinwiddie to GW, 23 April, n.6</a>, and <a href="default.xqy?keys=GEWN-print-02-03-02-0324&amp;expandNote=GEWN-02-03-02-0324-fn-0001#GEWN-02-03-02-0324-fn-0001" class="document">20 Aug. 1756, n.1</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0007-ptr" id="GEWN-02-03-02-0289-fn-0007">7</a>
+
+   <p>These are counties in which no draft was held in May 1756 because a large contingent of the militia in each was on duty under GWs command on the frontier. They were now being sent home (see <a href="default.xqy?keys=GEWN-print-02-03-02-0297" class="document">GWs orders of 7 Aug. in Orders, 5, 6, 7, 8, 9 Aug. 1756</a>). For the drafting of the Fairfax County militia,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0319">[319]</span>
+see <a href="default.xqy?keys=GEWN-print-02-03-02-0343" class="document">William Fairfax to GW, 3 Sept. 1756</a>. The men drafted in May assembled in Fredericksburg before being marched to Winchester.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0008-ptr" id="GEWN-02-03-02-0289-fn-0008">8</a>
+
+   <p>Adam Stephen referred to this incident in his letter of 25 July 1756 in a way to suggest that it happened shortly before GW left Fort Cumberland about 15 July.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0009-ptr" id="GEWN-02-03-02-0289-fn-0009">9</a>
+
+   <p>GW noted in his Orders of 29 July 1756 that the contingents of militia from King George and Caroline counties had come down to Winchester in preparation for their discharge.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0010-ptr" id="GEWN-02-03-02-0289-fn-0010">10</a>
+
+   <p>This would indicate that Robert Stewarts troop of light horse had, in fact, been for the most part a company of foot soldiers ever since GW took command of the Virginia Regiment in September 1755. See also <a href="default.xqy?keys=GEWN-print-02-03-02-0200" class="document">Dinwiddie to GW, 12 June 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0011-ptr" id="GEWN-02-03-02-0289-fn-0011">11</a>
+
+   <p>On 19 Aug. 1756 Dinwiddie wrote GW agreeing to paying masters, if You can enlist Servants agreeable to the Act of Parliamt; and on 13 Sept. he wrote that although he knew of no Act of Parliamt on that head, he had Directions from both the secretary of state and Lord Loudoun approving the enlisting of servants. The 10 fine GW mentions was the fee that any man drafted from the militia could pay in order to be excused from serving. See 7 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 925.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0012-ptr" id="GEWN-02-03-02-0289-fn-0012">12</a>
+
+   <p>Men for the new Royal American Regiment were being recruited during this summer. In January 1756 the cabinet council in London agreed to a search in Switzerland and Germany for Protestant officers who might be given commissions in the British army for the specific purpose of raising and ordering a regiment in America. The Royal American Regiment (the 62d, later the 60th) was to be made up, it was supposed, largely of men recruited from among the German settlers in Pennsylvania. Parliament and the king approved the scheme in February and March, and the German and Swiss officers who had been given commissions sailed for America in mid-April, arriving by packet in New York in early June.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0013-ptr" id="GEWN-02-03-02-0289-fn-0013">13</a>
+
+   <p>GW was referring not only to how few men had come into the regiment through the draft (fewer than 250 on 25 June instead of the 1,200 hoped for) but also to the fact that the assembly had fixed 1 Dec. 1756 as the date for the discharge of all draftees.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0014-ptr" id="GEWN-02-03-02-0289-fn-0014">14</a>
+
+   <p>The list conveyed by John Kirkpatrick has not been found, but the names of the men to whom GW recently had given commissions or new appointments are in his Orders, 12 July 1756. The five or six men waiting presumably were serving in the Virginia regiments as volunteers until new vacancies among the ensigns should develop.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0015-ptr" id="GEWN-02-03-02-0289-fn-0015">15</a>
+
+   <p>Both Lt. William Stark and Lt. George Fraser resigned from the regiment rather than serve under Peter Hog.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0016-ptr" id="GEWN-02-03-02-0289-fn-0016">16</a>
+
+   <p>John McNeill had been Hogs lieutenant ever since Hog and his company went to Augusta County in September 1755. Lt. Thomas Bullitt who now replaced him at Fort Dinwiddie was not long in pressing GW for removal to another company.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0017-ptr" id="GEWN-02-03-02-0289-fn-0017">17</a>
+
+   <p>Prior to his trip to Boston in February by which he secured from William Shirley a clear statement of his seniority to Capt. John Dagworthy at Fort
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0320">[320]</span>
+Cumberland, GW had often presented arguments to Dinwiddie and Speaker John Robinson for giving up Fort Cumberland. Here in August 1756 he began a new campaign for the Virginia forces to abandon the fort in Maryland, which contributed to a strain in the relations between GW and the lieutenant governor which is so apparent in their correspondence in the fall of 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0018-ptr" id="GEWN-02-03-02-0289-fn-0018">18</a>
+
+   <p>For reports of the activities of the Indians across from Maidstone, see <a href="default.xqy?keys=GEWN-print-02-03-02-0277" class="document">Robert Stewart to GW, 30</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0280" class="document">31 July 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0019-ptr" id="GEWN-02-03-02-0289-fn-0019">19</a>
+
+   <p>This was probably the same Mr. Allen, identified as William Allen (17041788) of Philadelphia, from whom John Carlyle in June 1754 was expecting a shipment of 1,000 (<a href="default.xqy?keys=GEWN-print-02-01-02-0077" class="document">William Fairfax to GW, 5 July 1754</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0020-ptr" id="GEWN-02-03-02-0289-fn-0020">20</a>
+
+   <p>When Braddocks army moved into Pennsylvania in June 1755, the Virginia frontier was laid open to Indian raids. On 27 June the House of Burgesses ordered that a bill be brought in for raising the Sum of Twenty Thousand Pounds for the Protection of his Majestys Subjects against the Insults and Encroachments of the <span class="hi-italic" style="font-style: italic;">French</span> (<span class="hi-italic" style="font-style: italic;"><span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ H. R. McIlwaine and John Pendleton Kennedy, eds. &lt;i&gt;Journals of the House of Burgesses of Virginia&lt;/i&gt;. 13 vols. Richmond, 190515. ]">JHB</span>, 17521755, 17561758,</span> 281). As signed by Dinwiddie on 9 July 1755, the act provided for the payment to Lieutenant Governor Dinwiddie of a sum of money not exceeding two thousand pounds, to be laid out for and in the raising and maintaining three companies of men, consisting of fifty men each, with their officers, to be employed as rangers, for the protection of the subjects in the frontiers of this colony (6 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 46168). Early in July 1755, even before signing the bill, Dinwiddie gave orders for one company of rangers to be raised in Augusta County and two companies in the upper frontier counties of Frederick and Hampshire, to be pd by the Country (Dinwiddie to Lord Fairfax, 4 July 1755, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). On 14 Aug. 1755 Dinwiddie wrote Lord Fairfax that he had sent by Colo. [George William] Fairfax []400 for the use of the Rangers, with companies being raised in Frederick and Hampshire counties (ibid.). When GW assumed command of the Virginia Regiment on 1 Sept. 1755, he also became commander of all other Virginia forces, which included the companies of rangers commanded by William Cocks and John Ashby. Presumably the money in my hands which he refers to here was money provided by Dinwiddie out of the appropriation for the rangers in July 1755. In response to this letter, <a href="default.xqy?keys=GEWN-print-02-03-02-0319" class="document">Dinwiddie wrote GW on 19 Aug. 1756</a> that he was writing to Colo. Fairfax to pay You the Balla. in his Hands of 600 he had of me, but on 8 Sept. GW wrote Dinwiddie that he would have to discharge the rangers as the fund is exhausted. On 20 Oct. 1756, however, GW recorded a payment of 68 13s. 9d. from George William Fairfax of Rangers Money. See Va. Regimental Accounts, 175558, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. For further details of the formation of these two ranger companies, see <a href="default.xqy?keys=GEWN-print-02-02-02-0087" class="document">GW to William Cocks and John Ashby, 10 Oct. 1755</a>, editorial note, and <a href="default.xqy?keys=GEWN-print-02-03-02-0243&amp;expandNote=GEWN-02-03-02-0243-fn-0002#GEWN-02-03-02-0243-fn-0002" class="document">GW to Robert McKenzie, 13 July 1756, n.2</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0021-ptr" id="GEWN-02-03-02-0289-fn-0021">21</a>
+
+   <p>For the decision about Christopher Gists accounts, see <a href="default.xqy?keys=GEWN-print-02-03-02-0322-0002" class="document">the Minutes of the Committee, 14, 17, 18 Aug.</a>, enclosed in <a href="default.xqy?keys=GEWN-print-02-03-02-0322-0001" class="document">John Robinson to GW, 19 Aug. 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0022-ptr" id="GEWN-02-03-02-0289-fn-0022">22</a>
+
+   <p>In a letter of 21 July 1756 to John McNeill, GW alludes to a letter from McNeill dated 27 June, which has not been found. GW may be referring to this or to a more recent one that also has not been found.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0023-ptr" id="GEWN-02-03-02-0289-fn-0023">23</a>
+
+   <p>At a court held in Frederick County on 1 June 1756, James Knap was
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0321">[321]</span>
+examined for Forging or Counterfeiting a Treasury Note of this Colony. The court ordered him to be tryed for the same at the General Court, and GW, George Mercer, Henry Heth, and William Winsor, who had all given depositions, were placed under bond to appear at the General Court. The Frederick court ordered to be certified that it appears to this court that the Prisoner James Knap is a Convict from Great Britain whose term of Conviction is not Expired (Frederick County Order Book, 175558, p. 58, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> Microfilm).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0024-ptr" id="GEWN-02-03-02-0289-fn-0024">24</a>
+
+   <p>For Dinwiddies advice to GW for handling the six Quakers who refused to do any thing that tends, in any respect, to self-defence (<a href="default.xqy?keys=GEWN-print-02-03-02-0217" class="document">GW to Dinwiddie, 25 June 1756</a>), see <a href="default.xqy?keys=GEWN-print-02-03-02-0227" class="document">Dinwiddies letter of 1 July</a>. For the identity of the Quakers, see <a href="default.xqy?keys=GEWN-print-02-03-02-0217&amp;expandNote=GEWN-02-03-02-0217-fn-0008#GEWN-02-03-02-0217-fn-0008" class="document">note 8</a> of GWs letter.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0025-ptr" id="GEWN-02-03-02-0289-fn-0025">25</a>
+
+   <p>Most of the militia detachments received their assignments to various frontier posts on 15 May 1756, and on 16 and 17 May there was a rash of desertions. GW reported that Lt. Thomas Bullitt of the Virginia Regiment returned to Winchester on the night of 17 May with fourteen deserters who to avoid punisht inlisd in the V.R. See <a href="default.xqy?keys=GEWN-print-02-03-02-0133" class="document">Memorandum respecting the Militia, 16</a>, <a href="default.xqy?keys=GEWN-print-02-03-02-0144" class="document">17</a>, and <a href="default.xqy?keys=GEWN-print-02-03-02-0152" class="document">18 May 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0026-ptr" id="GEWN-02-03-02-0289-fn-0026">26</a>
+
+   <p>While at Fort Cumberland c.515 July 1756 GW discussed with Adam Stephen the recruiting of the men in the two ranger companies for the Virginia Regiment (see <a href="default.xqy?keys=GEWN-print-02-03-02-0289&amp;expandNote=GEWN-02-03-02-0289-fn-0020#GEWN-02-03-02-0289-fn-0020" class="document">note 20</a>), and on 13 July he sent Robert McKenzie to William Cockss fort with instructions to use utmost care in enlisting the rangers (see <a href="default.xqy?keys=GEWN-print-02-03-02-0243&amp;expandNote=GEWN-02-03-02-0243-fn-0002#GEWN-02-03-02-0243-fn-0002" class="document">GW to McKenzie, 13 July, n.2</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0027-ptr" id="GEWN-02-03-02-0289-fn-0027">27</a>
+
+   <p>On 12 July 1756 GW paid 2 4s. 9d. to Jno. Hamilton Sergt Majr for Sundries for the Nottaways, and on 18 Aug. a payment of 8s. 9d. was made to the Nottoway Indians to bear their Expences homeward. Earlier in the spring he had paid John Greenfield 2 for Buckskins for Moccosins to the Nottaway Indians. See Va. Regimental Accounts, 175558, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0028-ptr" id="GEWN-02-03-02-0289-fn-0028">28</a>
+
+   <p>See GWs Speech to the Tuscarora Indians, 1 Aug. 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0029-ptr" id="GEWN-02-03-02-0289-fn-0029">29</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-02-03-02-0289&amp;expandNote=GEWN-02-03-02-0289-fn-0003#GEWN-02-03-02-0289-fn-0003" class="document">note 3</a>. A roll of the artificers working on the fort at Winchester in July 1756 is in NN: Washington Collection. See <a href="default.xqy?keys=GEWN-print-02-03-02-0186&amp;expandNote=GEWN-02-03-02-0186-fn-0001#GEWN-02-03-02-0186-fn-0001" class="document">Orders, 1 June 1756, n.1</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0030-ptr" id="GEWN-02-03-02-0289-fn-0030">30</a>
+
+   <p>In <a href="default.xqy?keys=GEWN-print-02-03-02-0239" class="document">his letter to GW, 12 July 1756</a>, Dinwiddie referred to having made such a proposal to Loudoun, which he had done in a letter of 1 July. For Dinwiddies letter to Loudoun see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ R. Alonzo Brock, ed. &lt;i&gt;The Official Records of Robert Dinwiddie, Lieutenant-Governor of the Colony of Virginia, 17511758&lt;/i&gt;. 2 vols. Richmond, 188384. ]">Brock, <span class="hi-italic" style="font-style: italic;">Dinwiddie Papers</span></span>, 2:45557.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0031-ptr" id="GEWN-02-03-02-0289-fn-0031">31</a>
+
+   <p>For Dinwiddies references to these outrages in Augusta County, see <a href="default.xqy?keys=GEWN-print-02-03-02-0239" class="document">his letter to GW dated 12 July 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-03-02-0289-fn-0032-ptr" id="GEWN-02-03-02-0289-fn-0032">32</a>
+
+   <p>Dinwiddie had anticipated GW in this. A manuscript copy of the minutes of a council of war held on 27 July 1756 at Augusta Court House is in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>. Present were colonels John Buchanan and David Stewart, Maj. John Brown, and ten captains, all officers of the Augusta County militia. This document states: Whereas his honour the governor has Sent Repeated orders to the officers of the militia of this County to meet and consult on the most proper places to build forts along the fronteers for the protection of the Inhabitants. It is therefore unanimously agreed by the said councill that a fort be built at Peetersons on the south branch of Potowmack nigh mill Creek at some Convenient spot of ground for a fort, which is left to the Direction of the officers appointed for that service, also another fort to be built at Hugh
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0322">[322]</span>
+mans mill on Sheltons track. And Another fort to be Constructed at the most Convenient place and the pass of the Greatest Importance between the above said tract and the house of Mathew harper on Bull pasture which is to be built at the Discretion of the officer appointed for that purpose also a fort to be Constructed at mathew harpers on some Convenient spot there, and a fort to be Erected at Capt. John millers on Jacksons river. and as the fronteers are properly protected by the forts of Capt. Hog, Breckinridge &amp; Dickinson, There is no want of a fort unto the mouth of Johns creek, a Branch of Craigs Creek, at which place a fort is to be Erected and as Fort William is Sufficient to guard that Important pass the next Convenient Place South West of fort William is at Neal MacNeals where a fort is ordered to Be Built at or nigh that plantation, and the next fort to be Built at Capt. James Campbles and a fort is to be Built at Capt. Vauses where a Large Body of men is to be kept as it is a Very Important pass also a fort to be Constructed at John masons on the south side of Rounoak.</p>
+
+
+   <p>It is Agreed that the Following numbers of Men is nessessary to be placed at Each fort</p>
+
+<table class="bodytext" id="Col03d273t1">
+               <tr class="label">
+		<td></td>
+		<td style="padding-right: 0.5em !important;">Men</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At masons fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">30</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Vauses</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">70</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Campbles Fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At MacNeals fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">30</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At fort William</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td style="white-space: nowrap;">Exclusive of officers</td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Johns Creek</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Capt. Dickinsons</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">40</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Capt. Breckinridges fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Capt. millers fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At harpers fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Trout Rock fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Hugh mans Mill</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>At Peetersons</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">50</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="internal-table" style="white-space: nowrap; padding: 0 0 0 0;">
+                     <table class="internal" style="width: 100%; margin-left: 1.5em;">
+                        <tr>
+		      <td style="padding-right: 0; width: 25%;">Dinwiddies</td>
+		      <td style="padding-right: 0; width: 75%;" class="dot-leader"></td>
+		    </tr>
+                     </table>
+                  </td>
+		<td class="num" style="padding-right: 0.5em !important;">60</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td></td>
+		<td class="num" style="padding-right: 0.5em !important;"><span class="hi-border-top" style="border-top: 1px solid black;">680</span></td>
+		<td style="white-space: nowrap;">men in all to protect the fronteers.</td>
+	      </tr>
+            </table>
+
+   <p>It is agreed that the Commanding officers give Orders that Fort Vaus be made at least one hundred feet Square in the Clear and that the Stockades be at least 14 feet Long that all the other forts be made 60 feet Square with Two Bastions in Each fort provided The Same Be agreeable to Capt. Peter hog who is supposed to have his honr the Governor orders to oversee the Constructing of the said Chain of forts The Distance Between Each fort above mentioned or the places agreed for them to be Built on are as follows (viz).</p>
+
+<table class="bodytext" id="Col03d273t2">
+               <tr class="label">
+		<td></td>
+		<td style="padding-right: 0.5em !important;">miles</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From the County Line to Petersons</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">2</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Petersons to Hugh mans mill</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">18</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>from thence to Trout Rock</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">17</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>from Trout Rock to mathew harpers</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">20</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>from Thence to Capt. millers</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">18</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>from Thence to fort Dinwiddie</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">15</td>
+		<td></td>
+	      </tr>
+               <tr class="pb_row">
+		<td title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0323" colspan="3"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-03-02-pb-0323">[323]</span></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to Capt. Breckinridges fort</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">13</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence To Fort Dickinson</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">13</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to Johns creek</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">25</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to Fort William</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">20</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From fort William to Neal MacNeals</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">13</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to Capt. Campbles</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">13</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to Capt. Vauses</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">12</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>From Thence to John masons</span></td>
+		<td class="num" style="padding-right: 0.5em !important;">25</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td style="white-space: normal;" class="dot-leader"><span>From Thence to the first Inhabitants in halifax County south side of the Ridge</span></td>
+		<td class="num" style="padding-right: 0.5em !important; vertical-align: bottom;">20</td>
+		<td></td>
+	      </tr>
+               <tr>
+		<td class="dot-leader"><span>By which we find our fronteers Extends</span></td>
+		<td class="num" style="padding-right: 0.5em !important;"><span class="hi-border-top" style="border-top: 1px solid black;">250</span></td>
+		<td style="white-space: nowrap;">[244] Miles in all.</td>
+	      </tr>
+            </table>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-03-02-0289 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 3 (16 April 17569 November 1756)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-03-02-0288" title="Orders, 4 August 1756"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-03-02-0290" title="To Robert McKenzie, 4 August 1756 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.255.8</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

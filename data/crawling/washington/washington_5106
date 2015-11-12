@@ -1,0 +1,171 @@
+From Major General Philip Schuyler, 16 May 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Major General Philip Schuyler, 16 May 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-04-02-0254&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-05-16-7">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0253" title="To the Massachusetts General Court, 16 May 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-04-02-0255" title="Message from the Six Nations, 16 May 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-04&amp;mode=TOC">Volume 4 (1 April 177615 June 1776)</a>&gt; <a href="?keys=GEWN-print-03-04-02&amp;mode=TOC">Documents</a>&gt; From Major General Philip Schuyler, 16 May 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-04-02-0254&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0253" title="To the Massachusetts General Court, 16 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0255" title="Message from the Six Nations, 16 May 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0316">316</span><div id="Rev04d241" class="doc">
+
+<h1>From Major General Philip Schuyler</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">My dear General</td>
+		<td class="salutationRight">Fort George [N.Y.] May 16th 1776<br/>10 OClock <span class="hi-small-caps" style="font-variant: small-caps;">A.M.</span></td>
+	      </tr>
+      </table>
+</div>
+<p>This Moment Capt. Goforth arrived with sundry Letters and papers to me, Copies of all which I do myself the Honor to enclose to your Excellency.<a class="ptr" href="#GEWN-03-04-02-0254-fn-0001" id="GEWN-03-04-02-0254-fn-0001-ptr">1</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0317">[317]</span>
+<p>The Distress our army is in from their Variety of Wants is truly affecting and gives me the most poignant anxietySome of the inclosed papers observe that General Thompsons Brigade carried only ten Days provision with them,<a class="ptr" href="#GEWN-03-04-02-0254-fn-0002" id="GEWN-03-04-02-0254-fn-0002-ptr">2</a> but this is happily a Mistake, for they carried from three to five Barrels of pork in each Batteau with all the Flour that there was at the post, insomuch that Colonel Wynkoop had to send an Express Boat here for pork and Flour for his GarrisonOn the 13th I sent off 120 Barrels of pork, with Orders to have it forwarded without Delay; Colonel Wynkoop writes me that 115 Barrels of it left Tyconderoga on the 14th and it will probably reach St Johns to Day.</p>
+<p>Immediately on receiving the Intelligence of our Distress in Canada I flew to the Communication below; sent on part of Reeds Regiment; the Front of which I met (on the 5th Day after their leaving Albany) 23 Miles below this: those I sent on, being picked Men arrived here the same Evening being the 14th and Yesterday they crossed this Lake with 109 Barrels of pork; 12 Barrels more are gone off this Morning and 170 Barrels with half the Remainder of Reids Regiment will move to Morrow, and the next Day I hope to send an equal Quantity, and after that about 50 Barrels a Day along with the Troops ordered to move on Saturday next from the several places where they were halted.<a class="ptr" href="#GEWN-03-04-02-0254-fn-0003" id="GEWN-03-04-02-0254-fn-0003-ptr">3</a></p>
+<p>When I met Colonel Reids Regiment, I had their heavy Baggage taken out of the Batteaus, and loaded them with pork, acquainting the Officers and Men with the Distress our people laboured under in Canada for want of provisions, but as I could not stay to see the Boats off, being obliged to push farther down the river, to the other places of Embarkation, no sooner was my Back turned when the Officers threw the provisions out of the Batteaus, and reloaded their Baggage: by which Means I have forty eight Barrels of pork less than I had orderedAt this Outrage and infamous Conduct I must however wink, least the Service should be still more retarded.</p>
+<p>I hope a considerable Quantity of Pork is coming: if there is, 150 Barrels will be sent off daily from here after the 21st Instant.</p>
+<p>I shall be quite out of Nails on TuesdayI hope a Supply is on the way up.</p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0318">[318]</span>
+<p>Intrenching Tools of every Kind will be wanted, more powder, Lead and Cannon Ball, and Guns for the Vessels on Lake Champlain, Rigging, Sail Cloth and Sail Makers to be sent up.</p>
+<p>I have received further proofs of the Hostile Intentions of Sir John Johnson and have sent Orders to have him apprehended and all the Highlanders to be removed, but as this is a Matter that might give Umbrage to the Indians, I have referred the Expediency of it to the Commissioners of Indian Affairs and the Committee of Albany, who if they approve will deliver the Orders, otherwise not.</p>
+<p>I am obliged to be so continually on Horseback to see that every Thing is kept in Train, that I have little Time to write; I shall however not let a single Opportunity slip to advise your Excellency of every Information I receive, by which Means Congress will be informed of all.</p>
+<p>The Misfortunes we experience would in all probability have been prevented had the Connecticut Troops not quitted Canada so early as they did last Year, or had it been possible for Congress to have complied with my repeated Solicitations to send in Troops.</p>
+<p>Altho I believe we shall lose Canada, which will be attended with many disagreeable Consequences, yet I am not under the least apprehensions that they will be able to penetrate into this province. I am with every wish for your Excellencys Health &amp; HappinessDear Sir Your most obedient humble Servant</p>
+<div class="closer">
+<p class="signed">Ph: Schuyler</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-04-02-0254-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New York Public Library, New York ]">NN</span>: Schuyler Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0254-fn-0001-ptr" id="GEWN-03-04-02-0254-fn-0001">1</a>
+
+   <p>Schuyler enclosed copies of John Thomass letters to the commissioners to Canada, 7 May, and to Benedict Arnold, 8 May; the minutes of Thomass councils of war at Quebec on 5 May and at Deschambault on 7 May; Arnolds letter to Schuyler, 11 May; and commissioners Charles Carroll of Carrollton and Samuel Chases letters of 11 May to Schuyler and to Benjamin Franklin, all of which concern the retreat of Thomass army from Quebec and the critical shortage of provisions in Canada. Thomas and Arnold write that they are attempting to make a stand at Deschambault in the face of grave difficulties, while commissioners Carroll and Chase inform Franklin: Our armys remaining at Dechambeau will depend in great Measure on the Strength of the Enemys Land Forces and their activity and Diligence in following up the Blow they have already given our small and shattered army. . . . We are inclined to think a Retreat will be made first to St Johns and then to the Isle aux Noix (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-04-02-pb-0319">[319]</span>
+
+   <p>William Goforth (17311807) became a captain in the 1st New York Regiment in June 1775 and served the ensuing campaign in Canada, where this spring he had briefly commanded a schooner at Quebec (see <a href="default.xqy?keys=GEWN-print-03-04-02-0293&amp;expandNote=GEWN-03-04-02-0293-fn-0002#GEWN-03-04-02-0293-fn-0002" class="document">Israel Putnam to GW, 21 May 1776, n.2</a>). The Continental Congress made him major of Col. Lewis Duboiss New York regiment on 26 June 1776, but Goforth refused the appointment because it put him under two officers whom he deemed junior in rank (Goforth to the New York provincial congress, 6 July 1776, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 67).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0254-fn-0002-ptr" id="GEWN-03-04-02-0254-fn-0002">2</a>
+
+   <p>In their letter to Schuyler of 11 May from Montreal, commissioners Carroll and Chase write: It is impossible to procure any pork in this Colony; there is none but what came over the Lakes. A Schooner sails this afternoon for De Chambeau with 350 Barrels of Flour, and about ten Barrels of pork which is the whole to be procured here. After the arrival of the Brigade under General Thompson, we compute there will be about 5000 Troops in CanadaWe understand this Brigade brings only ten Days provisions with them. . . . We are unable to express our apprehensions of the Distress our army must soon be reduced to from the want of provisions and the Small pox. If further Reinforcements are sent without pork to victual the whole army, our Soldiers must perish or feed on each other. Even plunder the last Resource of strong Necessity will not relieve their wants (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-04-02-0254-fn-0003-ptr" id="GEWN-03-04-02-0254-fn-0003">3</a>
+
+   <p>The following Saturday was 18 May.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-04-02-0254 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 4 (1 April 177615 June 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-04-02-0253" title="To the Massachusetts General Court, 16 May 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-04-02-0255" title="Message from the Six Nations, 16 May 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

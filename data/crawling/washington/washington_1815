@@ -1,0 +1,239 @@
+Editorial Note
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-06-02-0164-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-06-02-0164&amp;mode=TOC" title="Settlement of the Daniel Parke Custis Estate"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0002" title="I. Queries to John Mercer, 20 April 1759"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-06&amp;mode=TOC">Volume 6 (4 September 175826 December 1760)</a>&gt; <a href="?keys=GEWN-print-02-06-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-06-02-0164&amp;mode=TOC">Settlement of the Daniel Parke Custis Estate</a>&gt; Editorial Note</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-06-02-0164-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0002" title="I. Queries to John Mercer, 20 April 1759"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0201">201</span><div id="Col06d150" class="docgroup_front">
+          
+      
+  
+  
+     <h2>Editorial Note</h2>
+     
+  
+  <p style="text-indent: 0;">Upon his marriage to the widow of Daniel Parke Custis on 6 Jan. 1759, GW assumed the management of what was at the time one of the most profitable estates in Virginia. The Custis estate, which included plantations in six counties in eastern Virginia worked by slaves valued at nearly 9,000 Virginia currency, was largely the creation of Martha Custiss father-in-law, the eccentric John Custis (16781749). Himself heir to nearly five thousand acres on Virginias Eastern Shore, John Custis gained control of twice that acreage after he married Frances Parke, elder daughter and principal heir of the notorious Daniel Parke. Custis brought to the development and management of his extended estate a combination of qualities rare in eighteenth-century Virginia: a scientific as well as a practical knowledge of agriculture, a keen business sense, and, rarest of all, an abhorrence of debt. At his death in 1749 Custis left to his son and heir, Daniel Parke Custis (17111757), large liquid assets in addition to a collection of debt-free and profitable plantations strung along the York River and Queens Creek and on the Eastern Shore.</p>
+     <p>When eight years later, on 8 July 1757, the younger Custis died intestate, his inheritance was intact. He added a productive 2,880acre plantation in King William County to the 15,000 acres that he inherited, and his personal property and slaves were eventually appraised at 30,000 current money. As his father had done, he kept a large sterling reserve: his accounts current and other liquid assets in England came to about 10,000 at the time of his death.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0001" id="GEWN-02-06-02-0164-0001-fn-0001-ptr">1</a> He was survived by his wife of eight years, the 26-year-old Martha Dandridge Custis, and their two children, John Parke (Jacky) Custis, age 2, and Martha Parke (Patsy) Custis, a babe in arms. As the widow of a man dying without a will, Martha Custis by law was allowed outright ownership of one-third of her late husbands personal property and was given a life right to one-third of his land and slaves. The two children were each entitled to one-third of their fathers personal property, and the boy, John Parke Custis, as heir at law, would inherit all of
+  <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0203">[203]</span>
+        his fathers land and slaves, two-thirds of each vesting immediately and the other one-third upon the death of his mother.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0002" id="GEWN-02-06-02-0164-0001-fn-0002-ptr">2</a> Until her marriage to GW less than eighteen months after Daniel Parke Custiss death, Martha Custis, aided by plantation manager Joseph Valentine and advised by her attorney John Mercer, conducted the affairs of the prospering Custis estate, selling surplus produce to tenants and other Virginians, shipping tobacco to Britain for sale, corresponding with and ordering goods from British merchants, and, in particular, making sizable loans to a number of her neighbors and kinsmen.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0003" id="GEWN-02-06-02-0164-0001-fn-0003-ptr">3</a> These loans largely depleted her late husbands cash reserves in sterling. To qualify as administratrix of her late husbands estate she had to post bond for the full estimated value of the estate; the condition of her bond was that she prepare true and perfect inventory and a just account of the estate.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0004" id="GEWN-02-06-02-0164-0001-fn-0004-ptr">4</a> After she had posted bond within a short time, the court (in New Kent County) granted her letters of administration and appointed appraisers in each county to assign values to the inventoried slaves and personal property in the counties where the Custis plantations were located (see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0006" class="document">doc. III-A1</a>). These county appraisals were in October 1759 to become the basis for the first division of Custis property.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0005" id="GEWN-02-06-02-0164-0001-fn-0005-ptr">5</a></p>
+     <p>When Mrs. Custis became Mrs. Washington in January 1759, the law gave GW effective control of all his brides property, including her dower rights. Circumstances dictated that GW also assume the overall management of the affairs of the Custis estate.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0006" id="GEWN-02-06-02-0164-0001-fn-0006-ptr">6</a> Although John Robinson had agreed in 1758 to become guardian of the Custis children, he had refused to have anything to do with managing their property (see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0002&amp;expandNote=GEWN-02-06-02-0164-0002-fn-0004#GEWN-02-06-02-0164-0002-fn-0004" class="document">doc. I, n.4</a>). GW needed to learn precisely how the estate was to be administered, how his (or his wifes) share of the estate and that of each of the two children should be determined and how and by whom the childrens property should be managed. Of particular importance was the question whether the selling of the property was required or if an equitable and legal assignment of shares could be made without breaking up the estate.</p>
+     <p>It was to address these and other matters relating to the Custis estate that GW returned to Williamsburg on 18 April 1759, after having left there hardly two weeks before to conduct his bride up to Mount Vernon. As soon as he got to Williamsburg, GW directed a series of written questions to his lawyer John Mercer about what the law required as to the division of the estate and as to its subsequent management (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0002" class="document">doc. I</a>). GW also had questions for Mercer about the possible adverse effects on Marthas dower rights should the long-standing Dunbar case go against the heirs of Daniel Parke Custis.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0007" id="GEWN-02-06-02-0164-0001-fn-0007-ptr">7</a> Mercers responses (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0003" class="document">doc. II</a>) to GWs queries were generally reassuring. Mercer
+  <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0204">[204]</span>
+  was certain that the General Court would not force a breakup of the estate to its hurt. Rather, he held, it would appoint commissioners who, after reviewing a general accounting of the Custis property, would simply assign for the court the estates assets and liabilities in such a way as to give Martha Washington and both her children shares as nearly equal as could be. The law, Mercer confirmed, gave GW control during her lifetime of his wifes property, including the land and slaves she held by dower rights, and therefore gave him as well the management of her two childrens property at least until the one and then the other reached the age of 14.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0008" id="GEWN-02-06-02-0164-0001-fn-0008-ptr">8</a></p>
+     <p>GWs queries make it clear that Martha had made little progress in settling Daniel Parke Custiss estate since qualifying as administratrix in 1757. The Virginia law provided for the settling of estates in the court of the county where the testator, or a person who died intestate, had his mansion house; but it also provided the option of settling an estate in the General Court at Williamsburg whenever the estate was valued at more than 100.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0009" id="GEWN-02-06-02-0164-0001-fn-0009-ptr">9</a> It was the court in New Kent County where Custis had resided, not the General Court, which in 1757 granted the administration of the estate to Martha Custis and appointed the appraisers of Custiss property. Although the records for this period of neither the New Kent County court nor the provincial court have survived, the documents in GWs Account Book listing the value of Custiss slaves and other belongings (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0006" class="document">doc. III-A1</a>) indicate that the appraisers in the various counties in 1757 and 1758 returned the inventories to New Kent County. It apparently suited GWs convenience in 1759 to transfer the handling of the Custis estate from the New Kent County court to the General Court at Williamsburg, for the commissioners report of October 1759 (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0004" class="document">doc. III</a>) establishes that in April 1759 GWs attorney John Mercer instituted proceedings in the General Court to have that court instead of the county court settle the estate of Daniel Parke Custis.</p>
+     <p>GWs hasty return to Williamsburg on 18 April 1759 was prompted by his knowledge that the General Court was by law to hold its spring session from 10 April to 7 May and would not sit again until October 1759.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0010" id="GEWN-02-06-02-0164-0001-fn-0010-ptr">10</a> Exactly when John Mercer began proceedings in the General Court is uncertain, but on 28 April the General Court issued an order appointing commissioners to initiate the settlement of the Custis estate. No copy of the orders of the court to the commissioners has been found, but four commissioners<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0011" id="GEWN-02-06-02-0164-0001-fn-0011-ptr">11</a> in October 1759 reported their compliance with the courts orders (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0004" class="document">doc. III</a>), first, to assign Martha Washington her Dower in the Lands and Slaves (see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0005" class="document">doc. III-A</a>; quotation is from <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0004" class="document">doc. III</a>), second, to secure a general accounting of Daniel Parke Custiss estate (see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>), and third, to provide three separate
+  <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0205">[205]</span>
+        accounts setting forth an equitable division of the assets and liabilities of the estate among the three heirs (see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">docs. III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>). In its April 1759 session the General Court also confirmed that GW should have the care of the two-thirds of the Custis estate belonging to his wifes children.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0012" id="GEWN-02-06-02-0164-0001-fn-0012-ptr">12</a></p>
+     <p>The fall session of the General Court in 1759, in which the court accepted the commissioners general account of the Custis estate and their division of its appraised assets (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0005" class="document">docs. III-A</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">III-B</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>), was set by law to begin on Wednesday, 10 Oct., and to complete its session on 1 Nov. 1759. GW arrived in Williamsburg on about 26 Oct.; either before or shortly after his arrival the court received the required documents from the commissioners it had appointed in April. The general account of the Custis estate (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>) reveals assets, other than land but including slaves, of 4,853.14.1 sterling and 23,632.13.7 current money, making a total of about 30,000 current money. The individual accounts, which were to provide the basis for the eventual division of the estate among the three heirs (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">docs. III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>), credit each heir with his or her one-third (1,617.18 sterling, 7,618.7.11 current) of the net estate as displayed in the general account, debiting each account by one-third the total of the estates expenses and by the appraised value of the slaves and other assets assigned to each heir. Martha Washingtons (GWs) estate account shows her in possession of one-third of the estates slaves and somewhat less than one-third of the value of its inventoried goods and livestock, while John Parke Custiss account shows him in possession of the remainder of the slaves and rather more than his one-third share of the estates goods and livestock. Martha Parke Custis, who was to receive none of the estates slaves (or lands), had assigned to her as yet little or nothing of its other assets.</p>
+     <p>As the individual accounts of the heirs confirm, only that part of the estate which had been listed and appraised in the county inventories as reported in the general account (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>) was being assigned to the heirs in October 1759. The appraised value of all the items listed in the county inventories (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0006" class="document">doc. III-A1</a>)slaves, livestock, unsold crops, goods, and suppliescame to less than one-half the estates total value showing in the general account, which of course did not include the value of the estate land. The undivided estate assetsthe estate balance, amounting to about 57 percent of the whole in October 1759were financial, or paper, assets consisting mainly of loans made by Martha Custis during her brief widowhood. Until the final settlement of the estate in 1761, the three heirs shared equally the profit derived from both the divided and the undivided assets of the estate.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0013" id="GEWN-02-06-02-0164-0001-fn-0013-ptr">13</a></p>
+  <span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0206">[206]</span>
+     <p>In April 1761 at the spring session of the General Court, two years after first petitioning the court, GW and John Mercer initiated further proceedings to complete the division of the Custis estate. GW was in Williamsburg well before the court was due to convene on 10 April and was in town at least as late as 13 April.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0014" id="GEWN-02-06-02-0164-0001-fn-0014-ptr">14</a> It probably was at this the first of its sessions in 1761 that the court appointed the commissioners to examine GWs accounts for the Custis estate and for John Parke Custis and Martha Parke Custis.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0015" id="GEWN-02-06-02-0164-0001-fn-0015-ptr">15</a> Before GW got back to Williamsburg in the fall for the next session of the court held in October and November 1761, John Mercer secured, on 21 Oct., an order from the court appointing GW guardian of the two Custis children.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0016" id="GEWN-02-06-02-0164-0001-fn-0016-ptr">16</a> On 5 Nov., the day before the court was due to end its session, the court-appointed commissioners certified (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0018" class="document">doc. IV</a>) that they had found GWs estate accounts correct and closed them out as of April 1761. The new accounts that GW set up for his wards at the settlement of the estate in 1761 (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020" class="document">docs. IV-B</a> and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0021" class="document">IV-C</a>) show that Martha Parke Custis received most of the undivided estate assets, which consisted of financial assets, and that John Parke Custis received none. No separate account for the dower property has been found, though it seems certain that GW kept such an account; in any case, the financial assets that did not go to Martha Parke Custis went to her mother Martha Washington.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0017" id="GEWN-02-06-02-0164-0001-fn-0017-ptr">17</a></p>
+  <p>The settlement of Daniel Parke Custiss estate generated a large number of documents between 1757 and 1761. Those prepared by GW and John Mercer for the commissioners appointed by the General Court in April 1759 and returned by the commissioners to the General Court in October 1759, and the document returned by the second court-appointed commission in November 1761 certifying to the court that the commissioners had examined GWs Custis accounts in connection with the final division of the estate, were all presented to the court with supporting documents for the public record, which in turn were often derived from still other documents such as preliminary inventories or accounts of one kind or another. Because the records of Virginias General Court were burned in Richmond in 1865, none of the courts documents relating to the Custis estate have survived. Fortunately, however, there are copies or drafts of what appear to be most if not all of the papers presented to the court in 1759 and 1761 as well as copies of a number of related documents. These are either in GWs Guardians Account Book, 17611773, deposited in the library of Washington and Lee University, Lexington, Va., or in the Custis Papers in the collections of the Virginia Historical Society in Richmond.<a class="ptr" href="#GEWN-02-06-02-0164-0001-fn-0018" id="GEWN-02-06-02-0164-0001-fn-0018-ptr">18</a></p>
+  <p>At some point soon after the General Court made GW guardian of the two Custis children in the fall of 1761, GW opened an account
+  <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0207">[207]</span>
+     book (ViLxW) to keep the financial records of his two wards. In the first third of the book he copied documents relating to the settlement of the Custis estate, 175761. He begins with the documents relating to the initial division of the assets of the estate in the fall of 1759, the first of which is the report of the commissioners to the General Court (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0004" class="document">doc. III</a>) approving schedules A, B, and C for the division in 1759. Immediately following is the text of Schedule A (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0005" class="document">doc. III-A</a>) setting off the widows dower. In the absence of court records, it is assumed that the next eight documents in the account book (docs. III-A1 through III-A8) were submitted to the court by the commissioners as part of or in support of Schedule A. GW next copied schedules B and C. Schedule B is the general account of the estate (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>). The account develops the estates net worth and divides the total into thirds. Schedule C consists of the three separate accounts of the heirs (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">docs. III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>). They credit each heir with one-third share of the estate less the appraised value of slaves and other personal property already assigned to him or her. The documents in the three schedules copied by GW in his Guardian Account Book and presented here contain all the data the court would have needed in 1759 to determine the net worth of the estate and to divide the slaves and other appraised assets between the heirs. It may be assumed that the attorney John Mercer assembled or prepared all of these documents.</p>
+     <p>Left untouched in the initial division of the estate, in 1759, were the financial assets, or estate balance, comprising over one-half the reported net worth of the estate. To complete the division of the estate and reach a final settlement, the court-appointed commissioners in the fall of 1761 submitted to the General Court a report with supporting documents. GW copied in his Guardian Account Book this report of the commissioners (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0018" class="document">doc. IV</a>), a general estate account for 175859 (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0019" class="document">doc. IV-A</a>), and separate accounts 175961 for John Parke Custis (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020" class="document">doc. IV-B</a>) and Martha Parke Custis (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0021" class="document">doc. IV-C</a>). GW also copied the court order of 21 Oct. 1761 appointing him guardian of the two Custis children. He did not enter in the Guardian Account Book an account for Martha Washington, the third heir, although the commissioners must have submitted one to the court. GW may have entered it instead in a missing account book for the dower property (see Appointment as Guardian, 21 Oct. 1761). The entry for the estate account in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Manuscript Ledger Book 1, 1750-72, in George Washington Papers, Library of Congress. ]">Ledger A</span>, which would have been a source for the entry in a dower account book, is printed here in its place as document <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0022" class="document">IV-D</a>.</p>
+  <p>The intention is to print here every document found that seems directly related to the settlement of Daniel Parke Custiss estate 175961 even if GW did not copy it in the Guardian Account Book. Five such
+  <span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0208">[208]</span>
+  documents in GWs or John Mercers hand (in one instance in Joseph Valentines) are in the Custis Papers in the Virginia Historical Society and are <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'printed below' &lt;span style='font-size: 90%'&gt;[[2014-11-10]]&lt;/span&gt; ]">included</span> as appendices <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0023" class="document">A</a> to <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0027" class="document">E</a>. Also in the Custis Papers (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>) are copies in either GWs or Mercers hand virtually identical to those GW made in the Guardian Account Book of documents <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0007" class="document">III-A2</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0010" class="document">III-A5</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0013" class="document">III-A8</a>, of the general estate account of Schedule B (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>), and the individual accounts of Schedule C (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">docs. III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>). In the cases where the copy in the Custis Papers is more legible than the Account Book copy, the Custis Papers copy has been printed. Where a word or words, or figures, in the copy of the manuscript being printed are mutilated or illegible, usually either parallel material from the other manuscript copy of that document has been inserted in angle brackets or pertinent material from derivative or closely related documents has been inserted in square brackets. Appendix F is in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.</p>
+  <p>The supervision of the Custis property and the management of its assets for his wife and her children were one of GWs main concerns from the time of his marriage in 1759 until he left Mount Vernon for Boston to take command of the Continental army in 1775. After the Revolution his dower holdings continued to be both a boon and a burden as his accounts and correspondence reveal.</p>
+  
+  
+  <div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0001-ptr" id="GEWN-02-06-02-0164-0001-fn-0001">1</a>
+     
+   <p>For the account of the Custis estates lands, see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0011" class="document">doc. III-A6</a>, and for the general accounting of the Custis estate, see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0002-ptr" id="GEWN-02-06-02-0164-0001-fn-0002">2</a>
+     
+   <p>The law provided that the heir at law, John Parke Custis, would be answerable to his sister for the value of one-third of the slaves belonging to his fathers estate (5 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 44448). The paper assets of the estate were so large that Martha Parke Custiss share of the estate could be assigned to her in 1761 (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0021" class="document">doc. IV-C</a>) from these assets. See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0003&amp;expandNote=GEWN-02-06-02-0164-0003-fn-0003#GEWN-02-06-02-0164-0003-fn-0003" class="document">doc. II, n.3</a>, for a fuller discussion of the rules of inheritance in intestate estates.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0003-ptr" id="GEWN-02-06-02-0164-0001-fn-0003">3</a>
+     
+   <p>For references to Martha Custiss dealings with British merchants between 1757 and 1759, see particularly <a href="default.xqy?keys=GEWN-print-02-06-02-0166-0001&amp;expandNote=GEWN-02-06-02-0166-0001-fn-0003#GEWN-02-06-02-0166-0001-fn-0003" class="document">GW to Robert Cary &amp; Co., 1 May 1759, n.3</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0171" class="document">GW to James Gildart, 12 June 1759, n.2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0170&amp;expandNote=GEWN-02-06-02-0170-fn-0002#GEWN-02-06-02-0170-fn-0002" class="document">GW to Capel &amp; Osgood Hanbury, 12 June 1759, nn.24</a>. For the extent and future implications of her loans, see the General Account of the Estate (<a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014" class="document">doc. III-B</a>), and notes.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0004-ptr" id="GEWN-02-06-02-0164-0001-fn-0004">4</a>
+  
+   <p>5 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 459.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0005-ptr" id="GEWN-02-06-02-0164-0001-fn-0005">5</a>
+     
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0015" class="document">docs. III-C1</a>, <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0016" class="document">III-C2</a>, and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0017" class="document">III-C3</a>.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0006-ptr" id="GEWN-02-06-02-0164-0001-fn-0006">6</a>
+     
+   <p>Upon his marriage GW assumed control of the childrens property in his wifes name, but in April 1759 he also secured a decree from the General Court directing him to manage the property of the Custis children. Perhaps he did this to avoid any confusion that might arise from John Robinsons guardianship (see <a href="default.xqy?keys=GEWN-print-02-06-02-0166-0001" class="document">GW to Robert Cary &amp; Co., 1 May 1759</a>). In October 1761 GW became the childrens legal guardian. See <a href="default.xqy?keys=GEWN-print-02-07-02-0051-0002" class="document">Appointment as Guardian, 21 Oct. 1761.</a></p>
+
+  </div>
+  <span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-06-02-pb-0209">[209]</span>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0007-ptr" id="GEWN-02-06-02-0164-0001-fn-0007">7</a>
+     
+   <p>For a brief discussion of the complex Dunbar, or Dunbar Parke, case, see <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0002&amp;expandNote=GEWN-02-06-02-0164-0002-fn-0005#GEWN-02-06-02-0164-0002-fn-0005" class="document">doc. I, n.5.</a></p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0008-ptr" id="GEWN-02-06-02-0164-0001-fn-0008">8</a>
+  
+   <p>For the rules of inheritance when a person died intestate, see An Act for the distribution of Intestates estates (5 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 44448).</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0009-ptr" id="GEWN-02-06-02-0164-0001-fn-0009">9</a>
+  
+   <p>An Act directing the manner of granting probats of Wills, and Administration of Intestates Estates (5 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 45467).</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0010-ptr" id="GEWN-02-06-02-0164-0001-fn-0010">10</a>
+  
+   <p>The General Court was composed of the governor, who presided, and the members of the provincial council, any five of whom could hold court beginning on 10 April and 10 Oct. each year (6 <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Waller Hening, ed. &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia, from the First Session of the Legislature, in the Year 1619&lt;/i&gt;. 13 vols. 181923. Reprint. Charlottesville, Va., 1969. ]">Hening</span> 32550). The council also formed the upper house of the assembly. Because in 1759 the assembly remained in session until Saturday, 14 April, the council either did not sit as the General Court until 14 April or, if it did, sat only for a short time on any day.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0011-ptr" id="GEWN-02-06-02-0164-0001-fn-0011">11</a>
+     
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0004" class="document">doc. III.</a> The four who served as commissioners, Attorney General Peyton Randolph, Martha Washingtons brother-in-law Burwell Bassett, and her recent neighbors and present debtors Bernard Moore and Philip Whitehead Claiborne, are each identified more fully elsewhere in this volume.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0012-ptr" id="GEWN-02-06-02-0164-0001-fn-0012">12</a>
+     
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0166-0001" class="document">GW to Robert Cary &amp; Co., 1 May 1759.</a></p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0013-ptr" id="GEWN-02-06-02-0164-0001-fn-0013">13</a>
+     
+   <p>GWs accounts for John Parke Custis and Martha Parke Custis prepared in 1761 (docs. <a href="default.xqy?keys=GEWN-print-02-06-02-0166-0001" class="document">IV-B</a> and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0021" class="document">IVC</a>) reveal that this was the arrangement, and GWs notation appended to the general account (see doc. <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0014&amp;expandNote=GEWN-02-06-02-0164-0014-fn-0007#GEWN-02-06-02-0164-0014-fn-0007" class="document">III-B, n.7</a>) explicitly confirms it.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0014-ptr" id="GEWN-02-06-02-0164-0001-fn-0014">14</a>
+  
+   <p>See <a href="default.xqy?keys=GEWN-print-02-07-02-0001" class="document">GWs Cash Accounts, <span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: 'April' &lt;span style='font-size: 90%'&gt;[[2007-03-23]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>1761</a><span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ', printed below' &lt;span style='font-size: 90%'&gt;[[2014-11-10]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0015-ptr" id="GEWN-02-06-02-0164-0001-fn-0015">15</a>
+     
+   <p>See <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0018" class="document">doc. IV</a>. It is possible but unlikely that the court did not appoint the commissioners until the October 1761 session of the court at the end of which the commissioners made their report.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0016-ptr" id="GEWN-02-06-02-0164-0001-fn-0016">16</a>
+     
+   <p>Order of the General Court, 21 Oct. 1761, in Washingtons Account Book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Washington and Lee University, Lexington, Va. ]">ViLxW</span>. See <a href="default.xqy?keys=GEWN-print-02-07-02-0051-0002" class="document">Appointment as Guardian, 21 Oct. 1761</a>.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0017-ptr" id="GEWN-02-06-02-0164-0001-fn-0017">17</a>
+     
+   <p>For a full discussion of GWs guardian accounts and the missing dower accounts, see ibid. See also <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0020" class="document">docs. IV-B</a> and <a href="default.xqy?keys=GEWN-print-02-06-02-0164-0021" class="document">IVC</a>, and notes.</p>
+
+  </div>
+  <div class="footnote"><a class="note-ref" href="#GEWN-02-06-02-0164-0001-fn-0018-ptr" id="GEWN-02-06-02-0164-0001-fn-0018">18</a>
+  
+   <p>The mutilated and faded leaves of the account book also containing GWs guardian accounts with Martha Parke Custis and John Parke Custis until 1773, the year of her death and his engagement to be married, lay unused and virtually unusable in the University Library at Washington and Lee University until Joseph Horrell and Richard W. Oram returned the pages to their proper order in 1984 and deciphered much of what remains of the text. The University Library subsequently had the account book restored so that the greater part of the text may now be read. Mr. Horrell has served as an invaluable consultant in the preparation of this volume of the <span class="hi-italic" style="font-style: italic;">Papers</span>.</p>
+
+  </div>
+  
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-06-02-0164-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 6 (4 September 175826 December 1760)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-06-02-0164-0002" title="I. Queries to John Mercer, 20 April 1759"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,163 @@
+none 5
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>V. U to the Boston Gazette, 1 August 1763</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0045-0006&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1763-08-01-3">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC" title="On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0005" title="IV. U to the  Boston Gazette , 18 July 1763"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0007" title="VI. U to the  Boston Gazette , 29 August 1763"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0045&amp;mode=TOC">On Political Faction, Mans Nature, and the Law: 3 March  5 September 1763</a>&gt; V. U to the <span class="italic">Boston Gazette</span>, 1 August 1763</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0045-0006&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0005" title="IV. U to the  Boston Gazette , 18 July 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0007" title="VI. U to the  Boston Gazette , 29 August 1763"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0072">72<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0072.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d052" class="doc letter">
+
+     <h2>V. U to the <span class="hi-italic" style="font-style: italic;">Boston Gazette</span></h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">
+        <span class="hi-small-caps" style="font-variant: small-caps;">To the Printers.</span>
+       </td>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">1 August 1763</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p><span class="hi-small-caps" style="font-variant: small-caps;">Man</span>, is distinguished from other Animals, his Fellow-Inhabitants of this Planet, by a Capacity of acquiring Knowledge and Civility, more than by any Excellency, corporeal, or mental, with which, mere Nature, has furnished his Species.His erect Figure, and sublime Countenance, would give him but little Elevation above the Bear, or the Tyger: nay, notwithstanding those Advantages, he would hold an inferior Rank in the Scale of Being, and would have a worse Prospect of Happiness, than those Creatures; were it not for the Capacity, of uniting with others, and availing himself of Arts and Inventions, in social Life. As he comes originally from the Hands of his Creator, Self Love, or Self-Preservation, is the only Spring, that moves within him.He might crop the Leaves, or Berries, with which his Creator had surrounded him, to satisfy his HungerHe might sip at the Lake or Rivulet, to slake his ThristHe might screen himself, behind a Rock or Mountain, from the bleakest of the Windsor he might fly from the Jaws of voracious Beasts, to preserve himself from immediate Destruction.But would such an Existence be worth preserving? Would not the first Precipice, or the first Beast of Prey, that could put a Period to the Wants, the Frights and Horrors, of such a wretched Being, be a friendly Object, and a real Blessing?</p>
+      <p>When we take one Remove from this forlorn Condition, and find the Species propagated, the Banks of Clams, and Oysters, discovered, the Bow and Arrow, invented, and the Skins of Beasts, or the Bark of Trees, employed for Covering: altho the human Creature has a little less Anxiety and Misery than before; yet each Individual is independent of all others: There is no Intercourse of Friendship: no Communication of Food or Cloathing: no Conversation or Connection, unless the Conjunction of Sexes, prompted by Instinct, like that of Hares and Foxes, may be called so: The Ties of Parent, Son, and Brother, are of little Obligation: The Relations of Master and Servant, the Distinction of Magistrate and Subject, are totally unknown: Each Individual is his own Sovereign, accountable to no other upon Earth, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0073">[73<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0073.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>and punishable by none.In this Savage State, Courage, Hardiness, Activity and Strength, the Virtues of their Brother Brutes, are the only Excellencies, to which Men can aspire. The Man who can run with the most Celerity, or send the Arrow with the greatest Force, is the best qualified to procure a Subsistence. Hence to chase a Deer over the most rugged Mountain; or to pierce him at the greatest Distance, will be held, of all Accomplishments, in the highest Estimation. Emulations and Competitions for Superiority, in such Qualities, will soon commence: and any Action which may be taken for an Insult, will be considered, as a Pretension to such Superiority; it will raise Resentment in Proportion, and Shame and Grief will prompt the Savage to claim Satisfaction, or to take Revenge. To request the Interposition of a third Person, to arbitrate, between the contending Parties, would be considered, as an implicit Acknowledgment of Deficiency, in those Qualifications, without which, none in such a barbarous Condition, would choose to live. Each one then, must be this own Avenger. The offended Parties must fall to fighting. Their Teeth, their Nails, their Feet or Fists, or perhaps the first Clubb or Stone that can be grasped, must decide the Contest, by finishing the Life of one. The Father, the Brother, or the Friend, begins then to espouse the Cause of the deceased; not indeed so much from any Love he bore him living, or from any Grief he suffers for him, dead, as from a Principle of Bravery and Honour, to shew himself able and willing to encounter the Man who had just before vanquished another.Hence arises the Idea of an Avenger of Blood: and thus the Notions of Revenge, and the Appetite for it, grow apace. Every one must avenge his own Wrongs, when living, or else loose his Reputation: and his near Relation must avenge them for him, after he is dead, or forfeit his.Indeed Nature has implanted in the human Heart, a Disposition to resent an Injury, when offered: And this Disposition is so strong, that even the Horse, treading by Accident on a gouty Toe, or a Brick-batt falling on the Shoulders, in the first Twinges of Pain, seem to excite the angry Passions, and we feel an Inclination to kill the Horse and to break the Brick-batt. Consideration, however, that the Horse and Brick were without Design, will cool us; whereas the Thought that any Mischief has been done, on Purpose to abuse, raises Revenge in all its Strength and Terrors: and the Man feels the sweetest, highest Gratification, when he inflicts the Punishment himself.From this Source arises the ardent Desire in Men to judge for themselves, when and to what Degree they are injured, and to carve out their own Remedies, for themselves.From the same Source arises that obstinate Disposition <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0074">[74<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0074.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>in barbarous Nations to continue barbarous; and the extreme Difficulty of introducing Civility and Christianity among them. For the great Distinction between Savage Nations and polite ones, lies in this, that among the former, every Individual is his own Judge and his own Executioner; but among the latter, all Pretensions to Judgment and Punishment, are resigned to Tribunals erected by the Public: a Resignation which Savages are not without infinite Difficulty, perswaded to make, as it is of a Right and Priviledge, extremely dear and tender to uncultivated Nature.<a class="ptr" href="#PJA01d052n1" id="PJA01d052n1-ptr">1</a></p>
+      <p>To exterminate, from among Mankind, such revengeful Sentiments and Tempers, is one of the highest and most important Strains, of civil and humane Policy: Yet the Qualities which contribute most, to inspire and support them, may, under certain Regulations, be indulged and encouraged. Wrestling, Running, Leaping, Lifting, and other Exercises of Strength, Hardiness, Courage and Activity, may be promoted, among private Soldiers, common Sailors, Labourers, Manufacturers and Husbandmen, among whom they are most wanted, provided sufficient Precautions are taken, that no romantic cavalier-like Principles of Honor intermix with them, and render a Resignation of the Right of judging and the Power of executing, to the Public, shameful. But whenever such Notions spread, so inimical to the Peace of Society, that Boxing, Clubbs, Swords or Fire-Arms, are resorted to, for deciding every Quarrel, about a Girl, a Game at Cards, or any little Accident, that Wine, or Folly, or Jealoussy, may suspect to be an Affront; the whole Power of the Government should be exerted to suppress them.<a class="ptr" href="#PJA01d052n2" id="PJA01d052n2-ptr">2</a></p>
+      <p>If a Time should ever come, when such Notions shall prevail in this Province to a Degree, that no Priviledges shall be able to exempt Men from Indignities and personal Attacks; not the Priviledge of a Councellor, not the Priviledge of an House of Representatives of speaking freely in that Assembly, without Impeachment or Question in any Court or Place, out of the General Court; when whole armed Mobs shall assault a Member of the Housewhen violent Attacks shall be made upon Counsellorswhen no Place shall be sacred, not the very Walls of Legislation,when no Personages shall over awe, not the whole General Court, added to all the other Gentlemen on Changewhen the broad Noon-Day shall be chosen to display before the World such high, heroic Sentiments of Gallantry and Spiritwhen such Assailants shall live unexpelled from the Legislaturewhen slight Censures and no Punishments shall be inflicted,there will really be Danger of our becoming universally, ferocious, barbarous and <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0075">[75<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0075.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>brutal, worse than our Gothic Ancestors, before the Christian Aera.</p>
+      <p>The Doctrine that the Person assaulted should act with Spirit, should defend himself, by drawing his Sword, and killing, or by wringing Noses and Boxing it out, with the Offender, is the Tenet of a Coxcomb, and the Sentiment of a Brute.The Fowl upon the Dung-Hill, to be sure, feels a most gallant and heroic Spirit, at the Crowing of another, and instantly spreads his Cloak, and prepares for Combat.The Bulls Wrath inkindles into a noble Rage, and the Stallions immortal Spirit, can never forgive the Pawings, Neighings, and Defiances, of his Rival. But are Cocks, and Bulls and Horses, the proper Exemplars for the Imitation of Men, especially of Men of Sense, and even of the highest Personages in the Government!<a class="ptr" href="#PJA01d052n3" id="PJA01d052n3-ptr">3</a></p>
+      <p>Such Ideas of Gallantry, have been said to be derived from the Army. But it was injuriously said, because not truly. For every Gentleman, every Man of Sense and Breeding in the Army, has a more delicate and manly Way of thinking; and from his Heart despises all such little, narrow, sordid Notions. It is true, that a Competition, and a mutual Affectation of Contempt, is apt to arise among the lower, more ignorant and despicable, of every Rank and Order in Society. This Sort of Men, (and some few such there are in every Profession) among Divines, Lawyers, Physicians, as well as Husbandmen, Manufacturers and Labourers, are prone from a certain Littleness of Mind, to imagine that their Labours alone, are of any Consequence in the World, and to affect, a Contempt for all others. It is not unlikely then, that the lowest and most despised Sort of Soldiers may have expressed a Contempt for all other Orders of Mankind, may have indulged a Disrespect to every Personage in a Civil Character, and have acted upon such Principles of Revenge, Rusticity, Barbarity and Brutality, as have been above described. And indeed it has been observed by the great Montesquieu, that From a Manner of Thinking that prevails among Mankind (the most ignorant and despicable of Mankind, he means) they set an higher Value upon Courage than Timourousness, on Activity than Prudence, on Strength than Counsel. Hence the Army will ever despise a Senate, and respect their own Officers; they will naturally slight the Orders sent them by a Body of Men, whom they look upon as Cowards; and therefore unworthy to command them.This Respect to their own Officers, which produces a Contempt, of Senates and Counsels, and of all Laws, Orders, and Constitutions, but those of the Army, and their Superiour Officers, tho it may have prevailed among some Soldiers of the illiberal Character, above described, is far from being universal. It is not found in one Gentleman <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0076">[76<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0076.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>of Sense and Breeding in the whole service. All of this Character know, that the Common Law of England, is Superiour to all other Laws Martial or Common, in every English Government; and has often asserted triumphantly, its own Preheminence against the insults and Encroachments of a giddy and unruly Soldiery. They know too, that Civil Officers in England hold a great Superiority to Military Officers; and that a frightful Despotism would be the speedy Consequence of the least Alteration in these Particulars.And knowing this, these Gentlemen who have so often exposed their Lives in Defence of the Religion, the Liberties and Rights of Men and Englishmen, would feel the utmost Indignation at the Doctrine which should make the Civil Power give Place to the Military; which should make a Respect to their superior Officers destroy or diminish their Obedience to Civil Magistrates, or which should give any Man a Right, in Conscience, Honor, or even in Punctilio and Delicacy, to neglect the Institutions of the Public, and seek their own Remedy, for Wrongs and Injuries of any Kind.</p>
+      <div class="closer">
+       <p class="signed">U.</p>
+      </div>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d052sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType">Reprinted from the</span> (<span class="hi-italic" style="font-style: italic;">Boston Gazette</span>, 1 Aug. 1763); <span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr></span> among <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscripts ]">MSS</abbr> docketed by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Francis Adams (18071886), son of John Quincy Adams and Louisa Catherine Adams ]">CFA</abbr>: Original Draughts of Newspaper Articles, signed U. 1763  (<span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 343).</span>
+       </p>
+
+      </div>
+      <div id="fn" class="footnote"><a class="note-ref" href="#PJA01d052n1-ptr" id="PJA01d052n1">1</a>
+       
+   <p>In the draft, the paragraph ends at this point also. The first sentence of the following paragraph in the <span class="hi-italic" style="font-style: italic;">Gazette</span> text was composed on the last page of the draft and apparently inserted at this point during final revision of the essay.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d052n2-ptr" id="PJA01d052n2">2</a>
+       
+   <p>In the draft, this paragraph is followed by the cryptic comment: Rusticity, is not Barbarity, was the late instances, Rusticity, Barbarity, or Brutality. Probably this comment is a reference to the altercation between Murray and Brattle (see <a href="default.xqy?keys=ADMS-print-06-01-02-0045-0001" class="document">Editorial Note</a>, above). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s notes on the legal case that resulted survive, erroneously endorsed by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Francis Adams (18071886), son of John Quincy Adams and Louisa Catherine Adams ]">CFA</abbr>: Draught of part of an Article upon the attack made by Colonel Murray upon General Brattle (<span class="ref-terms">Adams Papers, Microfilms</span>, Reel No. 343, filmed under conjectural date of Aug. 1763). These notes were probably made shortly before the hearing on 5 July 1763 in the Inferior Court of Common Pleas. Records of the case are found in <span class="ref-terms" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;expan&gt;Early Court Files and Miscellaneous Papers in the Office of the Clerk of the Massachusetts Supreme Judicial Court, Suffolk County, Suffolk County Court House, Boston.&lt;/expan&gt; ]">Suffolk County Court House, Early Court Files, &amp;c</span>., Office of the Clerk, Mass. Superior Court of Judicature, 577:100740, and <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Archives ]">M-Ar</span>: Executive Council Records, 17611765, p. 255257.</p>
+
+      </div>
+      <div class="footnote"><a class="note-ref" href="#PJA01d052n3-ptr" id="PJA01d052n3">3</a>
+       
+   <p>In the draft, a rough version of this paragraph appears at the end of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript ]">MS</abbr>.</p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0045-0006 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0045-0005" title="IV. U to the  Boston Gazette , 18 July 1763"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0045-0007" title="VI. U to the  Boston Gazette , 29 August 1763"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.247.194</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

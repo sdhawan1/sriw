@@ -1,0 +1,175 @@
+From Josiah Quincy, 25–26 March 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Josiah Quincy, 2526 March 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0399&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-03-25-4">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0398" title="From John Morgan, 25 March 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0400" title="To Lieutenant Colonel Joseph Reed, 25 March 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; From Josiah Quincy, 2526 March 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0399&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0398" title="From John Morgan, 25 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0400" title="To Lieutenant Colonel Joseph Reed, 25 March 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0534">534</span><div id="Rev03d371" class="doc">
+
+<h1>From Josiah Quincy</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">May it please your Excellency,</td>
+		<td class="salutationRight">Braintree [Mass.]<br/>March 25[-26]th 1776.</td>
+	      </tr>
+      </table>
+</div>
+<p>Your obliging Letter of Yesterday was handed to Me this Morning by General Wards Son:<a class="ptr" href="#GEWN-03-03-02-0399-fn-0001" id="GEWN-03-03-02-0399-fn-0001-ptr">1</a> The Fleet still continues in Nantasket Road; and I cant discern any Diminution of their Numbers: five or six Transports, and a Man of War arrived last Fryday afternoon; as the Man of War saluted the Admiral I suppose they came from England.<a class="ptr" href="#GEWN-03-03-02-0399-fn-0002" id="GEWN-03-03-02-0399-fn-0002-ptr">2</a></p>
+<p>The Signal at the Light House was thrown out again on Saturday; but, the Wind has hitherto prevented the Arrival of any more Vessels. The Admiral has a Signal now flying at his main top mast Head: I wish it was in my Power to construe it.</p>
+<p>Agreable to your Excellencys Desire, as fast as I can find trust Worthy Persons, I shall give them Directions to make dilligent Search, after such Characters as you have described, and upon good Ground of Suspicion to apprehend and carry them to Head Quarters, or bring them to me for further Examination, as may be most convenient.</p>
+<p>11 OClock. This Moment an Explanation of the above Signal occurrs: Part of the Fleet are come to Sail: I shall proceed, journalwise, to inform your Excellency of their Movements, till the Bearer, who is gone to see Colo. Tupper, returns.</p>
+<p>1 OClock They are still coming to sail: near or quite fifty Sail are got out to Sea; about half of them Brigs, Schooners, and Sloops; one or two Frigates, and the remainder Transport Ships; their Course shaped for Cape Cod: May not this Division
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0535">[535]</span>
+be bound for Marthas Vineyard, and the Islands in that Sound to procure fresh Provision for the Fleet, which is to rendevous at Hallifax, and from thence to proceed to Quebec?</p>
+<p>3 OClock My Servant, who was directed to take an Account of the Number that have sailed, informs me, there are in all fifty two: One transport Brig: is just arrived: I expected Mr Ward would return with Col. Tupper, and have dined with me; from them I hoped to have gained further Intelligence, but am disappointed: I hear the Colo. is preparing a formidable fire Raft, which I wish may effectually operate, but, fear a single one will avail little.<a class="ptr" href="#GEWN-03-03-02-0399-fn-0003" id="GEWN-03-03-02-0399-fn-0003-ptr">3</a></p>
+<p>Your Excellencys tender Concern for the Restoration of my Health (which, Thanks to the Father of Mercies! is much mended) lays me under a fresh obligation to subscribe my Self, with cordial Gratitude and Esteem, Your Excellencys obliged, and faithfull humble Servant</p>
+<div class="closer">
+<p class="signed">Josiah Quincy</p>
+</div>
+<div class="postscript">
+<p>P:S: 5 OClock The Adml has just now hoisted another Signal a Pendant under his Flagg two more Ships are under Sail going out of the Harbor: 7 OClock, Mr Ward &amp; Colo. Tupper are just arrived: They are of Opinion, that the Ships which sailed to Day, have carried off the Tories, and are bound with them to Lewisburgh.</p>
+<p>Tuesday Morng Mr Wards tarrying in Town, gives me a further Opportunity to inform your Excellency that the Fleet, consisting of about 100 Sail, chiefly large Ships, remain as they were last Night.</p>
+<p>10 OClock The same Signal is now flying at the Admirals Main top mast Head as was hoisted yesterday morning: Scarce hoisted before it was lowerd again, &amp; in abt  an hour a blew flag is flying at mizen Top mast Head and a Pendant at his mizen Peek.</p>
+<p>11 OClock The above Signals are changed, for a red Ensign hoisted just under his Mizen Yard: A signal is just now hoisted upon the Top of the Light House, for Vessels in the Offing; and immediately followed, by a blew broad Pendant from the middle of the Tower: In less than 10 Minutes the Signal first mentioned vizt a Pendant is flying from his main top mast Head.</p>
+<p>12 OClock A red Ensign is now flying at his mizen top mast
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0536">[536]</span>
+Head; a blew Ensign at his starboard mizen Shrouds, and a pendant thrown out between, by hand, &amp; immediately taken in again.</p>
+<p>2 OClock The 60 gun Ship in King Road is come to Sail &amp; going down to Nantasket: The Admirals red Ensign is struck; the blew one remains: a large transport Ship and a Brig are just arrived within the Light.</p>
+<p>If the foregoing Intelligence and the mode of it shoud prove so agreable to your Excellency as to desire the Continuance of it whilst the Fleet remains here please to let me know your Pleasure any Time before tomorrow Night, till which Time I shall continue to note down every remarkable Occurrence. Ut Supr</p>
+
+</div>
+<div class="closer"><p class="signed">J.Q.</p></div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0399-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0399-fn-0001-ptr" id="GEWN-03-03-02-0399-fn-0001">1</a>
+
+   <p>The bearer was probably Nahum Ward (d. 1778) who was a first lieutenant in Col. Jonathan Wards 21st Continental Regiment at Roxbury. Benjamin Tupper, whom young Ward had come to see, was lieutenant colonel of that regiment.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0399-fn-0002-ptr" id="GEWN-03-03-02-0399-fn-0002">2</a>
+
+   <p>H.M. Sloop <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Kingsfisher' &lt;span style='font-size: 90%'&gt;[[2014-08-11]]&lt;/span&gt; ]"><span class="hi-italic" style="font-style: italic;">Kingfisher</span></span> arrived at Nantasket Road from Virginia on Friday afternoon 22 Mar. and saluted Vice Admiral Molyneux Shuldham who was aboard H.M.S. <span class="hi-italic" style="font-style: italic;">Chatham</span>. A sloop carrying provisions also arrived that day from London. See the <span class="hi-italic" style="font-style: italic;">Chatham</span>s journal entry for 22 Mar. 1776, and Shuldham to Philip Stephens, 23 Mar. 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 4:447, 47273.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0399-fn-0003-ptr" id="GEWN-03-03-02-0399-fn-0003">3</a>
+	
+   <p>See <a href="default.xqy?keys=GEWN-print-03-03-02-0394" class="document">GW to Artemas Ward, 24 Mar. 1776</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0394&amp;expandNote=GEWN-03-03-02-0394-fn-0002#GEWN-03-03-02-0394-fn-0002" class="document">note 2</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0399 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0398" title="From John Morgan, 25 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0400" title="To Lieutenant Colonel Joseph Reed, 25 March 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

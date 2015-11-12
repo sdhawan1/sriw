@@ -1,0 +1,243 @@
+General Orders, 4 July 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 4 July 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0027&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-07-04-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0028" title="From George Clinton, 4 July 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; General Orders, 4 July 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0027&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0028" title="From George Clinton, 4 July 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0054">54</span><div id="Rev01d26" class="doc">
+
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, July 4th 1775.</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole. Abington.</td>
+		<td class="csigns">Countersign, Bedford.</td>
+	      </tr></table>
+
+</div>
+<p>Exact returns to be made by the proper Officers of all the Provisions, Ordnance, Ordnance stores, Powder, Lead, working Tools of all kinds, Tents, Camp Kettles, and all other Stores under their respective care, belonging to the Armies at Roxbury and Cambridge. The commanding Officer of each Regiment to make a return of the number of blankets wanted to compleat every Man with one at least.</p>
+<p>The Hon: Artemus Ward, Charles Lee, Philip Schuyler, and Israel Putnam Esquires, are appointed Major Generals of the American Army<a class="ptr" href="#GEWN-03-01-02-0027-fn-0001" id="GEWN-03-01-02-0027-fn-0001-ptr">1</a> and due Obedience is to be paid them as such. The Continental Congress not having compleated the appointments of the other officers in said army, nor had sufficient time to prepare and forward their Commissions; every Officer is to continue to do duty in the Rank and Station he at present holds untill further orders.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0002" id="GEWN-03-01-02-0027-fn-0002-ptr">2</a></p>
+<p>Thomas Mifflin Esqr. is appointed by the General one of his Aid-de-Camps. Joseph Reed Esqr. is in like manner appointed Secretary to the General, and they are in future to be considerd and regarded as such.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0003" id="GEWN-03-01-02-0027-fn-0003-ptr">3</a></p>
+<p>The Continental Congress having now taken all the Troops of the several Colonies, which have been raised, or which may be hereafter raised, for the support and defence of the Liberties of America; into their Pay and Service: They are now the Troops of the United Provinces of North America; and it is hoped that all Distinctions of Colonies will be laid aside; so that one and the same spirit may animate the whole, and the only Contest be, who shall render, on this great and trying occasion, the most essential service to the great and common cause in which we are all engaged.</p>
+<p>It is required and expected that exact discipline be observed, and due Subordination prevail thro the whole Army, as a Failure in these most essential points must necessarily produce extreme Hazard, Disorder and Confusion; and end in shameful disappointment and disgrace.</p>
+<p>The General most earnestly requires, and expects, a due observance
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0055">[55]</span>
+of those articles of war, established for the Government of the army, which forbid profane cursing, swearing &amp; drunkeness; And in like manner requires &amp; expects, of all Officers, and Soldiers, not engaged on actual duty, a punctual attendance on divine service, to implore the blessings of heaven upon the means used for our safety and defence.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0004" id="GEWN-03-01-02-0027-fn-0004-ptr">4</a></p>
+<p>All Officers are required and expected to pay diligent Attention, to keep their Men neat and cleanto visit them often at their quarters, and inculcate upon them the necessity of cleanliness, as essential to their health and service. They are particularly to see, that they have Straw to lay on, if to be had, and to make it known if they are destitute of this article. They are also to take care that Necessarys be provided in the Camps and frequently filled up to prevent their being offensive and unhealthy. Proper Notice will be taken of such Officers and Men, as distinguish themselves by their attention to these necessary duties.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0005" id="GEWN-03-01-02-0027-fn-0005-ptr">5</a></p>
+<p>The commanding Officer of each Regiment is to take particular care that not more than two Men of a Company be absent on furlough at the same time, unless in very extraordinary cases.</p>
+<p>Col. Gardner is to be buried to morrow at 3, OClock, P: M. with the military Honors due to so brave and gallant an Officer, who fought, bled and died in the Cause of his country and mankind. His own Regiment, except the company at Malden, to attend on this mournful occasion. The places of those Companies in the Lines on Prospect Hill, to be supplied by Col. Glovers regiment till the funeral is over.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0006" id="GEWN-03-01-02-0027-fn-0006-ptr">6</a></p>
+<p>No Person is to be allowed to go to Fresh-water pond a fishing or on any other occasion as there may be danger of introducing the small pox into the army.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0007" id="GEWN-03-01-02-0027-fn-0007-ptr">7</a></p>
+<p>It is strictly required and commanded that there be no firing of Cannon or small Arms from any of the Lines, or elsewhere, except in case of necessary, immediate defence, or special order given for that purpose.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0008" id="GEWN-03-01-02-0027-fn-0008-ptr">8</a></p>
+<p>All Prisoners taken, Deserters coming in, Persons coming out of Boston, who can give any Intelligence; any Captures of any kind from the Enemy, are to be immediately reported and brought up to Head Quarters in Cambridge.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0009" id="GEWN-03-01-02-0027-fn-0009-ptr">9</a> Capt. Griffin is appointed Aid-de-Camp to General Lee and to be regarded as such.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0010" id="GEWN-03-01-02-0027-fn-0010-ptr">10</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0056">[56]</span>
+<p>The Guard for the security of the stores at Watertown, is to be increased to thirty men immediately.</p>
+<p>A serjeant and six men to be set as a Guard to the Hospital, and are to apply to Doctor Rand.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0011" id="GEWN-03-01-02-0027-fn-0011-ptr">11</a></p>
+<p>Complaint having been made against John White Quarter Master of Col. Nixons Regmt for misdemeanors in drawing out Provisions for more Men than the Regiment consisted of;<a class="ptr" href="#GEWN-03-01-02-0027-fn-0012" id="GEWN-03-01-02-0027-fn-0012-ptr">12</a> A Court Martial consisting of one Captain and four Subalterns is ordered to be held on said White,<a class="ptr" href="#GEWN-03-01-02-0027-fn-0013" id="GEWN-03-01-02-0027-fn-0013-ptr">13</a> who are to enquire, determine and report.</p>
+<p style="text-align: center; text-indent: 0;">After Orders. 10 OClock</p>
+<p>The General desires that some Carpenters be immediately set to work at Brattles Stables, to fix up Stalls for eight Horses, and more if the Room will admit, with suitable racks, mangers &amp;c.<a class="ptr" href="#GEWN-03-01-02-0027-fn-0014" id="GEWN-03-01-02-0027-fn-0014-ptr">14</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0027-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+copy, in Joseph Reeds writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ American Antiquarian Society, Worcester, Mass. ]">MWA</span>;
+
+copy, in Thomas Mifflins writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Orderly Books, 177583.
+
+The Reed copy omits the after orders. In the Mifflin copy the after orders are followed by a copy of Reeds signature, J. Reed Secry, and the address, To Mr Henshaw Adjt Genl, both in Mifflins writing.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0001-ptr" id="GEWN-03-01-02-0027-fn-0001">1</a>
+
+   <p>The words by the Honr. Continental Congress appear here in the Reed copy.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0002-ptr" id="GEWN-03-01-02-0027-fn-0002">2</a>
+
+   <p>Although Congress appointed eight brigadier generals on 22 June, GW decided to delay announcing those appointments when he learned shortly after his arrival in Cambridge that some of the New England officers, unhappy at not being given higher rank or precedence, might refuse their commissions. See <a href="default.xqy?keys=GEWN-print-03-01-02-0030&amp;expandNote=GEWN-03-01-02-0030-fn-0001#GEWN-03-01-02-0030-fn-0001" class="document">James Warren and Joseph Hawley to GW, 4 July 1775, n.1</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0047-0003&amp;expandNote=GEWN-03-01-02-0047-0003-fn-0020#GEWN-03-01-02-0047-0003-fn-0020" class="document">GW to Hancock, 1011 July 1775, Document II. Letter Sent, n.20</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0003-ptr" id="GEWN-03-01-02-0027-fn-0003">3</a>
+  
+   <p>Thomas Mifflin (17441800) and Joseph Reed (17411785), handsome and articulate young Philadelphians already prominent in the business and political circles of their city and colony, became well known to GW during the First and Second Continental Congresses when he dined at their homes on several occasions (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Donald Jackson and Dorothy Twohig, eds. &lt;i&gt;The Diaries of George Washington&lt;/i&gt;. 6 vols. Charlottesville, Va., 197679. ]"><span class="hi-italic" style="font-style: italic;">Diaries</span></span>, <a href="default.xqy?keys=GEWN-print-01-03-02-0004-0017#GEWN-01-03-02-pb-0277" class="document">3:277</a>, <a href="default.xqy?keys=GEWN-print-01-03-02-0004-0019#GEWN-01-03-02-pb-0284" class="document">284</a>, <a href="default.xqy?keys=GEWN-print-01-03-02-0004-0019#GEWN-01-03-02-pb-0286" class="document">286</a>, <a href="default.xqy?keys=GEWN-print-01-03-02-0005-0010#GEWN-01-03-02-pb-0328" class="document">32829</a>). Mifflin, a well-educated Quaker merchant who served in both Continental Congresses, was one of the youngest and most radical of the delegates and quickly distinguished himself as a sprightly and spirited Speaker (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ L. H. Butterfield, ed. &lt;i&gt;Diary and Autobiography of John Adams&lt;/i&gt;. 4 vols. Cambridge, Mass., 1961. ]">Butterfield, <span class="hi-italic" style="font-style: italic;">Adams Diary and Autobiography</span></span>, 2:150). On 27 May 1775 Mifflin was named with GW and several other delegates to a committee charged with finding ways to supply the colonies with ammunition and military stores (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:67). Reed, a more moderate advocate of the American cause than Mifflin, had a growing legal practice in Philadelphia and was an active land speculator. Through the family of his English-born wife, he became acquainted with Lord Dartmouth, secretary of state for the American colonies, and from December 1773 to February 1775, he corresponded regularly with Dartmouth, explaining and defending colonial
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0057">[57]</span>
+opinions and actions. Reed served with Mifflin on the Philadelphia committee of correspondence, and in January 1775 he was elected president of the second Pennsylvania provincial congress. Following the battles of Lexington and Concord, both Reed and Mifflin joined Philadelphias military associators: Reed as a lieutenant colonel and Mifflin as a major. Although neither man had any other military experience, GW chose them for his staff because he needed efficient managers in his headquarters more than he needed expert soldiers. He wished to have about him intelligent confidants to whom he could delegate a wide variety of tasks.</p>
+
+
+   <p>Mifflin accepted a position as aide-de-camp before GW left Philadelphia. Reed, however, was reluctant to abandon his family and business to become GWs secretary, and he at first agreed only to accompany GW part of the way to Cambridge. It was apparently at New York that Reed finally accepted GWs offer. Reed explained to Elias Boudinot on 13 Aug. that GW expressed himself to me in such Terms that I thought myself bound by every Tye of Duty and Honour to comply with his Request to help him through the Sea of Difficulties (John F. Roche, <span class="hi-italic" style="font-style: italic;">Joseph Reed, A Moderate in the American Revolution</span> [New York, 1957], 6566). Reed acted as GWs secretary until 30 Oct. 1775, when he took a prolonged leave of absence to go home to Philadelphia. He returned to the army the following June as adjutant general with the rank of colonel. In January 1777 Reed resigned from the army, but he served as a volunteer aide to GW during the ensuing campaign. Reed was a member of the Continental Congress in 1778, and from 1778 to 1781 he was president of the <span class="choice correction" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Corrected from 'Pennsylanvia' &lt;span style='font-size: 90%'&gt;[[2014-08-06]]&lt;/span&gt; ]">Pennsylvania</span> executive council. Mifflin became quartermaster general of the Continental army on 14 Aug. 1775. He was promoted to colonel on 22 Dec. 1775, to brigadier general on 16 May 1776, and to major general on 19 Feb. 1777. Accused of negligence and corruption in executing his duties as quartermaster general, Mifflin resigned from the army in February 1779. He served again in the Continental Congress from 1782 to 1784, and while president of that body, he accepted GWs resignation at the end of the war.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0004-ptr" id="GEWN-03-01-02-0027-fn-0004">4</a>
+
+   <p>These matters are covered by articles 1, 2, and 19 of the Massachusetts articles of war, which correspond to articles 2, 3, and 20 of the Continental articles of war. For a discussion of the articles of war, see <a href="default.xqy?keys=GEWN-print-03-01-02-0022&amp;expandNote=GEWN-03-01-02-0022-fn-0003#GEWN-03-01-02-0022-fn-0003" class="document">Richard Henry Lee to GW, 29 June 1775, n.3</a>. Artemas Ward, GWs predecessor as commander of the American army, issued general orders on 14 June 1775 requiring attendance at daily prayers and Sunday services, and on 30 June he prohibited all prophane Cursing &amp; Swearing, all indecent Language and Behavior in camp (Wards orderly book, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>: Ward Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0005-ptr" id="GEWN-03-01-02-0027-fn-0005">5</a>
+
+   <p>General Ward had earlier attempted to enforce a similar order by threatening to punish those who did not obey it. The commanding Officer of each Regiment, Detachmt or Company, Ward ordered on 1 June 1775, shall daily visit his Soldiers whether in Barracks or Tents &amp; oblige them to keep themselves cleanThe Officers who do not strictly adhere to this order are to be reported at Head Quarters and the Soldiers that disobey the Officers Orders, in this Respect are to be confind, at the main Guard till they shall receive some punishment adequate to a crime so heinous (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0006-ptr" id="GEWN-03-01-02-0027-fn-0006">6</a>
+
+   <p>Thomas Gardner (17231775) of Cambridge was mortally wounded at
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0058">[58]</span>
+the Battle of Bunker Hill on 17 June while leading reinforcements into the American lines. He died on the night of 3 July.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0007-ptr" id="GEWN-03-01-02-0027-fn-0007">7</a>
+
+   <p>A smallpox hospital had been established for the army near Fresh Pond, which lies about a mile and a half west of the Cambridge common. On 19 June 1775 General Ward directed that a sentry be posted constantly at the gate to the smallpox hospital with orders to permit no person to go in or out except the Doctor &amp; such as the Doctor shall permit to pass. On 2 July Ward ordered each company in the army to be inspected daily for smallpox symptoms. Any man suspected of having the disease was to be removed at once (ibid.).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0008-ptr" id="GEWN-03-01-02-0027-fn-0008">8</a>
+
+   <p>Unauthorized firing of small arms remained a problem for some time. See <a href="default.xqy?keys=GEWN-print-03-01-02-0105" class="document">General Orders, 26 July</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0147" class="document">4 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0009-ptr" id="GEWN-03-01-02-0027-fn-0009">9</a>
+	
+   <p>More detailed instructions regarding the disposition of British deserters are given in <a href="default.xqy?keys=GEWN-print-03-01-02-0110" class="document">General Orders, 27 July 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0010-ptr" id="GEWN-03-01-02-0027-fn-0010">10</a>
+
+   <p>Samuel Griffin (17461810), formerly of Virginia and more recently a resident of Philadelphia, accompanied GW and Charles Lee from that city to Cambridge. He served as an aide-de-camp to Lee until late the next winter, when he resigned to go into business. On 19 July 1776 Congress appointed him <span class="choice addition" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Added &lt;span style='font-size: 90%'&gt;[[2005-12-13]]&lt;/span&gt; ]">deputy</span> adjutant general of the flying camp with the rank of colonel, and he returned to the army. In December 1776 GW offered Griffin an opportunity to raise and command a regiment, but Griffin declined to do so and apparently moved soon afterwards to Williamsburg. He was appointed to the Virginia board of war in June 1777 and was elected mayor of Williamsburg in December of that year.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0011-ptr" id="GEWN-03-01-02-0027-fn-0011">11</a>
+
+   <p>Dr. Isaac Rand (c.17181790) of Charlestown, Mass., was commissioned by the Massachusetts provincial congress on 28 June 1775 to be surgeon and physician to the smallpox hospital near Cambridge, and on 7 July he became surgeon of the hospital at Roxbury.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0012-ptr" id="GEWN-03-01-02-0027-fn-0012">12</a>
+
+   <p>The words &amp; for abusive Behaviour are added here in the Reed copy.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0013-ptr" id="GEWN-03-01-02-0027-fn-0013">13</a>
+
+   <p>In the Reed copy the words at 9 oClock To Morrow morning are inserted here. John White of Massachusetts continued to serve as a regimental quartermaster until 30 July 1777, when he became a brigade quartermaster. Col. John Nixon (17271815) commanded one of the Massachusetts regiments.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0027-fn-0014-ptr" id="GEWN-03-01-02-0027-fn-0014">14</a>
+	
+   <p>William Brattle (17061776), a prominent Cambridge Loyalist, fled to Boston for safety in September 1774, leaving his large estate, which was located a short distance west of town, in the care of his widowed daughter. Among the horses that were to be stabled at Brattles place were some that had been taken from the enemy this morning and given to GW for his use (<a href="default.xqy?keys=GEWN-print-03-01-02-0031&amp;expandNote=GEWN-03-01-02-0031-sn#GEWN-03-01-02-0031-sn" class="document">General Orders, 5 July 1775, source note</a>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0027 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0026" title="Address from the Massachusetts Provincial Congress, 3 July 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0028" title="From George Clinton, 4 July 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

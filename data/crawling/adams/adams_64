@@ -1,0 +1,146 @@
+II. Draft of “A Dissertation on the Canon and the Feudal Law”, August 1765
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>II. Draft of A Dissertation on the Canon and the Feudal Law, August 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-01-02-0052-0003&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1760-1765-08-00-6">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-01-02-0052&amp;mode=TOC" title="A Dissertation on the Canon and the Feudal Law: May  21 October 1765"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0002" title="I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law, May  August 1765"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0004" title="III. A Dissertation on the Canon and the Feudal Law, No. 1, 12 August 1765"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01&amp;mode=TOC">Volume 1, September 1755October 1773</a>&gt; <a href="?keys=ADMS-print-06-01-02&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-01-02-0052&amp;mode=TOC">A Dissertation on the Canon and the Feudal Law: May  21 October 1765</a>&gt; II. Draft of A Dissertation on the Canon and the Feudal Law, August 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-01-02-0052-0003&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0002" title="I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law, May  August 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0004" title="III. A Dissertation on the Canon and the Feudal Law, No. 1, 12 August 1765"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="ADMS-06-01-02-pb-0108">108<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0108.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="PJA01d065" class="doc published">
+
+     <h2>II. Draft of A Dissertation on the Canon and the Feudal Law</h2>
+     
+     <div class="docbody">
+      <div class="opener">
+       <table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">
+        [<ins title="editorial addition or explanation" class="ed">August? 1765</ins>]
+       </td>
+	      </tr>
+      </table>
+      </div>
+      <p>Ignorance and Inconsideration, (says Dr. Tillotson) are the two great Causes of the Ruin of Mankind. This excellent observation, was made by that great Prelate, in the Way of his own Profession, with Relation to the Interest of his fellow Men; in a future and immortal state. But it is of equal Truth and Importance, when applied to the Happiness of Men, on this side the Grave. In the early Ages of the World absolute Monarchy seems to have been the universal form of Government. Kings and a few of their great Counsellors and Captains exercised, a cruel Tyranny over <del title="deleted text">&lt;their Vassals and Subjects&gt;</del> the People, who were little higher in those Days in the scale of intelligence than the Camells and Asses and Elephants, that carried them and their Arms and their Engines, to War.</p>
+      <p>By What Causes it was brought to pass that the People, in the middle ages, became more generally intelligent, would not perhaps be practicable, in these days to discover. But the Fact is certain, and it is as certain, that wherever, a general Knowledge and sensibility have prevailed among the People, Arbitrary Government and every kind of oppression, have lessened and disappeared in Proportion. Man has an exalted soul!and the Same Principle in human Nature, that aspiring Noble Principle founded in Benevolence and cherished by Knowledge, I mean <del title="deleted text">&lt;Ambition&gt;</del> the Love of Power, has been the Cause of slavery and the Cause of Freedom. This Principle, it is, that has always prompted, the <del title="deleted text">&lt;Kings and&gt;</del> Princes and Nobles of the Earth <del title="deleted text">&lt;to grasp at unlimited P<span title="text unclear" class="unclear">[ower]</span>&gt;</del> by every subtlety to shake off, all the Limits of their Power: and the Same Principle has always prompted the Common People, to aspire at Independancy, and to confine the Power of the great ones, within the Limits of Reason, and Equity.</p>
+      <p>The poor People, it is true, have been much less successful, than the Great. They had not so much Leisure, they knew not so well how to unite and exert their strengthignorant as they were of Arts and Letters, they could not frame and support a regular system of opposition.</p>
+      <p>This has been known, by the great, to be the Temper of Mankind and they have accordingly laboured, in all Ages, to wrest from the Populace, both the Knowledge of their Rights and Wrongs, and the Power to assert the former, and redress the Latter. I say Rights, for such they have undoubtedly, antecedent to all Earthly Government, <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0109">[109<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0109.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>Rights that cannot be repealed or restrained by human LawsRights derived from the great Legislater of the Universe.</p>
+      <p>Since the Promulgation of Christianity the two greatest systems of Tyranny that have Sprung from this source, are the Cannon and the feudal Law. The Desire of Dominion, however noble and useful on the whole, is however, when unawed and unrestrained by Hopes and Fears, an encroaching, grasping, restless and ungovernable Principle. And among all the Variety of iniquitous systems that have been contrived by the great, for the Gratification of it, in themselves was never So successful, as in the Invention and Establishment of the Cannon and the Feudal Law. In the former, the most refined, sublime, extensive and astonishing Constitution of Policy that was ever conceived by the human Mind, we find was framed by the Romish Clergy, for the Aggrandisement of their own order.</p>
+      <p>All the Epithets, that I have given to the Romish Policy, will be owned to be just, when it is considered, that they found it practicable to persuade Mankind, that God almighty had intrusted them with the Keys of Heaven, whose Gate they might open and Close at PleasureWith a Power of Dispensation over all the Rules and Obligations of MoralityWith an Authority to Licence all sorts both of Sins and Crimes.With a Power of deposing Princes, and absolving subjects from their Allegiance.With a Power of procuring or witholding the Rain of Heaven and the Beams of the SunWith the Management of Earthquakes, Pestilence and FamineNay with the misterious, awful Incomprehensible Power of Creating out of Bread and Wine the Flesh and Blood of the great Creator of the Universe. And all these opinions, they were enabled to propagate and rivet in the Minds of the People, by reducing <del title="deleted text">&lt;the Minds of the Common People&gt;</del> them to a State of Sordid Ignorance and staring Timidity, and by infusing into them a religious Horror of Letters and Knowledge of every Kind. Thus was human Nature chained fast for ages in a cruel, shameful, deplorable Servitude, to him and his Subordinate Tyrants, who it was foretold, would exalt himself above all that was called God and that was worshiped.</p>
+      <p>In the latter We find another System, Similar in many Respects to the former: which, altho it was originally formed, perhaps for the necessary Defense of a barbarous People, against the Inroads and Invasions of her neighboring nations; Yet for the Same Purposes of Tyranny, Cruelty and Lust, which had dictated the Cannon Law, it was soon adopted by allmost all the Princes of Europe and wrought into the Constitution of their Govt. It was originally a Code of Laws <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0110">[110<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0110.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>for a vast Army in a Perpetual Encampment. The General was invested with the Sovereign Propriety of all the Lands within their Territoryof Him the first Rank of his great officers, held the Lands, immediately, and the other subordinate Ranks, held of them, and all held by a Variety of Duties and services, tending to bind the Chains the faster on every order of Mankind. In this Manner the Common People were held together in Clans and Herds in a State of Servile Dependance on their Lords, bound by the tenure of their lands to follow them to their Wars whenever they commanded, and in a state of total Ignorance of every Thing divine and humane, excepting the Use of Arms and the Culture of the Lands.</p>
+      <p>But another Event, still more calamitous to human Liberty, was a wicked Confederacy between the two Systems of Tyrany above described. It seems to have been even stipulated between them that the temporal Grandees, should contribute every Thing in their Power to maintain the Ascendancy of the Priesthood, and the Spiritual Grandees in their turn, shold employ that ascendancy over the Consciences of the People, in impressing on their Minds a blind, implicit obedience to civil Magistracy.</p>
+      <p>Thus, as long as this Confederacy lasted and the People were kept in Ignorance, Liberty, and with her Knowledge and Virtue too, seem to have deserted the Earth, and one Age of Darkness succeeded another, till God in his Providence, raised up the Champions who began and conducted the Reformation. From the Time of the Reformation, to the first settlement of America, Knowledge gradually increased in Europe but especially in England and as fast as Knowledge increased, and Spread among the People, Ecclesiastical and civil Tyranny, which I use as synonimous Expressions for the Cannon and feudal Law, Seem to have lost their strength and Weight. The People grew more and more sensible of the Wrong that was done them, by those systems, more and more impatient under it, and determined at all Hazards to rid themselves of it, till the struggle at last, under the Stewarts grew, formidable violent and bloody.</p>
+      <p>It was this Struggle that peopled America. It is commonly Said that these Colonies were peopled by ReligionBut I should rather say that the Love of Liberty, projected conducted and accomplished the settlement of America.</p>
+     </div>
+     <div class="docback">
+      <div class="note-source" id="PJA01d065sn1">
+       
+   <p>
+        <span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr></span> (<span class="ref-terms">Adams Papers</span>); docketed by <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Charles Francis Adams (18071886), son of John Quincy Adams and Louisa Catherine Adams ]">CFA</abbr>: Canon and Feudal Law; Original Draught. On the Canon and Feudal law. 1765. The Essay is printed in the Works of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> vol iii p 447. This is a <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> of the first published part of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s A Dissertation on the Canon and the Feudal Law (<a href="default.xqy?keys=ADMS-print-06-01-02-0052-0004" class="document">No. III</a>, below). There are many stylistic variations between the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> and printed texts, but in regard <span class="pb" title="page number in print edition" id="ADMS-06-01-02-pb-0111">[111<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=ADMS/Pages/ADMS-06-01/ADMS-06-01-02-pb-0111.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>to matters of substance both are virtually alike. The <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> contains all but the last paragraph and a half of the printed text, and was probably written sometime late in July or early in August 1765, although this is only a surmise.</span>
+       </p>
+
+      </div>
+     </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-01-02-0052-0003 [accessed 16 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 1, September 1755October 1773
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-01-02-0052-0002" title="I. Fragmentary Notes for A Dissertation on the Canon and the Feudal Law, May  August 1765"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-01-02-0052-0004" title="III. A Dissertation on the Canon and the Feudal Law, No. 1, 12 August 1765"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.183</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

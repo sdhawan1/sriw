@@ -1,0 +1,171 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0092&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0091" title="From Joshua Brackett, 15 December 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0093" title="From John Jay, 15 December 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0092-0001" title="From C. W. F. Dumas, 15 December 1781"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0092&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0091" title="From Joshua Brackett, 15 December 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0093" title="From John Jay, 15 December 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0140">140</span><div id="PJA12tg10" class="transgroup">
+
+<div id="PJA12d103" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Lahaie 15e. Dec. 1781</td>
+		</tr>
+      </table>
+</div>
+<p>Comme lAssemble dHollde. se sparera aujourdhui en huit, je prends mes prcautions domestiques, pour pouvoir aller passer le reste du mois, et une partie du suivant,  Amsterdam avec vous Monsieur, Si je ne vous incommode pas; et pour partir dici, pour cet effet, Samedi ou Dimanche 22 ou 23 du Courant. En attendant, je crois quil ne seroit pas mauvais Monsieur, que vous vinssiez pas-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0141">[141]</span>ser la Semaine prochaine ici; outre que ce petit changement dair, pourra, selon moi, tre favorable  votre sant, je voudrois vous faire faire connoissance personnelle avec deux personnages du pays, afin que vous pussiez juger vous-mme par leurs discours, de la marche quil Sera  propos de tenir, pour avoir enfin une rponse cathgorique. Nous irions alors ensemble  Amsterdam, Si vous pouviez rester jusqu Samedi ou Dimanche ici. Mais il faudroit venir ici Lundi ou Mardi prochain, afin que je pusse mnager lentrevue chez moi avec ces Messieurs, qui ne sont pas srs davance du jour precis dont ils pourroient disposer.</p>
+<p>Peut-tre ne serez-vous pas fach, Monsieur, de faire aussi une visite  LAmbr. de Frce., et davoir un entretien avec lui dans cet intervalle.<a class="ptr" href="#PJA12d104n1" id="PJA12d104n1-ptr">1</a> Je ne lai point vu depuis huit jours au moins; et lon ne sait Si son voyage pour Paris aura lieu ou non.</p>
+<p>Voici une Drlerie, dont la communication fera certainement plaisir  Mr. Cerisier.<a class="ptr" href="#PJA12d104n2" id="PJA12d104n2-ptr">2</a> Je vous prie seulement, Monsieur, de ne point lcher mon Ecriture mais de lui permettre seulement den prendre Copie, sil veut.</p>
+<div class="closer">
+<p class="salute">Je suis toujours avec le plus sincere respect Monsieur Votre trs humble &amp; trs obissant serviteur </p>
+<p class="signed">Dumas</p>
+</div>
+</div>
+</div>
+<div id="PJA12d104" class="trans letter">
+
+ <h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 15 December 1781</td>
+		</tr>
+      </table>
+</div>
+<p>Since the assembly of Holland will adjourn in a week, I am taking my domestic precautions in order to spend the rest of this month, and part of the next, with you in Amsterdam. If it is agreeable to you, perhaps we could leave from here on Saturday the 22nd or Sunday the 23rd. Meantime, I believe that it would be good for you, sir, to spend next week here. In addition to it being a chance to take some fresh air that might be beneficial to your health, it would also give me the opportunity to introduce you personally to two countrymen. Then you can judge for yourself, through their discourse, just what steps they propose to make to obtain, at last, a categorical response. If you can stay here until Saturday or Sunday, we will be together in Amsterdam. But you must come here next Monday or Tuesday, so that I can arrange the meeting with these gentlemen at my house. They are not sure ahead of time which day will be suitable for them.</p>
+<p>Perhaps you would be so kind, sir, also at this time, to pay a visit to the French ambassador for a meeting.<a class="ptr" href="#PJA12d104n1" id="PJA12d104n1-ptr">1</a> I have not seen him for a week and I do not know if he is going to Paris or not.</p>
+<p>I have enclosed something amusing which I am sure will please Mr. <span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0142">[142]</span>Cerisier.<a class="ptr" href="#PJA12d104n2" id="PJA12d104n2-ptr">2</a> I only ask that you do not give it to him, but rather allow him make a copy of it, if he so chooses.</p>
+<div class="closer">
+<p class="salute">I am with the most sincere respect, sir, your very humble and very obedient servant</p>
+<p class="signed">Dumas</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d104sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>).</span>
+</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#PJA12d104n1-ptr" id="PJA12d104n1">1</a>
+<p>Upon receiving this letter, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> decided to go to The Hague on 18 Dec. to consult with members of the government and the French ambassador about demanding a categorical response from the States General to his memorial of <a href="default.xqy?keys=ADMS-print-06-11-02-0204" class="document">19 April</a> (vol. 11:272282). Dumas, however, wrote to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> on the <a href="default.xqy?keys=ADMS-print-06-12-03-0001-0017" class="document">16th</a> (<span class="ref-terms">Adams Papers</span>) to inform him that the Duc de La Vauguyon was going to Amsterdam and would meet with him there. As a result, <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> postponed until the 19th his journey to The Hague (to the president of Congress, <a href="default.xqy?keys=ADMS-print-06-12-02-0097" class="document">18 Dec.</a>, below) where, in addition to meeting with the Dutch officials, he again met with the French ambassador (to La Vauguyon, <a href="default.xqy?keys=ADMS-print-06-12-02-0100" class="document">[<ins title="editorial addition or explanation" class="ed">20</ins>] Dec.</a>, below). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> probably returned to Amsterdam on 22 or 23 Dec. in the company of Dumas, for in a letter of 7 Jan. 1782 to the president of Congress, Dumas indicated that he had been with <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr> over the vacation time and would accompany him to The Hague on the 8th to demand a categorical answer from the States General to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John Adams (17351826) ]">JA</abbr>s memorial of 19 April 1781 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Francis Wharton, ed., &lt;i&gt;The Revolutionary Diplomatic Correspondence of the United States&lt;/i&gt;, Washington, 1889; 6 vols. ]">Wharton, ed., <span class="hi-italic" style="font-style: italic;">Dipl. Corr. Amer. Rev.</span></span>, 5:86).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#PJA12d104n2-ptr" id="PJA12d104n2">2</a>
+<p>Not identified.</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0092 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0091" title="From Joshua Brackett, 15 December 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0093" title="From John Jay, 15 December 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

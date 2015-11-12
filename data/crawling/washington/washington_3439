@@ -1,0 +1,130 @@
+Errata
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Errata</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-10-02-0290&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-10-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0289" title="Virginia Delegates to Thomas Lewis and Samuel McDowell, 14 April 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-10&amp;mode=TOC">Volume 10 (21 March 177415 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-10-02&amp;mode=TOC">Documents</a>&gt; Errata</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-10-02-0290&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0289" title="Virginia Delegates to Thomas Lewis and Samuel McDowell, 14 April 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0380">380</span><div id="Col10d241" class="editorial">
+
+
+<h1>Errata</h1>
+<div class="docbody">
+ <p style="text-indent: 0;">Volume 1p. xxiv, line 33: 194957 <span class="hi-italic" style="font-style: italic;">is</span> 194857; p. 55, n.3: Thomas Nelson (17161782) <span class="hi-italic" style="font-style: italic;">is</span> Thomas Nelson (17151787); p. 70: letter to Richard Corbin should be dated 28 January 1754 (see Francis Corbin to GW, 7 July 1798); p. 144, n.8: Henry Van Meter (died c.1759) <span class="hi-italic" style="font-style: italic;">is</span> Henry Van Meter (died c.1757); p. 208, n.4: n.16 <span class="hi-italic" style="font-style: italic;">is</span> n.15; p. 219, n.13: Maudit <span class="hi-italic" style="font-style: italic;">is</span> Mauduit; p. 284, n.7: of Hampton <span class="hi-italic" style="font-style: italic;">is</span> of Norfolk; p. 313, n.7: 2,400 acres <span class="hi-italic" style="font-style: italic;">is</span> 4,360 acres (Deep Run Tract); p. 379, index: <span class="hi-italic" style="font-style: italic;">insert</span> Mercier,, 172; p. 380, index: Nelson, Thomas (17161782) <span class="hi-italic" style="font-style: italic;">is</span> Nelson, Thomas (17151787); p. 385, index: Venango, 85 <span class="hi-italic" style="font-style: italic;">is</span> Venango, 84.</p>
+<p>Volume 2p. x, line 22: 26 October <span class="hi-italic" style="font-style: italic;">is</span> 25 October; p. xx, line 33: 194957 <span class="hi-italic" style="font-style: italic;">is</span> 194857; p. xxiii, line 1516: William Fauquier <span class="hi-italic" style="font-style: italic;">is</span> Francis Fauquier; p. 117, line 1: 18th <span class="hi-italic" style="font-style: italic;">is</span> 80th; p. 138, line 27: Octr 26th <span class="hi-italic" style="font-style: italic;">is</span> Octr 25th; p. 176, n.2: 1756 <span class="hi-italic" style="font-style: italic;">is</span> 1757; p. 180, line 4: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Harvard University, Cambridge, Mass. ]">MH</span>: Sparks transcript <span class="hi-italic" style="font-style: italic;">is</span> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Harvard University, Cambridge, Mass. ]">MH</span>: Jared Sparks Collection; p. 230, n.1, line 8: Edmund Atkins <span class="hi-italic" style="font-style: italic;">is</span> Edmond Atkin; p. 323, n.1, line 4: by water <span class="hi-italic" style="font-style: italic;">is</span> by land; p. 366, index: <span class="hi-italic" style="font-style: italic;">delete</span> and clothing for rangers, 315 <span class="hi-italic" style="font-style: italic;">from</span> Fairfax, George William, entry; p. 366, index: <span class="hi-italic" style="font-style: italic;">add</span> and clothing for rangers, 315 <span class="hi-italic" style="font-style: italic;">to</span> Fairfax, William, entry; p. 381, index: Venango, 75 <span class="hi-italic" style="font-style: italic;">is</span> Venango, 74.</p>
+<p>Volume 3p. 170, n.4: In 1760 <span class="hi-italic" style="font-style: italic;">is</span> In 1761 (Presley Thornton); p. 287, id.: Beverley Robinson (17321792) <span class="hi-italic" style="font-style: italic;">is</span> Beverley Robinson (c.17231792); p. 481, col. 1, line 18: 12931 <span class="hi-italic" style="font-style: italic;">is</span> 12930.</p>
+<p>Volume 4p. 98, n.3: George Bowden <span class="hi-italic" style="font-style: italic;">is</span> George Bowdon <span class="hi-italic" style="font-style: italic;">and</span> John Johnston <span class="hi-italic" style="font-style: italic;">is</span> John Johnstoun; p. 350, n.3, line 15, only in the fall of 1757 <span class="hi-italic" style="font-style: italic;">is</span> in the summer and fall of 1758 (Ft. Holland); p. 414, n.4: Bullskin Creek <span class="hi-italic" style="font-style: italic;">is</span> Bullskin Run <span class="hi-italic" style="font-style: italic;">and</span> leased from GW <span class="hi-italic" style="font-style: italic;">is</span> leased to GW (Robert Johnston); p. 459, index: Stevens, James
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0381">[381]</span>
+<span class="hi-italic" style="font-style: italic;">is</span> Stevens, John; p. 461, col. 2, line 4: <span class="hi-italic" style="font-style: italic;">delete</span> 26, 28; p. 464, col. 1, line 10: <span class="hi-italic" style="font-style: italic;">insert</span> 27.</p>
+<p>Volume 5p. 461, col. 1, line 4: 43032 <span class="hi-italic" style="font-style: italic;">is</span> 43031; p. 461, col. 2, line 12: <span class="hi-italic" style="font-style: italic;">insert</span> from John Forbes, p. 42526; p. 468, col. 2, line 16: <span class="hi-italic" style="font-style: italic;">insert</span> to William Byrd, 42526; p. 470, col. 1, line 29: <span class="hi-italic" style="font-style: italic;">insert</span> 33444 <span class="hi-italic" style="font-style: italic;">after</span> 32223; p. 477, index: Little Meadows (Pa.) <span class="hi-italic" style="font-style: italic;">is</span> Little Meadows (Md.); p. 479, index: in Mill Creek entry <span class="hi-italic" style="font-style: italic;">delete</span> 394; rangers, 393; p. 479, index: <span class="hi-italic" style="font-style: italic;">insert</span> Mill Creek (of Opequon): id., 394; rangers at, 393; p. 490, col. 1, line 9: ironworks, 423 <span class="hi-italic" style="font-style: italic;">is</span> ironworks, 424.</p>
+<p>Volume 6p. 193, n.3: Bernard Moore (17201772) <span class="hi-italic" style="font-style: italic;">is</span> Bernard Moore (17201775); p. 301, second entry 31: <span class="hi-italic" style="font-style: italic;">move</span> footnote no. 12 <span class="hi-italic" style="font-style: italic;">to</span> end of first entry 31; p. 431, line 13: <span class="hi-italic" style="font-style: italic;">add</span> See Parke-Bernet catalog, Oct.-Nov. 1940 (Robert Carter Nicholas and George Wythe); p. 447, line 3: <span class="hi-italic" style="font-style: italic;">for</span> the Custis <span class="hi-italic" style="font-style: italic;">insert</span> GWs (Moncock Hill); p. 482: <span class="hi-italic" style="font-style: italic;">add</span> Letter not found: from Robert Cary &amp; Co., 26 Dec. 1760; p. 494, index: <span class="hi-italic" style="font-style: italic;">delete</span> Cole, Abraham, entry and <span class="hi-italic" style="font-style: italic;">insert</span> 273 <span class="hi-italic" style="font-style: italic;">in</span> Coles (Cole), Abram, entry; p. 502, index: <span class="hi-italic" style="font-style: italic;">change</span> Feint <span class="hi-italic" style="font-style: italic;">to</span> Fent; p. 518, index: <span class="hi-italic" style="font-style: italic;">change</span> Mockton Island <span class="hi-italic" style="font-style: italic;">to</span> Mockhorn (Mockon) Island; 519, index: <span class="hi-italic" style="font-style: italic;">change</span> Mosley <span class="hi-italic" style="font-style: italic;">to</span> Moseley.</p>
+<p>Volume 7p. 97, id.: <span class="hi-italic" style="font-style: italic;">for</span> merchant and planter <span class="hi-italic" style="font-style: italic;">substitute</span> owner of a mill and a foundry (James Hunter, Sr.); p. 109, n.29: Thomas Everard (d. 1771) <span class="hi-italic" style="font-style: italic;">is</span> Thomas Everard (d. 1784); p. 173, line 7: (175255) <span class="hi-italic" style="font-style: italic;">is</span> (175561); p. 318, n.6: <span class="hi-italic" style="font-style: italic;">for</span> The Old Quarter was one of GWs dower plantations in York County <span class="hi-italic" style="font-style: italic;">substitute</span> The Old Quarter was one of John Parke Custiss plantations in New Kent County; p. 407, n.1: <span class="hi-italic" style="font-style: italic;">substitute</span> Giles was Lund Washingtons slave <span class="hi-italic" style="font-style: italic;">for note following</span> GWs letter has not been found; p. 502, n.1, line 5: Margaret [Green] (d. 1781) <span class="hi-italic" style="font-style: italic;">is</span> Margaret (d. 1782); p. 534, col. 2, line 9: <span class="hi-italic" style="font-style: italic;">add</span> 263 <span class="hi-italic" style="font-style: italic;">after</span> meetings; p. 537, index: <span class="hi-italic" style="font-style: italic;">add</span> poll sheets, 37784 <span class="hi-italic" style="font-style: italic;">to</span> Fairfax County entry; p. 542, index: <span class="hi-italic" style="font-style: italic;">insert</span> 5023 <span class="hi-italic" style="font-style: italic;">after</span> Green, Charles: his will; p. 544, col. 2, line 1: Prince
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-10-02-pb-0382">[382]</span>
+William County <span class="hi-italic" style="font-style: italic;">is</span> King William County; p. 572, index: <span class="hi-italic" style="font-style: italic;">change</span> 296 <span class="hi-italic" style="font-style: italic;">to</span> 299 <span class="hi-italic" style="font-style: italic;">in</span> Tebbs, Daniel, entry.</p>
+<p>Volume 8p. 272, line 6: Newingham <span class="hi-italic" style="font-style: italic;">is</span> Newington; p. 569, source note: <span class="hi-italic" style="font-style: italic;">insert</span> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep">PWacD</span> (Samuel Washington); p. 596, index: <span class="hi-italic" style="font-style: italic;">delete</span> Bassett, Elizabeth, entry; p. 606, index: <span class="hi-italic" style="font-style: italic;">add</span> 217 to Dandridge, Elizabeth (b. 1749), entry; p. 609, index: Evans, John <span class="hi-italic" style="font-style: italic;">is</span> Evans, Lewis; p. 610, index: Ewell, Bertram <span class="hi-italic" style="font-style: italic;">is</span> Ewell, Bertrand <span class="hi-italic" style="font-style: italic;">and</span> Farrel &amp; Jones <span class="hi-italic" style="font-style: italic;">is</span> Farell &amp; Jones; p. 636, col. 1, line 20: Herring Creek Parish <span class="hi-italic" style="font-style: italic;">is</span> Herring Bay Parish; p. 643, index: Todd, George <span class="hi-italic" style="font-style: italic;">is</span> Todd, William; p. 652, index: Wignell, James <span class="hi-italic" style="font-style: italic;">is</span> Wignall, James.</p>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-10-02-0290 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 10 (21 March 177415 June 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-10-02-0289" title="Virginia Delegates to Thomas Lewis and Samuel McDowell, 14 April 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

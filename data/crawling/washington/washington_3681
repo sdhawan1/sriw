@@ -1,0 +1,187 @@
+From Jonathan Trumbull, Sr., 21 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Trumbull, Sr., 21 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0239&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-21-5">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0238" title="From Joseph Palmer, 21 August 1775 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0240" title="General Orders, 22 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Trumbull, Sr., 21 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0239&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0238" title="From Joseph Palmer, 21 August 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0240" title="General Orders, 22 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0344">344</span><div id="Rev01d221" class="doc">
+
+
+<h1>From Jonathan Trumbull, Sr.</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Lebanon [Conn.] 21st Augt 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>Your Esteemed Favour of the 14th instant is received, No Powder is stopped according to my request, hope that t[i]s for the best<a class="ptr" href="#GEWN-03-01-02-0239-fn-0001" id="GEWN-03-01-02-0239-fn-0001-ptr">1</a>None is lately arrived to this Colony, altho daily expectedWe are greatly exhausted, your Order to leave a quantity out of the next parcell that passes this Colony will be agreable, if none arrive here before. Shall Take Care of the Lead ordered from Ticonderogato forward it in the best way to Camp<a class="ptr" href="#GEWN-03-01-02-0239-fn-0002" id="GEWN-03-01-02-0239-fn-0002-ptr">2</a>Seven or Eight Tons of rich Lead ore is already raised at Middletown, and Furnace &amp;c. erecting to Smelt it;<a class="ptr" href="#GEWN-03-01-02-0239-fn-0003" id="GEWN-03-01-02-0239-fn-0003-ptr">3</a> In Woodbury another Rich Lead Mine is discovered formerly it was begun to be worked, but some controversy about the property of it &amp; contention among the people prevented its progress.</p>
+<p>There is no doubt of beds of Sulphur to be foundOur People are busy in making Petre<a class="ptr" href="#GEWN-03-01-02-0239-fn-0004" id="GEWN-03-01-02-0239-fn-0004-ptr">4</a>I have enclosed for your Observation the Intelligence received from Brig. Genl Wooster.<a class="ptr" href="#GEWN-03-01-02-0239-fn-0005" id="GEWN-03-01-02-0239-fn-0005-ptr">5</a></p>
+<p>Since writing above have received and enclosed for your Notice the Intelligence from Tyconderoga;<a class="ptr" href="#GEWN-03-01-02-0239-fn-0006" id="GEWN-03-01-02-0239-fn-0006-ptr">6</a> youl receive this by hand of our Mutual good Friends Colo. Dyer and Colo. Elderkin who will be able to inform better than I can by writing.<a class="ptr" href="#GEWN-03-01-02-0239-fn-0007" id="GEWN-03-01-02-0239-fn-0007-ptr">7</a> I am, with great Truth &amp; Sincerity Your Excellencys most Obedient and very Humble Servant</p>
+<div class="closer">
+<p class="signed">Jonth. Trumbull</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0239-sn">
+
+   <p>
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+copy, in Trumbulls writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut Historical Society, Hartford ]">CtHi</span>: Trumbull Papers;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut State Library, Hartford ]">Ct</span>: Trumbull Papers.
+
+The copy at the Connecticut Historical Society is endorsed Sent <img class="char" src="images/char-per-trans.png" alt="[per]"/> Bennet.</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0001-ptr" id="GEWN-03-01-02-0239-fn-0001">1</a>
+
+   <p>For Trumbulls request to keep at Hartford two of the eight wagonloads of gunpowder that the Continental Congress sent to the army outside Boston, see <a href="default.xqy?keys=GEWN-print-03-01-02-0200" class="document">Trumbull to GW, 12 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0002-ptr" id="GEWN-03-01-02-0239-fn-0002">2</a>
+
+   <p>For GWs request for this lead, see <a href="default.xqy?keys=GEWN-print-03-01-02-0207" class="document">GW to Schuyler</a> and <a href="default.xqy?keys=GEWN-print-03-01-02-0208" class="document">GW to Trumbull, both 14 Aug. 1775</a>. Governor Trumbull wrote to Schuyler on 17 Aug. asking him to send the lead from Ticonderoga and Crown Point to Commissary Elisha Phelps at Albany, who was to forward it to GW in the most safe and expeditious manner. Trumbull wrote to Phelps about the lead on 21 Aug. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Royal R. Hinman, comp. &lt;i&gt;A Historical Collection, from Official Records, Files &amp;amp;c., of the Part Sustained by Connecticut, during the War of the Revolution&lt;/i&gt;. Hartford, 1842. ]">Hinman, <span class="hi-italic" style="font-style: italic;">Historical Collection</span></span>, 33031). See also <a href="default.xqy?keys=GEWN-print-03-01-02-0329" class="document">Phelps to GW, 8 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0003-ptr" id="GEWN-03-01-02-0239-fn-0003">3</a>
+
+   <p>In May 1775 the Connecticut general assembly appointed a committee to take over the mine in Middletown from its private owners and work it for the benefit of the colony. The committee operated the mine until February
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0345">[345]</span>
+1778, when the general assembly, being advised that the manufacture of the ore at Middletown was unprofitable to the State, ordered the committee to discontinue any farther smelting of lead at said mine, after having finished the ore, then on hand (ibid., 183, 217, 313).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0004-ptr" id="GEWN-03-01-02-0239-fn-0004">4</a>
+
+   <p>The Connecticut general assembly in May 1775 authorized a bounty of 10 for every 50 pounds of saltpeter made from materials found in Connecticut and a bounty of 5 for every 100 pounds of sulfur manufactured within the colony (ibid., 174).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0005-ptr" id="GEWN-03-01-02-0239-fn-0005">5</a>
+
+   <p>The enclosure is a copy Trumbull made of a letter to him from Brig. Gen. David Wooster, dated 14 Aug. 1775 at the Oyster Ponds on Long Island. Woosters letter chiefly concerns a raid that a British sloop of war and two transports made on Plum Island off Orient Point on 11 Aug. and the arrest of a Tory clergyman, the Rev. James Lyon, on Long Island. Wooster also reported: I expect by thursday [17 Aug.] to be able to embark for New York (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0006-ptr" id="GEWN-03-01-02-0239-fn-0006">6</a>
+
+   <p>The intelligence consisted of copies of letters to Trumbull, dated 14 Aug. 1775, from Maj. John Brown at Crown Point, from Col. Benjamin Hinman at Ticonderoga, and from Philip Schuyler at Ticonderoga (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>). Major Browns letter describes the scouting expedition that he led into Canada between 24 July and 10 Aug. on Schuylers orders. Now sir is the time to carry Canada, Brown wrote, it may be done with great ease &amp; Little Cost, &amp; I have no doubt but the Canadians would Join us. . . . Should a large reinforcement arrive in Canada it will turn the Scale immediately the Canadians must then take up Arms or be ruinedit Seames that some evil Planit has reigned in this Quarter this Year for notwithstanding the Season far advanced &amp; a fine opportunity presents of making ourselves masters of a Country with the greatest ease which I fear may cost us much Blood &amp; Treasure if delayedNew York have acted a Drole part &amp; are Determined to Defeat us if in their Power they have failed in Men &amp; Supplies. Colonel Hinman, whose Connecticut regiment had been placed under Schuylers command, was also critical of the New Yorkers in his letter. The Province of New York abounds with Officers, he reported, but I have not had my Curiosity gratified by the sight of one Private. He feared that New York would not supply the tents it had promised for his regiment, and he reported that many of his men were too ill to do duty. Hinman hoped, nevertheless, soon to be employed in Action. Schuyler was clearly determined to gratify that desire. I hope the Provincial Congress of this Colony will make no Delay in forwarding Col. Hinmans Tents, Schuyler wrote to Trumbull, as I propose moving in a few days, altho. not so strong as I cod wish, &amp; very indifferently appointed. Shod the Tents not arrive in Time, Col. Hinmans People will suffer much, &amp; so will Col. [James] Eastons.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0239-fn-0007-ptr" id="GEWN-03-01-02-0239-fn-0007">7</a>
+
+   <p>Both of these residents of Windham, Conn., were lawyers and leading members of the Susquehanna Company, and both served on the Connecticut council. Eliphalet Dyer (17211807) was well acquainted with GW from serving with him in the First and Second Continental Congresses. He had come home during Congresss August recess and apparently visited GWs camp before
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0346">[346]</span>
+returning to Philadelphia for the reconvening of Congress in September. A Connecticut colonel during the French and Indian War, Dyer did not seek a commission in the Continental army but remained in Congress for much of the war, taking a particular interest in military matters. Jedediah Elderkin (17171793) was commissioned colonel of the 15th Regiment of Connecticut militia in May 1775, but it was as a procurer of munitions and other supplies for the army, not as a field commander, that he contributed most to the American cause. A silk producer as well as a lawyer before the war, Elderkin undertook a very different type of manufacturing in December 1775 when he joined Nathaniel Wales, Jr., in erecting a powder mill at Windham. In the spring of 1776 the Connecticut general assembly paid the two men 30 for 1,000 pounds of gunpowder which they had made. Elderkin was also involved in the manufacture of cannon in Connecticut, the building of a powder magazine for the colony, the purchase of military clothing and tents, the planning of fortifications at New London, and the care of prisoners of war.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0239 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0238" title="From Joseph Palmer, 21 August 1775 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0240" title="General Orders, 22 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

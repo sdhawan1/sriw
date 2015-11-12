@@ -1,0 +1,180 @@
+From C. W. F. Dumas [document with translation]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From C. W. F. Dumas [document with translation]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/ADMS.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-12-02-0181&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-12-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0180" title="To Mr. Bergsma, 5 March 1782"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-12-02-0182" title="From Robert R. Livingston, 5 March 1782"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"><a class="point-down" href="?keys=ADMS-print-06-12-02-0181-0001" title="From C. W. F. Dumas, 5 March 1782"></a></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-12&amp;mode=TOC">Volume 12, October 1781April 1782</a>&gt; <a href="?keys=ADMS-print-06-12-02&amp;mode=TOC">Papers of John Adams</a>&gt; From C. W. F. Dumas [document with translation]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=ADMS-print-06-12-02-0181&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0180" title="To Mr. Bergsma, 5 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0182" title="From Robert R. Livingston, 5 March 1782"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0291">291</span><div id="PJA12tg24" class="transgroup">
+
+<div id="PJA12d210" class="doc letter">
+
+<h2>From C. W. F. Dumas</h2>
+
+<div class="docbody" xml:lang="fra">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Monsieur</td>
+		  <td class="salutationRight">Lahaie 5e. Mars 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Quoique jaie lou des Chambres ici pour moi, et que mon Epouse et ma fille ayent pris des mesures pour passer lEt  la Campagne et lhiver  Gertrudemberg, cela ne nous empchera point dentrer de tout notre coeur dans le projet que vous proposez; et nous nous promettons den rendre lexcution aussi agrable et avantageuse pour V. Exc quelle le sera pour nous. Jen serai quitte pour payer une anne de mes chambres, et quelque ddommagement  ceux qui avoient pris des mesures pour loger ma famille cet hiver, et ma femme, pour reculer et abrger son voyage  la Campagne. Revtue chez vous de lautorit quy auroit Madame Adams sur les Domestiques, elle saura trs-bien tenir toute la maison en ordre, et faire ensorte quune juste oeconomie vous fasse autant et plus dhonneur que la dissipation, qui nest que trop ordinaire dans dautres maisons.</p>
+<p>Quant aux appartemens, je suis sr quil y en aura assez et de reste pour nous tous dans lHotel, indpendamment de ceux que vous rserverez pour votre usage, et pour recevoir du monde.</p>
+<p>Comme nous nous sommes rduits depuis plusieurs annes  une seule Servante pour tout Domestique dans notre Mnage, notre ac-<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0292">[292]</span>cession, Monsieur, au vtre naugmentera le nombre des vtres tout au plus que de cette fille. Je dis tout au plus: car, aprs que tout sera rgl dans la maison nous pensons que le nombre auquel vous vous tes born  Amsterdam, pourra suffire.</p>
+<p>Au reste cet arrangement l, et celui des Chambres, pourra beaucoup mieux se faire de bouche, que par Lettres. Nous esprons donc que vous pourrez, le plutt le mieux, venir faire un tour ici. Vous verrez alors la maison avec mon Epouse, et quand elle saura vos intentions et votre got, tout sarrangera en consquence. Votre prsence dailleurs est desire par lAmbassadeur, qui a reu votre derniere Lettre, et qui ne pourra rpondre en dtail que de bouche. Ainsi la rponse quil vous fera par Lettre ne sera quen termes gnraux. Je vous dirai en attendant, que depuis votre dernier voyage ici les choses ont chang de face, par la dmarche relle que L.H.P. ont faite le 22 du mois pass, en communiquant formellement Les vtres de May et Janvier dernier aux Etats dHollande, qui les ont prises ad referendum comme jai eu lhonneur de vous le marquer. Ainsi les Etats-Gnraux ne sont plus en faute; et quand nous prsenterions vingt Mmoires prsentement, ils allegueroient toujours, quils nont pas encore les Instructions de leurs Commettants pour les recevoir. Il convient donc de tenir vis--vis deux la mme conduite que tient lAmbr. de la part de sa Cour, et de voir le tour que prendront les choses en Frise, et en Hollande, puisque votre admission est sur le tapis dans cette derniere, et, selon toute apparence, actuellement rsolue dans la premiere. En attendant, rien nempche que vous ne veniez soutenir ici le caractere annonc, jusqu-ce quon ose dire non: ce qui narrivera pas.</p>
+<p>Rien ne sera achet pour lhtel, que vous ne layez vu et approuv. Jai pris le fourneau: et jai dit  lhomme de la Tenture, quon nen a pas besoin. Il ne sera pas touch non plus  rien, jusqu-ce que vous ayiez vu et ordonn vous-mme les rparations que vous jugerez ncessaires. Il nest pas possible mme dy rien toucher, puisque le transport ne peut se faire quau 1er. May: et alors vous viendrez vous-mme loccuper. Jajouterai, que dans la dpense journaliere mme il ne se fera rien que vous nayiez rgl davance, et que nous ferons ensorte que vous puissiez voir de semaine en semaine ou toutes les fois que vous le souhaiterez, les comptes en regle dans un Livre. En un mot, nous partirons en honntes gens du 1er principe de toute socit grande ou petite, de fonder notre bonheur sur le vtre, tant que nous aurons lhonneur<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0293">[293]</span> et la satisfaction de demeurer et vivre avec Votre Exce. Recevez-en, Monsieur, ma parole, et celle de mon Epouse. Lexprience la ratifiera dans tous les dtails sans exception.</p>
+<p>Revenons au politique. Je souhaitte que ce que lon vous a appris de la Gueldre ne soit point exagr: elle est encore trop peu  elle-mme, pour compter absolument sur ce quelle pourra rsoudre. Les rsolutions de la Frise, et de la Hollande sont plus prs de la maturit. Laissons-les y parvenir au grand air, sans les mettre en Serre. Nous en aurons le fruit  meilleur march.</p>
+<p>Mardi prochain les Etats dHollande reviennent ici; et le Jeudi suivant 7e sera le jour remarquable o se terminera la grande altercation domestique. Vous pourrez tre tmoin, Monsieur, de la maniere dont cela finira, si vous venez ici.</p>
+<div class="closer">
+<p class="salute">Mon Epouse et ma fille prsentent leurs respects  V. Exce. Je suis avec celui qui vous est vou pour toujours Monsieur Votre trs-humble &amp; trs-obissant serviteur</p>
+<p class="signed">Dumas</p>
+</div>
+<div class="postscript">
+<p>P.S. Le Secretaire de M. le Duc de la Vauguyon vient de mavertir, quil a mis au chariot de Poste parti dici pour Amsterdam aujourdhui  1 heure, une Lettre de son Excellence pour Vous; si on ne vous la porte ce soir, il faudra la faire chercher et rclamer au Bureau du Chariot de Poste  Amsterdam.</p>
+</div>
+</div>
+</div>
+<div id="PJA12d211" class="trans letter">
+
+ <h2>C. W. F. Dumas to John Adams: A Translation</h2>
+ 
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft">Sir</td>
+		  <td class="salutationRight">The Hague, 5 March 1782</td>
+		</tr>
+      </table>
+</div>
+<p>Although I have rented rooms here, and my wife and daughter have taken steps to spend the summer in the country and the winter in Geertruidenberg, we will not be prevented from starting wholeheartedly your proposed project. We promise to execute it as agreeably and advantageously for your Excellency as if it were being done for ourselves. I will be in the clear to pay for my rooms for a year and for whatever necessary compensation to those who had taken measures for my family lodgings this winter, and my wife, to push back and shorten her trip to the country. Armed with the authority that Mrs. Adams would have over the servants, she will know very well how to put the house in order and do it with an economy that will give you more honor than unnecessary expenditure, which is all too commonplace in other houses.</p>
+<p>As for the rooms, I am certain that they will be adequate for all of us in the house, independent of those reserved for your use and for your guests.</p>
+<p>Since we have been reduced to a single servant for all of our housework for several years, our addition, sir, will not increase the number of your<span class="pb" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0294">[294]</span> servants by more than this one girl at the very most. I say this because after you are settled in, we think you will only need the same number that you were limited to in Amsterdam.</p>
+<p>The rest of the arrangement and that of the rooms can be better discussed in person than by letter. We hope, therefore, that you can come here, the sooner the better. You will see the house with my wife and when she knows your intentions and your taste, everything will be arranged as a result. Moreover, the ambassador wishes your presence here in order to respond in detail to your last letter, which can only be done in person. The written answer that he is sending you will therefore be in very general terms. Meantime, I will say to you, that since your last trip here, things have changed as a result of the demarche made on the 22nd of last month by Their High Mightinesses, formally communicating yours of last May and January to the States of Holland who, as I had the honor to mention to you, took them ad referendum. Therefore, the States General are no longer at fault, and if we should now present twenty memorials, they would still cite the fact that they still have not received instructions by their agents to receive them. It is advisable to follow the same conduct toward them as that of the ambassador toward his court and to see how things progress in Friesland and in Holland, since your admission is on the carpet in the latter, and in all probability, is resolved in the former. Meantime, nothing prevents you from coming here to uphold your announced capacity until someone dares to say no, which will not happen.</p>
+<p>Nothing will be bought for the house without your approval. I took the stove but told the man with the window coverings that we did not need them. Nothing more will be done until you yourself have seen and arranged for the necessary repairs. It is not possible to do anything anyway since the transfer of the house is not until the 1st of May, at which time you will be occupying it. I will add, that even in daily expenses, there will be nothing that you have not settled in advance, and we will make certain that you can see an orderly account book from week to week, or whenever you wish. In a word, from this point forward we will be decent people of the highest principle in all levels of society, able to base our happiness on yours as soon as we will have the honor and satisfaction of residing with your Excellency. The experience will confirm this in all the details without exception.</p>
+<p>Let us get back to politics. I hope that what you learned of Gelder is not exaggerated. It is still too newly formed to be relied on for a resolution. The resolutions of Friesland and Holland are closer to maturity. Let us leave them to reach it in the open air without putting them in a greenhouse. We will have fruit at a better price.</p>
+<p>Next Tuesday the States of Holland return here, and the following Thursday will be the remarkable day that ends the great domestic altercation. You can witness, sir, how it finishes if you come here.</p>
+<div class="closer">
+<p class="salute">My wife and daughter present their respects to your Excellency. I am, with those who are devoted to you forever, sir, your very humble and very obedient servant</p>
+<p class="signed">Dumas</p>
+</div>
+<span class="pb center" title="page number in print edition (no page scan available)" id="ADMS-06-12-02-pb-0295">[295]</span>
+<div class="postscript">
+<p>P.S. The Duc de La Vauguyons secretary just alerted me that a letter from his Excellency to you was sent by todays mail wagon departing for Amsterdam at 1 oclock. If it is not brought to you this evening, look for it at the post office in Amsterdam.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="PJA12d211sn1">
+<p>
+<span class="docSource"><span class="dType"><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipients copy (A recipients copy is assumed to be in the hand of the signer unless it is otherwise described.) ]">RC</abbr></span> (<span class="ref-terms">Adams Papers</span>); endorsed by John Thaxter: Mr. Dumas 5th. March 1782.</span>
+</p>
+</div>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Adams Papers Digital Edition,</span>
+      ed. C. James Taylor.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/ADMS-06-12-02-0181 [accessed 17 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Papers of John Adams, Volume 12, October 1781April 1782
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-12-02-0180" title="To Mr. Bergsma, 5 March 1782"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-12-02-0182" title="From Robert R. Livingston, 5 March 1782"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

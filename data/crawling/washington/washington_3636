@@ -1,0 +1,169 @@
+From Jonathan Trumbull, Sr., 11 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Trumbull, Sr., 11 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-01-02-0194&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1775-08-11-6">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0193" title="From a Committee of the Massachusetts Council, 11 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-01-02-0195" title="To Lund Washington, 11 August 1775 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-01&amp;mode=TOC">Volume 1 (16 June 177515 September 1775)</a>&gt; <a href="?keys=GEWN-print-03-01-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Trumbull, Sr., 11 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-01-02-0194&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0193" title="From a Committee of the Massachusetts Council, 11 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0195" title="To Lund Washington, 11 August 1775 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0293">293</span><div id="Rev01d182" class="doc">
+
+<h1>From Jonathan Trumbull, Sr.</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Lebanon [Conn.] 11th Augt 1775</td>
+	      </tr>
+      </table>
+</div>
+<p>Yesterday 12 Oclo. received your Letter <img class="char" src="images/char-per-trans.png" alt="[per]"/> Majr Johnson.<a class="ptr" href="#GEWN-03-01-02-0194-fn-0001" id="GEWN-03-01-02-0194-fn-0001-ptr">1</a></p>
+<p>Immediately gave the necessary Directions, Some Companies I ordered to New London; others to New-HavenColo. Webb with the Companies that way if not marched to take his Station at Greenwich<a class="ptr" href="#GEWN-03-01-02-0194-fn-0002" id="GEWN-03-01-02-0194-fn-0002-ptr">2</a>Same day at 11 Oclo. received a Letter from Brigr General Wooster, dated the 9th at the Oyster Ponds on
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0294">[294]</span>
+Long Island, he had with him 450 men besides Militia, designing to preserve the Stock at that PlaceThe Ships were then plundering Gardiners IslandThe People on the Island had left itHe applied to me for 300 lb. Powder<a class="ptr" href="#GEWN-03-01-02-0194-fn-0003" id="GEWN-03-01-02-0194-fn-0003-ptr">3</a>before I had made my Answer and Order for the Powderwhich I gave notwithstanding Our exhausted ConditionOn receipt of yours inserted an Extract from it for his Observation.</p>
+<p>I am informed a Quantity of Powder for the Camp is to be at Hartford this Evening, and more to follow Soon<a class="ptr" href="#GEWN-03-01-02-0194-fn-0004" id="GEWN-03-01-02-0194-fn-0004-ptr">4</a>We have none lately arrived, which is daily expectedI request your Direction that of the Next quantity that comes to Hartford there may be lodged there so much as you shall judge ExpedientIf what is expected do arrive in the mean Time Shall have no occasion to use your Allowance. I am, most respectfully SirYour most Obedient very humble Servant</p>
+<div class="closer">
+<p class="signed">Jonth. Trumbull</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-01-02-0194-sn">
+
+   <p>
+
+<abbr>ALS,</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>;
+
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut State Library, Hartford ]">Ct</span>: Trumbull Papers.
+
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0194-fn-0001-ptr" id="GEWN-03-01-02-0194-fn-0001">1</a>
+
+   <p>The letter was the one that GW wrote to Trumbull on 9 Aug. 1775. Obadiah Johnson served as major of the 3d Connecticut Regiment from 1 May to 16 Dec. 1775. He was lieutenant colonel of Col. Andrew Wards Connecticut state regiment between May 1776 and May 1777 and later became a colonel in the Connecticut militia.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0194-fn-0002-ptr" id="GEWN-03-01-02-0194-fn-0002">2</a>
+
+   <p>For a fuller account of Trumbulls stationing of various companies from Col. Charles Webbs and Col. Jedediah Huntingtons regiments along the Connecticut coast to oppose any possible British landing there or at New York, see <a href="default.xqy?keys=GEWN-print-03-01-02-0364" class="document">Trumbull to GW, 15 Sept. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0194-fn-0003-ptr" id="GEWN-03-01-02-0194-fn-0003">3</a>
+
+   <p>By the request of the Provincial Congress of New York, David Wooster wrote to Trumbull on 9 Aug. 1775, I yesterday embarked from New York with four hundred and fifty men, and this afternoon arrived here [the Oyster Ponds], We find that the Inhabitants are in great need of powderThere is none in New York, I spared two Hundred weight from my own Stock which was forwarded from New York to this place for the use of the York Provincials who were stationed here, of consequence our Stock is reduced to about twenty rounds a manThe Regulars have taken the Cattle Sheep &amp;c from Fishers Island &amp; this day have employed themselves in the same business on Gardners Island, when they have got through with that we may expect them upon thisI beg that your honour would with the greatest expedition possible forward to me, three hundred weight of powder, which I hope will be sufficient for the present exigency both for our own Troops and the Militia here (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 1:1105). The Oyster Ponds were near Orient Point on the eastern end of Long Island.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-01-02-0194-fn-0004-ptr" id="GEWN-03-01-02-0194-fn-0004">4</a>
+	
+   <p>This was the 6 tons of gunpowder which the Continental Congress on 25 July ordered to be sent from Philadelphia to Cambridge. See <a href="default.xqy?keys=GEWN-print-03-01-02-0135&amp;expandNote=GEWN-03-01-02-0135-fn-0003#GEWN-03-01-02-0135-fn-0003" class="document">Richard
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-01-02-pb-0295">[295]</span>
+Henry Lee to GW, 1 Aug. 1775, n.3</a>, and <a href="default.xqy?keys=GEWN-print-03-01-02-0178&amp;expandNote=GEWN-03-01-02-0178-fn-0003#GEWN-03-01-02-0178-fn-0003" class="document">Trumbull to GW, 8 Aug. 1775, n.3</a>. For the arrival of the gunpowder at Cambridge, see <a href="default.xqy?keys=GEWN-print-03-01-02-0207" class="document">GW to Schuyler, 14 Aug. 1775</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-01-02-0194 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 1 (16 June 177515 September 1775)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-01-02-0193" title="From a Committee of the Massachusetts Council, 11 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-01-02-0195" title="To Lund Washington, 11 August 1775 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

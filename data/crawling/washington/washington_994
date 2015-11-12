@@ -1,0 +1,214 @@
+From Robert Dinwiddie, 10 December 1756
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Robert Dinwiddie, 10 December 1756</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-04-02-0026-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1750-1756-12-10-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-04-02-0026&amp;mode=TOC" title="From Robert Dinwiddie [document with enclosures]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-04-02-0026-0002" title="Enclosure: Minutes of the Council, 9 December 1756"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-04&amp;mode=TOC">Volume 4 (9 November 175624 October 1757)</a>&gt; <a href="?keys=GEWN-print-02-04-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=GEWN-print-02-04-02-0026&amp;mode=TOC">From Robert Dinwiddie [document with enclosures]</a>&gt; From Robert Dinwiddie, 10 December 1756</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-04-02-0026-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0026-0002" title="Enclosure: Minutes of the Council, 9 December 1756"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0050">50</span><div id="Col04d26" class="doc">
+
+<h2>From Robert Dinwiddie</h2>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Williamsburg Decr 10th 1756</td>
+	      </tr>
+      </table>
+</div>
+<p>Your Letter of the 2d by Jenkins I recd two Days ago, &amp; observe its Contents, the Return of Your Strength at Fort Loudoun suprizd me, when I considerd that Capt. Mercer declared to the two Mr Nelsons<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0001" id="GEWN-02-04-02-0026-0001-fn-0001-ptr">1</a> &amp; the Speaker, that You had there 160 enlisted Men, which with the fifty Servants recruited after, I thought You might have marchd 100 Men from thence for reinforcing Fort Cumberland, &amp; left a sufficient Garison at Fort Loudoun; but as Capt. Mercers Information was wrong, I on receipt of Yr Letter, calld the Council, not caring to act in an Affair of that Consequence without their Advice. Copy of the Minute of Council You have enclosd;<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0002" id="GEWN-02-04-02-0026-0001-fn-0002-ptr">2</a> by which You may observe, that its thought absolutely necessary to reinforce Fort Cumberland; at same Time to leave a proper Garison at Winchester; in order thereto its further thought proper to call in the Forces from the Stockade Forts, to qualify You to march a proper Number of Men to Fort Cumberland, &amp; to leave a proper Garison at Fort Loudoun with Officers suitable also to appoint a Person to command, who may continue the Finishing of that Fort, to employ Artificers for that Service, &amp; with him to leave Money to defray that Expence, paying for Waggons &amp; any other contingent Charges; to be accountable to You, by producing Vouchers for his Payments, which I think will answer the same as if You was personally present.</p>
+<p>I am glad the Stores of every kind are brought from Fort Cumberland, excepting those indispensably necessary to be left thereWhy did not You send me a particular Account of the Quality &amp; Quantity of each? which I desire You may supply me with, to be sent to Lord LoudounUpon evacuating the Stockade Forts, the Forts may be left standing for service of the Inhabitants,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0051">[51]</span>
+if they think proper to garison them with their own People.</p>
+<p>Since my last to You I recd a Letter from Ld Loudoun,<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0003" id="GEWN-02-04-02-0026-0001-fn-0003-ptr">3</a> a Paragraph thereof in regard to Fort Cumberland is as follows As to the Affair of Fort Cumberland, I own it gives me great Uneasiness, &amp; I am of the same Opinion with You, that it was very material to have supported that Fort this Winter, &amp; after that, we coud easily have made it a better Post than ever it has been, from what I hear of it; I cannot agree with Co. Washington in not drawing into him, the Posts from the Stockade Forts, in order to defend that advancd one; &amp; I shoud imagine, much more of the Frontier will be exposd, by retiring Your advancd Posts near Winchester, where I understand he is retired, for from Your Letter, I take it for granted that he has before this, executed his Plan, without waiting for any Advice; If he leaves any of the great Quantity of Stores behind, it will be very unfortunate; &amp; he ought to consider, that it must lie at his own DoorThis Proceeding, I am affraid will have a bad Effect as to the Dominion: &amp; will not have a good Appearance at Home.</p>
+<p>By which You may observe his Opinion in keeping up that Fort; no doubt he has been informd from some of the Officers the Situation &amp; Consequence thereof.<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0004" id="GEWN-02-04-02-0026-0001-fn-0004-ptr">4</a></p>
+<p>Mr Walker has been here lately, who says his Assistant, Mr Rutherford, has contracted for Flour sufficient for 1000 Men for twelve Months; &amp; no doubt Mr Walker is with You before this, with whom consult for Supplies to Fort CumberlandAnd I hope from the above Regulation You will be able to leave so many in Garison at Fort Loudoun as to afford a proper Convoy for Provisions, &amp; on occasion a Number may be sent from Fort Cumberland to meet them on the RoadIt gives me Pleasure that going to Fort Cumberland is so agreeable to You, as without Doubt its the proper Place for the Commanding Officer.</p>
+<p>There were many Indian Goods left by Co. Innis at the Fort,<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0005" id="GEWN-02-04-02-0026-0001-fn-0005-ptr">5</a> enquire into the Distribution of them, &amp; what remains order a particular Account of them, to be sent me, to be compared with the Invoice left by him.</p>
+<p>You may observe that its thought absolutely necessary to support Fort Cumberland &amp; Fort Loudoun with a proper Number
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0052">[52]</span>
+of Officers &amp; Men, which I expect You will give due Attention to &amp; give Your Orders accordingly.</p>
+<p>I am sorry the Catawbas only propose staying one Moon longer, I hope You will be able to prevail with them to stay the Winter; You do well in giving them good Usage, it is also my fixd Inclination; but their Demands are unreasonable, let them know that for the Cherokees, consistg of forty Men, I bought only two Horses to carry their Baggage;<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0006" id="GEWN-02-04-02-0026-0001-fn-0006-ptr">6</a> Soldiers march on Foot, if they want one or two Horses You may purchase themThere are some Goods in Augusta under the Care of Majr Lewis, from thence they may have some Supplies: I proposd sending Lieut. McNeil to command the Men for the Garison built in the Cherokee Country; if the Catawbas will not remain longer, is not he a proper Person, with an Interpreter, to convey them Home? by his return probably shall have occasion to send out the Men as above.<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0007" id="GEWN-02-04-02-0026-0001-fn-0007-ptr">7</a></p>
+<p>As to Silver Trinkets for Wrists &amp; Arms, they were never given but to the Chief Warrior of the Party; but if they are determind to go, let them known on their return, I shall oblige them with every Thing in my Power thats reasonable; And write Majr Lewis to supply them with Necessaries for the present from the Goods under his Care.</p>
+<p>If You have paid the Masters of the Servants You have enlisted from the Money in Your Hands, send down an Account thereof, &amp; I will give a Warrant for the amount to Your Order. I hope the Cherokees are with You before this; &amp; Arms for the Catawbas, Majr Lewis having my Orders to that purport.<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0008" id="GEWN-02-04-02-0026-0001-fn-0008-ptr">8</a></p>
+<p>Since writing the above, I recd Yours of the 4thThe Villainy of McCarty is without Precedent, &amp; I think he shoud be taken into Custody to answer for his Intentions to encourage a Desertion from the Regiment, &amp; on Tryal &amp; Proof will undoubtedly be severely punishdHe applied to me for his Discharge from the Regiment, which I told him I woud not grant, but if You dischargd him I woud approve of it; after that he applied for a Commission to enlist Men for the Royal Americans, but if I had known his Intention he shoud not have obtaind the Commission. If Capt. Mercer shoud be so lucky to apprehend the deserters, I think an Example shoud be made of two of the Ringleaders, to be shot, after being properly tried,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0053">[53]</span>
+which I now impower You to do; or the whole to take their Chance by throwing the Dice, one or two of them to suffer for Example &amp; Terror to others.</p>
+<p>In the mean Time I desire You will in my Name recall my Commission from McCarty, I know not where to write him, but if at Alexandria, our Friend Co. Fairfax will do the Necessary, &amp; I desire You to write him accordingly.</p>
+<p>I have some Petitions from the Inhabitants of Winchester &amp; Frederick County, which I cannot comply with, as Your last Orders are by Advice of the Council &amp; agreeable to Lord Loudouns Opinion, which I desire You strictly to comply with; but on the Regulation sent You they will have no Reason to complain; as a proper Garison is directed to be left at Winchester, &amp; I hope that Step will be agreeable to the Inhabitantsthey shoud not know any Thing of the Orders sent You till ready to be put in executionI remain with Respect Sir Your most humble Servt</p>
+<div class="closer">
+<p class="signed">Robt Dinwiddie</p>
+</div>
+<div class="postscript">
+<p>P.S. The enclosd Letter for McCarty forward by a safe Opportunity.<a class="ptr" href="#GEWN-02-04-02-0026-0001-fn-0009" id="GEWN-02-04-02-0026-0001-fn-0009-ptr">9</a> I wish You may get all the Men McCarty has enlisted.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-04-02-0026-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0001-ptr" id="GEWN-02-04-02-0026-0001-fn-0001">1</a>
+
+   <p>The brothers Thomas Nelson (17151787) and William Nelson (17111772), from York County, were at this time both members of the colonys council.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0002-ptr" id="GEWN-02-04-02-0026-0001-fn-0002">2</a>
+
+   <p>The Minutes of the Council for 9 Dec. 1756 are printed as an enclosure to this letter.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0003-ptr" id="GEWN-02-04-02-0026-0001-fn-0003">3</a>
+
+   <p>According to the enclosure, Loudouns letter was dated 25 Oct. 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0004-ptr" id="GEWN-02-04-02-0026-0001-fn-0004">4</a>
+
+   <p>There is room for suspicion that Dinwiddie was being disingenuous. Loudoun may well have written the paragraph quoted here in response to a passage from Dinwiddies letter to Loudoun of 6 Oct. 1756, which reads in part: Co. Washington who Commands the Regiment in pay of this Domn has wrote me several Letters in regd to Ft Cumberland that whereas the Inhabits. have abandd their Plantats. for near 50 M. below that Ft he says the supportg it with Proviss. is attendd with great Risque from flyg Parties of the En[em]y interceptg the Convoys &amp; further says that 2 or 300 of the Eny will be sufficient to take that Ft &amp; he has reason to believe they intend very soon to attack it he therefore desires Orders to transpt all the Ammunitn &amp;ca to Ft Loudoun which is at Winchester &amp; which he conceives will be our Frontier; I wrote him I was greatly against leavg any of our Forts as it wd encourage the Enemy &amp; at same Time make em conceive we are in fear of em . . . but three Days ago I had a Lr from him that he thinks it will be too late to wait for Yr Lordships
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-02-04-02-pb-0054">[54]</span>
+Orders as they are inf[orme]d of a strong Party intendg to besiege em &amp; that they are not well supported to maintn a Siege havg only 170 Men at that Ft (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0005-ptr" id="GEWN-02-04-02-0026-0001-fn-0005">5</a>
+
+   <p>GW disclaimed any knowledge of Indian goods left at Fort Cumberland by Col. James Innes, in <a href="default.xqy?keys=GEWN-print-02-04-02-0037" class="document">his letter to Dinwiddie, 19 Dec. 1756</a>. There is, however, in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> a return dated 24 Sept. 1755 (misfiled under 1756) entitled: Provisions &amp; Stores on Account of the Expedition at Winchester. It is signed by Charles Dick and reports several boxes of assorted Indian goods. There is also a return of Indian goods at Fort Cumberland in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span> dated 24 Dec. 1756. Col. James Innes of North Carolina was made governor of Fort Cumberland by General Braddock in June 1755. He left the fort in the fall of 1755 and returned in May 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0006-ptr" id="GEWN-02-04-02-0026-0001-fn-0006">6</a>
+
+   <p>Dinwiddie may be referring to the party of Cherokee that was in Williamsburg in April 1756.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0007-ptr" id="GEWN-02-04-02-0026-0001-fn-0007">7</a>
+
+   <p>On 25 Dec. 1756 Dinwiddie wrote John McNeill: On Return of the Message to the Cherokees, I proposd yo. to go Cap. of the fort built there with 40 or 50 Men, but shall here after write yo. on that head (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). Dinwiddie changed his mind about sending McNeill with the Catawba (see <a href="default.xqy?keys=GEWN-print-02-04-02-0054" class="document">Dinwiddie to GW, 26 Jan. 1757</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0008-ptr" id="GEWN-02-04-02-0026-0001-fn-0008">8</a>
+
+   <p>Dinwiddie wrote Andrew Lewis on 13 Nov. 1756: The Cherokee Inds. with Ct. Pearis &amp; his Men You are to order em to join Co. Washington at Winchester (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). See also <a href="default.xqy?keys=GEWN-print-02-03-02-0377" class="document">Lewis to GW, 28 Oct. 1756</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-02-04-02-0026-0001-fn-0009-ptr" id="GEWN-02-04-02-0026-0001-fn-0009">9</a>
+
+   <p>The actual letter to Denis McCarty which Dinwiddie enclosed has not been found, but there is in Dinwiddies letter book the following copy, dated 10 Dec. 1756:</p>
+
+
+   <p>Sir,</p>
+
+
+   <p>You have acted unworthy the Como. I gave You, to recruit Men for the Royal Am[erican]s by an underhand, unjust, &amp; vile Manner endeavourg to perswade the Men in the Virga Regiment to desert that You may have the Opportunity of enlisting emas this apps. to me by the Affidavit of three Persons I shall take proper Care to prosecute You thereon; In the mean time by this Lr I recall the Como. given You for recruitg &amp; never hearafter expect any Favo. from R: D. (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Virginia Historical Society, Richmond ]">ViHi</span>: Dinwiddie Papers). Dinwiddie wrote McCarty in quite a different tone, however, on 23 Dec. 1756. See <a href="default.xqy?keys=GEWN-print-02-04-02-0030&amp;expandNote=GEWN-02-04-02-0030-fn-0003#GEWN-02-04-02-0030-fn-0003" class="document">Dinwiddie to GW, 15 Dec. 1756, n.3</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-04-02-0026-0001 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 4 (9 November 175624 October 1757)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-04-02-0026-0002" title="Enclosure: Minutes of the Council, 9 December 1756"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,285 @@
+To John Hancock, 7–9 March 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To John Hancock, 79 March 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0309&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-03-07-3">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0308" title="General Orders, 7 March 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0310" title="From Lieutenant Colonel Joseph Reed, 7 March 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; To John Hancock, 79 March 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0309&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0308" title="General Orders, 7 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0310" title="From Lieutenant Colonel Joseph Reed, 7 March 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0420">420</span><div id="Rev03d285" class="doc">
+
+<h1>To John Hancock</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Cambridge March 7[-9].<a class="ptr" href="#GEWN-03-03-02-0309-fn-0001" id="GEWN-03-03-02-0309-fn-0001-ptr">1</a> 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>On the 26 Ulto I had the honour of addressing you and then mentioned that we were making preparations for taking possession of Dorchester Heights. I now beg leave to Inform you, that a Council of General Officers having determined a previous Bombardment &amp; Cannonade expedient and proper, in order to harrass the Enemy and divert their attention from that Quarter, on Saturday, Sunday and Monday nights last, we carried them on from our Posts at Cobble Hill, Letchmores Point &amp; Lams Dam<a class="ptr" href="#GEWN-03-03-02-0309-fn-0002" id="GEWN-03-03-02-0309-fn-0002-ptr">2</a>Whether they did the Enemy any considerable &amp; what Injury, I have not yet heard, but have the pleasure to acquaint you, that they greatly facilitated our Schemes, and woud have been attended with success equal to our most sanguine expectations, had It not been for the unlucky bursting of Two Thirteen &amp; three Ten Inch Mortars, among which was the Brass one taken in the Ordnance Brigg<a class="ptr" href="#GEWN-03-03-02-0309-fn-0003" id="GEWN-03-03-02-0309-fn-0003-ptr">3</a>To what cause to attribute this misfortune I know not, whether to any defect in them, or to the Inexperience of the Bombardiers. But to return, on Monday Evening as soon as our firing commenced, a considerable detachment of our men under the command of Brigadier General Thomas crossed the Neck and took possession of the Two Hills without the least interruption or annoyance from the Enemy, and by their great activity and Industry before the morning advanced the Works so far, as to be secure against their Shot<a class="ptr" href="#GEWN-03-03-02-0309-fn-0004" id="GEWN-03-03-02-0309-fn-0004-ptr">4</a>They are now going on with such expedition that in a little time I hope they will be compleat, and enable our Troops stationed there, to make a vigorous and
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0421">[421]</span>
+Obstinate standduring the whole Cannonade, which was Incessant the last two nights, we were fortunate enough to lose but two men, One a Lieutenant by a Cannon Balls taking off his thigh, the other a private by the explosion of a shell which also slightly wounded four or five more.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0005" id="GEWN-03-03-02-0309-fn-0005-ptr">5</a></p>
+<p>Our taking possession of Dorchester Heights is only preparatory to taking Post on Nuke Hill and the points opposite the South end of Boston<a class="ptr" href="#GEWN-03-03-02-0309-fn-0006" id="GEWN-03-03-02-0309-fn-0006-ptr">6</a>It was absolutely necessary that they should be previously fortified in order to cover and command themAs soon as the Works on the former are finished and compleat, measures will be immediately adopted for Securing the latter and making them as strong and defensible as we cantheir contiguity to the Enemy will make them of much Importance and of great service to us.</p>
+<p>As Mortars are essential and Indispensably necessary for carrying on our operations &amp; for the prosecution of our plans, I have applied to Two Furnaces to have some thirteen Inch ones cast with all expedition Immaginable, and am encouraged to hope from the Accounts I have had, that they will be able to do ItWhen they are done, and a proper supply of Powder Obtained, I flatter myself from the Posts we have just taken &amp; are about to take, that It will be in our Power to force the Ministerial Troops to an attack, or to dispose of em in some way that will be of advantage to usI think from these Posts they will be so galled and annoyed, that they must either give us Battle or quit their present possessions. I am resolved that nothing on my part shall be wanting to effect the one or the other.</p>
+<p>It having been the General opinion that the Enemy woud attempt to dislodge our people from the Hills and force their works as soon as they were discovered, which probably might have brought on a General Engagement, It was thought advisable that the Honorable Council shoud be applied to, to order in the Militia from the Neighbouring &amp; Adjacent TownsI wrote them on the Subject, which they most readily complied with, and in justice to the Militia, I cannot but Inform you, that they came in at the appointed Time, and manifested the greatest alertness and determined resolution, to have acted like men engaged in the cause of Freedom.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0007" id="GEWN-03-03-02-0309-fn-0007-ptr">7</a></p>
+<p>When the Enemy first discovered our Works in the morning, they seemed to be in great confusion, and from their movements
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0422">[422]</span>
+to have Intended an Attack. It is much to be wished, that it had been madeThe event I think must have been fortunate, and nothing less than success and victory on our side, as our Officers and men appeared Impatient for the appeal, and to have possessed the most animated sentiments and determined resolution.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0008" id="GEWN-03-03-02-0309-fn-0008-ptr">8</a></p>
+<p>On Tuesday Evening a Considerable number of their Troops embarked on board of their Transports and fell down to the Castle, where part of em landed before dark; One or two of the Vessells got aground and were fired at by our people with a Feild peice but without any damageWhat was the design of this embarkation and landing, I have not been able to learn; It woud seem as If they meant an Attack, for It is most probable that If they make one on our Works at Dorchester at this time, that they will first go to the Castle and come from thenceIf such was their design, a violent Storm that night and which lasted till Eight OClock the next day, rendered the execution of It impracticableIt carried one or two of their Vessells ashore which have since got off.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0009" id="GEWN-03-03-02-0309-fn-0009-ptr">9</a></p>
+<p>In case the Ministerial Troops had made an Attempt to dislodge our Men from Dorchester Hills, and the Number detached upon the occasion had been so great as to have afforded a probability of a Successful attacks being made upon Boston, on a Signal given from Roxbury for that purpose, agreable to a Settled and concerted plan, Four thousand chosen men who were held in readiness, were to have embarked at the Mouth of Cambridge River in Two divisionsThe first under the Command of Brigadier General SullivanThe Second under Brigadier General Greene, the whole to have been commanded by Major General PutnamThe First division was to land at the Powder House &amp; gain possession of Beacon Hill &amp; Mount WhoredomThe Second at Bartons point or a little South of It, and after securing that post, to Join the other division and Force the Enemies Gates and Works at the Neck for letting in the Roxbury TroopsThree floating Batteries were to have preceded and gone in Front of the other Boats, and kept up a heavy fire on that part of the Town where our men were to Land<a class="ptr" href="#GEWN-03-03-02-0309-fn-0010" id="GEWN-03-03-02-0309-fn-0010-ptr">10</a>How far our views woud have succeeded had an Opportunity Offered for attempting the execution, is impossible for me to sayNothing less than experiment coud determine
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0423">[423]</span>
+with precisionThe plan was thought to be well digested, and as far as I coud Judge from the cheerfulness and alacrity which distinguished the Officers &amp; men who were to engage in the Enterprize, I had reasons to hope for a favourable &amp; happy Issue.</p>
+<p>The Militia which were ordered in from the Adjacent Towns, brought with them three days provisionthey were only called upon to act under the Idea of an Attacks being immediately made, and were all discharged this Afternoon.</p>
+<p>I beg leave to remind Congress, that Three Major Generals are essential and necessary for this Army, and that by General Lees being called from hence to the command in Canada, the left division is without oneI hope they will fill up the vacancy by the appointment of anotherGeneral Thomas is the first Brigadier, stands fair in point of reputation and is esteemed a brave and good Officer. If he is promoted, there will be a vacancy in the Brigadier Generals which it will be necessary to supply by the appointment of some other Gentleman, that shall be agreable to Congress; But justice requires me to mention that William Thompson Esq. of the Rifle Regiment is the first Colonel in this department, and as far as I have had an opportunity of Judging, is a good Officer and a Man of courage: What I have said of these Two Gentlemen, I conceived to be my duty, at the same time acknowledging whatever promotions are made will be satisfactory to me.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0011" id="GEWN-03-03-02-0309-fn-0011-ptr">11</a></p>
+<p>March 9. Yesterday evening a Captain Irvine who escaped from Boston the night before with Six of his Crew, came to Head Quarters and gave the following Intelligence<a class="ptr" href="#GEWN-03-03-02-0309-fn-0012" id="GEWN-03-03-02-0309-fn-0012-ptr">12</a>That our Bombardment and Cannonade caused a good deal of Surprize and alarm<a class="ptr" href="#GEWN-03-03-02-0309-fn-0013" id="GEWN-03-03-02-0309-fn-0013-ptr">13</a> in Town, as many of the Soldiery said they never heard or thought we had Mortars or Shells: That several of the Officers acknowledged they were well and properly directedThat they made<a class="ptr" href="#GEWN-03-03-02-0309-fn-0014" id="GEWN-03-03-02-0309-fn-0014-ptr">14</a> much distress and confusionThat the Cannon Shot for the greatest part went thro the Houses, and he was told, that one took of the Legs and Arms of Six men lying in the Barracks on the NeckThat a Soldier who came from the Lines there on Tuesday morning Informed him that 20 men had been wounded the night beforeIt was reported that others were also hurt, and one of the light Horse torn to peices by the explosion of a ShellThis was afterwards contradicted:<a class="ptr" href="#GEWN-03-03-02-0309-fn-0015" id="GEWN-03-03-02-0309-fn-0015-ptr">15</a>
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0424">[424]</span>
+That early on Tuesday morning Adml Shuldham discovering the works our people were throwing up on Dorchester Heights, immediately sent an Express to General Howe to inform him, and that It was necessary they shoud be attacked and dislodged from thence, or he woud be under the necessity of withdrawing the Ships from the Harbour, which were under his command: That preparations were directly made for that purpose as It was said, and from Twelve to Two OClock about 3,000 men embarked on board the Transports which fell down to the Castle with a design of Landing on that part of Dorchester next to It, and Attacking the works on the Heights at 5 OClock next morning: That Lord Piercy was appointed to commandThat It was generally beleivd the attempt would have been made, had It not been for the violent Storm which happened that night as I have mentioned beforeThat he heard several of the Privates and one or two Serjeants say as they were embarking, that It woud be another Bunker Hill affairHe further Informs that the Army is preparing to leave Boston and that they will do It in a day or twoThat the Transports necessary for their embarkation were getting ready with the utmost expeditionThat there had been great movements &amp; confusion among the Troops the night &amp; day precedg his coming out, in hurrying down their Cannon, Artillery &amp; other Stores to the wharffs with the utmost precipitation, and were putting em on board the Ships in such haste that no Account or Memorandum was taken of themThat most of the Cannon were removed from their works and embarked &amp; embarkg. That he heard a woman say which he took to be an Officers wife, that she had seen men go under the ground at the lines on the neck without returningThat the Ship he commanded was taken up, places fitted &amp; fitting for Officers to lodge, and Several Shot, Shells &amp; Cannon already on boardThat the Tories were to have the liberty of going where they please, If they can get Seamen to man the Vessells, of which there was a great scarcityThat on that account many Vessells coud not be carried away and woud be burntThat many of the Inhabitants apprehended the Town would be destroyd, And that It was generally thought their destination is Hallifax.[]</p>
+<p>The Account given by Captn Irvine as to the embarkation &amp; their being about to leave the Town I beleive true, there are
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0425">[425]</span>
+other circumstances corroborating &amp; It seems fully confirmed by a paper signed by four of the Select men of the Town, a copy of which I have the honor to Inclose you, which was brought out yesterday evening by a Flag and delivered to Colo. Learned by Major Bassett of the 10th Regiment who desired It might be delivered me as soon as possible<a class="ptr" href="#GEWN-03-03-02-0309-fn-0016" id="GEWN-03-03-02-0309-fn-0016-ptr">16</a>I advised with such of the General Officers upon the occasion as I coud be<a class="ptr" href="#GEWN-03-03-02-0309-fn-0017" id="GEWN-03-03-02-0309-fn-0017-ptr">17</a> immediately Assemble, and we determined It right, as It was not addressed to me or any one else, nor authenticated by the signature of Genl Howe or any other act obliging him to a performance of the promise mentioned on his part, that I shoud give it no Answer, at the same time that a Letter shoud be returned as going from Colo. Learned signifying his having laid It before me with the reasons assigned for not answering Ita Copy of this is sent.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0018" id="GEWN-03-03-02-0309-fn-0018-ptr">18</a></p>
+<p>Tonight I shall have a Battery thrown up on Nuke Hill (Dorchester point) with a design of acting as circumstances may requireIt being Judged advisable to prosecute our plans of Fortification as we Intended before this Information from the Select men came.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0019" id="GEWN-03-03-02-0309-fn-0019-ptr">19</a></p>
+<p>It being agreed on all hands, that there is no possibility of stopping them in case they determine<a class="ptr" href="#GEWN-03-03-02-0309-fn-0020" id="GEWN-03-03-02-0309-fn-0020-ptr">20</a> to goe, I shall order lookouts to be kept upon all the Head Lands to discover their movements &amp; course, and moreover direct Commodore Manly and his little Squadron to dog them as well for the same purpose, as for picking up any of their Vessels that may chance to depart their ConvoyFrom their loading with such precipitancy, It is presumable theyl not be in the best condition for Sea.</p>
+<p>If the Ministerial Troops evacuate the Town and leave It standing, I have thoughts of taking measures for fortifying the Entrance into the Harbour, If it shall be thought proper and the situation of affairs will admit of It.</p>
+<p>Notwithstanding the report from Boston that Hallifax is the place of their destination, I have no doubt, but that they are going to the Southward of this, and I apprehend to New Yorkmany reasons lead to this opinion; It is in some measure corroborated, by their sending an Express Ship there which on Wednesday week got on shore &amp; Bilged at Cape Codthe dispatches if written, were destroyd when she was boardedshe
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0426">[426]</span>
+had a parcel of Coal and about 4,000 Cannon Shot, Six Carriage Guns, a swivel or two &amp; 3 Barrells of Powder:<a class="ptr" href="#GEWN-03-03-02-0309-fn-0021" id="GEWN-03-03-02-0309-fn-0021-ptr">21</a> I shall hold the Riflemen and other parts of our Troops in readiness to march at a moments warning, and Govern my movements by the events that happen, or such orders as I may receive from Congress, which I beg may be ample and forwarded with all possible expedition.</p>
+<p>On the 6 Instt a Ship bound from London with Stores for the Ministerial Army, consisting of Coal, Porter &amp; Krout fell in with our Armed Vessels, four of them in Company &amp; was carried into Portsmouthshe had had a long passage &amp; of course brought us papers of a late dateThe only Letters of Importance or the least Interesting that were found, I have Inclosed.<a class="ptr" href="#GEWN-03-03-02-0309-fn-0022" id="GEWN-03-03-02-0309-fn-0022-ptr">22</a></p>
+<p>I beg leave to mention to Congress that Money is much wantedThe Militia from these Governments, engaged till the first of April are then to be paid, and If we march from hence, the expence will be very considerable, must be defrayed, and cannot be accomplished without ItThe necessity of making the earliest remittance for these purposes, is too obvious for me to add more.</p>
+<p>When I wrote that part of this Letter, which is antecedent to this date, I fully expected It woud have gone before now by Colo. Bull, not deeming it of sufficient Importance to send a Special messenger, but he deferred his return from time to time &amp; never set of till to dayThese reasons I hope will excuse the delay and be received as a proper apology for not transmitting It sooner. I have the honor to be with great respect Sir Your Most Hble Servt</p>
+<div class="closer">
+<p class="signed">Go: Washington</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0309-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr>, in Robert Hanson Harrisons writing, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+copy, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 169; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+ Congress read this letter on 15 Mar. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 4:206).</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0001-ptr" id="GEWN-03-03-02-0309-fn-0001">1</a>
+	
+   <p>In the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Signed: a letter not in the authors handwriting, but signed by the author ]">LS</abbr> and letter-book copy the number 7 is written over 6.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0002-ptr" id="GEWN-03-03-02-0309-fn-0002">2</a>
+
+   <p>For a discussion of the American cannonade of 24 Mar., see <a href="default.xqy?keys=GEWN-print-03-03-02-0274&amp;expandNote=GEWN-03-03-02-0274-fn-0009#GEWN-03-03-02-0274-fn-0009" class="document">GW to Joseph Reed, 26 Feb.9 Mar. 1776, n.9</a>. The cannonade was authorized by the council of war that met on 16 February.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0003-ptr" id="GEWN-03-03-02-0309-fn-0003">3</a>
+
+   <p>GW is referring to the British ordnance brig <span class="hi-italic" style="font-style: italic;">Nancy</span> captured in November 1775.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0004-ptr" id="GEWN-03-03-02-0309-fn-0004">4</a>
+
+   <p>An unidentified Connecticut officer reported that early on the evening of 4 Mar. a detachment consisting of about 2400 men, with 300 teams, crossed the marsh onto Dorchester Neck. The division to which I was assigned,
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0427">[427]</span>
+commanded by Col. Whitcomb, was ordered on, to the northerly hill, where in one hours time we had a fort enclosed, with fascines placed in shandelears; and we immediately employed as many men at intrenching as could be advantageously, used for that purpose. A larger party was assigned the high hill, where they erected a larger fort, built much in the same manner as ours, There were also four other smaller forts and batteries erected this night on other eminences on the Neck (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Camp Life in 1776Siege of Boston. &lt;i&gt;Historical Magazine, and Notes and Queries concerning the Antiquities, History, and Biography of America&lt;/i&gt; 8 (1864): 32632. ]">Camp Life in 1776,</span> 328).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0005-ptr" id="GEWN-03-03-02-0309-fn-0005">5</a>
+
+   <p>For a discussion of these casualties, see <a href="default.xqy?keys=GEWN-print-03-03-02-0274&amp;expandNote=GEWN-03-03-02-0274-fn-0009#GEWN-03-03-02-0274-fn-0009" class="document">GW to Joseph Reed, 26 Feb.9 Mar. 1776, n.9</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0006-ptr" id="GEWN-03-03-02-0309-fn-0006">6</a>
+
+   <p>GW is referring to Nooks or Fosters Hill.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0007-ptr" id="GEWN-03-03-02-0309-fn-0007">7</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-03-02-0273" class="document">GW to the Massachusetts Council, 26 Feb. 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0008-ptr" id="GEWN-03-03-02-0309-fn-0008">8</a>
+
+   <p>The letter-book copy reads spirit instead of resolution.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0009-ptr" id="GEWN-03-03-02-0309-fn-0009">9</a>
+
+   <p>For the British preparations on 5 Mar. to attack Dorchester Neck and the abandonment of the operation, see <a href="default.xqy?keys=GEWN-print-03-03-02-0274&amp;expandNote=GEWN-03-03-02-0274-fn-0011#GEWN-03-03-02-0274-fn-0011" class="document">GW to Joseph Reed, 26 Feb.9 Mar. 1776, n.11</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0010-ptr" id="GEWN-03-03-02-0309-fn-0010">10</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-03-02-0237" class="document">Plan for Attacking Boston, 1825 Feb. 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0011-ptr" id="GEWN-03-03-02-0309-fn-0011">11</a>
+
+   <p>For Congresss appointment of new general officers, see <a href="default.xqy?keys=GEWN-print-03-03-02-0305" class="document">Hancock to GW, 6 Mar. 1776</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0012-ptr" id="GEWN-03-03-02-0309-fn-0012">12</a>
+
+   <p>Capt. Irvine (Irwin) was from Salem, Massachusetts. See Stephen Moylan to the president of the New Hampshire general assembly, 9 Mar. 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Nathaniel Bouton, ed. &lt;i&gt;State Papers. Documents and Records Relating to the State of New-Hampshire during the Period of the American Revolution, from 1776 to 1783 . . .&lt;/i&gt;. In &lt;i&gt;New Hampshire Provincial and State Papers&lt;/i&gt;, vol. 8. 1874. Reprint. New York, 1973. ]">Bouton, <span class="hi-italic" style="font-style: italic;">N.H. State Papers</span></span>, 8:8586.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0013-ptr" id="GEWN-03-03-02-0309-fn-0013">13</a>
+
+   <p>The letter-book copy reads caused much Surprize.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0014-ptr" id="GEWN-03-03-02-0309-fn-0014">14</a>
+
+   <p>The letter-book copy reads occasioned.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0015-ptr" id="GEWN-03-03-02-0309-fn-0015">15</a>
+
+   <p>Six men of the 22d Regiment of Foot were killed on the night of 4 March. See <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Harry Miller Lydenberg, ed. &lt;i&gt;Archibald Robertson, Lieutenant-General Royal Engineers: His Diaries and Sketches in America, 17621780&lt;/i&gt;. New York, 1930. ]">Lydenberg, <span class="hi-italic" style="font-style: italic;">Robertson Diaries</span></span>, 73.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0016-ptr" id="GEWN-03-03-02-0309-fn-0016">16</a>
+
+   <p>See <a href="default.xqy?keys=GEWN-print-03-03-02-0314" class="document">Boston Selectmen to GW, 8 Mar. 1776</a>. Henry Basset was major of the 10th Regiment of Foot.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0017-ptr" id="GEWN-03-03-02-0309-fn-0017">17</a>
+
+   <p>All of the other manuscript copies omit the word be.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0018-ptr" id="GEWN-03-03-02-0309-fn-0018">18</a>
+
+   <p>The letter-book copy reads sent you. Col. Ebenezer Learned wrote to Thomas and Jonathan Amory and Peter Johonnot on 9 Mar.: Agreeably to a promise made to you at the Lines Yesterday I waited upon his Excellency Genl Washington and presented to him the Paper (handed to me by you) from the Select Men of Boston. The Answer I receivd from him was to this effect That as it was an unauthenticated Paper; without an address and not obligatory upon General Howe he would take no notice of it (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 152).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0019-ptr" id="GEWN-03-03-02-0309-fn-0019">19</a>
+
+   <p>William Heath says in his <span class="hi-italic" style="font-style: italic;">Memoirs</span> that on the night of 9 Mar. a strong detachment went down to open a work on Nook Hill in Dorchester, still nearer to Boston. Some of the men imprudently kindled a fire behind the hill previous to the hour for breaking of ground. The enemy discovered the light of the fire; and there was, during the evening and night, a continual roar of cannon and mortars, from the Castle and lines on Boston neck, south end of that town; as well as from the Americans at Roxbury, Cobble Hill, and Leechmores Point, at Cambridge. The second shot from the British at the old fortification, south end of the town of Boston, killed 4 Americans, who were standing around the fire before mentioned, at Nook Hill, one of whom was Dr. Dow, of Connecticut. Another man was killed at the point next to the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0428">[428]</span>
+Castle. This suspended the work for the night, during which more than 800 shot were fired (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Rufus Rockwell Wilson, ed. &lt;i&gt;Heaths Memoirs of the American War&lt;/i&gt;. 1798. Reprint. New York, 1904. ]">Wilson, <span class="hi-italic" style="font-style: italic;">Heaths Memoirs</span></span>, 5051). Nooks Hill was not fortified until the night of 16 Mar. (see <a href="default.xqy?keys=GEWN-print-03-03-02-0363" class="document">GW to Hancock</a> and <a href="default.xqy?keys=GEWN-print-03-03-02-0366" class="document">GW to Joseph Reed, both 19 Mar. 1776</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0020-ptr" id="GEWN-03-03-02-0309-fn-0020">20</a>
+
+   <p>The letter-book copy reads of stopping them, If they determine.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0021-ptr" id="GEWN-03-03-02-0309-fn-0021">21</a>
+
+   <p>The British armed transport <span class="hi-italic" style="font-style: italic;">Friendship</span>, which was bound to New York with dispatches from General Howe, wrecked near Cape Cod on Friday 1 March. See George Talbot to Molyneux Shuldham, 3 Mar., and Shuldham to Philip Stephens, 8 Mar. 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William Bell Clark et al., eds. &lt;i&gt;Naval Documents of the American Revolution&lt;/i&gt;. 11 vols. to date. Washington, D.C., 1964. ]">Clark, <span class="hi-italic" style="font-style: italic;">Naval Documents</span></span>, 4:14748, 23031.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0309-fn-0022-ptr" id="GEWN-03-03-02-0309-fn-0022">22</a>
+
+   <p>Commodore John Manleys squadron captured the ship <span class="hi-italic" style="font-style: italic;">Susannah</span>, John Frazer, master, on 6 Mar. and carried her into Portsmouth, N.H., that same day. A great number of letters for officers in Boston, it was reported in a newspaper, were taken in the . . . ship, many of which mention great difficulty in raising recruits for the American service, and that it was apprehended the British army would be very little superior the ensuing campaign, to what it was the last (<span class="hi-italic" style="font-style: italic;">Essex Journal and New-Hampshire Packet</span> [Newburyport, Mass.], 15 Mar. 1776). The letters that GW enclosed have not been identified.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0309 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0308" title="General Orders, 7 March 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0310" title="From Lieutenant Colonel Joseph Reed, 7 March 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

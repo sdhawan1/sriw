@@ -1,0 +1,556 @@
+Guardian Accounts, 6 May 1765
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Guardian Accounts, 6 May 1765</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-02-07-02-0231&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1760-1765-05-06-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-02-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0230" title="From John Mercer, 3 May 1765 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-02-07-02-0232" title="From Edward Burn &amp; Sons, 7 May 1765 [letter not found]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-02&amp;mode=TOC">Colonial Series (7 July 174815 June 1775)</a>&gt; <a href="?keys=GEWN-print-02-07&amp;mode=TOC">Volume 7 (1 January 176115 June 1767)</a>&gt; <a href="?keys=GEWN-print-02-07-02&amp;mode=TOC">Documents</a>&gt; Guardian Accounts, 6 May 1765</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-02-07-02-0231&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0230" title="From John Mercer, 3 May 1765 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0232" title="From Edward Burn &amp; Sons, 7 May 1765 [letter not found]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0368">368</span><div id="Col07d205" class="doc">
+
+<h1>Guardian Accounts</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[6 May 1765]</td>
+	      </tr>
+      </table>
+</div>
+<table class="bodytext" id="Col07d205t1">
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Mr John Parke Custis</td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Dr</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">Sterling</td>
+	      <td style="white-space: nowrap; text-align: center;">Curry</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">176[4]</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">To cash paid for Sundries since my last settlement with the <span class="hi-italic" style="font-style: italic;">mutilated</span> in April 1764 viz.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par"><span class="hi-italic" style="font-style: italic;">mutilated</span> a Sett of Shoe &amp; knee Buckles for his Man</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 0.3.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To William CarlinTaylors Acct</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.7.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Mr McKay entrance to Dancing</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">.10.</span></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">William <span class="hi-italic" style="font-style: italic;">mutilated</span> for Books</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">Messrs Carlyle &amp; Dalton for a pair of shoes</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">.6.</span></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Mr Stedlar for entrance to Musick</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.7.0</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">The Secretary for  of 90 lbs.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0369" colspan="5"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0369">[369]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">Tobo for Recording of the Estates Accounts</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.8.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par">To Mr Didsbury for Shoes chargd by mistake to Go: Washington amounting to Sterlg</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 2.12.3</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Freight</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Insurance &amp;ca</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.6.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.18.9</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">60 prCt Excha: on Ditto</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.15.3</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">4.14.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">To Charles Washingtons &amp; Fieldg Lewiss Bond bearing date April 30th 1764 for</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">800.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">May 5</td>
+	      <td class="par" colspan="2">To payment of Francis Fosters Mortgage this <span class="hi-italic" style="font-style: italic;">mutilated</span> day of May 1765 for</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">500.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">1308.2.0</span></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1765<br/>May 6</td>
+	      <td class="par" colspan="2" style="margin-left: 3em;">To Balle due Jno. Parke Custis &amp; carried to New Acct</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">330.2.11</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1638.4.11</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Contra</td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Cr</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1764</td>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">Sterling</td>
+	      <td style="white-space: nowrap; text-align: center;">Currency</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">April 30</td>
+	      <td class="par" colspan="2">By Balle of last settled Acct of this date</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">429.17.9</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" colspan="2">By my draft on Robt Cary Esqr. &amp; Co. and lent <span class="hi-italic" style="font-style: italic;">mutilated</span> Jno. <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;"><span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">Washington</td>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;"><span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;"><span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">500.0.0</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0370" colspan="5"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0370">[370]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">60 pr Ct Exchange on Ditto</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">300.0.0</span></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.0em; vertical-align: bottom;">232.17.0</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">800.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1765<br/>May 4</td>
+	      <td class="par" colspan="2">By Cash recd of Joseph Valentine (the Steward) on Acct of the Profits arising from his Estate pr Accts Renderd</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">1208.7.2</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1638.4.11</td>
+	    </tr>
+<tr>
+	      <td class="par" colspan="2">Errors Excepted pr Go: Washington 6th May 1765</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Miss Martha Parke Custis</td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Dr</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">sterl.</td>
+	      <td style="white-space: nowrap; text-align: center;">Curry</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">[1764] 30 Apl</td>
+	      <td class="par" colspan="2">To Balle of the last Acct settled with the Genl Court of this date</td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">89.11.3 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap;">To Cash paid for Sundries <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">To Miss Wade <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">0.16.0</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Mr Mackay <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.10.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Mr Craig for <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">1.2.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Mr Hubbard <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.2.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">To the <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">.5.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Messrs Carlyle &amp; Daltons Acct for 8 Yds <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">2.7.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Mr Stedlar entrance Musick</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">1.7.</span></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">6.5.7</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">To Mr Didsbury for shoes charged by a</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0371" colspan="5"><span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-02-07-02-pb-0371">[371]</span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">mistake to George Washington amounting to Sterlg</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 2.18.6</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;">Freight insurance &amp;ca</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">7.3</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">3.5.9</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">3.5.9</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">95.16.10 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td class="par" style="margin-left: 2em;"><span class="hi-italic" style="font-style: italic;">Mutilated</span> Miss Custis &amp; carried to new Acct</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">114.0.10</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">88.12.3</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;"></span></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">117.6.7</td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;">184.9.1 1/2</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Contra</td>
+	      <td colspan="2" style="white-space: nowrap; text-align: center;">Cr</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td style="white-space: nowrap; text-align: center;">[sterling]</td>
+	      <td style="white-space: nowrap; text-align: center;">[currency]</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1764 Apl 30</td>
+	      <td class="par" colspan="2">By Balle of the last Settlement <span class="hi-italic" style="font-style: italic;">mutilated</span> of the <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">117.6.7</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td colspan="2" style="white-space: nowrap;">By Cash received <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">Mr Willm Dandridge <span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"> 44.0.10</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">Mr Phil. Whitehead Claiborne</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">14.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;">Mrs McKenzie</td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;">10.16.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td style="white-space: nowrap; text-indent: 1em;"><span class="hi-italic" style="font-style: italic;">mutilated</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">115.12.3 1/2</span></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td class="curr" style="padding-right: 2.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">117.6.7</span></td>
+	      <td class="curr" style="padding-right: 0.5em; vertical-align: bottom;"><span class="hi-border-top" style="border-top: 1px solid black;">184.9.1 1/2</span></td>
+	    </tr>
+<tr>
+	      <td colspan="2" style="white-space: nowrap;">Errors Excepted pr</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td colspan="2" style="white-space: nowrap;">Go: Washington</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td colspan="2" style="white-space: nowrap;">Williamsburg 6th May 1765</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+</table>
+<p>Note. The above Accts are exact copies of those settled by Commissioners appointed by the Genl Court namely Peyton Randolph Burwell Bassett <span class="hi-italic" style="font-style: italic;">mutilated</span> on the 6th day of May 1765</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-02-07-02-0231-sn">
+
+   <p>
+<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Washington and Lee University, Lexington, Va. ]">ViLxW</span>: Washingtons Guardian Accounts.
+See <a href="default.xqy?keys=GEWN-print-02-07-02-0051" class="document">Editorial Note,</a> <a href="default.xqy?keys=GEWN-print-02-07-02-0051" class="document">Washingtons Guardianship of the Custis Heirs, 21 Oct. 17613 Nov. 1773</a><span class="choice deletion" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover_choice ] header=[]  body=[ Deleted: ', printed above' &lt;span style='font-size: 90%'&gt;[[2014-11-11]]&lt;/span&gt; ]"><img alt="deletion" src="images/deletion_mark-trans.png" style="border:none;vertical-align: text-bottom; padding-right:2px"/></span>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-02-07-02-0231 [accessed 24 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Colonial Series (7 July 174815 June 1775), Volume 7 (1 January 176115 June 1767)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-02-07-02-0230" title="From John Mercer, 3 May 1765 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-02-07-02-0232" title="From Edward Burn &amp; Sons, 7 May 1765 [letter not found]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,624 @@
+From Benjamin Kent, 24 April 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Benjamin Kent, 24 April 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <!-- publication-specific CSS follows -->
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="ADMS" id="body-top"><div class="header"><div id="splashLink"><a href="ADMS.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=ADMS-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-about">About</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=ADMS-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=ADMS-print-06-04-02-0057&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=ADMS-chron-1770-1776-04-24-4">Chronology</a><a href="default.xqy?keys=ADMS-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=ADMS-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=ADMS-print-06-04-02&amp;mode=TOC" title="Papers of John Adams"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0056" title="To William Tudor, 24 April 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=ADMS-print-06-04-02-0058" title="To Horatio Gates, 27 April 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=ADMS-print&amp;mode=TOC">The Adams Papers Digital Edition</a>&gt; <a href="?keys=ADMS-print-06&amp;mode=TOC">Papers of John Adams</a>&gt; <a href="?keys=ADMS-print-06-04&amp;mode=TOC">Volume 4, FebruaryAugust 1776</a>&gt; <a href="?keys=ADMS-print-06-04-02&amp;mode=TOC">Papers of John Adams</a>&gt; From Benjamin Kent, 24 April 1776</div></div></div></div><div class="body-norm entry"><div>
+    <p>An error occurred while processing your request.</p>
+  </div><div>keys=ADMS-print-06-04-02-0057</div><div><pre class="errortext">&lt;error:error xsi:schemaLocation="http://marklogic.com/xdmp/error error.xsd" xmlns:error="http://marklogic.com/xdmp/error" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;error:code&gt;XDMP-ARGTYPE&lt;/error:code&gt;
+  &lt;error:name&gt;err:XPTY0004&lt;/error:name&gt;
+  &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+  &lt;error:message&gt;Invalid argument type&lt;/error:message&gt;
+  &lt;error:format-string&gt;XDMP-ARGTYPE: (err:XPTY0004) fn:concat($matchingHit, $expandString) -- arg0 is not of type xs:anyAtomicType?&lt;/error:format-string&gt;
+  &lt;error:retryable&gt;false&lt;/error:retryable&gt;
+  &lt;error:expr&gt;fn:concat($matchingHit, $expandString)&lt;/error:expr&gt;
+  &lt;error:data&gt;
+    &lt;error:datum&gt;arg0&lt;/error:datum&gt;
+    &lt;error:datum&gt;xs:anyAtomicType?&lt;/error:datum&gt;
+  &lt;/error:data&gt;
+  &lt;error:stack&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2411&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:ref-target-get("PJA02d063#PJA02d063n2", "ADMS", "PJA02d063n2")&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;url&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063#PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;expand&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;target&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;anchor&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;expandString&lt;/error:name&gt;
+	  &lt;error:value&gt;"&amp;amp;amp;expandNote=PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;known-pubs&lt;/error:name&gt;
+	  &lt;error:value&gt;("ADMS", "ARHN", "DYMN", ...)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;firstFour&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA0"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;hit&lt;/error:name&gt;
+	  &lt;error:value&gt;(fn:doc("/founders/publs/ADMS-06-02.xml")/tei:TEI/tei:text/tei:body/tei:div[48]/FGEA:mapData/@id, fn:doc("/founders/publs/ADMS-06-06.xml")/tei:TEI/tei:text/tei:body/tei:div[55]/tei:div[2]/FGEA:mapData/@id)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;matchingHit&lt;/error:name&gt;
+	  &lt;error:value&gt;(fn:doc("/founders/publs/ADMS-06-02.xml")/tei:TEI/tei:text/tei:body/tei:div[48]/FGEA:mapData/@id, fn:doc("/founders/publs/ADMS-06-06.xml")/tei:TEI/tei:text/tei:body/tei:div[55]/tei:div[2]/FGEA:mapData/@id)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2436&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:ref-document(&amp;lt;tei:ref target="PJA02d063#PJA02d063n2" type="document" xmlns:tei="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/tei:ref&amp;gt;, "ADMS", attribute{fn:expanded-QName("", "target")}{"PJA02d063n2"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;ref&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;tei:ref target="PJA02d063#PJA02d063n2" type="document" xmlns:tei="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/tei:ref&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;expand&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;checkme&lt;/error:name&gt;
+	  &lt;error:value&gt;fn:false()&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;r&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063#PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2545&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:ref-note(&amp;lt;ref type="note" target="PJA02d063n2" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/ref&amp;gt;, "ADMS")&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;ref&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;ref type="note" target="PJA02d063n2" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/ref&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;target&lt;/error:name&gt;
+	  &lt;error:value&gt;attribute{fn:expanded-QName("", "target")}{"PJA02d063n2"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;url&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA02d063#PJA02d063n2"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;noteNode&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;tei:ref target="PJA02d063#PJA02d063n2" type="document" xmlns:tei="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/tei:ref&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2320&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:ref(&amp;lt;ref type="note" target="PJA02d063n2" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/ref&amp;gt;, text{"ADMS"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;ref&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;ref type="note" target="PJA02d063n2" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/ref&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;704&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:main(&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;content&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;ref type="note" target="PJA02d063n2" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;note 2&amp;lt;/ref&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;769&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:common(&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;id&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;type&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;subtype&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2133&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:p(&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;689&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:main(&amp;lt;note n="4" type="fn" xml:id="PJA04d071n4" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;      &amp;amp;#10;   &amp;lt;p&amp;gt;For identification of Kent, see &amp;lt;ref type=...&amp;lt;/note&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;content&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;note n="4" type="fn" xml:id="PJA04d071n4" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;      &amp;amp;#10;   &amp;lt;p&amp;gt;For identification of Kent, see &amp;lt;ref type=...&amp;lt;/note&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;p xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;For identification of Kent, see &amp;lt;ref type="short-title" target="...&amp;lt;/p&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;1883&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:note(&amp;lt;note n="4" type="fn" xml:id="PJA04d071n4" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;      &amp;amp;#10;   &amp;lt;p&amp;gt;For identification of Kent, see &amp;lt;ref type=...&amp;lt;/note&amp;gt;, text{"ADMS"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;note n="4" type="fn" xml:id="PJA04d071n4" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;      &amp;amp;#10;   &amp;lt;p&amp;gt;For identification of Kent, see &amp;lt;ref type=...&amp;lt;/note&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;type&lt;/error:name&gt;
+	  &lt;error:value&gt;"fn"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;place&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;id&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA04d071n4"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;class&lt;/error:name&gt;
+	  &lt;error:value&gt;"footnote"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;currentDocID&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS-06-04-02-0057"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;ptr-is-in-current-doc&lt;/error:name&gt;
+	  &lt;error:value&gt;fn:true()&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;href&lt;/error:name&gt;
+	  &lt;error:value&gt;"#PJA04d071n4-ptr"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;679&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:main(&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;content&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;note n="4" type="fn" xml:id="PJA04d071n4" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;      &amp;amp;#10;   &amp;lt;p&amp;gt;For identification of Kent, see &amp;lt;ref type=...&amp;lt;/note&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;769&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:common(&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;id&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;type&lt;/error:name&gt;
+	  &lt;error:value&gt;"docback"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;subtype&lt;/error:name&gt;
+	  &lt;error:value&gt;""&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;1419&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:div(&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;, text{"ADMS"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;630&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:main(&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;content&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="2" type="docback" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;     &amp;lt;note type="source" xml:id="PJA04d071sn1"&amp;gt;&amp;amp;#10;      &amp;amp;...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;769&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:common(&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;id&lt;/error:name&gt;
+	  &lt;error:value&gt;"PJA04d071"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;type&lt;/error:name&gt;
+	  &lt;error:value&gt;"doc"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;subtype&lt;/error:name&gt;
+	  &lt;error:value&gt;"letter"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;1419&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:div(&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;, text{"ADMS"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/lib-render.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;630&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;rend:main(&amp;lt;div xmlns="http://www.w3.org/1999/xhtml"&amp;gt;&amp;lt;span class="pb doctop" title="page number in print edition" id=...&amp;lt;/div&amp;gt;)&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;content&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div xmlns="http://www.w3.org/1999/xhtml"&amp;gt;&amp;lt;span class="pb doctop" title="page number in print edition" id=...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;publ-code&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns="http://rotunda.upress.virginia.edu/founders/render"&gt;node&lt;/error:name&gt;
+	  &lt;error:value&gt;&amp;lt;div FGEA:n="1" FGEA:searchable="leaf" type="doc" subtype="letter" xml:id="PJA04d071" xmlns:FGEA="http://rotunda.upress.virginia.edu/FGEA" xmlns="http://www.tei-c.org/ns/1.0"&amp;gt;&amp;amp;#10;&amp;lt;FGEA:mapData id="ADMS-06-04-02-0057"&amp;gt;&amp;lt;bibl&amp;gt;&amp;amp;#10;&amp;lt;title&amp;gt;Fro...&amp;lt;/div&amp;gt;&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/default.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;525&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;doc-content-get(text{"deref"}, text{"ADMS-print-06-04-02-0057"})&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;mode&lt;/error:name&gt;
+	  &lt;error:value&gt;"deref"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;keys&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS-print-06-04-02-0057"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;key&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS-print-06-04-02-0057"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;highlight_inc&lt;/error:name&gt;
+	  &lt;error:value&gt;0&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;key-parts&lt;/error:name&gt;
+	  &lt;error:value&gt;("ADMS", "print", "06", ...)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;publ&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;view&lt;/error:name&gt;
+	  &lt;error:value&gt;"print"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;map-node&lt;/error:name&gt;
+	  &lt;error:value&gt;rotunda:doc("/founders/maps/ADMS-print.xml")/*:html/*:body/*:div[8463]&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;query&lt;/error:name&gt;
+	  &lt;error:value&gt;()&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-key&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS-06-04-02-0057"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;doc-publ&lt;/error:name&gt;
+	  &lt;error:value&gt;"ADMS"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;doc&lt;/error:name&gt;
+	  &lt;error:value&gt;(&amp;lt;span class="pb doctop" title="page number in print edition" id="ADMS-06-04-02-pb-0145" xmlns="http://www.w3.org/1999/xhtml"&amp;gt;145&amp;lt;a style="padding-left: 5px" onclick="window.open('/img-docum...&amp;lt;/span&amp;gt;, rotunda:doc("/founders/publs/ADMS-06-04.xml")/tei:TEI/tei:text/tei:body/tei:div[57])&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-parts&lt;/error:name&gt;
+	  &lt;error:value&gt;("ADMS", "06", "04", ...)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-doc&lt;/error:name&gt;
+	  &lt;error:value&gt;"/founders/publs/ADMS-06-04.xml"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-titleStmt&lt;/error:name&gt;
+	  &lt;error:value&gt;(rotunda:doc("/founders/publs/ADMS-06-04.xml")/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt, rotunda:doc("/founders/publs/ADMS-06-04.xml")/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt)&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-series&lt;/error:name&gt;
+	  &lt;error:value&gt;"Papers of John Adams"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;ref-volume&lt;/error:name&gt;
+	  &lt;error:value&gt;"Volume 4, February&amp;amp;#x2013;August 1776"&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/default.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;336&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;doc-body-make()&lt;/error:operation&gt;
+      &lt;error:variables&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;mode&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"deref"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+	&lt;error:variable&gt;
+	  &lt;error:name xmlns=""&gt;keys&lt;/error:name&gt;
+	  &lt;error:value&gt;text{"ADMS-print-06-04-02-0057"}&lt;/error:value&gt;
+	&lt;/error:variable&gt;
+      &lt;/error:variables&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/default.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;795&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;HTML-body-make()&lt;/error:operation&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/default.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;968&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:operation&gt;HTML-root-make()&lt;/error:operation&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+    &lt;error:frame&gt;
+      &lt;error:uri&gt;/founders/default.xqy&lt;/error:uri&gt;
+      &lt;error:line&gt;2532&lt;/error:line&gt;
+      &lt;error:column&gt;0&lt;/error:column&gt;
+      &lt;error:xquery-version&gt;0.9-ml&lt;/error:xquery-version&gt;
+    &lt;/error:frame&gt;
+  &lt;/error:stack&gt;
+&lt;/error:error&gt;</pre></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=ADMS-print-06-04-02-0056" title="To William Tudor, 24 April 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=ADMS-print-06-04-02-0058" title="To Horatio Gates, 27 April 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Adams Papers Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the 
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2700-8<br/><span class="user">User  princeton logged in from IP address 140.180.252.211</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

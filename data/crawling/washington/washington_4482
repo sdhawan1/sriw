@@ -1,0 +1,182 @@
+From Jonathan Trumbull, Sr., 15 January 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jonathan Trumbull, Sr., 15 January 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0069&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-01-15-8">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0068" title="From Lieutenant Colonel Joseph Reed, 15 January 1776 [letter not found]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0070" title="To James Warren, 15 January 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; From Jonathan Trumbull, Sr., 15 January 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0069&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0068" title="From Lieutenant Colonel Joseph Reed, 15 January 1776 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0070" title="To James Warren, 15 January 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0097">97</span><div id="Rev03d63" class="doc">
+
+<h1>From Jonathan Trumbull, Sr.</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft">Sir</td>
+		<td class="salutationRight">Lebanon [Conn.] 15 January 1776</td>
+	      </tr>
+      </table>
+</div>
+<p>I have received your agreable Letter of the 7th Instant <img class="char" src="images/char-per-trans.png" alt="[per]"/> Capt. SearsThe Condition &amp; Circumstances of the Colony of New York gives me pain, least the Fri[e]nds to American Liberty in that Colony should be too much Neglected, and become Disheartned, and the inimical designs and mischievous Operations of others succeedI have received credible information that the Provincial Congress there had spent some time just before they Adjourned to the 1st of Fe[b]uary in debating whether they should not address Mr Tryon for the purpose of calling the General Assembly of that Colony, to revive the old Scheme of adopting the Parlimentary insult of the 20th of Fabry last, Which was rejected<a class="ptr" href="#GEWN-03-03-02-0069-fn-0001" id="GEWN-03-03-02-0069-fn-0001-ptr">1</a>Surely our Friends want to be strengthned, and our Enemies to be checkedThe following is an Extract from a Letter from one of our Friends, to Another dated December 27th 1775Just after you left Town the Phenix a 40 Gun Ship, arrived and Anchored just before Mr Drakes and in two or three days after the Asia in company of
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0098">[98]</span>
+the Dutchess of Gordon came and Anchored opposite to Peeks Slip, so that we are highly honouredGeneral Dalrymple is on board the Phenix, and it is rumored, that they have 200 Troops concealed on board, which has for near a Week past kept us on pretty hard duty<a class="ptr" href="#GEWN-03-03-02-0069-fn-0002" id="GEWN-03-03-02-0069-fn-0002-ptr">2</a>The Colo. has slept in the Barracks 2 or 3 Nights, If they come I hope to give a good Accot of themWe have some Excellent Field Peices, and if they Visit us the Gates will be Opened, and well welcome them with a few Resolves of the Continental Congress, which is the Name of One of the Peices.[]</p>
+<p>I wrote a Letter to President Hancock dated the 6th Janry Inst. and Another to One of our Delegates at Congress requesting that more effectual Measures may be taken for the Security of New York, to prevent our Enemies from being supplied with Provisions, furnished with Intelligence, and from having an Opportunity to use every Artifice to insult and injure us from that Quarter<a class="ptr" href="#GEWN-03-03-02-0069-fn-0003" id="GEWN-03-03-02-0069-fn-0003-ptr">3</a>It therefore gave me sensible Pleasure to find that you have adopted the measures mentioned in yoursand with great Chearfulness called my Council, and with their Advice appointed Colo. Waterbury Lt Colo. Bradly &amp; Majr Hobby Field Officers for One RegimentColo. Ward Lt Colo. Lewis and Majr Douglass for another, Sent a Proclamation to the Two Colonels, and Orders to them with the rest of the Field Officers, by Voluntary inlistment to raise 750 Men Each, to join and Assist Majr General Lee; with Encouragement that they should be entitled to the same Pay Wages &amp; Billiting allowed the Troops before Boston, during the Time they Serve &amp; to be dismissed soon, when the Service would conveniently Admit<a class="ptr" href="#GEWN-03-03-02-0069-fn-0004" id="GEWN-03-03-02-0069-fn-0004-ptr">4</a>The Field Officers of Each Regiment to Select Capts. &amp; Subalterns from those in the standing Militiaif needful to request the Chief Officer of the Militia Companies to call their Companies together for the purpose of Enlisting the Men with Expeditionand to prevent difficulty for want of Ammunitionhave Ordred Capt. Niles, Commander of our armed schooner <span class="hi-italic" style="font-style: italic;">Spy</span>, to take on board half a Ton of Powder, &amp; Transport 400 lb. to New Haven200 lb. to Norwalk, &amp; 400 lb. to Stamford with Orders to him to follow such directions as Majr General Lee may Give for the Service he is imployed in and to Execute the Same Until dismissed by him or further Orders from Me<a class="ptr" href="#GEWN-03-03-02-0069-fn-0005" id="GEWN-03-03-02-0069-fn-0005-ptr">5</a>wished but failed to have the pleasure of a short interview with
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0099">[99]</span>
+himwhen my Orders ware ready very Early on Saturday Morning lastCapt. Sears took them &amp; I apprehend he got to Hartford by NoonI wrote to Majr Genl Lee informing of what was done by me<a class="ptr" href="#GEWN-03-03-02-0069-fn-0006" id="GEWN-03-03-02-0069-fn-0006-ptr">6</a>I have no doubt but the Men at the Westward part of this Colony will readily and expeditiously engage in the ServiceMay the Supream Director of all Events add his Blessing On our Endeavours to preserve, support, &amp; Maintain the Constitutional Liberties of these Colonies which he hath made it our duty to dothirteen Indians of the Cognawaga Tribe came to Visit me on the 13th and seemed well pleased to have a Conference on Our Affairs &amp; Expressed their belief of my information &amp; that they were Friends &amp; Brothersand yesterday proceeded on their Way to you.<a class="ptr" href="#GEWN-03-03-02-0069-fn-0007" id="GEWN-03-03-02-0069-fn-0007-ptr">7</a> I am, with great Esteem and Regard Your Excellencys Most Obedient humble Servant</p>
+<div class="closer">
+<p class="signed">Jonth. Trumbull</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0069-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Autograph Letter Signed: a letter in the handwriting of, and signed by, the author ]">ALS</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>; 
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Letter Book Copy: letters copied into a bound letter-book ]">LB</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Connecticut State Library, Hartford ]">Ct</span>: Trumbull Papers.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0001-ptr" id="GEWN-03-03-02-0069-fn-0001">1</a>
+
+   <p>In a published letter of 4 Dec. 1775 Gov. William Tryon urged the inhabitants of New York to express in a Constitutional manner their sense of the plan of reconciliation proposed in Parliaments resolution of 20 Feb. 1775 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Peter Force, ed. &lt;i&gt;American Archives&lt;/i&gt;. 9 vols. Washington, D.C., 183753. ]">Force, <span class="hi-italic" style="font-style: italic;">American Archives</span></span>, 4th ser., 4:17374; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington Chauncey Ford et al., eds. &lt;i&gt;Journals of the Continental Congress, 1774-1789&lt;/i&gt;. 34 vols. Washington, D.C., 190437. ]"><span class="hi-italic" style="font-style: italic;">JCC</span></span>, 2:6263, n.1). After much debate the New York Provincial Congress responded on 14 Dec. that it would be highly dangerous to, and totally inconsistent with the glorious plan of American union, should this Colony express their separate sense on the . . . supposed conciliatory proposal on the part of Great Britain (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the Provincial Congress, Provincial Convention, Committee of Safety, and Council of Safety of the State of New-York, 177517761777&lt;/i&gt;. 2 vols. Albany, 1842. (Microfilm Collection of Early State Records). ]"><span class="hi-italic" style="font-style: italic;">N.Y. Prov. Congress Journals</span></span>, 1:21012, 21719).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0002-ptr" id="GEWN-03-03-02-0069-fn-0002">2</a>
+
+   <p>The British warship <span class="hi-italic" style="font-style: italic;">Phoenix</span>, recently arrived from England, anchored in the East River abreast of the city of New York on 17 Dec. and was joined there three days later by the warship <span class="hi-italic" style="font-style: italic;">Asia</span> and the transport <span class="hi-italic" style="font-style: italic;">Dutchess of Gordon</span>, both of which had previously been moored off the battery. Gov. William Tryon was living aboard the <span class="hi-italic" style="font-style: italic;">Duchess of Gordon</span>, having fled to it the previous fall for safety. Lt. Col. William Dalrymple, commander of the 14th Regiment, sailed to London on 10 January. He returned to America later in the year and participated in the New York campaign. In 1779 Dalrymple became quartermaster general under Gen. Henry Clinton.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0003-ptr" id="GEWN-03-03-02-0069-fn-0003">3</a>
+
+   <p>See Trumbull to Hancock, 6 Jan. 1776, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 66.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0004-ptr" id="GEWN-03-03-02-0069-fn-0004">4</a>
+
+   <p>See Trumbulls proclamation of 12 Jan., <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Papers of the Continental Congress, Washington, D.C. ]">DNA:PCC</span>, item 66. For GWs expectation that these volunteers would serve without pay, see <a href="default.xqy?keys=GEWN-print-03-03-02-0046" class="document">GW to Hancock, 11 Jan.</a>, and <a href="default.xqy?keys=GEWN-print-03-03-02-0274" class="document">GW to Joseph Reed, 26 Feb.-9 Mar. 1776</a>. The officers were David Waterbury, Philip Burr Bradley, Thomas Hobby, Andrew Ward, Ichabod Lewis, and William Douglas.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0005-ptr" id="GEWN-03-03-02-0069-fn-0005">5</a>
+
+   <p>Robert Niles (17341818) of Norwich was appointed captain of the Connecticut armed schooner <span class="hi-italic" style="font-style: italic;">Spy</span> in August 1775. Over the next three years Niles made several cruises in the <span class="hi-italic" style="font-style: italic;">Spy</span>, performing a variety of services for the
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0100">[100]</span>
+colony and the American cause. He took a number of prizes, gathered intelligence, and procured provisions and other supplies. In 1778 Niles sailed to France with dispatches including a ratified copy of the treaty of alliance with France. On the return voyage the <span class="hi-italic" style="font-style: italic;">Spy</span> was captured by the British. Taken to England, Niles soon escaped to France, but he was captured again on his way to America. Niles did not return home until July 1779.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0006-ptr" id="GEWN-03-03-02-0069-fn-0006">6</a>
+
+   <p>See Trumbull to Charles Lee, 12 Jan. 1776, in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ [[Charles Lee]]. &lt;i&gt;The Lee Papers&lt;/i&gt;. 4 vols. New York, 1872-75. In &lt;i&gt;Collections of the New-York Historical Society&lt;/i&gt;, vols. 47. ]"><span class="hi-italic" style="font-style: italic;">Lee Papers</span></span>, 1:238.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0069-fn-0007-ptr" id="GEWN-03-03-02-0069-fn-0007">7</a>
+
+   <p>For the visit of the Caughnawaga Indians to Cambridge, see <a href="default.xqy?keys=GEWN-print-03-03-02-0021&amp;expandNote=GEWN-03-03-02-0021-fn-0008#GEWN-03-03-02-0021-fn-0008" class="document">Schuyler to GW, 57 Jan., n.8</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0127" class="document">GW to Hancock, 24</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0157" class="document">30 Jan</a>., and <a href="default.xqy?keys=GEWN-print-03-03-02-0145" class="document">GW to Schuyler, 27 Jan.</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0173" class="document">1 Feb. 1776</a>.</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0069 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=GEWN-print-03-03-02-0068" title="From Lieutenant Colonel Joseph Reed, 15 January 1776 [letter not found]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0070" title="To James Warren, 15 January 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

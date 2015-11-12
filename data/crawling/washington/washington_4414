@@ -1,0 +1,183 @@
+General Orders, 1 January 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>General Orders, 1 January 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/GEWN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="GEWN" id="body-top"><div class="header"><div id="splashLink"><a href="GEWN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=GEWN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=GEWN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=GEWN-print-03-03-02-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=GEWN-chron-1770-1776-01-01-1">Chronology</a><a href="default.xqy?keys=GEWN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=GEWN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=GEWN-print-03-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=GEWN-print-03-03-02-0002" title="From Nicholas Cooke, 1 January 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=GEWN-print&amp;mode=TOC">The Papers of George Washington Digital Edition</a>&gt; <a href="?keys=GEWN-print-03&amp;mode=TOC">Revolutionary War Series (16 June 177521 October 1779)</a>&gt; <a href="?keys=GEWN-print-03-03&amp;mode=TOC">Volume 3 (1 January 177631 March 1776)</a>&gt; <a href="?keys=GEWN-print-03-03-02&amp;mode=TOC">Documents</a>&gt; General Orders, 1 January 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=GEWN-print-03-03-02-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0002" title="From Nicholas Cooke, 1 January 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0001">1</span><div id="Rev03d1" class="doc">
+
+
+<h1>General Orders</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">Head Quarters, Cambridge, January 1st 1776</td>
+	      </tr>
+      </table>
+<table class="password"><tr>
+		<td class="parole">Parole The Congress.</td>
+		<td class="csigns">Countersign, America.</td>
+	      </tr></table>
+
+</div>
+<p>This day giving commencement to the new-army, which, in every point of View is entirely Continental; The General flatters himself, that a laudable Spirit of emulation, will now take place, and pervade the whole of it;<a class="ptr" href="#GEWN-03-03-02-0001-fn-0001" id="GEWN-03-03-02-0001-fn-0001-ptr">1</a> without such a Spirit, few Officers have ever arrived to any degree of Reputation, nor did any Army ever become formidable: His Excellency hopes that the Importance of the great Cause we are engaged in, will be deeply impressed upon every Mans mind, and wishes it to be considered, that an Army without Order, Regularity &amp; Discipline, is no better than a Commissiond Mob; Let us therefore, when every thing dear and valuable to Freemen is at stake; when our unnatural Parent is threatning of us with destruction from every quarter, endeavour by all the Skill and Discipline in our power, to acquire that knowledge, and conduct, which is necessary in WarOur men are brave and good; Men who with pleasure it is observed, are addicted to fewer Vices than are commonly found in Armies; but it is Subordination &amp; Discipline (the Life and Soul of an Army) which next under providence, is to make us formidable to our enemies, honorable in ourselves, and respected in the world; and herein is to be shewn the Goodness of the Officer.</p>
+<p>In vain is it for a General to issue Orders, if Orders are not attended to, equally vain is it for a few Officers to exert themselves, if the same spirit does not animate the whole; it is therefore expected, (it is not insisted upon) that each Brigadier, will be attentive to the discipline of his Brigade, to the exercise of, and the Conduct observed in it, calling the Colonels, and Field Officers of every regiment, to severe Account for Neglect, or Disobedience of ordersThe same attention is to be paid by the Field Officers to the respective Companies of their regimentsby the Captains to their Subalterns, and so on: And that the plea of Ignorance, which is no excuse for the Neglect of Orders (but rather an Aggravation) may not be offerd, It is
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0002">[2]</span>
+orderd, and directed, that not only every regiment, but every Company, do keep an Orderly-book, to which frequent recourse is to be had, it being expected that all standing orders be rigidly obeyed, until alterd or countermanded<a class="ptr" href="#GEWN-03-03-02-0001-fn-0002" id="GEWN-03-03-02-0001-fn-0002-ptr">2</a>It is also expected, that all Orders which are necessary to be communicated to the Men, be regularly read, and carefully explained to them. As it is the first wish of the General to have the business of the Army conducted without punishment, to accomplish which, he assures every Officer, &amp; Soldier, that as far as it is in his power, he will reward such as particularly distinguish themselves; at the same time, he declares that he will punish every kind of neglect, or misbehaviour, in an exemplary mannor.</p>
+<p>As the great Variety of occurrences, and the multiplicity of business, in which the General is necessarily engaged, may withdraw his attention from many objects &amp; things, which might be improved to Advantage; He takes this Opportunity of declaring, that he will thank any Officer, of whatsoever Rank, for any useful hints, or profitable Informations, but to avoid trivial matters; as his time is very much engrossed, he requires that it may be introduced through the channel of a General Officer, who is to weigh the importance before he communicates it.</p>
+<p>All standing Orders heretofore issued for the Government of the late Army, of which every Regiment has, or ought to have Copies; are to be strictly complied with, until changed, or countermanded.</p>
+<p>Every Regiment now upon the new establishment, is to give in signed by the Colonel, or commanding Officer, an exact List of the Commissioned Officers, in order that they may receive Commissionsparticular Care to be taken that no person is included as an Officer, but such as have been appointed by proper authority; any Attempt of that kind in the new-Army, will bring severe punishment upon the author: The General will, upon any Vacancies that may happen, receive recommendations, and give them proper Consideration, but the Congress alone are competent to the appointment.<a class="ptr" href="#GEWN-03-03-02-0001-fn-0003" id="GEWN-03-03-02-0001-fn-0003-ptr">3</a></p>
+<p>An exact Return of the strenght of each Regiment, is to be given in, as soon as possible, distinguishing the Number of militia, and such of the old Regiments, as have joined for a Month only, from the established men of the regiment.<a class="ptr" href="#GEWN-03-03-02-0001-fn-0004" id="GEWN-03-03-02-0001-fn-0004-ptr">4</a></p>
+<span class="pb center" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0003">[3]</span>
+<p>This being the day of the Commencement of the new-establishment, The General pardons all the Offences of the old, and commands all Prisoners (except Prisoners of war) to be immediately released.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="GEWN-03-03-02-0001-sn">
+
+   <p>
+<abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Handwritten copies in one of the bound volumes used by the team of clerks on GW's headquarters staff who worked from 1781-83 under the direction of Lt. Col. Richard Varick to record correspondence, orders, instructions, and related items from GWs Revolutionary War papers ]">Varick transcript</abbr>, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. Library of Congress, George Washington Papers, Washington, D.C. ]">DLC:GW</span>.
+</p>
+
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0001-fn-0001-ptr" id="GEWN-03-03-02-0001-fn-0001">1</a>
+	
+   <p>The enlistments of the old army having expired with the old year, the many soldiers who refused to continue in service were called to their parade grounds on 1 Jan. and were dismissed. On this and the next day most of them left camp, going home by hundreds and by thousands (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Rufus Rockwell Wilson, ed. &lt;i&gt;Heaths Memoirs of the American War&lt;/i&gt;. 1798. Reprint. New York, 1904. ]">Wilson, <span class="hi-italic" style="font-style: italic;">Heaths Memoirs</span></span>, 4344). To ease the transition from the old army to the new one, GW instructed men who had enlisted for the coming year to join their new regiments during the last three days of 1775 (<a href="default.xqy?keys=GEWN-print-03-02-02-0571" class="document">General Orders, 28 Dec. 1775</a>). Changing armies in sight of a powerful enemy was, GW knew, a delicate and dangerous business under any circumstances (see <a href="default.xqy?keys=GEWN-print-03-03-02-0013" class="document">GW to Hancock</a> and <a href="default.xqy?keys=GEWN-print-03-03-02-0016" class="document">Joseph Reed</a>, both 4 Jan. 1776). The British might well exploit the confusion inevitable in such an extensive reorganization by attacking the American lines. Adding to the danger were continuing shortages of arms and ammunition and the sudden depletion of the Continental ranks occasioned by the departure of so many veterans in a short time. By 31 Dec. only 9,650 men had been recruited for the new army, less than half of the more than 20,000 men authorized (<a href="default.xqy?keys=GEWN-print-03-02-02-0579" class="document">GW to Hancock, 31 Dec. 1775</a>). To fill his lines until more men could be enlisted, GW called out militia reinforcements and appealed to the dismissed soldiers to delay their departures (see note 4 below). Those measures notwithstanding, the American lines were seriously weakened during the first days of January. Writing from Prospect Hill on 4 Jan., Nathanael Greene told Samuel Ward: We have no part of the Militia here . . . and the Night after the old Troops went of[f] I could not have mustered seven hundred Men, less than a fourth of the number available in the brigade two days earlier. The immediate crisis soon passed. The British did not attack, and by 4 Jan. Greene boasted: I am now strong enough to defend myself against all the Force in Boston (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Richard K. Showman et al., eds. &lt;i&gt;The Papers of General Nathanael Greene&lt;/i&gt;. 13 vols. Chapel Hill, N.C., 19762005. ]">Showman, <span class="hi-italic" style="font-style: italic;">Greene Papers</span></span>, 1:17680; General Return of the Army of the United Colonies, 30 Dec. 1775, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ U.S. National Archives and Records Administration, Washington, D.C. ]">DNA</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Revolutionary War Rolls, 177583; see also <a href="default.xqy?keys=GEWN-print-03-03-02-0043" class="document">GW to John Sullivan, 10 Jan. 1776</a>). But recruiting proceeded at an agonizingly slow pace during January and February. Not until the beginning of March was the new army comparable in numbers of men to the old one (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Robert K. Wright, Jr. &lt;i&gt;The Continental Army&lt;/i&gt;. Washington, D.C., 1983. ]">Wright, <span class="hi-italic" style="font-style: italic;">Continental Army</span></span>, 5556).</p>
+
+
+   <p>The new army had 26 infantry regiments, each with the same organization and an authorized strength of 728 officers and men, replacing the 38 infantry regiments of varying sizes and organizations in the old army. Included also in the new army were Henry Knoxs reorganized artillery regiment and the riflemen, consisting of Col. William Thompsons Pennsylvania regiment and the independent companies from Maryland and Virginia. The riflemen were unchanged from the old army since their enlistments did not end until 1 July 1776 (ibid., 4547, 5255). The twenty-six infantry regiments and Thompsons riflemen were designated Continental regiments and numbered according to the seniority of their respective colonels (see <a href="default.xqy?keys=GEWN-print-03-02-02-0260" class="document">Council of War, 2 Nov. 1775</a>).
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0004">[4]</span>
+For example, Thompsons regiment became the 1st Continental Regiment, and Col. James Reeds regiment became the 2d Continental Regiment. Because GW had been thwarted in his attempt to make the new army truly Continental by mixing officers from different colonies in the regiments (see <a href="default.xqy?keys=GEWN-print-03-02-02-0304" class="document">GW to Hancock</a> and <a href="default.xqy?keys=GEWN-print-03-02-02-0308" class="document">Joseph Reed, 8 Nov. 1775</a>), each regiment in the new army was identified with a colony in practice if not in name. Massachusetts had 16 regiments, Connecticut 5, New Hampshire 3, Rhode Island 2, and Pennsylvania 1 (see <a href="default.xqy?keys=GEWN-print-03-02-02-0443" class="document">Circular to the New England Governments, 5 Dec. 1775</a>, and Heitman, <span class="hi-italic" style="font-style: italic;">Register</span>, 1922). GW did not alter the division and brigade structure that he had devised for the old army but simply reassigned the regiments to the brigades to reflect the new regimental organization (see <a href="default.xqy?keys=GEWN-print-03-01-02-0091" class="document">General Orders, 22 July 1775</a>, <a href="default.xqy?keys=GEWN-print-03-03-02-0125" class="document">24 Jan. 1776</a>).</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0001-fn-0002-ptr" id="GEWN-03-03-02-0001-fn-0002">2</a>
+
+   <p>Long orders are daily issuing from Head Quarters to put the new Army under the best Regulation, Col. Jedediah Huntington wrote to his father Jabez Huntington on 5 January. I hope &amp; doubt not that better Order &amp; Discipline will be seen in the new Army than was in the old (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt;. Boston, 1859. ]">Mass. Hist. Soc., <span class="hi-italic" style="font-style: italic;">Proceedings</span></span>, 2d ser., 7 [189192], 358). During the first week of January GW used the general orders principally as a medium of instruction for the officers and men of the new army much as he had done for the old army during the previous summer.</p>
+
+
+   <p>Orderly books were kept by aides-de-camp and brigade majors as well as by the adjutants of the regiments and companies (see <a href="default.xqy?keys=GEWN-print-03-01-02-0081" class="document">General Orders, 20 July 1775</a>). As the general orders passed from GWs headquarters through the divisions, brigades, and regiments down to the companies, commanders at these intervening levels often added their own orders or omitted general orders that did not apply to their units. Orders pertaining only to GWs headquarters or to the divisions, brigades, and regiments usually do not appear in company orderly books. Because orders apparently were transcribed as they were read aloud, the copyists frequently garbled words, particularly names of persons, and sometimes paraphrased sections, leaving an accumulation of errors after two or three transcriptions. As a general rule the higher the unit for which an orderly book was kept, the more complete and accurate the text of the general orders in it is likely to be.</p>
+
+
+   <p>Apparently few of the original orderly books kept for GWs headquarters in any part have survived. The only one that has been identified for the siege of Boston is a fourteen-page document in the writing of GWs aide-de-camp Thomas Mifflin, at the National Archives (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Record Group (designating the location of documents in the National Archives) ]">RG</span> 93, Orderly Book no. 2), which includes the general orders for 46 July 1775. The American Antiquarian Society has copies of the general orders for 38 July 1775 in Joseph Reeds writing which were sent to William Henshaw while he was acting as Continental adjutant general (see General Orders for those dates <a href="default.xqy?keys=GEWN-print-03-01-02-0025" class="document">[1]</a> <a href="default.xqy?keys=GEWN-print-03-01-02-0027" class="document">[2]</a> <a href="default.xqy?keys=GEWN-print-03-01-02-0031" class="document">[3]</a> <a href="default.xqy?keys=GEWN-print-03-01-02-0035" class="document">[4]</a> <a href="default.xqy?keys=GEWN-print-03-01-02-0040" class="document">[5]</a> <a href="default.xqy?keys=GEWN-print-03-01-02-0041" class="document">[6]</a>). The best available copies of the general orders for most of the war are the Varick transcripts of the original headquarters orderly books which were made between 1781 and 1783 by several copyists including assistant adjutant generals John Stagg and John Singer Dexter (see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ John C. Fitzpatrick, ed. &lt;i&gt;The Writings of George Washington from the Original Manuscript Sources, 17451799&lt;/i&gt;. 39 vols. Washington, D.C., 193144. ]">Fitzpatrick, <span class="hi-italic" style="font-style: italic;">Writings</span></span>, 3:3056, n.29). The Varick transcripts are used as the source of the general orders printed in this edition of GWs <span class="hi-italic" style="font-style: italic;">Papers</span> unless the original headquarters orderly books can be positively
+<span class="pb" title="page number in print edition (no page scan available)" id="GEWN-03-03-02-pb-0005">[5]</span>
+identified. Other orderly books are not listed in the source lines and are cited in the notes only in special cases. For the siege of Boston, Artemas Wards orderly book, which was kept at the divisional level, and former adjutant general William Henshaws orderly book, which is also relatively complete and accurate, have been collated with the Varick transcripts, and significant variations are given in the notes. Wards orderly book is in the Massachusetts Historical Society, and Henshaws orderly book is in <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Proceedings of the Massachusetts Historical Society&lt;/i&gt;. Boston, 1859. ]">Mass. Hist. Soc., <span class="hi-italic" style="font-style: italic;">Proceedings</span></span>, 1st ser., 15 (187677), 75160, and American Antiquarian Soc., <span class="hi-italic" style="font-style: italic;">Proceedings</span>, n.s., 57 (1947), 17234.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0001-fn-0003-ptr" id="GEWN-03-03-02-0001-fn-0003">3</a>
+
+   <p>Gen. John Sullivan apparently disregarded these orders in making out the list of officers in his brigade. See <a href="default.xqy?keys=GEWN-print-03-03-02-0043" class="document">GW to Sullivan, 10 Jan. 1776</a>. For GWs power to brevet officers to vacancies, see <a href="default.xqy?keys=GEWN-print-03-01-02-0010" class="document">Instructions from the Continental Congress, 22 June 1775</a>. See also <a href="default.xqy?keys=GEWN-print-03-01-02-0179" class="document">General Orders, 9 Aug. 1775</a>.</p>
+
+</div>
+<div class="footnote"><a class="note-ref" href="#GEWN-03-03-02-0001-fn-0004-ptr" id="GEWN-03-03-02-0001-fn-0004">4</a>
+	
+   <p>About three thousand Massachusetts militia and two thousand from New Hampshire served with the Continental army from about 10 Dec. 1775 to 15 Jan. 1776 as replacements for departing Connecticut troops. See <a href="default.xqy?keys=GEWN-print-03-02-02-0411&amp;expandNote=GEWN-03-02-02-0411-fn-0001#GEWN-03-02-02-0411-fn-0001" class="document">GW to the Massachusetts General Court, 29 Nov., n.1</a>, <a href="default.xqy?keys=GEWN-print-03-02-02-0428" class="document">GW to Jonathan Trumbull, Sr., 2 Dec.</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0428&amp;expandNote=GEWN-03-02-02-0428-fn-0003#GEWN-03-02-02-0428-fn-0003" class="document">note 3</a>, <a href="default.xqy?keys=GEWN-print-03-07-02-0192" class="document">GW to Hancock, 4 Dec.</a>, and <a href="default.xqy?keys=GEWN-print-03-02-02-0459&amp;expandNote=GEWN-03-02-02-0459-fn-0001#GEWN-03-02-02-0459-fn-0001" class="document">Massachusetts General Court to GW, 7 Dec. 1775, n.1</a>. On 28 Dec. GW asked the veterans from Massachusetts, New Hampshire, and Rhode Island who had not reenlisted to remain in camp without their officers until the end of January (<a href="default.xqy?keys=GEWN-print-03-02-02-0571" class="document">General Orders, that date</a>), but apparently few kept their promises to stay (see <a href="default.xqy?keys=GEWN-print-03-03-02-0016" class="document">GW to Joseph Reed, 4 Jan. 1776</a>). The regimental returns that GW requested were late in arriving (see <a href="default.xqy?keys=GEWN-print-03-03-02-0032" class="document">General Orders, 8 Jan. 1776</a>).</p>
+
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of George Washington Digital Edition,</span>
+      ed. Theodore J. Crackel.
+      Charlottesville: University of Virginia Press, Rotunda, 2008. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/GEWN-03-03-02-0001 [accessed 25 Oct 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Revolutionary War Series (16 June 177521 October 1779), Volume 3 (1 January 177631 March 1776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=GEWN-print-03-03-02-0002" title="From Nicholas Cooke, 1 January 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of George Washington Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20082015 by the Rector and Visitors of the
+        University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2607-0<br/><span class="user">User  princeton logged in from IP address 140.180.252.218</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>
