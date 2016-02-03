@@ -1,0 +1,140 @@
+From Richard Henry Lee, 3 May 1779
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Richard Henry Lee, 3 May 1779</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-02-02-0103&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1779-05-03-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0102" title="To William Phillips, [April? 1779]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-02-02-0104" title="From William Fleming, 10 May 1779"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-02&amp;mode=TOC">Volume 2 (177718 June 1779)</a>&gt; <a href="?keys=TSJN-print-01-02-02&amp;mode=TOC">Documents</a>&gt; From Richard Henry Lee, 3 May 1779</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-02-02-0103&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0102" title="To William Phillips, [April? 1779]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0104" title="From William Fleming, 10 May 1779"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-02-02-pb-0262">262<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0262.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-02-0112" class="doc">
+
+<h1>From Richard Henry Lee</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Philadelphia May the 3d. 1779</td>
+	      </tr>
+      </table>
+</div>
+<p>Always attentive to your commands, I have obtained here, and now inclose you the <a href="#TSJN-01-02-0112-kw-0001" title="[explained in note]" id="TSJN-01-02-0112-ks-0001" class="keyword">song</a> and the <a href="#TSJN-01-02-0112-kw-0002" title="[explained in note]" id="TSJN-01-02-0112-ks-0002" class="keyword">receipt</a> you desired. I once had both of them at home, but they are mislaid among a mass of papers, so that I could find neither previous to my leaving Chantilly, or your request would then have been complied with. I hope you have received the pamphlet I sent you some weeks ago entitled Observations on the American revolution containing a collection of the most material congress papers with a few remarks interspersed, in order to shew in one comprehensive view the progress of our glorious revolution, and to rectify some false representations of the British Commissioners. This pamphlet was sent by an Express that came here from Mr. Harvey, and returned to Williamsburg, with intention to follow Mr. Harvey to Albemarle if he found him not at the former of these places. I wish it were in my power to entertain you with news, but we are here as void of that as if profound peace reigned thro out the world. We have not heard from Europe for four months and altho there then seemed a disposition in many Powers to restore the general tranquility, yet all were industriously preparing for war, and some being actually engaged, the fate of millions hung in doubtful ballance.</p>
+<p>The armies here continue quiet within their quarters. That of the enemy by their late embarkation of nine regiments, rendered too weak for taking the field, must content itself with holding N. York as the Gibralter of N. America. If we can baffle the Southern invasion, it [is] clear to me that the game will be presently up with our enemies, and that they will be compelled by inevitable necessity to be content with the loss of thirteen flourishing states. A very fit consequence of the foolish and wicked attempt to reduce to slavery so many free useful, and affectionate friends. I hope that when you and my other friends consider all things, that you will not blame me for send[ing] my <a href="#TSJN-01-02-0112-kw-0003" title="[explained in note]" id="TSJN-01-02-0112-ks-0003" class="keyword">resignation</a> to the Assembly. I am realy injured in my health by such continued, close application; and a long neglected numerous family demands some attention. Add to these, that persecuted as I have been by the united voice of toryism, peculation, faction, envy, m[alice] and all uncharitableness, nothing but the certain prospect of doing essential service to my country can compensate for the <a href="#TSJN-01-02-0112-kw-0004" title="[explained in note]" id="TSJN-01-02-0112-ks-0004" class="keyword">injuries</a> I receive. It would content me indeed to sacrifice every considerat[ion] to the public good that would result from such persons as yourse[lf,] Mr. Wythe, <span class="pb" title="page number in print edition" id="TSJN-01-02-02-pb-0263">[263<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0263.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Mr. Mason and some others being in Congress. I would wi[th] persevering ardor press thro every difficulty in conjunction with such Associates. I am informed that Colo. Blackburn intends to propose a bi[ll] this Session for the relief of Landlords. I should suppose that the wisd[om] and justice of the Legislature can and will devise some remedy for the [relief] of this class of people among us. I am one, who have the misfortune to [see] myself and family nearly ruined by the retrospective effect of our law. Almost the whole of my landed estate was rented out some years before [the] war for low cash rents, and under the faith of existing law which secur[ed] me specie for my rents. The vast sums of paper money that have been issued (this being now a tender for the discharge of rents growing from old <a href="#TSJN-01-02-0112-kw-0005" title="[explained in note]" id="TSJN-01-02-0112-ks-0005" class="keyword">contracts</a>) and the consequent depreciation, has well nigh effected an entire transfer of my estate to my Tenants. This year Sir, the rents of 4000 acres of fine Land will not buy me 20 barrels of Corn! I am very far from desiring that the law should place these contracts litterally as they were, but substantially so, if it seems just that they should be. When the Tenant agreed to pay me 6. for an hund. acres rent he could not sell his Tobo. for more than 16 or 18 shillings an hundred. Now he sells his Tobo. for 10 and 12 per Cent. It does not appear to me that the public good can be concerned in thus transfering the property of Landlords to their Tenants. But public justice demands that the true meaning and genuine spirit of contracts should be complied with. It appears to me that an Act of Commutation might set this business right by directing the payment in produce at the prevailing price of such produce when the Contracts were made, leaving this to be settled by the Courts annually as they formerly did in the case of exchange. I well know your love of justice to be such that your approbation will be given to any proper plan for doing right in the premisses. For my own part, I am willing to suffer every thing rather than injure the public cause, but in the present state of things I can see no possibility of public injury from thus rendering private justice. I am with much esteem and regard dear Sir your most obedient and very humble Servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Richard</span> <span class="hi-small-caps" style="font-variant: small-caps;">Henry</span> <span class="hi-small-caps" style="font-variant: small-caps;">Lee</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-02-0112-sn">
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Enclosures missing.</p>
+
+
+   <p>The <a id="TSJN-01-02-0112-kw-0001" class="keywordref" title="jump to song in text" href="#TSJN-01-02-0112-ks-0001">song</a> and <a id="TSJN-01-02-0112-kw-0002" class="keywordref" title="jump to receipt in text" href="#TSJN-01-02-0112-ks-0002">receipt</a>, which Lee secured from Mr. Peters and Mrs. Shippen (<a href="default.xqy?keys=TSJN-print-01-02-02-0091" class="document">R. H. Lee to TJ, 15 Mch. 1779</a>) have not been identified. Lees <a id="TSJN-01-02-0112-kw-0003" class="keywordref" title="jump to resignation in text" href="#TSJN-01-02-0112-ks-0003">resignation</a> from Congress was read in the House of Delegates on 15 May 1779 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journal of the House of Delegates of the Commonwealth of Virginia&lt;/i&gt; (cited by  session and date of publication) ]">JHD</span>, May 1779, 1827 edn., p. 9). The <a id="TSJN-01-02-0112-kw-0004" class="keywordref" title="jump to injuries in text" href="#TSJN-01-02-0112-ks-0004">injuries</a> Lee suffered were occasioned by Silas Deanes attacks on his brothers William and Arthur, which were widely published in America in Jan. 1779 (R. H. Lee, <span class="hi-italic" style="font-style: italic;">Letters</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ii</span>, 126). No bill was passed in the Virginia General Assembly for the adjustment and settlement of <a id="TSJN-01-02-0112-kw-0005" class="keywordref" title="jump to contracts in text" href="#TSJN-01-02-0112-ks-0005">contracts</a> in depreciated paper money until the session of Nov. 1781 (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William W. Hening, &lt;i&gt;The Statutes at Large; Being a Collection of All the Laws of Virginia&lt;/i&gt; ]">Hening,</span> <span class="hi-small-caps" style="font-variant: small-caps;">x</span>, 4714)</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-02-02-0103 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 2 (177718 June 1779)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0102" title="To William Phillips, [April? 1779]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0104" title="From William Fleming, 10 May 1779"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,0 +1,405 @@
+PMI Analysis for Positive Words:
+
++--------------------+-----------------------------+
+  Adams Word         |       Washington Word
++--------------------+-----------------------------+
+0. good: 0.113		good: 0.082
+
+1. deal: -1.877		deal: -0.930
+
+2. excellent: -3.205		crop: -2.055
+
+3. wishes: -3.385		wishes: -2.452
+
+4. policy: -3.395		behaviour: -2.655
+
+5. officer: -3.425		effect: -2.819
+
+6. health: -3.510		weather: -2.983
+
+7. compliments: -3.548		health: -3.000
+
+8. commissions: -3.592		respects: -3.075
+
+9. effect: -3.599		pretty: -3.104
+
+10. capable: -3.621		heartily: -3.119
+
+11. bad: -3.678		character: -3.140
+
+12. news: -3.845		corn: -3.349
+
+13. love: -3.877		excuse: -3.403
+
+14. sense: -3.894		dare: -3.617
+
+15. friendship: -3.916		family: -3.713
+
+16. lead: -3.935		price: -3.755
+
+17. disposition: -3.974		compliments: -3.755
+
+18. friends: -4.013		arms: -3.790
+
+19. acquainted: -4.021		sincere: -3.791
+
+20. knowledge: -4.028		beleive: -3.807
+
+21. man: -4.075		happen: -3.830
+
+22. enjoy: -4.079		oppertunity: -3.850
+
+23. promote: -4.115		mind: -3.852
+
+24. emperor: -4.125		pair: -3.861
+
+25. judges: -4.129		tobacco: -3.863
+
+26. respects: -4.140		hopes: -3.884
+
+27. fail: -4.161		nature: -3.886
+
+28. reasons: -4.199		provided: -3.897
+
+29. hope: -4.205		bad: -3.949
+
+30. secure: -4.205		look: -3.965
+
+31. worthy: -4.216		enough: -3.973
+
+32. goes: -4.219		future: -4.000
+
+33. though: -4.248		land: -4.018
+
+34. warren: -4.248		equally: -4.044
+
+35. length: -4.248		tell: -4.057
+
+36. friend: -4.252		easily: -4.059
+
+37. character: -4.259		peace: -4.075
+
+38. sincerely: -4.282		well: -4.078
+
+39. says: -4.305		season: -4.078
+
+40. congratulate: -4.309		afford: -4.087
+
+41. appears: -4.311		merit: -4.087
+
+42. care: -4.329		water: -4.095
+
+43. opportunity: -4.332		ground: -4.096
+
+44. honest: -4.336		friends: -4.096
+
+45. gives: -4.346		promise: -4.109
+
+46. thank: -4.351		live: -4.123
+
+47. trouble: -4.353		real: -4.140
+
+48. opinion: -4.354		support: -4.162
+
+49. possibly: -4.369		offer: -4.190
+
+50. charge: -4.377		spirit: -4.190
+
+51. really: -4.380		really: -4.206
+
+52. self: -4.384		turn: -4.215
+
+53. success: -4.408		flatter: -4.219
+
+54. safe: -4.417		feet: -4.219
+
+55. sensible: -4.420		safe: -4.230
+
+56. happy: -4.427		wish: -4.235
+
+57. terms: -4.439		furnish: -4.240
+
+58. equally: -4.440		success: -4.248
+
+59. cant: -4.449		ask: -4.248
+
+60. gentleman: -4.450		readily: -4.248
+
+61. old: -4.454		endeavour: -4.253
+
+62. wish: -4.461		bought: -4.257
+
+63. believe: -4.473		share: -4.267
+
+64. recommend: -4.476		opinion: -4.272
+
+65. conceive: -4.478		government: -4.290
+
+66. books: -4.487		m: -4.290
+
+67. fit: -4.492		save: -4.291
+
+68. prospect: -4.495		presume: -4.298
+
+69. militia: -4.498		render: -4.307
+
+70. company: -4.503		particularly: -4.307
+
+71. words: -4.503		common: -4.327
+
+72. cause: -4.514		news: -4.331
+
+73. promise: -4.524		kept: -4.335
+
+74. stand: -4.531		hand: -4.338
+
+75. convinced: -4.537		wheat: -4.343
+
+76. god: -4.543		keep: -4.348
+
+77. sometimes: -4.544		stand: -4.358
+
+78. returned: -4.544		thinks: -4.358
+
+79. continued: -4.547		always: -4.359
+
+80. affection: -4.550		piece: -4.363
+
+81. none: -4.552		hope: -4.366
+
+82. forward: -4.561		friend: -4.371
+
+83. work: -4.571		mrs: -4.382
+
+84. personal: -4.585		properly: -4.385
+
+85. dana: -4.590		pray: -4.385
+
+86. constantly: -4.594		bill: -4.385
+
+87. hear: -4.596		make: -4.391
+
+88. assured: -4.600		old: -4.392
+
+89. appearance: -4.602		best: -4.395
+
+90. use: -4.607		sell: -4.400
+
+91. effects: -4.607		used: -4.415
+
+92. get: -4.616		strong: -4.426
+
+93. assist: -4.619		paper: -4.435
+
+94. wise: -4.629		life: -4.443
+
+95. condition: -4.634		attended: -4.445
+
+96. feel: -4.639		appear: -4.445
+
+97. family: -4.640		tobo: -4.447
+
+98. especially: -4.640		towards: -4.448
+
+99. reason: -4.642		advantage: -4.452
+
+100. connections: -4.644		doubt: -4.459
+
+101. towards: -4.648		sincerely: -4.459
+
+102. poor: -4.665		way: -4.471
+
+103. knowing: -4.672		high: -4.474
+
+104. able: -4.677		reasons: -4.476
+
+105. things: -4.680		terms: -4.481
+
+106. give: -4.697		believe: -4.488
+
+107. flatter: -4.708		seems: -4.492
+
+108. learn: -4.710		sure: -4.496
+
+109. whatever: -4.713		provide: -4.524
+
+110. office: -4.728		especially: -4.524
+
+111. admit: -4.728		whilst: -4.524
+
+112. difficulties: -4.737		past: -4.524
+
+113. order: -4.737		judge: -4.529
+
+114. indeed: -4.739		engage: -4.531
+
+115. likewise: -4.746		miss: -4.535
+
+116. keep: -4.749		often: -4.536
+
+117. accept: -4.750		like: -4.537
+
+118. agreeable: -4.755		let: -4.540
+
+119. young: -4.759		direct: -4.546
+
+120. benefit: -4.764		single: -4.548
+
+121. service: -4.769		man: -4.552
+
+122. serve: -4.771		neat: -4.555
+
+123. pray: -4.778		trouble: -4.557
+
+124. establish: -4.781		america: -4.561
+
+125. take: -4.785		got: -4.570
+
+126. much: -4.786		kind: -4.572
+
+127. produce: -4.788		choose: -4.573
+
+128. send: -4.790		yr: -4.580
+
+129. protection: -4.790		young: -4.585
+
+130. people: -4.791		gist: -4.585
+
+131. excuse: -4.793		discharge: -4.592
+
+132. provided: -4.793		see: -4.592
+
+133. find: -4.794		every: -4.594
+
+134. save: -4.799		houses: -4.597
+
+135. credit: -4.803		order: -4.599
+
+136. almost: -4.804		creek: -4.602
+
+137. offer: -4.807		endeavours: -4.605
+
+138. speak: -4.807		work: -4.613
+
+139. call: -4.812		duty: -4.615
+
+140. altho: -4.815		quantity: -4.618
+
+141. added: -4.816		assist: -4.619
+
+142. make: -4.841		bring: -4.622
+
+143. proceed: -4.844		generally: -4.632
+
+144. dumas: -4.844		som: -4.632
+
+145. government: -4.851		find: -4.644
+
+146. share: -4.851		sensible: -4.652
+
+147. like: -4.852		act: -4.653
+
+148. put: -4.856		public: -4.661
+
+149. well: -4.858		worth: -4.663
+
+150. officers: -4.858		paying: -4.663
+
+151. majestys: -4.858		many: -4.669
+
+152. attended: -4.863		year: -4.674
+
+153. advantage: -4.866		propose: -4.682
+
+154. sincere: -4.876		wanting: -4.682
+
+155. making: -4.876		whose: -4.683
+
+156. latter: -4.879		security: -4.691
+
+157. depend: -4.888		think: -4.693
+
+158. purpose: -4.889		mill: -4.693
+
+159. esteem: -4.892		soldiers: -4.698
+
+160. desire: -4.897		illegible: -4.700
+
+161. recommended: -4.897		though: -4.700
+
+162. pass: -4.907		desire: -4.706
+
+163. advise: -4.907		gives: -4.707
+
+164. minds: -4.915		convenient: -4.708
+
+165. offered: -4.916		service: -4.712
+
+166. hopes: -4.919		right: -4.713
+
+167. men: -4.920		less: -4.714
+
+168. nature: -4.923		repair: -4.719
+
+169. life: -4.923		conduct: -4.724
+
+170. virtue: -4.927		assure: -4.728
+
+171. let: -4.930		vessel: -4.732
+
+172. obtained: -4.934		advise: -4.732
+
+173. live: -4.939		prospect: -4.735
+
+174. abilities: -4.945		england: -4.755
+
+175. russia: -4.945		likely: -4.755
+
+176. arrive: -4.945		remain: -4.758
+
+177. countrymen: -4.945		utmost: -4.767
+
+178. ill: -4.948		true: -4.770
+
+179. raise: -4.948		certainly: -4.770
+
+180. expect: -4.950		yet: -4.784
+
+181. hold: -4.954		plan: -4.784
+
+182. supply: -4.954		recommend: -4.784
+
+183. begin: -4.954		cut: -4.785
+
+184. hitherto: -4.954		entirely: -4.787
+
+185. think: -4.956		want: -4.787
+
+186. major: -4.961		parts: -4.793
+
+187. fire: -4.963		therefore: -4.793
+
+188. produced: -4.963		lands: -4.795
+
+189. india: -4.966		procure: -4.796
+
+190. whose: -4.973		cause: -4.797
+
+191. additional: -4.973		early: -4.799
+
+192. told: -4.973		might: -4.800
+
+193. end: -4.974		dispatch: -4.807
+
+194. respectable: -4.982		none: -4.812
+
+195. noble: -4.982		say: -4.818
+
+196. short: -4.986		suppose: -4.820
+
+197. word: -4.989		present: -4.822
+
+198. receivd: -4.991		write: -4.833
+
+199. inform: -4.993		according: -4.841
+

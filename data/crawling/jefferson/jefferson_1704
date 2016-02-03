@@ -1,0 +1,126 @@
+none 0
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>II. Arnold's Invasion as Reported by Jefferson in the Virginia Gazette, 13 January 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-04-02-0323-0003&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-01-13-2">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-04-02-0323&amp;mode=TOC" title="Notes and Documents Relating to the British Invasions in 1781, [31 December 178026 July 1816]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0323-0002" title="I. Diary of Arnold's Invasion and Notes on Subsequent Events in 1781: Versions of 1796?, 1805, and 1816"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-04-02-0323-0004" title="III. Depositions Taken in 1796 respecting Jefferson's Conduct during Arnold's Invasion, 12 October 1796"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 11px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-04&amp;mode=TOC">Volume 4 (1 October 178024 February 1781)</a>&gt; <a href="?keys=TSJN-print-01-04-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=TSJN-print-01-04-02-0323&amp;mode=TOC">Notes and Documents Relating to the British Invasions in 1781, [31 December 178026 July 1816]</a>&gt; II. Arnold's Invasion as Reported by Jefferson in the <span class="italic">Virginia Gazette</span>, 13 January 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-04-02-0323-0003&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0323-0002" title="I. Diary of Arnold's Invasion and Notes on Subsequent Events in 1781: Versions of 1796?, 1805, and 1816"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-04-02-0323-0004" title="III. Depositions Taken in 1796 respecting Jefferson's Conduct during Arnold's Invasion, 12 October 1796"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-04-02-pb-0269">269<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-04/TSJN-01-04-02-pb-0269.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-04-0324" class="doc">
+
+<h2>II. Arnolds Invasion as Reported by Jefferson in the<br/><span class="hi-italic" style="font-style: italic;">Virginia Gazette</span><br/>RICHMOND, <span class="hi-small-caps" style="font-variant: small-caps;">January</span> 13.</h2>
+
+<div class="docbody">
+<p style="text-align: center; text-indent: 0;">A narrative of the late incursion made by the enemy to this place.</p>
+<p style="text-align: left; text-indent: 0; margin-top: 1em;"><span class="hi-small-caps" style="font-variant: small-caps;">On</span> the 31st of December, a letter from a private Gentleman to General Nelson reached this place, notifying that in the morning of the preceding day, twenty seven sail of vessels had entered the Capes, and from the tenor of the letter, there was reason to expect within a few hours farther intelligence whether they were friends or foes, their force, and other circumstances. General Nelson went immediately into the lower country, with powers to call on the militia in that quarter, or to act otherwise as exigencies should require. The call of the militia from the middle and upper counties was not made till intelligence could be received that the fleet was certainly hostile. No farther intelligence came till the second instant, when the former was confirmed; it was ascertained that they were enemies, and had advanced up James river to Warrasqueak bay. All arrangements were immediately taken for calling in a sufficient body of militia for opposition. In the night of the third, advice was received that they were at anchor opposite Jamestown, Williamsburg was then supposed to be their object; the wind however, which had hitherto been unfavourable, shifted fair, and the tide being also in their favour, they ascended the river to Kennons that evening, and with the next tide came up to Westover, having on their way taken possession of the battery at Hoods, by which two or three of their vessels had received some damage, but which was of necessity abandoned by the small garrison of fifty men placed there on the enemys landing to invest the works. Intelligence of the enemys having quitted the station at James-town, from which it was supposed they meant to [land at] Williamsburg, and that they had got in the evening to Kennons, reached this place at five oclock in the morning of the fourth, this was the first indication of their meaning to penetrate towards Richmond or Petersburg. As the orders for drawing the militia hither had been given but two days, no opposition was in readiness. Every effort was therefore necessary to withdraw the arms and other military stores, records, &amp;c. from this place: Every effort was accordingly exerted to convey them to the foundery and labaratory, till about sunset of that day, when intelligence was received that the enemy had landed at Westover: From this it appeared that Richmond, and not Petersburg, was their object; it became necessary to remove every thing which remained here, across the river, as well as what had been <span class="pb" title="page number in print edition" id="TSJN-01-04-02-pb-0270">[270<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-04/TSJN-01-04-02-pb-0270.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> carried to the foundery and labaratory; which operation was continued till the enemy approached very near. They marched from Westover at 2 oclock in the afternoon of the 4th, and entered Richmond at one oclock in the afternoon of the 5th. A regiment of infantry and about fifty horse continued on without halting to the foundery, they burnt that, the boring mill, the magazine, and two other houses, and proceeded to Westham, but nothing being in their power there, they retired to Richmond. The next morning they burnt some buildings of publick and some of private property, with what stores remained in them; destroyed a great quantity of private stores and about 12 oclock retired towards Westover, where they encamped within the neck the next day. The loss sustained is not yet accurately known. At this place about 300 muskets, some soldiers clothing to a small amount, sulphur, some quarter masters stores, of which 120 sides of leather was the principal article, part of the artificers tools, and 3 waggons; besides which five brass 4 pounders, which had been sunk in the river, were discovered to them, raised and carried off. At the foundery about 5 tons of powder was thrown into the canal, of which there will be a considerable saving by remanufactoring it. Part of the papers belonging [to] the Auditors office, and the books and papers of the Council office, which were ordered to Westham, but in the confusion carried by mistake to the foundery, were also destroyed. The roof of the foundery was burnt, but the stacks of chimnies and furnaces not at all injured. Within less than 48 hours from the time of their landing and 19 from our knowing their destination they had penetrated 33 miles, done the whole injury, and retired. Our militia, dispersed over a large tract of country can be called in but slowly. On the day the enemy [march]ed to this place, two hundred only were [embodi]ed, they were of this town and neighbour[hood] and were too few to do any thing effectual. The enemys forces are commanded by the parricide Arnold.<a class="ptr" href="#TSJN-01-04-0324-fn-0001" id="TSJN-01-04-0324-fn-0001-ptr">1</a></p>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-04-0324-sn">
+<p>Printed from <span class="hi-italic" style="font-style: italic;">Virginia Gazette</span> (Dixon &amp; Nicolson), 13 Jan. 1781. Only one copy of this issue is known to have survived (in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); it is mutilated slightly.</p>
+<p>The authorship of this narrative may be attributed with entire confidence to TJ despite the absence of documentary evidence to that effect. TJ was the only person at this time in possession of all the facts related here, and some of the language in the narrative is identical with that in his <a href="default.xqy?keys=TSJN-print-01-04-02-0403" class="document">letters to Huntington</a> and <a href="default.xqy?keys=TSJN-print-01-04-02-0408" class="document">Washington dated 10 Jan. 1781</a> as well as other letters and memoranda written by him at this time. On 16 Jan. 1781 TJ sent a copy of the newspaper to Gen. Greene, remarking that it contained a pretty exact narrative of Arnolds raid.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-04-0324-fn-0001-ptr" id="TSJN-01-04-0324-fn-0001">1</a><p>To this account the printers added the following paragraph, marked by a typographical fist: The Gentlemen who furnished us with advertisements, &amp;c. just before the incursion of the enemy at this place, are desired to furnish us with another copy, as they were destroyed together with the best part of the materials of this office.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-04-02-0323-0003 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 4 (1 October 178024 February 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0323-0002" title="I. Diary of Arnold's Invasion and Notes on Subsequent Events in 1781: Versions of 1796?, 1805, and 1816"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-04-02-0323-0004" title="III. Depositions Taken in 1796 respecting Jefferson's Conduct during Arnold's Invasion, 12 October 1796"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.52</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

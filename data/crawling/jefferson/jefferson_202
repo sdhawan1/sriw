@@ -1,0 +1,138 @@
+To Francis Eppes, 15 July 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Francis Eppes, 15 July 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0181&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1776-07-15-3">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0180" title="Report of the Committee to Draw Up Rules of Procedure in Congress, [before 10 July 1776]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0182" title="Virginia Delegates in Congress to the Executive of Virginia (Patrick Henry), [15 July 1776]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; To Francis Eppes, 15 July 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0181&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0180" title="Report of the Committee to Draw Up Rules of Procedure in Congress, [before 10 July 1776]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0182" title="Virginia Delegates in Congress to the Executive of Virginia (Patrick Henry), [15 July 1776]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0458">458<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0458.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0195" class="doc">
+
+<h1>To Francis Eppes</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Philadelphia, July 15th, 1776.</td>
+	      </tr>
+      </table>
+</div>
+<p>Yours of the 3d inst. came to hand to-day. I wish I could be better satisfied on the point of Pattys recovery. I had not heard from her at all for two posts before, and no letter from herself now. I wish it were in my power to return by way of the Forest, as you think it will be impracticable for Mrs. Eppes to travel to the mountains. However, it will be late in August before I can get home, and our Convention will call me down early in October. Till that time, therefore, I must defer the hope of seeing Mrs. Eppes and yourself. Admiral Howe is himself arrived at New York, and two or three vessels, supposed to be of his fleet, were coming in. The whole is expected daily.</p>
+<p>Washingtons numbers are greatly increased, but we do not know <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0459">[459<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0459.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> them exactly. I imagine he must have from 30 to 35,000 by this time. The enemy the other day ordered two of their men-of-war to hoist anchor and push by our batteries up the Hudson River. Both wind and tide were very fair. They passed all the batteries with ease, and, as far as is known, without receiving material damage; though there was an incessant fire kept up on them. This experiment of theirs, I suppose, is a prelude to the passage of their whole fleet, and seems to indicate an intention of landing above New York. I imagine General Washington, finding he cannot prevent their going up the river, will prepare to amuse them wherever they shall go.</p>
+<p>Our army from Canada is now at Crown Point, but still one half down with the smallpox. You ask about Arnolds behavior at the Cedars. It was this. The scoundrel, Major Butterfield, having surrendered three hundred and ninety men, in a fort with twenty or thirty days provision, and ammunition enough, to about forty regulars, one hundred Canadians, and five hundred Indians, before he had lost a single manand Maj. Sherburne, who was coming to the relief of the fort with one hundred men, having, after bravely engaging the enemy an hour and forty minutes, killing twenty of them and losing twelve of his own, been surrounded by them, and taken prisoners alsoGen. Arnold appeared on the opposite side of the river and prepared to attack them. His numbers I know not, but believe they were about equal to the enemy. Capt. Foster [Forster], commander of the kings troops, sent over a flag to him, proposing an exchange of prisoners for as many of the kings in our possession, and, moreover, informed Arnold that if he should attack, the Indians would put every man of the prisoners to death. Arnold refused, called a council of war, and, it being now in the night, it was determined to attack next morning. A second flag came over; he again refused, though in an excruciating situation, as he saw the enemy were in earnest about killing the prisoners. His men, too, began to be importunate for the recovery of their fellowsoldiers. A third flag came, the men grew more clamorous, and Arnold, now almost raving with rage and compassion, was obliged to consent to the exchange and six days suspension of hostilities, Foster declaring he had not boats to deliver them in less time. However, he did deliver them so much sooner as that before the six days were expired, himself and party had fled out of all reach. Arnold then retired to Montreal. You have long before this heard of Gen. Thompsons defeat. The truth of that matter has never appeared till lately. You will see it in the public papers. No men on earth ever behaved better than ours did. The enemy behaved dastardly. Col. <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0460">[460<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0460.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Allen (who was in the engagement) assured me this day, that such was the situation of our men, half way up to the thighs in mud for several hours, that five hundred men of spirit must have taken the whole; yet the enemy were repulsed several times, and our people had time to extricate themselves and come off. It is believed the enemy suffered considerably. The above account of Arnolds affair you may rely on, as I was one of a committee appointed to inquire into the whole of that matter, and have it from those who were in the whole transaction, and were taken prisoners.</p>
+<p>My sincere affections to Mrs. Eppes, and adieu,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Th.</span> <span class="hi-small-caps" style="font-variant: small-caps;">Jefferson</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0195-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> not located. Text from <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Henry S. Randall, &lt;i&gt;The Life of Thomas Jefferson&lt;/i&gt; ]">Randall, <span class="hi-italic" style="font-style: italic;">Life</span></span>, <span class="hi-small-caps" style="font-variant: small-caps;">iii</span>, 5823, where no source is cited. Addressed: Francis Eppes, Esq. In Charles City.</p>
+<p><a href="default.xqy?keys=TSJN-print-01-15-02-0545" class="document">Eppes letter to TJ of 3 July</a> has not been found.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0181 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0180" title="Report of the Committee to Draw Up Rules of Procedure in Congress, [before 10 July 1776]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0182" title="Virginia Delegates in Congress to the Executive of Virginia (Patrick Henry), [15 July 1776]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

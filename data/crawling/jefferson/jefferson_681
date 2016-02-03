@@ -1,0 +1,150 @@
+From Rev. John Todd, 16 August 1779
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Rev. John Todd, 16 August 1779</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-03-02-0077&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1779-08-16-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0076" title="Testimonial for Charles Clay, [15 August 1779]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-03-02-0078" title="From George Washington, 16 August 1779"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-03&amp;mode=TOC">Volume 3 (18 June 177930 September 1780)</a>&gt; <a href="?keys=TSJN-print-01-03-02&amp;mode=TOC">Documents</a>&gt; From Rev. John Todd, 16 August 1779</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-03-02-0077&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0076" title="Testimonial for Charles Clay, [15 August 1779]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0078" title="From George Washington, 16 August 1779"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-03-02-pb-0068">68<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0068.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-03-0077" class="doc">
+
+<h1>From Rev. John Todd</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">16th August 79</td>
+	      </tr>
+      </table>
+</div>
+<p>I thank you for the favour you have done me in inclosing me <a href="#TSJN-01-03-0077-kw-0002" title="[explained in note]" id="TSJN-01-03-0077-ks-0001" class="keyword">the bill for establishing religious freedom</a>. I had not seen it beforeand teased with reports from the Assembly as people affected and were attached, that a general Assessment was to take place; again that the old detested establishment had warm advocates in the house, &amp;c. Long have I been anxious for thoughts of mankind, sacred and civilmuch I have feared on this head from the gross ignorance of Some on the Subject, and the little narrow sould bigotry and blind ungenerous attachment of others to the peculiarities of parties, which after long contention and disputing and endeavouring to set people right, many fears have attended my hopes of ever seeing the sacred and civil rights of mankind secured to them on a fair and catholic basis.</p>
+<p>I have long thought our parties here were more inclind to do what is right than acquainted with what was right, that good information was the great thing wanting, to stem the Torrent of bigotry and prejudices that prevailed.</p>
+<p>Now I have a peculiar pleasure, sir, in finding that we are blessed with men, some men at and near the helm with clear heads and honest hearts, zealous to bring to light and secure to all good men their rights without partiality. I guess at the author of the bill and I love and esteem the man. The Sentiments are the Sentiments of my heart, and therefore cordially approve them. It is my wish the author of the bill may find men of like Sentiments and abilities enough to pass it safely thro the Assembly; and extirpate from our country all the rubish of contrary Sentiments: On so ample a basis what advantages may we expect from Church and State? The expulsion of many a Sordid wretch from the Sacred character of the gospel ministry: who Allured by a Sordid bait was only employed in disgracing christianity thro the course of his ungodly life: and a ready Tool for the State that supported him in every design of Tyranny and oppression, &amp;c.</p>
+<p>The State on this free footing will undoubtedly flourish by so open a door for the arts, the Sciences, manufactures, Trade, &amp;c. from all parts of Europe. In Short this is the safe plan for religion, and the best policy for the State.</p>
+<p>For my own part, I can chearfully venture all upon it. I believe so large liberty will be abused; but what will not some men abuse? We must eat and drink tho men abuse both meat and drink.</p>
+<p>Some are very British and think the Church will Sink: but it <span class="pb" title="page number in print edition" id="TSJN-01-03-02-pb-0069">[69<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0069.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Should be considered, there is a wide difference between religion sinking and some of its miserable Clergy sinking or taking themselves to business fite for them.</p>
+<p>Besides the Sure promise of its supream head, that <span class="hi-italic" style="font-style: italic;">the gates of hell Shall not prevail against it</span>; the experience of all the Churches Since <span class="hi-italic" style="font-style: italic;">Constantine</span>, shew the absurdity of Establishments. <span class="hi-italic" style="font-style: italic;">Virtue and pure religion</span> do better without earthly emoluments than with. They are not natural to an earthy soil.</p>
+<p>I am also confident that people of all sorts of religion will be the real friends of the State that secures to them their rights religious and civil. I am not affrighted with tolerating papists in the State, but think they will be our true friends, and that people of different Sentiments in religion will be all one in their love and fidelity to the State which secures to them everything dear and valuable: and the more catholick and friendly one to another, and free from <span class="hi-italic" style="font-style: italic;">pride</span> and <span class="hi-italic" style="font-style: italic;">envy</span> when the State rewards all men alike according to their merit: not their hypocritical attachment to the favourite party for bread.</p>
+<p>But I am afraid I have Scribbled on too long on a Subject So fruitful.</p>
+<p>Wishing Success to the bill, and the certain Security of our Rights on so large and righteous a foundation, and that you may, Sir, long live to fill up the most important places in the State, and be blessed with every kind of happiness in all your tender connexions and public exertions, I have the pleasure of Subscribing my Self, your excellencys most cordial hble Servt,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Jno</span> <span class="hi-small-caps" style="font-variant: small-caps;">Todd</span></p>
+</div>
+<div class="postscript">
+<p style="text-indent: 1.5em; text-align: left;">P.S. I have thoughts of taking a peep at Kentuckey in a short time. If your excellency has any commands to my Kinsman <a href="#TSJN-01-03-0077-kw-0001" title="[explained in note]" id="TSJN-01-03-0077-ks-0002" class="keyword">Col. Jno. Todd</a> you may command Your hble Servt,</p>
+</div>
+<div class="closer">
+<p class="signed">J. T.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-03-0077-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Missouri Historical Society, St. Louis ]">MoSHi</span>).</p>
+<p>Rev. John Todd (d. 1793), a graduate of the College of New Jersey, 1749, succeeded Rev. Samuel Davies as the leading figure in Hanover Presbytery, Va., and long strove for religious liberty in the state; he was uncle of <a id="TSJN-01-03-0077-kw-0001" class="keywordref" title="jump to col. jno. todd in text" href="#TSJN-01-03-0077-ks-0002">col. jno. todd</a>, of Kentucky, county lieutenant of Illinois at this time, who is mentioned at the close of the present letter (Sprague, <span class="hi-italic" style="font-style: italic;">Annals of the American Pulpit</span>, <span class="hi-small-caps" style="font-variant: small-caps;">iii</span>, 144, note). <a id="TSJN-01-03-0077-kw-0002" class="keywordref" title="jump to the bill for establishing religious freedom in text" href="#TSJN-01-03-0077-ks-0001">the bill for establishing religious freedom</a> is Bill No. 82 in the Report of the Committee of Revisors, submitted to the Assembly 18 June 1779, q.v.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-03-02-0077 [accessed 29 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 3 (18 June 177930 September 1780)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0076" title="Testimonial for Charles Clay, [15 August 1779]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0078" title="From George Washington, 16 August 1779"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

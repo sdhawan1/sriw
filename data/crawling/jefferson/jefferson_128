@@ -1,0 +1,143 @@
+To John Randolph, 25 August 1775
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To John Randolph, 25 August 1775</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0121&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1775-08-25-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0120" title="From St. George Tucker, 12 August 1775"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0122" title="From Edmund Randolph, 31 August 1775"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; To John Randolph, 25 August 1775</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0121&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0120" title="From St. George Tucker, 12 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0122" title="From Edmund Randolph, 31 August 1775"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0240">240<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0240.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0125" class="doc">
+
+<h1>To John Randolph</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Monticello. Aug. 25. 1775.</td>
+	      </tr>
+      </table>
+</div>
+<p>I received your <a href="#TSJN-01-01-0125-kw-0001" title="[explained in note]" id="TSJN-01-01-0125-ks-0901" class="keyword">message by Mr. Braxton</a> and immediately gave him an order on the Treasurer for the money, which the Treasurer assured me should be answered on his return. I now send the bearer for <a href="#TSJN-01-01-0125-kw-0002" title="[explained in note]" id="TSJN-01-01-0125-ks-0001" class="keyword">the violin</a> and such musick appurtaining to her as may be of no use to the young ladies. I beleive you had no case to her. If so, be so good as to direct Watt Lenox to get from Prentiss some bays or other coarse woollen to wrap her in, and then to pack her securely in a wooden box.</p>
+<span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0241">[241<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0241.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<p>I am sorry the situation of our country should render it not eligible to you to remain longer in it. I hope the returning wisdom of Great Britain will eer long put an end to this unnatural contest. There may be people to whose tempers and dispositions Contention may be pleasing, and who may therefore wish a continuance of confusion. But to me it is of all states, but one, the most horrid. My first wish is a restoration of our just rights; my second a return of the happy period when, consistently with duty, I may withdraw myself totally from the public stage and pass the rest of my days in domestic ease and tranquillity, banishing every desire of afterwards even hearing what passes in the world. Perhaps ardour for the latter may add considerably to the warmth of the former wish. Looking with fondness towards a reconciliation with Great Britain, I cannot help hoping you may be able to contribute towards expediting this good work. I think it must be evident to yourself that the ministry have been deceived by their officers on this side the water, who (for what purposes I cannot tell) have constantly represented the American opposition as that of a small faction, in which the body of the people took little part. This you can inform them of your own knolege to be untrue. They have taken it into their heads too that we are cowards and shall surrender at discretion to an armed force. The past and future operations of the war must confirm or undeceive them on that head. I wish they were thoroughly and minutely acquainted with every circumstance relative to America as it exists in truth. I am persuaded this would go far towards disposing them to reconciliation. Even those in parliament who are called friends to America seem to know nothing of our real determinations. I observe they pronounced in the last parliament that the Congress of 1774 did not mean to insist rigorously on the terms they held out, but kept something in reserve to give up; and in fact that they would give up everything but the article of taxation. Now the truth is far from this, as I can affirm, and put my honor to the assertion; and their continuance in this error may perhaps have very ill consequences. The Congress stated the lowest terms they thought possible to be accepted in order to convince the world they were not unreasonable. They gave up the monopoly and regulation of trade, and all the acts of parliament prior to 1764. leaving to British generosity to render these at some future time as easy to America as the interest of Britain would admit. But this was before blood was spilt. I cannot affirm, but have reason to think, these terms would not now be accepted. I wish no false sense of honor, no ignorance of our real intentions, no vain hope that partial <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0242">[242<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0242.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> concessions of right will be accepted may induce the ministry to trifle with accomodation till it shall be put even out of our own power ever to accomodate. If indeed Great Britain, disjoined from her colonies, be a match for the most potent nations of Europe with the colonies thrown into their scale, they may go on securely.<a class="ptr" href="#TSJN-01-01-0125-fn-0001" id="TSJN-01-01-0125-fn-0001-ptr">1</a> But if they are not assured of this, it would be certainly unwise, by trying the event of another campaign, to risque our accepting a foreign aid which perhaps may not be obtainable but on a condition of everlasting avulsion from Great Britain. This would be thought a hard condition to those who still wish for reunion with their parent country. I am sincerely one of those, and would rather be in dependance on Great Britain, properly limited, than on any nation upon earth, or than on no nation. But I am one of those too who rather than submit to the right of legislating for us assumed by the British parliament, and which late experience has shewn they will so cruelly exercise, would lend my hand to sink the whole island in the ocean.</p>
+<p>If undeceiving the minister as to matters of fact may change his dispositions, it will perhaps be in your power by assisting to do this, to render service to the whole empire, at the most critical time certainly that it has ever seen. Whether Britain shall continue the head of the greatest empire on earth, or shall return to her original station in the political scale of Europe depends perhaps on the resolutions of the succeeding winter. God send they may be wise and salutary for us all!</p>
+<p>I shall be glad to hear from you as often as you may be disposed to think of things here. You may be at liberty I expect to communicate some things consistently with your honor and the duties you will owe to a protecting nation. Such a communication among individuals may be mutually beneficial to the contending parties. On this or any future occasion if I affirm to you any facts, your knolege of me will enable you to decide on their credibility; if I hazard opinions on the dispositions of men, or other speculative points, you can only know they are my opinions. My best wishes for your felicity attend you wherever you go, and beleive me to be assuredly Your friend &amp; servt.,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Th: Jefferson</span></p>
+</div>
+<div class="postscript"><p>P.S. My collection of classics and of books of parliamentary learning particularly is not so complete as I could wish. As you are going to the land of literature and of books you may be willing to dispose of some of yours here and replace them there in better editions. I <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0243">[243<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0243.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> should be willing to treat on this head with any body you may think proper to empower for that purpose.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0125-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (Earl of Dartmouths <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscripts ]">MSS</abbr>, Patshull House, Wolverhampton; facsimile in Stevens <span class="hi-italic" style="font-style: italic;">Facsimiles</span>, <span class="hi-small-caps" style="font-variant: small-caps;">xxiv</span>, no. 2038). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> docketed by TJ: Randolph, John (Atty. Gen.) An exact copy. The <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> contains numerous deletions, but only one particularly significant example has been recorded in the textual note below.</p>
+<p>This letter, which begins with a violin, like the letter of 7 May 1775 to William Small, which begins with madeira wine, was designed to open the eyes of Englishmen to the true state of affairs in America. John Randolph, to whom it was directed, had in the previous summer stated his feelings on the dispute with admirable force and clarity in <span class="hi-italic" style="font-style: italic;">Considerations on the Present State of Virginia</span> (see the Heartman reprint, N.Y., 1919, especially p. 368). The fact that TJs letter came into the hands of the second Earl of Dartmouth, secretary of state for colonies, 17721775, indicates that Randolph brought it to the attention of government authorities. Randolphs <a id="TSJN-01-01-0125-kw-0001" class="keywordref" title="jump to message by Mr. Braxton in text" href="#TSJN-01-01-0125-ks-0901">message by Mr. Braxton</a> has not survived. <a id="TSJN-01-01-0125-kw-0002" class="keywordref" title="jump to The violin in text" href="#TSJN-01-01-0125-ks-0001">The violin</a> was the instrument concerning which TJ and Randolph had entered into a remarkable agreement; see 11 Apr. 1771, above. On 17 Aug. 1775 TJ recorded in his Account Book:</p>
+<p>Delivered to Carter Braxton an order on the Treasurer [Robert Carter Nicholas] in favor of J. Randolph Atty. General for 13. the purchase money for his violin. This dissolves our bargain recorded in the Gen. ct. &amp; revokes a legacy of 100. sterling to him now standing in my will which was made in consequence of that bargain.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-01-0125-fn-0001-ptr" id="TSJN-01-01-0125-fn-0001">1</a><p>Deleted in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr>: But even in that event I verily beleive that her successes would produce an effect she has little thought of a measure which as yet has been hardly suggested. I mean the dereliction of our lower Country and establishment beyond the mountains.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0121 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0120" title="From St. George Tucker, 12 August 1775"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0122" title="From Edmund Randolph, 31 August 1775"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

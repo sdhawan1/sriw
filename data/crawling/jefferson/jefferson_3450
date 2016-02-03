@@ -1,0 +1,134 @@
+From Francis Eppes, 22 December 1783
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Francis Eppes, 22 December 1783</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-06-02-0321&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1783-12-22-4">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0320" title="From Joseph Jones, 21 December 1783"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-06-02-0322" title="To Martha Jefferson, 22 December 1783"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-06&amp;mode=TOC">Volume 6 (21 May 17811 March 1784)</a>&gt; <a href="?keys=TSJN-print-01-06-02&amp;mode=TOC">Documents</a>&gt; From Francis Eppes, 22 December 1783</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-06-02-0321&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0320" title="From Joseph Jones, 21 December 1783"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0322" title="To Martha Jefferson, 22 December 1783"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-06-02-pb-0415">415<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0415.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-06-0337" class="doc">
+      
+      <h1>From Francis Eppes</h1>
+      
+      <div class="docbody">
+        <div class="opener">
+          <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dr</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Eppington Decbr. 22d. 1783</td>
+	      </tr>
+      </table>
+        </div>
+        <p><a href="#TSJN-01-06-0337-kw-0001" title="[explained in note]" id="TSJN-01-06-0337-ks-0901" class="keyword">Your letters of Novbr. 10th. and Decbr. 11th</a> came both together a few days ago and relievd us from the anxiety we had for some time been under least some indisposition might have prevented your writing. I am happy to inform you that you[r] children continue very well. <a href="#TSJN-01-06-0337-kw-0002" title="[explained in note]" id="TSJN-01-06-0337-ks-0001" class="keyword">Polly</a> often mentions you and Patsy, she desires her love to you both, and begs you will make haste home, for she longs to see you. Betsy was relieved of her burthen on the seventh of last month by the birth of a fine Girl, she going about tho by no means well she has fever more frequently than formerly in the same situations. I am much pleasd to hear that Virginia Tobacco sells so high in England, as it must of course raise the price from the low ebb to which it has been reducd for some time in this country, woud you believe it has sold as low as eighteen? Twenty has <span class="pb" title="page number in print edition" id="TSJN-01-06-02-pb-0416">[416<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0416.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> been the current price and then we were obligd to take one half goods at a very extravagant price. I am obligd to ask your opinion on a subject which concerns you as well as myself, I mean Col. Richard Randolphs account with <a href="#TSJN-01-06-0337-kw-0004" title="[explained in note]" id="TSJN-01-06-0337-ks-0002" class="keyword">Mr. Wayless Estate</a>. Nothing but the necessity of having a final settlement with that woud induce me at this time to add in the smallest degree to your business being well convincd you have your hands full will [with] publick affairs, but I hope when you recollect the advancd age and infirmities of Colo. Randolph it will sufficiently excuse my intruding on your moment either of business or recration; he has chargd the Estate near four hundred pounds on account of the Guineaman. He pretends to be very anxious to have the matter settled and wishes to have it referd to any court whose determination may be binding on all concernd. Your directions in this matter will be very pleasing to me. Mr. Maury has removd his School from Orange to Williamsburg, your Sister Carr desirs you will inform whether she is to send her son there. <a href="#TSJN-01-06-0337-kw-0003" title="[explained in note]" id="TSJN-01-06-0337-ks-0003" class="keyword">Jack</a> is at present quite unfixd as to a school. Mr. Maurys fickle disposition deters me from having any thing farther to do with him, for if we judge of the time to come by his past conduct we can hardly expect his School in Wmsburg will continue more than one year. As great an objection as I have to keeping Jack at home I woud at present do it provided I coud git a man who coud be depended on and woud give generous wages to such a one who woud undertake him and half a dozen others. Betsys eyes are so weak she begs you will excuse her writing at present but will most certainly do it by the next opportunity. With our best wishes for yours and Patseys health &amp; happiness. Dr Sir Your sincear Friend,</p>
+        <div class="closer">
+          <p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Frans.</span> <span class="hi-small-caps" style="font-variant: small-caps;">Eppes</span></p>
+        </div>
+      </div>
+      <div class="docback">
+        <div class="note-source" id="TSJN-01-06-0337-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ University of Virginia, Charlottesville ]">ViU</span>); endorsed: Eppes Fras. Not recorded in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jefferson's Summary Journal of Letters written and received ]">SJL</abbr>.</p>
+          <p><a id="TSJN-01-06-0337-kw-0001" class="keywordref" title="jump to Your letters of novbr. 10th. and decbr. 11th. in text" href="#TSJN-01-06-0337-ks-0901">Your letters of novbr. 10th. and decbr. 11th.</a>: The former appears under its date, but the latter has not been found. None is recorded in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jefferson's Summary Journal of Letters written and received ]">SJL</abbr> under that date; Eppes may have misread 4 for 11, for TJ did write to him on 4 Dec. 1783 (see entry under that date). <a id="TSJN-01-06-0337-kw-0002" class="keywordref" title="jump to Polly in text" href="#TSJN-01-06-0337-ks-0001">Polly</a> was Maria Jefferson, who later married <a id="TSJN-01-06-0337-kw-0003" class="keywordref" title="jump to Jack in text" href="#TSJN-01-06-0337-ks-0003">Jack</a> (John Wayles Eppes), son of Francis and Elizabeth Wayles Eppes. On the matter of <a id="TSJN-01-06-0337-kw-0004" class="keywordref" title="jump to Mr. Wayles's estate in text" href="#TSJN-01-06-0337-ks-0002">Mr. Wayless estate</a>, see Malone, <span class="hi-italic" style="font-style: italic;">Jefferson</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 4415.</p></div>
+      </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-06-02-0321 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 6 (21 May 17811 March 1784)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0320" title="From Joseph Jones, 21 December 1783"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0322" title="To Martha Jefferson, 22 December 1783"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

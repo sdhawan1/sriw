@@ -1,0 +1,176 @@
+From John Sullivan, with John McDuffee's Answers to Queries concerning the Moose, 5 March 1781–12 March 1784
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Sullivan, with John McDuffee's Answers to Queries concerning the Moose, 5 March 178112 March 1784</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-07-02-0024&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-03-05-14">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0023" title="[To Ralph Izard, 12 March 1784]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-07-02-0025" title="[From Francis Hopkinson, 14 March 1784]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-07&amp;mode=TOC">Volume 7 (2 March 178425 February 1785)</a>&gt; <a href="?keys=TSJN-print-01-07-02&amp;mode=TOC">Documents</a>&gt; From John Sullivan, with John McDuffee's Answers to Queries concerning the Moose, 5 March 178112 March 1784</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-07-02-0024&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0023" title="[To Ralph Izard, 12 March 1784]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-07-02-0025" title="[From Francis Hopkinson, 14 March 1784]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-07-02-pb-0021">21<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0021.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-07-0024" class="doc">
+
+<h1>From John Sullivan, with John McDuffees Answers to Queries concerning the Moose</h1>
+
+<div class="docbody">
+<div class="letter">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		  <td class="salutationRight">Durham March 12th. 1784</td>
+		</tr>
+      </table>
+</div>
+<p>I have now the honor to inclose answers to your Queries <a href="#TSJN-01-07-0024-kw-0001" title="[explained in note]" id="TSJN-01-07-0024-ks-0001" class="keyword">respecting the Moose</a>, and beg you will excuse the long delay. It was late <span class="pb" title="page number in print edition" id="TSJN-01-07-02-pb-0022">[22<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0022.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> in February when I arrived at Durham and being deeply impressed with the necessity of having your Queries answered with the greatest exactness I wrote to persons in various parts of the Country but have as yet received no answers but the inclosed. My principal reliance was on the Gentleman who signs the inclosed; and upon a Clergyman one of my friends settled in one of the Frontier Towns in the Province of Maine; in whose parish lives one Jonathan Door taken by the Indians when an Infant, and remained with them thirty Years became one of them and has hunted with them in every part of America North of the Ohio. He was with difficulty prevailed upon to return to his Friends about the Year 1764 and has since become a regular sober and Industrious Citizen. I have requested <a href="#TSJN-01-07-0024-kw-0002" title="[explained in note]" id="TSJN-01-07-0024-ks-0002" class="keyword">the Clergyman</a> to procure from him and forward answers to all your Queries which I will transmit as soon as they come to hand.</p>
+<p>Colo. <a href="#TSJN-01-07-0024-kw-0003" title="[explained in note]" id="TSJN-01-07-0024-ks-0003" class="keyword">McDuffee</a> who signs the inclosed followed the business of hunting for many years in the Early part of his life, was a Captain of the Rangers in the last French War; has been in every part of Canada and Nova Scotia, and in many other parts of America, was a Colonel in our service this War and is now settled in a Town (but a few Years since) one of the frontier Towns of New Hampshire; in which Town there are many persons who have been brought up in the business of hunting. The Colonel is himself a man of observation and of strict veracity. I therefore suppose you may rely with great safety upon Every thing he has said on the subject. I shall however forward the other answers as they come to hand. General Whipple has not as yet given me an answer whether he can procure the Skeletons of a Moose as he waits to see his brother. When he does if it should be in the Negative I will endeavor to procure one myself and lest a disappointment should take place from him have already wrote my friends in the frontier settlements to procure me one if possible.</p>
+<p>I had the pleasure to see Colo. <a href="#TSJN-01-07-0024-kw-0003" title="[explained in note]" id="TSJN-01-07-0024-ks-0004" class="keyword">McDuffee</a> yesterday who desired me to add to his observations That in the summer season the Moose wades into the ponds and Rivers pulls up and Eats the Roots of Pond Lilleys and other water Flowers, and that the Indians by lying in ambush kill more of them in such places in the summer season than in any other way. You will be so obliging as to make my most respectful Compliments to Doctor Lee and inform him that when I go to April Court in the Province of Main I will make the proper inquiries respecting the unappropriated Lands in the Eastern Quarter and give him the Earliest information. <span class="pb" title="page number in print edition" id="TSJN-01-07-02-pb-0023">[23<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0023.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> The subjects of Natural history you may depend on as soon as they can be procured and the rivers (which are now frozen) will admit of their being sent on.</p>
+<p>I have the honor to be with the most Lively sentiments of Esteem &amp; respect sir Your most obedt &amp; very humble servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Jno Sullivan</span></p>
+</div>
+</div>
+<div class="enclosure">
+<h3><span class="hi-all-small-caps" style="font-variant: small-caps; text-transform: lowercase;">Enclosure</span><br/>John McDuffee to John Sullivan, with Answers to Queries concerning the Moose</h3>
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationRight">Rochester March 5th. 1784</td>
+		</tr>
+      </table>
+</div>
+<ul class="simple">
+	      <li>1.<a class="ptr" href="#TSJN-01-07-0024-fn-0001" id="TSJN-01-07-0024-fn-0001-ptr">1</a> Is not the Caribou and the Black Moose one and the same Animal? The Carabou Calevan or Indian Shovler is an Animal very different from the Moose. His hoofs are like a Horses his Horns are short and have no prongs, is about the bigness of a small Horse, lives in Heaths and Swamps, feeds chiefly on Roots which he digs up with his feet, is seldom seen in this quarter of the Country.</li>
+	      <li>2. Is not the grey Moose and the Elk one and the same Animal and quite different from the former?<br/> The Elk is Deer of a large size and is known by the name of the Newfoundland Deer.<br/> The Black and Grey Moose are one and the same Animal. The Black are mostly found to the Eastward, the Grey to the South-ward.</li>
+	      <li>3. What is the heighth of the grey Moose at the weathers, its length from the Ears in the root of the Tail, and its circumference where largest?<br/> One of the largest is about 8feet high at the weathers, 8or 9 feet long, behind his fore legs is about 7 feet in circumference.</li>
+	      <li>[4.] Has it a Sollid or Cloven Hoof? Cloven.</li>
+	      <li>5. Do their feet make a loud ratling as they run? They do.</li>
+	      <li>6. Is the under part of the Hoof covered with Hair? It is not.</li>
+	      <li>7. Are they a Swift Animal? They trott exceeding fast and have no other gait.</li>
+	      <li>8. Do they sweat when hard run or only drip at the tongue? Only drip at the Tongue.</li>
+	      <li>9. At what season do they shed their Horns, and when recover them? They shed their Horns in January, pushd off by the succeeding Horns and recover them gradually till pushd off again by Succession.</li>
+	      <li>10. Has the Doe Horns as well as the Buck? They have not.</li>
+	      <li>11. How many young does She produce at a time?<br/>She has but one the first time, ever after two.</li>
+	      <li>12. What is their Food? Brouse and Bark of Trees chiefly of Maple.</li>
+	      <li>13. How far southward are they known? No farther than Hudsons River, to the southward of that the Moose are grey.</li>
+	      <li>14. Have they ever been tamed and used to any purpose? They are Easily tamed, but can bear no labour.</li>
+	      <li class="pagebreak"><span class="pb center" title="page number in print edition" id="TSJN-01-07-02-pb-0024">[24<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0024.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></li>
+	      <li>15. Are the Horns of the Elk Palmated, or are they round and pointed? The Horns are the same as a Deers only flatted at the topp.</li>
+	      <li>16. Has the Elk always or ever a white spot a foot in Diameter round the root of the Tail? I never saw but one; that had none.</li>
+	    </ul>
+<p style="text-align: left; text-indent: 0;"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></p>
+<p>The above answers are the best I am able to give to your Queries, would only observe that there is a Mooses Horn in one of the Pig-wackett Towns so large that is Used for a Cradle to rock the Children in. Am Sir with due Respects Your Most Humble Servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">John Mc Duffee</span></p>
+</div>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-07-0024-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Noted in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jefferson's Summary Journal of Letters written and received ]">SJL</abbr> as received 13 Apr. 1784. Enclosure (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>) is in the hand of Sullivan.</p>
+<p>The queries <a id="TSJN-01-07-0024-kw-0001" class="keywordref" title="jump to respecting the moose in text" href="#TSJN-01-07-0024-ks-0001">respecting the moose</a> were undoubtedly handed to Sullivan by TJ. The former had come to Annapolis late in Dec. 1783 on the affair of the brig <span class="hi-italic" style="font-style: italic;">Lusanna</span> (see <a href="default.xqy?keys=TSJN-print-01-06-02-0353" class="document">Sullivan to TJ, 6 Jan. 1784</a> and TJs report on the <span class="hi-italic" style="font-style: italic;">Lusanna</span> case, 8 Jan. 1794) and he departed from Annapolis 17 Jan. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Edmund C. Burnett, ed., &lt;i&gt;Letters of Members of the Continental Congress&lt;/i&gt; ]">Burnett, <span class="hi-italic" style="font-style: italic;">Letters of Members</span></span>, <span class="hi-small-caps" style="font-variant: small-caps;">vii</span>, No. 492). Sullivans promptness in supplying the information desired by TJ may have been inspired by gratitude for the report drawn up by TJ and by the hope of having that report adopted. It is evident, at any rate, that Sullivans anger and TJs rebuke of 1776 were, if not forgotten, at least smoothed over (see Vol. 1: 4789). <a id="TSJN-01-07-0024-kw-0002" class="keywordref" title="jump to The Clergyman in text" href="#TSJN-01-07-0024-ks-0002">The Clergyman</a> was one Mr. Hussey (see <a href="default.xqy?keys=TSJN-print-01-07-02-0259" class="document">Sullivan to TJ, 22 June 1784</a>). Col. John <a id="TSJN-01-07-0024-kw-0003" class="keywordref" title="jump to Mcduffee in text" href="#TSJN-01-07-0024-ks-0003">Mcduffee</a> was lieutenant-colonel of the 2d New Hampshire regiment (Heitman).</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-07-0024-fn-0001-ptr" id="TSJN-01-07-0024-fn-0001">1</a>
+<p>The numerals prefixed to the queries are in TJs hand.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-07-02-0024 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 7 (2 March 178425 February 1785)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0023" title="[To Ralph Izard, 12 March 1784]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-07-02-0025" title="[From Francis Hopkinson, 14 March 1784]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

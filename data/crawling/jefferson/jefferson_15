@@ -1,0 +1,136 @@
+To Thomas Turpin, 5 February 1769
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>To Thomas Turpin, 5 February 1769</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0016&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1760-1769-02-05-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0015" title="To William Preston, 18 August 1768"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0017" title="To Alexander White, 19 April 1769"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; To Thomas Turpin, 5 February 1769</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0016&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0015" title="To William Preston, 18 August 1768"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0017" title="To Alexander White, 19 April 1769"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0023">23<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0023.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0016" class="doc">
+
+<h1>To Thomas Turpin</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Shadwell Feb. 5. 1769.</td>
+	      </tr>
+      </table>
+</div>
+<p>I am truly concerned that it is not in my power to undertake the superintendance of your son in his studies; but my situation both present and future render it utterly impossible. I do not expect to <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0024">[24<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0024.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> be here more than two months in the whole between this and November next, at which time I propose to remove to <a href="#TSJN-01-01-0016-kw-0003" title="[explained in note]" id="TSJN-01-01-0016-ks-0001" class="keyword">another habitation</a> which I am about to erect, and on a plan so contracted as that I shall have but one spare bedchamber for whatever visitants I may have. Nor have I reason to expect at any future day to pass a greater proportion of my time at home. Thus situated it would even have been injustice to <a href="#TSJN-01-01-0016-kw-0001" title="[explained in note]" id="TSJN-01-01-0016-ks-0002" class="keyword">Phill</a> to have undertaken to give him an assistance which will not be within my power; a task which I otherwise should with the greatest pleasure have taken on me, and would have desired no higher satisfaction than to see him hold that rank in the profession to which his genius and application must surely advance him. These however encourage me to hope that the presence of an assistant will be little necessary. I always was of opinion that the placing a youth to study with an attorney was rather a prejudice than a help. We are all too apt by shifting on them our business, to incroach on that time which should be devoted to their studies. The only help a youth wants is to be directed what books to read, and in what order to read them. I have accordingly recommended strongly to <a href="#TSJN-01-01-0016-kw-0001" title="[explained in note]" id="TSJN-01-01-0016-ks-0003" class="keyword">Phill</a> to put himself into apprenticeship with no one, but to employ his time for himself alone. To enable him to do this to advantage I have laid down a <a href="#TSJN-01-01-0016-kw-0002" title="[explained in note]" id="TSJN-01-01-0016-ks-0004" class="keyword">plan of study</a> which will afford him all the assistance a tutor could, without subjecting him to the inconvenience of expending his own time for the emolument of another. One difficulty only occurs, that is, the want of books. But this I am in hopes you will think less of remedying when it is considered that had he been placed under the care of another, a proper collection of books must have been provided for him before he engaged in the practice of his profession; for a lawyer without books would be like a workman without tools. The only difference then is that they must now be procured something earlier. Should you think it necessary, it would be better to consider the money laid out in books as a part of the provision made for him, and to deduct it from what you intended to give him, than that he should be without them. I have given him a catalogue of such as will be necessary, amounting in the whole to about 100. sterling, but divided into four invoices. Should <a href="#TSJN-01-01-0016-kw-0001" title="[explained in note]" id="TSJN-01-01-0016-ks-0005" class="keyword">Phill</a> enter on the <a href="#TSJN-01-01-0016-kw-0002" title="[explained in note]" id="TSJN-01-01-0016-ks-0006" class="keyword">plan of study</a> recommended, I shall endeavor as often as possible to take your house in my way to and from Williamsburgh as it will afford me the double satisfaction of observing his progress in science and of seeing yourself, my aunt, and the family. I am Dear Sir with great respect your most humble servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Th: Jefferson</span></p>
+</div>
+</div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0025">[25<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0025.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0016-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (Members of the Turpin family, Cincinnati, 1946).</p>
+<p>A letter remarkable for its sweeping and penetrating criticism of the apprentice system of legal training, in which TJ was himself schooled and which was universal in eighteenth-century America. Richard B. Morris, of Columbia University, cites other criticisms, as follows: Theodore Sedgwick, <span class="hi-italic" style="font-style: italic;">Memoirs of the Life of William Livingston</span>, N.Y., 1833, p. 578; John Adams, <span class="hi-italic" style="font-style: italic;">Works</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ii</span>, 52; see also John Macpherson (a student in John Dickinsons office) to William Paterson, 9 Apr. 1769, in Glenn, <span class="hi-italic" style="font-style: italic;">Some Colonial Mansions</span>, 2d ser., p. 4567. <a id="TSJN-01-01-0016-kw-0001" class="keywordref" title="jump to Phill in text" href="#TSJN-01-01-0016-ks-0002">Phill</a>, i.e., Philip Turpin, TJs first cousin, later studied medicine at Edinburgh; see TJs letter to him, 29 July 1783. The <a id="TSJN-01-01-0016-kw-0002" class="keywordref" title="jump to plan of study in text" href="#TSJN-01-01-0016-ks-0004">plan of study</a> drawn up by TJ is missing, but some idea of it can be obtained from a reading list TJ sent about this time to Bernard Moore, another young man beginning the study of law (original missing; revised copy enclosed in TJ to John Minor, 30 Aug. 1814). <a id="TSJN-01-01-0016-kw-0003" class="keywordref" title="jump to Another habitation in text" href="#TSJN-01-01-0016-ks-0001">Another habitation</a>: This is the earliest reference in TJs surviving correspondence to Monticello, though an entry in the Garden Book, 3 Aug. 1767, records inoculating common cherry buds into stocks of large kind at Monticello. For the progress of plans and work on the new home, see Kimball, <span class="hi-italic" style="font-style: italic;">Road to Glory, p.</span> 147ff.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0016 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0015" title="To William Preston, 18 August 1768"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0017" title="To Alexander White, 19 April 1769"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

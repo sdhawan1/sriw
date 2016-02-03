@@ -1,0 +1,142 @@
+From Peter Penet, 20 May 1780
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Peter Penet, 20 May 1780</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-03-02-0457&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1780-05-20-3">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0456" title="From Philip Mazzei, 20 May 1780"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-03-02-0458" title="From Alexander Sinclair, with a List of Funds Collected for the State, 21 May 1780"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-03&amp;mode=TOC">Volume 3 (18 June 177930 September 1780)</a>&gt; <a href="?keys=TSJN-print-01-03-02&amp;mode=TOC">Documents</a>&gt; From Peter Penet, 20 May 1780</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-03-02-0457&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0456" title="From Philip Mazzei, 20 May 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0458" title="From Alexander Sinclair, with a List of Funds Collected for the State, 21 May 1780"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-03-02-pb-0382">382<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0382.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-03-0457" class="doc">
+
+<h1>From Peter Penet</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Gentlemen</span></td>
+		<td class="salutationRight">May 20, 1780.</td>
+	      </tr>
+      </table>
+</div>
+<p>You have no doubt been informed of the misfortunes that have befallen us in the Confederacy, and of the retard occasioned by them. We left Philadelphia on the 25th Oct: ult: I arrivd at Nantes only in march. From this place I sat off immediately to execute without delay the orders I received from you, that I might at the same time negotiate a loan, according to the Instructions and Powers which were delegated to me by your Honourable Council. I applyd directly to the Gentlemen deputed by the different Cantons of Switzerland to the Court of France; but before I enter[ed] into discourse with them concerning that negotiation, I tryd to know their sentiments about your actual circumstances: they appeard not to consider them in a favourable light. The miscarriage of the Count Destaings Expedition in Georgia, the Discredit and undervalue of your paper money, the Commotions in Philadelphia about salt and other objects, having been communicated by Public newspapers, all those things, and the immense losses the Europeans had sustained in their Trade, with your Continent stopt on a sudden all Business. When I saw the Merchants of this Country were disheartened; that for all I could plead against their prevention, Financeers would no longer speculate; in that dilemma, I thought it was best to propose the proposal of the Loan. A conversation on<span class="pb" title="page number in print edition" id="TSJN-01-03-02-pb-0383">[383<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0383.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> that subject passd between me and the Honble Doctor Franklin: I was told by him that a great number of people having been Commissiond by different States to raise such Loans, far from succeeding happily in their negotiations, they prevented other Gentlemen to obtain success, on account of the prejudices they had excited in being importunate.</p>
+<p>By this time several men of war with transports, and six thousand land forces must be near the Coasts of America. In about two months, a reinforcement is to be embarkd, in order to Joyn the first Army. I do not in the least, question but that fleet landing the Troops on your Continent, your affairs will wear another face, and the Credit of your paper money will be re-establishd. The Super-Intendent General of the Fleet and Army bound to your parts, being a Nobleman concernd in my Company, whom the King has promoted to that Post; I had many conferences at Paris with him relative to the affairs of America, and Cheifly to the power, Riches and Resources of your Common-wealth, the Harmony in your Councils, good order in your General Meetings and Strict Equity in your Dealings.</p>
+<p>I causd to be recommended to the Commissioners and other Gentlemen named to provide supplies for the French Army in America, to take from the State of Virginia, the corn, flower, fodder, Horses and salt meat they shall want. The Treasurer of the army is directed to pay every thing with good Bills on France: and as that Gentleman is one of my Friends if you have a mind to procure some Bills either for yourselves or others, please to write <span class="hi-italic" style="font-style: italic;">to</span> him: he was so obliging as to promise me the preference for your State. In case you treat with him, the Exchange is to be in Proportion of your currency. I think it should be an important Business, if you could contract to furnish all the supplies to the French army, which consists in Provisions only: your Province is abundantly stockd with them.</p>
+<p><a href="#TSJN-01-03-0457-kw-0001" title="[explained in note]" id="TSJN-01-03-0457-ks-0001" class="keyword">My House at nantes</a>, in Conformity to my advice, has Just dispatchd a vessel calld the Committee, loaded with an assortment of Goods and ammunitions as pr: your Order. At present it is impossible to provide ships and still less Sailors. I have employd my friends at Court near the ministers: but notwithstanding my Influence and Expostulations to get some ships that are detaind in Harbours for Transports releasd, I met with no success. They say the Royal navy is in want of them, and for that Reason none can be expedited. As a special favour I obtaind only five and twenty men for the Committee. You may depend Gentlemen, that no opportunities shall be neglected by me, to perform my engagements<span class="pb" title="page number in print edition" id="TSJN-01-03-02-pb-0384">[384<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0384.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> with the State of Virginia. I expect in a short space of time, to see our Commerce more free and active. I am about to prepare adventures for you, suitable to the season. From this month to September, I will forward the articles that are fit for winter. I am on the point of concluding a Treaty for eight hundred thousand livers Tournois: it respects the cloathing of your troops, and all their accoutrements: also the armaments, with all the necessaries for the fitting out of your vessels. I earnestly wish I may be able to perform such a Treaty for the Best of your Interest. The payment of said eight hundred thousand livres is proposd to be made in following mannerTwelve thousand Guineas ready money. The remainder to be paid in six, nine, and twelve months. Our House wants no Credit, we might afford several millions if we could depend on exact remittances, every nine or twelve months. I say I expect remittances, because in France, had any body the misfortune not to pay due honor to his engagements, which are held sacred, in a moment His reputation, His Credit are lost. As we shall be considerably in advance, it is then highly necessary that you should make remittances on all occasions to Europe. I paid to Mr. Mazzie in Paris, three hundred Louis dor agreeable to the Order, I receivd from the Council of State whilst I was in Williamsburg. I spoke many times with him and got him introduced to some Gentlemen, that may be serviceable to him at Court. I wish with all my heart, his Projects may meet with a favourable Issue; but I must own freely in the conversation I had with several great men on that Topick, I was ascertained such Projects were not Practicable. However, Mr. Mazzie is a man of parts. If his Projects miscarry it shall not be for want of good zeal in the service of the State: Consequently his conduct cannot be blamable.</p>
+<p>During the time I staid in Paris, I had frequent Opportunities to discourse with Several Farmers General, touching Tobacco Trade, which in Peace, will become most Considerable. None have more facilities than the State of Virginia, to undertake supplying them with that commodity. The Traffick of Tobacco might produce four millions at least annually. Many Persons of Virginia and Maryland design to have staples at LOrient and at Dunquerque. Should the State venture on that Plan, I will be answerable on account of the Great Connections I have found with the Farmers General, theirs will be preferd to others. In France the best Tobacco is not sought for: that of your second quality sells as well as the first: but In future they will know the difference, and I shall endeavour to obtain the most advantageous price in the distinction of them.</p>
+<span class="pb center" title="page number in print edition" id="TSJN-01-03-02-pb-0385">[385<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0385.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<p>When peace is come, it will be an easy matter for the State to procure ships and load them with great quantities of Tobacco. By these means large sums might be held at their disposal in Europe. You might even establish a Bank between Virginia and France to improve the Stocks.</p>
+<p>I have the Honour to Inform You Gentlemen, that next place you may be supplyd with one to thirty six-pounders cast in a Royal Foundry well finishd and tryd before the delivery. It is requird I should give four pounds of unwrought Iron, for one transmuted into a Cannon: so that with sixteen hundred pounds of Iron, you can have a Gun well made and provd weighing four hundred pounds wt:</p>
+  <p>The Foundry is establishd on the river Loire two Leagues from Nantes. As soon as peace is proclaimd, if you be willing to expedite some ships to this place, you might have them Ballast with Iron, and in return ship the Cannons that are necessary for your Armories, Coasts and fields. The Manufacture of small arms, hand guns &amp;c., which was intended to be established in Virginia, cannot be founded in time of the war between France and England. The pain is capital, at the peril of ones life, it is forbidden to give passage to any workmen employd in such manufactories. By that <a href="#TSJN-01-03-0457-kw-0002" title="[explained in note]" id="TSJN-01-03-0457-ks-0002" class="keyword">Prohibition</a>, we suffer a great loss, on account of the Dispositions that were already taken for that Establishment: Above all we regret to be compelled to suspend it.</p>
+<p>I flatterd myself on my departure from America, to be able coming back, after the Expiration of one year: but when I consider the state of things, it is a duty incumbent upon me to prolong my sojourn in France. My Presence is indispensable to discharge faithfully the trust you were so good as to repose in me: and to conduct at the same time your business with good Order and dispatch. Would you be pleasd to communicate my letter to the Honorable Members of the Board of Trade. You have herewith some Public news papers for your perusal. I have the honor to be Very Respectfully Gentlemen, Your most obedient &amp; devoted, humble servant, &amp;c. &amp;c.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-03-0457-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> not located. Text from <span class="hi-italic" style="font-style: italic;">Calendar of Virginia State Papers</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 3525.</p>
+  <p><a id="TSJN-01-03-0457-kw-0001" class="keywordref" title="jump to my house at Nantes in text" href="#TSJN-01-03-0457-ks-0001">my house at Nantes</a>: Penet, DAcosta Frres &amp; Cie. (see <a href="default.xqy?keys=TSJN-print-01-03-02-0164" class="document">Board of Trade to Penet, DAcosta Frres, 6 Nov. 1779</a>); letters from them to the Virginia Board of Trade respecting supplies sent in the companys schooner <span class="hi-italic" style="font-style: italic;">Committee</span> are in TJ Editorial Files, 24, 31 May, 6 June, and 19 Nov. 1780, from originals in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>, Executive Papers, 17791780. In his paragraph relating to the <a id="TSJN-01-03-0457-kw-0002" class="keywordref" title="jump to prohibition in text" href="#TSJN-01-03-0457-ks-0002">prohibition</a> on exporting munitions workers from France during a time of war, Penet dashed to the ground TJs plans for a great armament factory on the James; see <a href="default.xqy?keys=TSJN-print-01-03-02-0053" class="document">Contract with Penet, Windel &amp; Co., 22 July 1779</a>, and <a href="default.xqy?keys=TSJN-print-01-03-02-0145" class="document">TJ to Harrison, 30 Oct. 1779</a>. There is unfortunately no clue as to when TJ received this disappointing news.</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-03-02-0457 [accessed 29 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 3 (18 June 177930 September 1780)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0456" title="From Philip Mazzei, 20 May 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0458" title="From Alexander Sinclair, with a List of Funds Collected for the State, 21 May 1780"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

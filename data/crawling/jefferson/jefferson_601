@@ -1,0 +1,538 @@
+2. Jefferson's Notes of English Statutes, 1779
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>2. Jefferson's Notes of English Statutes, 1779</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-02-02-0132-0005-0002&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1779-00-7">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-02-02-0132-0005&amp;mode=TOC" title="IV. Appendix"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0132-0005-0001" title="1. Bill Declaring When Laws Shall Be in Force, 1779"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-02-02-0132-0005-0003" title="3. Jefferson's Notes of Acts of Assembly Adopted October 1777 and May 1778, October 1777May 1778"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-02&amp;mode=TOC">Volume 2 (177718 June 1779)</a>&gt; <a href="?keys=TSJN-print-01-02-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=TSJN-print-01-02-02-0132&amp;mode=TOC">The Revisal of the Laws 17761786</a>&gt; <a href="?keys=TSJN-print-01-02-02-0132-0005&amp;mode=TOC">IV. Appendix</a>&gt; 2. Jefferson's Notes of English Statutes, 1779</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-02-02-0132-0005-0002&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0132-0005-0001" title="1. Bill Declaring When Laws Shall Be in Force, 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0132-0005-0003" title="3. Jefferson's Notes of Acts of Assembly Adopted October 1777 and May 1778, October 1777May 1778"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-02-02-pb-0658">658<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0658.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-02-0270" class="doc">
+
+<h3>2. Jeffersons Notes of English Statutes</h3>
+
+<div class="docbody">
+<table class="bodytext">
+<caption style="font-style: italic; margin-bottom: 0.5em;">Statutes doubtful whether to be retained or not.</caption>
+<tr>
+	      <td rowspan="3" style="vertical-align: middle; white-space: nowrap;">No. 1.</td>
+	      <td rowspan="3" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+	      <td>a</td>
+	      <td rowspan="3" class="brace"><img src="images/brace-open-trans.png" alt="{" class="brace" style="height: 3.5em; width: 17px;"/></td>
+	      <td style="text-indent: -1em; padding-left: 1em;">11. or 13.E.1. stat. of Acton Burnel. allowing recognisances before a mayor to have effect of jdmts. &amp; goods for defect of buyers to be delivd. to creditor at appraised value.</td>
+	    </tr>
+<tr>
+	      <td>b</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">13.E.1.c.1. the stat. of merchants. supplementory of the last.</td>
+	    </tr>
+<tr>
+	      <td>c</td>
+	      <td>14.E.3.c.11. supplementory</td>
+	    </tr>
+</table>
+<table class="bodytext">
+<tr>
+	      <td rowspan="2" style="white-space: nowrap;">No. 2.</td>
+	      <td rowspan="2"></td>
+	      <td rowspan="2"></td>
+	      <td style="white-space: nowrap;">27.E.3.st.2.c.7.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">prohibition to export wool, leather, lead.</td>
+	    </tr>
+<tr>
+	      <td>14.R.2.c.5.</td>
+	      <td>do.</td>
+	    </tr>
+<tr>
+	      <td rowspan="13" style="white-space: nowrap;">No. 1.</td>
+	      <td rowspan="13" class="brace"><img src="images/brace-open-trans.png" alt="{" class="brace" style="height: 18.5em; width: 29px;"/></td>
+	      <td style="padding-right: 0.5em !important;">d.</td>
+	      <td>27.E.3.st.2.c.5.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">excluding the justices of Com. law. from things belonging to the staple</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">e.</td>
+	      <td style="text-align: right;">c.8.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">merchts. coming to the staple shall be ruled by the law mercht., &amp; not the Com. law. medietas linguae.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">f.</td>
+	      <td style="text-align: right;">c.9.</td>
+	      <td>supplementory to (a)</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">g.</td>
+	      <td style="text-align: right;">c.19.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">justice to be done to merchants from day to day &amp; hour to hour without delay, at the staple.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">h.</td>
+	      <td style="text-align: right;">c.20.</td>
+	      <td>similar to (g)</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">i.</td>
+	      <td style="text-align: right;">c.21.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">constituting officers of the court of the mayor of the staple.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">k.</td>
+	      <td style="text-align: right;">c.22.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">that there shall be correctors in staple towns before whom bargains shall be recorded.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">l.</td>
+	      <td style="text-align: right;">c.23.</td>
+	      <td>additional to (i).</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">m.</td>
+	      <td style="text-align: right;">c.24.</td>
+	      <td>do.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">n.</td>
+	      <td style="white-space: nowrap;">28.E.3.c.13.</td>
+	      <td>additional to (e)</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">o.</td>
+	      <td>36.E.3.c.7.</td>
+	      <td>do.</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">p.</td>
+	      <td>15.R.2.c.9.</td>
+	      <td>confirmn. of (f)</td>
+	    </tr>
+<tr>
+	      <td style="padding-right: 0.5em !important;">q.</td>
+	      <td>9.H.6.c.24.</td>
+	      <td colspan="2">confirmn. of (n)</td>
+	    </tr>
+</table>
+<table class="bodytext">
+<tr>
+	      <td style="white-space: nowrap;">1. Jac.c.13.</td>
+	      <td style="text-indent: -1em; padding-left: 1em;">for allowing new execution agt. a memb of parl. discharged from execn. by privilege</td>
+	    </tr>
+<tr>
+	      <td colspan="2">Attainder.<a class="ptr" href="#TSJN-01-02-0270-fn-0001" id="TSJN-01-02-0270-fn-0001-ptr">1</a></td>
+	    </tr>
+<tr>
+	      <td colspan="2">Attaint.</td>
+	    </tr> 
+<tr>
+	      <td colspan="2" xml:lang="lat">Exigent &amp; Utlaria. Idemptilate nominis.</td>
+	    </tr>
+</table>
+<table class="bodytext">
+<caption style="font-style: italic; margin-top: 2em; margin-bottom: 0.5em;">Laws omitted, by me, but necessary to be taken up.</caption>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.7.</td>
+	      <td></td>
+	      <td style="text-indent: -1em; padding-left: 1em;">the latter part of it directing what process in Admeasuremt. of dower. law of Judicial proceedings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3.E.1.c.47.</td>
+	      <td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+	      <td rowspan="3" style="text-indent: -1em; padding-left: 1em; vertical-align: middle;">for parol demurrer. belongs to the law of judicial proceedings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6.E.1.c.2</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.40.</td>
+	    </tr>
+<tr>
+	      <td>11.H.4.c.3.</td>
+	      <td class="brace" rowspan="6"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 8em; width: 22px;"/></td>
+	      <td rowspan="6" style="vertical-align: middle; text-indent: -1em; padding-left: 1em;">Jeofails &amp; Amendmts. so much more fully provided for in 32.H.8.c.30. 18.E1.14. 27.E1.5. 21.Jac.1.13. 16&amp;17.Car.2.8. 4.Ann16. 5.G. 1.13. that properly belongs to another period.</td>
+	    </tr>
+<tr>
+	      <td>9.H.5.c.4.</td>
+	    </tr>
+<tr>
+	      <td>14.E.3.c.6.st.1.</td>
+	    </tr>
+<tr>
+	      <td>8.R.2.c.4.</td>
+	    </tr>
+<tr>
+	      <td>4.H.6.c.3.</td>
+	    </tr>
+<tr>
+	      <td>8.H.6.c.12.15.</td>
+	    </tr>
+<tr>
+	      <td colspan="3" style="text-indent: -1em; padding-left: 1em;">Assises.would belong to L. of judicial proceedings. but may be abolished.</td>
+	    </tr>
+<tr>
+	      <td colspan="3" style="text-indent: -1em; padding-left: 1em;">21.H.8.c.19.Avowrie. parvum in multo. a few words in land law, or law of Judicial proceedgs. will do.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition" id="TSJN-01-02-02-pb-0660" colspan="3"><span class="pb center" title="page number in print edition" id="TSJN-01-02-02-pb-0660">[660<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0660.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></td>
+	    </tr>
+<tr>
+	      <td colspan="3" style="text-indent: -1em; padding-left: 1em;">the age of consent to marriage 14. in a male, 12 in a female should be extended. perhaps to 18. &amp; 15.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">52.H.3.c.11.</td>
+	      <td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+	      <td rowspan="3" style="vertical-align: middle;">Beaupleder. belongs to law of Jeofails.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3.E.1.c.8.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3.E.3.st.2.c.8.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6.E.1.c.4.</td>
+	      <td rowspan="2" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+	      <td rowspan="2" style="vertical-align: middle;">Cessavit. belongs to land law or law of Pleadings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.21.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">33.E.1.st.4.</td>
+	      <td rowspan="2" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+	      <td rowspan="2" style="text-indent: -1em; padding-left: 1em; vertical-align: middle;">Challenge belongs either to law of Pleadings or Appendix to Criminal law.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">7.H.7.c.5.</td>
+	    </tr>
+</table>
+<table class="bodytext">
+<tr>
+	      <td style="white-space: nowrap;">3.E.1.c.10.</td>
+	      <td class="brace" rowspan="6"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 8em; width: 22px;"/></td>
+	      <td style="text-indent: -1em; padding-left: 1em;">what sort of men shall be coroners.</td>
+	      <td class="brace" rowspan="6"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 8em; width: 22px;"/></td>
+	      <td rowspan="6" style="vertical-align: middle;">these stat. are unnecessary. the 3.E.1.c.10. which is the principal, is only declaratory of the com. 1. as may be seen Brit.c.1. written temp. E.1.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">4.E.1.st.2.</td>
+	      <td style="text-indent: -1em; padding-left: 1em; white-space: nowrap;">the duty of a coroner.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3.H.7.c.1.</td>
+	      <td style="text-indent: -1em; padding-left: 1em; white-space: nowrap;">do.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">14.E.3.c.8.</td>
+	      <td style="text-indent: -1em; padding-left: 1em; white-space: nowrap;">Coroners. appendix to criminal law.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">28.E.3.c.6.</td>
+	      <td style="text-indent: -1em; padding-left: 1em; white-space: nowrap;">how coroners shall be appointed</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1.H.8.c.7.</td>
+	      <td></td>
+	    </tr>
+</table>
+<table class="bodytext">
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.3.</td>
+	      <td></td>
+	      <td>Cui in vita. law of pleadings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.3.</td>
+	      <td></td>
+	      <td>latter part as to ten. by courtesy &amp; for life. 1. of pleadings</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6.E.1.c.1.14.</td>
+	      <td class="brace" rowspan="6"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 8em; width: 22px;"/></td>
+	      <td rowspan="6" style="vertical-align: middle;">Damages &amp; costs. law of pleadings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6.E.1.st.2.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">3.H.7.c.10.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">19.H.7.c.20</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">23.H.8.c.15.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">24.H.8.c.18.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">36.E.3.c.1.</td>
+	      <td></td>
+	      <td>Declaration. law of pleadings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">52.H.3.c.29.</td>
+	      <td></td>
+	      <td>Entry. law of pleadings</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">6.E.1.c.13.</td>
+	      <td></td>
+	      <td>Estrepement. law of Pleadings</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.18.45.</td>
+	      <td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+	      <td rowspan="2" style="vertical-align: middle;">Execution. law of Executions.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">50.E.3.c.6.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">1.R.2.c.9.</td>
+	      <td></td>
+	      <td>Feoffments 1. of Pleadings.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">24.H.8.c.5.</td>
+	      <td></td>
+	      <td>Forfeiture. 9. App. to Crim. 1.</td>
+	    </tr>
+<tr>
+	      <td style="white-space: nowrap;">13.E.1.c.13.</td>
+	      <td></td>
+	      <td>unnecessary. the shers power being taken away.</td>
+	    </tr>
+    <tr>
+	      <td style="white-space: nowrap;">1.E.3.st.2.c.17.</td>
+	      <td rowspan="4" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 5em; width: 19px;"/></td>
+	      <td>do.<br/>What process.</td>
+	    </tr>
+    <tr>
+	      <td>25.E.3.c.14.st.5.</td>
+	      <td>Indictmts. App. to Crim. 1.</td>
+	    </tr>
+    <tr>
+	      <td>11.H.4.c.9.</td>
+	      <td>provided for.</td>
+	    </tr>
+    <tr>
+	      <td>3.H.7.c.1.</td>
+	      <td>foreign to the matter.</td>
+	    </tr>
+    <tr>
+	      <td style="white-space: nowrap;">12.H.7.c.6.</td>
+	      <td></td>
+	      <td>Merchants.</td>
+	    </tr>
+    <tr>
+	      <td style="white-space: nowrap;">2.R.2.c.4.</td>
+	      <td></td>
+	      <td>Mariners.<br/>Money. a necessary subject: but no Eng. stat. worth looking at.</td>
+	    </tr>
+</table>
+<table class="bodytext">
+    <tr>
+	      <td rowspan="5" style="white-space: nowrap;">25.E.3.st.5.c.16.</td>
+	      <td colspan="2">Non tenure. 1. of pleadings.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Parliament. several stat. 1. of Elections &amp;c.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Patents. several stat. some good in them.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Processe. many stat. 1. of Pleadings.</td>
+	    </tr>
+<tr class="pb_row">
+	      <td title="page number in print edition" id="TSJN-01-02-02-pb-0661" colspan="2"><span class="pb center" title="page number in print edition" id="TSJN-01-02-02-pb-0661">[661<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0661.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></td>
+	    </tr>
+    <tr>
+	      <td></td>
+	      <td colspan="2">Recognisance &amp; Statute merchant. several stat. a difficult subject.</td>
+	    </tr>
+    <tr>
+	      <td rowspan="3" style="white-space: nowrap;">21.H.8.c.15.</td>
+	      <td colspan="2">Recoveries. insert 3 words into 14.E1.c.8.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Redisseisin. several stat. 1. of Pleadings.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Receit. 1. of Pleadings.</td>
+	    </tr>
+    <tr>
+	      <td rowspan="2">23.H.6.c.10.</td>
+	      <td colspan="2">Sheriff. against farming. 1. concerning Sheriffs.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Tenure. several stat. Quia emptores &amp;c. land law.</td>
+	    </tr>
+    <tr>
+	      <td rowspan="11">13.E.1.c.48.</td>
+	      <td colspan="2">View. land law or law of pleadings.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Voucher. several stat. 1. of pleadings.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Wager of law. 1. of pleadings.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Wards. several stat. a great subject.</td>
+	    </tr>
+    <tr>
+	      <td>Acts of ass. operating from 1st. day of session</td>
+	      <td class="brace" rowspan="3"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+	    </tr>
+    <tr>
+	      <td style="text-indent: -1em; padding-left: 1em;">repealing acts never to affect cases happening before repeal<a class="ptr" href="#TSJN-01-02-0270-fn-0002" id="TSJN-01-02-0270-fn-0002-ptr">2</a></td>
+	    </tr>
+    <tr>
+	      <td>making absent members pay expences.</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">act against impressing but in certain cases</td>
+	    </tr>
+    <tr>
+	      <td colspan="2">law for cross posts.<a class="ptr" href="#TSJN-01-02-0270-fn-0003" id="TSJN-01-02-0270-fn-0003-ptr">3</a></td>
+	    </tr>
+    <tr>
+	      <td colspan="2">bill for establishing English &amp; Grammar schools.<a class="ptr" href="#TSJN-01-02-0270-fn-0004" id="TSJN-01-02-0270-fn-0004-ptr">4</a></td>
+	    </tr>
+    <tr>
+	      <td colspan="2">Appendix to Crim. law.<a class="ptr" href="#TSJN-01-02-0270-fn-0005" id="TSJN-01-02-0270-fn-0005-ptr">5</a></td>
+	    </tr>
+</table>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-02-0270-sn">
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>); three pages, entirely in TJs hand.</p>
+
+
+   <p>These pages represent almost the sole remnant of TJs memoranda and worknotes for the preparation of his part of the Report of the Committee of Revisors. They are revealing and important and it is to be regretted that what must have been a much larger mass of such memoranda has apparently disappeared; for many of the pungent comments here set forthwards  a great subject; money. A necessary subject: but no Eng. stat. worth looking at; and Avowrie. parvum in multo. a few words in land law, or law of Judicial proceedgs. will do.reveal something of TJs perceptive mind at work.</p>
+</div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-02-0270-fn-0001-ptr" id="TSJN-01-02-0270-fn-0001">1</a>
+
+   <p>It is significant that TJ listed acts of attainder under Statutes doubtful whether to be retained or not, in view of his Bill to Attaint Josiah Philips and Others, &amp;c., and his later attempt to justify a proper use of such acts (q.v., under date of 28 May 1778).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-02-0270-fn-0002-ptr" id="TSJN-01-02-0270-fn-0002">2</a>
+
+   <p>See Document <span class="hi-small-caps" style="font-variant: small-caps;">iv</span>, 1, above. Neither the effective dates of Acts of Assembly there proposed by George Mason nor the one here contemplated by TJ was actually written into Virginia law by the Committee of Revisors (see Bill No. 2, above).</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-02-0270-fn-0003-ptr" id="TSJN-01-02-0270-fn-0003">3</a>
+
+   <p>This indicates that Bill No. 19 was drawn by TJ.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-02-0270-fn-0004-ptr" id="TSJN-01-02-0270-fn-0004">4</a>
+
+   <p>See Bill No. 79.</p>
+</div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-02-0270-fn-0005-ptr" id="TSJN-01-02-0270-fn-0005">5</a>
+
+   <p>See Bill No. 64.</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-02-02-0132-0005-0002 [accessed 29 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 2 (177718 June 1779)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0132-0005-0001" title="1. Bill Declaring When Laws Shall Be in Force, 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0132-0005-0003" title="3. Jefferson's Notes of Acts of Assembly Adopted October 1777 and May 1778, October 1777May 1778"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

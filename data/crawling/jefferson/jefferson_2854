@@ -1,0 +1,135 @@
+From James Mercer, 14 April 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From James Mercer, 14 April 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-05-02-0557&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-04-14-10">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0556" title="James Henderson's Account as Express, with Jefferson's Certification, 14 April 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-05-02-0558" title="To John O'Bannon, 14 April 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-05&amp;mode=TOC">Volume 5 (25 February 178120 May 1781)</a>&gt; <a href="?keys=TSJN-print-01-05-02&amp;mode=TOC">Documents</a>&gt; From James Mercer, 14 April 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-05-02-0557&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0556" title="James Henderson's Account as Express, with Jefferson's Certification, 14 April 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0558" title="To John O'Bannon, 14 April 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-05-02-pb-0446">446<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0446.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-05-0557" class="doc">
+
+<h1>From James Mercer</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear Sir</span></td>
+		<td class="salutationRight">Fredericksburg April. 14th. 1781.</td>
+	      </tr>
+      </table>
+</div>
+<p>It woud be an affront to your Excellencys Understanding was I to make an appollogy to the first magistrate of this State, for communicating any Facts, or <span class="hi-italic" style="font-style: italic;">even Hints</span> that might contribute to Your better Information in your public Character. I shall therefore without appollogy proceed to inform your Excellency, that from my own knowledge of the Countrey and the uniform opinion of all I have conversed with on the Subject, there is not in this State a place more deserving of public attention than this Town and [ its appendage] Mr. Hunters [Iron Works.] I am sure I need not [tell] you that it is from Mr. Hunters works that every Camp kettle has been supplyed for the Continental and all other <span class="pb" title="page number in print edition" id="TSJN-01-05-02-pb-0447">[447<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0447.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Troops employed in this State and to the Southward this year past, that all the Anchors for this State and Maryland and some for Continent have been procured from the same works, that without these works we have no other resource for these Articles, and that without the assistance of the Bar Iron made there even the planters hereabouts and to the Southward of this place woud not be able to make Bread to eat. As to the Town itself I need not inform you that the public Manufactory of Arms is here, that without it all our Arms however so little injured woud be useless to us; besides the number of new Muskets and Bay[onets] made there, renders that an object worthy our preserving and the Enemys destruction. To this however I may add that there is not one spot in the State so generally usefull in our Military operations. Full one third of all new Levies rendevous here, all the Troops from North to South and South to North <span class="hi-italic" style="font-style: italic;">must</span> pass through this Town where wagons are repaired, Horses shoed and many other &amp;cas which they coud not proceed on without. The Troops get Provisions here to the next Stage and no place is so convenient to a very extensive and productive Countrey for the reception of Grain and other Articles of Provision. If this state of Facts is admitted, can it be doubted but that the Enemy will consider it as one of their first objects, to deprive us of so many advantages to their prejudice. The Foundary was thought an object worthy their attention and this from information only. But how far more certain that this place will be thought so when General Philips has himself been an Eye witness that there are such Advantages here and has so often seen the Conveniences drawn from this place by all our Troops both regular and Militia. I will not say more but to tell you that yesterdays experience produced proofs of our very alarming situation. Six Armed Vessells went up Potowmack River on wednesday night, on Thurs- [day] they were said to be nine and more with about five hundred Troops. Colo. Towles the Commanding officer not doubting this to be an object, set himself about its defence with as much vigour as possible but behold not more than eighty muskets coud be procured (and these repaired Arms and without Bayonets). About 60 more Guns of all sorts compose the whole and where are the rest? With our Militia before Portsmouth and at Williamsburg! Even men are wanting, there being now two Drafts of Militia from Stafford, Prince William, and Fairfax (now the scene of war and this county as vulnerable of [as?] those [] at Williamsburg and other places not near of the consequence to this State as this place is. <a href="#TSJN-01-05-0557-kw-0001" title="[explained in note]" id="TSJN-01-05-0557-ks-0001" class="keyword">Colo. Towles writing by the same opportunity</a> will make it unnecessary <span class="pb" title="page number in print edition" id="TSJN-01-05-02-pb-0448">[448<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0448.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> for me to say any thing about the want of Flint &amp;ca. I write at his desire and am at all times, and with great esteem &amp; respect, your Excellencys most obed. &amp; very huble Servt.,</p>
+<div class="closer">
+<p class="signed">Js. <span class="hi-small-caps" style="font-variant: small-caps;">Mercer</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-05-0557-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); addressed; endorsed in part: April 17th 1781 (date of receipt?). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> worn and in places only semi-legible.</p>
+<p style="margin-top: 1em;">On the importance of protecting Fredericksburg and on General Phillips personal knowledge of the value of the gun works there, see <a href="default.xqy?keys=TSJN-print-01-05-02-0514" class="document">Weedon to TJ, 11 Apr. 1781</a>. If TJ replied to Mercers earnest appeal, no copy of that reply has been found; but see <a href="default.xqy?keys=TSJN-print-01-05-02-0564" class="document">his letter to Towles on the same subject, 14 Apr. 1781</a>. <a id="TSJN-01-05-0557-kw-0001" class="keywordref" title="jump to Colo. Towles writing by the same opportunity in text" href="#TSJN-01-05-0557-ks-0001">Colo. Towles writing by the same opportunity</a>: There is no record of a letter from Towles to TJ at this time, but on 14 Apr. Towles did write Steuben By Express  just setting out from this place in which he conveyed the following information that must have been very similar if not precisely the same as that transmitted to TJ: the enemy yesterday were at or near General Washingtons seat on Patowmack. A number of Gentlemen Volunteers on Horses were dispatched from this place to obtain an account of their force and the particulars of their conduct. By Captains Callender and McWilliams who may be depended on I am furnished with the following particulars, viz: On the 12th instant the enemy sent a Flag on the Maryland side where some militia had collected. After some consultation the Flag returnd and immediately embarged about 200 Men in a number of Boats and landed under the cover of their Guns. The Militia after a little resistance retreated on which the Enemy immediately ran up to Colonel Lylers, destroyed it with all the outhouses, they returned then to their ships and lay still that night. Their force are two Ships of 16 Guns one of 18 Two briggs of 12 and one Tender. I cannot discover whether they have Troops on Board or not. It is supposed by some that they only mean to maraud and plunder near the Water on which they have already committed a deal of Mischeif, other conjectures are that they intend on their return to make their inroads as far as Hunters Works and this Town and should they only have as many as 500 men, I suspect much this place and the Works will be attempted. I doubt not your being well acquainted with our defenceless state here, particularly with respect to Arms and accoutrements of every kind. With great difficulty was procured about 120 Musquets without Bayonets or Boxes and for a considerable time we despaired of procuring the necessary number of Flints until at length a Gentleman discovered his having about 100 which we got but know not where to procure the like or even half of that number, there being none in the Magazine. If we mean to defend this Post a quantity of Arms Ammunition and accoutrements &amp;c should be immediately furnished. For my own part I think it a place of as much or perhaps of greater consequence than any in the state. The single circumstance of losing Hunters Works would occasion the most poignant distresses and I leave it to you to determine whether a Body of Troops should not be stationed at or near this place as soon as possible  (Towles to Steuben, 14 Apr. 1781, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New-York Historical Society, New York City ]">NHi</span>).</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-05-02-0557 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 5 (25 February 178120 May 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0556" title="James Henderson's Account as Express, with Jefferson's Certification, 14 April 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0558" title="To John O'Bannon, 14 April 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

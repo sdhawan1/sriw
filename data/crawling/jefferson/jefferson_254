@@ -1,0 +1,188 @@
+VI. Notes on Locke and Shaftesbury, 11 October–9 December 1776
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>VI. Notes on Locke and Shaftesbury, 11 October9 December 1776</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0222-0007&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1776-10-11-5">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02-0222&amp;mode=TOC" title="Notes and Proceedings on Discontinuing the Establishment of the Church of England, [11 October9 December 1776]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0222-0006" title="V. Notes on Acts of Parliament and of the Virginia Assembly concerning Religion, 11 October  9 December 1776"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0222-0008" title="VII. Notes on Episcopacy, 11 October9 December 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=TSJN-print-01-01-02-0222&amp;mode=TOC">Notes and Proceedings on Discontinuing the Establishment of the Church of England, [11 October9 December 1776]</a>&gt; VI. Notes on Locke and Shaftesbury, 11 October9 December 1776</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0222-0007&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0222-0006" title="V. Notes on Acts of Parliament and of the Virginia Assembly concerning Religion, 11 October  9 December 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0222-0008" title="VII. Notes on Episcopacy, 11 October9 December 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0544">544<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0544.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0244" class="doc">
+
+
+<h2>VI. Notes on Locke and Shaftesbury</h2>
+<h2 style="font-size: 120%;">Lockes works 2d. vol.</h2>
+
+<div class="docbody">
+<ul class="simple">
+	    <li>Why persecute for diffce. in religs. opinion?</li>
+	    <li>
+    <ul class="simple">
+		<li>1. for love to the person.</li>
+		<li>2. because of tendency of these opns. to dis[ .]</li>
+	      </ul>
+</li>
+	    <li>when I see them persecute their nearest connection &amp; acquaintance for gross vices, I shall beleive it may proceed from love. till they do this, I appeal to their own conscences if they will examine, why they do nt. find some other principle. because of tendency. why not then level persecution at the crimes you fear will be introduced? burn or hang the adulterer, cheat &amp;c. or exclude them from offices.</li>
+	    <li>strange should be so zealous against things which tend to produce immorality &amp; yet so indulgent to the immorality when produced. these moral vices all men acknolege to be diametrically against Xty. &amp; obstructive of salvation of souls, but the fantastical points for which we generally persecute are often very questionable as we may be assured by the very different conclusions of people.</li>
+	    <li>our Saviour chose not to propagate his religion by temporal punmts or civil incapacitation, if he had it was in his almighty power. but he chose to &lt;<span class="hi-italic" style="font-style: italic;">enforce</span>&gt; extend it by its influence on reason, thereby shewing to others how [they] should proceed.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0545">[545<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0545.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></li>
+	    <li>Commonwealth is a society of men constituted for preser[ving] their <span class="hi-italic" style="font-style: italic;">civil</span> &lt;<span class="hi-italic" style="font-style: italic;">rights</span>&gt; <span class="hi-italic" style="font-style: italic;">interests.</span></li>
+	    <li>interests are life, health, indolency of body, liberty, property.</li>
+	    <li>the magistrates jurisdn. extends only to civil rights and from these considns.:</li>
+	    <li>the magistrate has no power but wt. ye. people gave hm.</li>
+	    <li>the people hv. nt. givn. hm. &lt;<span class="hi-italic" style="font-style: italic;">powr.</span>&gt; the care of souls bec. y cd. nt., y. cd. nt. because no man hs. <span class="hi-italic" style="font-style: italic;">right</span> to abandon ye. care of his salvation to another.</li>
+	    <li>no man has <span class="hi-italic" style="font-style: italic;">power</span> to let another prescribe his faith. faith is not faith witht. believing. no man can conform his faith to the dictates of another.</li>
+	    <li>the life &amp; essence of religion consists in the internal persuasion or belief of the mind. external forms [of wor]ship, when against our belief, are hypocrisy [and im]piety. Rom.14.23. he that doubteth is damned, if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.</li>
+	    <li>if it be said the magistrate may make use of a[rguments] and so draw the heterodox to truth: I [answer] every man has a commission to admonish, exhort, convince another of error.</li>
+	    <li>[a church] is a <span class="hi-italic" style="font-style: italic;">voluntary</span> society of men, joining [themselves] together of their own accord, in order to the [publick] worshipping of god in such a manner as they judge [accept]able to him &amp; effectual to the salvation of their souls. [it is] <span class="hi-italic" style="font-style: italic;">voluntary</span> because no man is <span class="hi-italic" style="font-style: italic;">by nature</span> bound to any church. the hopes of salvation is the cause of his entering into it. if he find any thing wrong in it, he [sh]ould be as free to go out as he was to come in.</li>
+	    <li>[w]hat is the power of that church &amp;c.? as it is a society &lt;<span class="hi-italic" style="font-style: italic;">of voluntary</span>&gt; it must have some laws for its regulation. time &amp; place of meeting, admitting &amp; excluding members &amp;c. must be regulated.</li>
+	    <li>but as it was a spontaneous joining of members, it follows that its laws extend to its own members only, not to those of any other voluntary society: for then by the same rule some other voluntary society might usurp power &lt;<span class="hi-italic" style="font-style: italic;">of</span>&gt; over them.</li>
+	    <li>Christ has said wheresoever 2 or 3 are gatherd. togeth. in his name he will be in the midst of them. this is his definition of a society. he does not make it essential that a bishop or presbyter govern them. without them it suffices for the salvation of souls.</li>
+	    <li>from the dissensions among sects themselves arises necessarily a right of chusing &amp; necessity of deliberating to which we will conform.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0546">[546<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0546.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></li>
+	    <li>but if we chuse for ourselves, we must allow others to chuse also, &amp; so reciprocally. this establishes religious liberty.</li>
+	    <li>why require those things in order to ecclesiastical communion which Christ does not require in order to life eternal? how can that be the church of Christ which excludes such persons from its communion as he will one day receive into the kingdom of heaven.</li>
+	    <li>the arms of a religious society or church are exhortations admonitions &amp; advice, &amp; ultimately expulsion or excommunication. this last is the utmost limit of power.</li>
+	    <li>how far does the duty of toleration extend? 1. no church is bound by the duty of toleration to retain within her bosom obstinate offenders against her laws. 2. we have no right to prejudice another in his civil enjoiments because he is of another church. if any man err from the right way, it is his own misfortune, no injury to thee, nor therefore art thou to punish him in the things of this life because thou supposest he will be miserable in that which is to come. on the contrary accdg to the spirit of the gospel, charity, bounty, liberality is due to him.</li>
+	    <li>each church being free, no one can have jurisdiction over another; no not even when the civil magistrate joins it. it neither acquires the right of the sword by the magistrates coming to it, nor does it lose the rights of instruction or excommunication by his going from it. it cannot by the accession of any new member acquire jurisdiction over those who do not accede. he brings only himself, having no power to bring others.</li>
+	    <li>suppose for instance two churches one of Arminians another of &lt;<span class="hi-italic" style="font-style: italic;">Lutherans</span>&gt; Calvinists in Constantinople. has either any right over the other? will it be said the orthodox one has? every church is to itself orthodox, to others erroneous or heretical.</li>
+	    <li>no man complains of his neighbor for ill management of his affairs, for an error in sowing his land, or marrying his daughter, for consuming his substance in taverns, pulling down, building &amp;c. in all these he has his liberty: but if he do not frequent the church, or there conform to ceremonies, there is an immediate uproar.</li>
+	    <li>the care of every mans soul belongs to himself, but what if he neglect the care of it? well what if he neglect the care of his health or estate, which more nearly relate to the state. will the magistrate make a law that he shall not be poor or sick? laws provide against injury from others; but not from ourselves. God himself will not save men against their wills.</li>
+	    <li class="pagebreak"><span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0547">[547<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0547.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></li>
+	    <li>if I be marching on with my utmost vigour in that way which according to the sacred geography leads to Jerusalem streight, why am I beaten &amp; ill used by others because my hair is not of the right cut; because I have not been kept right, bec. I eat flesh on the road, bec. I avoid certain by-ways which seem to lead into briars, bec. among several paths I take that which seems shortest &amp; cleanest, bec. I avoid travellers less grave &amp; keep company with others who are more sour &amp; austere, or bec. I follow a guide crowned with a mitre &amp; cloathed in white. yet these are the frivolous things which keep Xns. at war.</li>
+	    <li>if the magistrate command me to [bring my commodity to a publick store house]<a class="ptr" href="#TSJN-01-01-0244-fn-0001" id="TSJN-01-01-0244-fn-0001-ptr">1</a> I bring it because he can indemnify me if he erred &amp; I thereby lose it; but what indemnification can he give me for the kdom. of heaven?</li>
+	    <li>I cannot give up my guidance to the magistrate; because he knows no more of the way to heaven than I do &amp; is less concerned to direct me right than I am to go right. if the jews had followed their kings, amongst so many, what number would have led them to idolatry? consider the vicissitudes among the emperors, Arians, Athans. or among our princes, H.8. E.6. Mary. Elizabeth.</li>
+	    <li>[co]mpulsion in religion is distinguished peculiarly from compulsion in every other thing. I may grow rich by art I am compelled to follow, I may recover health by medicines I am compelled to take agt. my own judgmt., but I cannot be saved by a <span class="hi-italic" style="font-style: italic;">worship</span> I disbelieve &amp; abhor.</li>
+	    <li>whatsoever is lawful in the Commonwealth, or permitted to the subject in the ordinary way, cannot be forbidden to him for religious uses; &amp; whatsoever is prejudicial to the commonwealth in their ordinary uses &amp; therefore prohibited by the laws, ought not to be permitted to churches in their sacred rites. for instance, it is unlawful in the ordinary course of things or in a private house to murder a child. it should not be permitted any sect then to sacrifice children: it is ordinarily lawful (or temporally lawful) to kill calves or lambs. they may therefore be religiously sacrificed. but if the good of the state required a temporary suspension of killing lambs (as during a seige); sacrifices of them may then be rightfully suspended also. this is the true extent of <span class="hi-italic" style="font-style: italic;">toleration.</span></li>
+	    <li>[tr]uth will do well enough if left to shift for herself. she seldom has received much aid from the power of great men to whom she is rarely known &amp; seldom welcome. she has no need of force to <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0548">[548<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0548.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> procure entrance into the minds of men. error indeed has often prevailed by the assistance of power or force.</li>
+	    <li>truth is the proper &amp; sufficient antagonist to error.</li>
+	    <li>[if] any thing pass in a religious meeting seditiously &amp; contrary to the public peace, let it be punished in the same manner &amp; no otherwise than as if it had happened in a fair or market. these meetings ought not to be sanctuaries for faction &amp; flagitiousness.</li>
+	    <li>[Lo]cke denies toleration to those who entertain opns. contrary to those moral rules necessary for the preservation of society; as for instance, that faith is not to be kept with those of another persuasion, that kings excommunicated forfeit their crowns, that dominion is founded in grace, or that obedience is due to some foreign prince, or who will not own &amp; teach the duty of tolerating all men in matters of religion, or who deny the existence of a god. [It was a great thing to go so far (as he himself sais of the parl. who framed the act of tolern.) but where he stopped short, we may go on.]<a class="ptr" href="#TSJN-01-01-0244-fn-0002" id="TSJN-01-01-0244-fn-0002-ptr">2</a></li>
+	    <li>[he] sais neither Pagan nor Mahamedan nor Jew ought to be excluded from the civil rights of the Commonwealth because of his religion. shall we suffer a Pagan to deal with us and not suffer him to pray to his god?</li>
+	    <li>[wh]y have Xns. been distinguished above all people who have ever lived for persecutions? is it because it is the genius of their religion? no, its genius is the reverse, it is the refusing <span class="hi-italic" style="font-style: italic;">toleration</span> to those of a different opn. which has produced all the bustles &amp; wars on account of religion. it was the misfortune of mankind that during the darker centuries the Xn priests following their ambition &amp; avarice &amp; combining with the magistrates to divide the spoils of the people, could establish the notion that schismatics might be ousted of their possessions &amp; destroyed. this notion we have not yet cleared ourselves from. in this case no wonder the oppressed should rebel, &amp; they will continue to rebel &amp; raise disturbance until their civil rights are fully restored to them &amp; all partial distinctions, exclusions &amp; incapacitations removed.</li>
+	  </ul>
+<p class="listHead" style="font-size: 120%;">1. Shaftesbury. charact.</p><ul class="simple">
+	    <li>as the antients tolerated visionaries &amp; enthusiasts of all kinds so they permitted a free scope to philosophy as a balance. as the Pythagoreans &amp; latter Platonicks joined with the superstition of the times the Epicureans &amp; Academicks were allowed all the use of wit &amp; raillery against it. thus matters were balanced; reason had [full] play &amp; science flourished. these contrarieties produced <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0549">[549<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0549.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> harmony. superstition &amp; enthusiasm thus let alone never raged to bloodshed persecution &amp;c.<span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span>but now a new sort of policy, which considers the future lives &amp; happiness of men rather than the present, has taught to distress one another, &amp; raised an antipathy which no temporal interest could ever do, now <span class="hi-italic" style="font-style: italic;">uniformity of opn.</span>, a hopeful project! is looked on as the only remedy agt. this evil &amp; is made the very object of govmt itself. if magistracy should vouchsafe to interpose thus in other sciences we should [have] as bad logic, mathematics &amp; philosophy as we have divinity in countries where the law settles orthodoxy.</li>
+	    <li>[suppose the state should take into head that there should be an uniformity of countenance. men would be obliged to put an artificial bump or swelling here, a patch there &amp;c.<span class="space" title="space in original source" style="padding-left:1.5em; padding-right:1.5em;"></span>but this would be merely hypocritical.]<a class="ptr" href="#TSJN-01-01-0244-fn-0001" id="TSJN-01-01-0244-fn-0001-ptr">1</a> or if the alternative was given of wearing a mask, 99/100 ths must immediately mask. would this add to the beauty of nature? why otherwise in opinions.]<a class="ptr" href="#TSJN-01-01-0244-fn-0003" id="TSJN-01-01-0244-fn-0003-ptr">3</a> [in the middle ages of Xty. opposition to the state opns. was hushed. the consequence was, Xty. became loaded with all the Romish follies. nothing but free argument, raillery, &amp; even ridicule will preserve the purity of religion.]<a class="ptr" href="#TSJN-01-01-0244-fn-0001" id="TSJN-01-01-0244-fn-0001-ptr">1</a></li>
+	    <li>2. Cor. 1. 24. the apostles declare they had no dominion over the faith.<a class="ptr" href="#TSJN-01-01-0244-fn-0004" id="TSJN-01-01-0244-fn-0004-ptr">4</a></li>
+	  </ul>
+<p style="margin-top: 1em; text-align: left; text-indent: 0;">Lockes system of Christianity is this.</p>
+<p>Adam was created happy &amp; immortal: but his happiness was to have been <span class="hi-italic" style="font-style: italic;">Earthly</span>, and <span class="hi-italic" style="font-style: italic;">earthly</span> immortality. by <span class="hi-italic" style="font-style: italic;">sin</span> he lost this, so that he became subject to total death (like that of brutes) &amp; to the crosses &amp; unhappinesses of this life. at the intercession however of the son of god this sentence was in part remitted. a life conformable to the law was to restore them again to immortality. and moreover to those who <span class="hi-italic" style="font-style: italic;">believed</span> their <span class="hi-italic" style="font-style: italic;">faith</span> was to be counted for righteousness. not that faith without works was to save them; St. James. c.2. sais expressly the contrary; &amp; all make the fundamental pillars of Xty. to be faith &amp; <span class="hi-italic" style="font-style: italic;">repentance.</span> so that a reformation of life (included under <span class="hi-italic" style="font-style: italic;">repentance</span>) was essential, &amp; defects in this would be made up by their <span class="hi-italic" style="font-style: italic;">faith</span>; i.e. their faith should be counted for righteousness. as to that part of mankind who never had the gospel preached to them, they are 1. Jews. 2. Pagans, or Gentiles. the Jews had the law of works revealed to them. by this therefore they were to be saved: &amp; a <span class="hi-italic" style="font-style: italic;">lively</span> faith in gods promises to send the Messiah would supply small defects. 2. the Gentiles St. Paul sais Rom.2.13. the Gentiles have the law written in their hearts i.e. the law of nature: to which adding a <span class="hi-italic" style="font-style: italic;">faith</span> in God, &amp; his attributes <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0550">[550<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0550.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> that on their repentance he would pardon them, they also would be justified. this then explains the text there is no other <span class="hi-italic" style="font-style: italic;">name</span> under heaven by which a man may be saved. i.e. the defects in good works shall not be supplied by a faith in Mahomet, Foe,<a class="ptr" href="#TSJN-01-01-0244-fn-0005" id="TSJN-01-01-0244-fn-0005-ptr">5</a> or any other except Christ.</p>
+<p>The &lt;<span class="hi-italic" style="font-style: italic;">essentials</span>&gt; fundamentals of Xty. as found in the gospels are 1. Faith. 2. Repentance. that faith is every[where?] explained to be a beleif that Jesus was the Messiah who had been promised. Repentance was to be proved sincere by good works. the advantages accruing to mankind from our Saviors mission are these: 1. the knolege of one god only. 2. a clear knolege of their duty, or system of morality, delivered on such authority as to give it sanction. 3. the outward forms of religious worship wanted to be purged of that farcical pomp &amp; nonsense with which they were loaded. 4. an inducement to a pious life, by revealing clearly a future existence in bliss, &amp; that it was to be the reward of the virtuous.</p>
+<p>The Epistles were written &lt;<span class="hi-italic" style="font-style: italic;">occasionally</span>&gt; to persons <span class="hi-italic" style="font-style: italic;">already Christians.</span> a person might be a Xn. then before they were written. consequently the &lt;<span class="hi-italic" style="font-style: italic;">essentials</span>&gt; fundamentals of Xty. were to be found in the preaching of our savior, which is related in the gospels. these fundamentals are to be found in the epistles dropped here &amp; there &amp; promiscuously mixed with other truths. but these other truths are not to be made fundamentals. they serve for edification indeed &amp; explaining to us matters in worship &amp; morality. but being written occasionally it will readily be seen that their explanations are adapted to the notions &amp; customs of the people they were written to. but yet every sentence in them (tho the writers were inspired) must not be taken up &amp; made a fundamental, without assent to which a man is not to be admitted a member of Xs church here, or to his kingdom hereafter. the Apostles creed was by them taken to contain all things necessary to salvation, &amp; consequently to a communion.</p>
+
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0244-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ note, notes (memoranda, fragments, &amp;c.) ]">N</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Four pages closely written in a long narrow column; also two fullsize pages, the second of which is blank on the back except for an endorsement in an unidentified hand: Scraps early in Revolution. The fading of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> has rendered portions of it semi-legible; the marginal numbers of the paragraphs for the most part cannot be read and are here omitted.</p>
+<p>These notes comprise chiefly an abstract of A Letter concerning Toleration (1689) in John Lockes <span class="hi-italic" style="font-style: italic;">Works</span>, London, 1714, <span class="hi-small-caps" style="font-variant: small-caps;">ii</span>, with scattered notes and observations on other religious writings of Locke. The notes on Shaftesbury are a paraphrase, with interpolations, of a passage in section 2 of A Letter concerning Enthusiasm (1708) in the 3d Earl of Shaftesburys <span class="hi-italic" style="font-style: italic;">Characteristicks of Men, Manners, Opinions, Times</span>, London, 1711, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-01-0244-fn-0001-ptr" id="TSJN-01-01-0244-fn-0001">1</a><p>Brackets in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0244-fn-0002-ptr" id="TSJN-01-01-0244-fn-0002">2</a><p>Brackets in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>. A footnote by TJ follows, reading: will not his own excellent rule be sufficient here too; to punish these as civil offences. e. gr. to assert that a foreign prince has power within this commonwealth is a misdemeanor. the other opns. may be despised. Perhaps the single thing which may be required to others before toleration to them would be an oath that they would allow toleration to others.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0244-fn-0003-ptr" id="TSJN-01-01-0244-fn-0003">3</a><p>This bracket in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> has no mate.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0244-fn-0004-ptr" id="TSJN-01-01-0244-fn-0004">4</a><p>The foregoing is from TJ Papers, 3: 3234; the following is from 3: 3267 and was written at a different sitting.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0244-fn-0005-ptr" id="TSJN-01-01-0244-fn-0005">5</a><p>Thus clearly in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>, but the reference is enigmatic.</p></div> 
+            
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0222-0007 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0222-0006" title="V. Notes on Acts of Parliament and of the Virginia Assembly concerning Religion, 11 October  9 December 1776"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0222-0008" title="VII. Notes on Episcopacy, 11 October9 December 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

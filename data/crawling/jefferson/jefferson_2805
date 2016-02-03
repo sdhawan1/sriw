@@ -1,0 +1,134 @@
+From John Skinker, 11 April 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Skinker, 11 April 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-05-02-0509&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-04-11-9">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0508" title="From Nathanael Greene, 11 April 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-05-02-0510" title="From James Slaughter, 11 April 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-05&amp;mode=TOC">Volume 5 (25 February 178120 May 1781)</a>&gt; <a href="?keys=TSJN-print-01-05-02&amp;mode=TOC">Documents</a>&gt; From John Skinker, 11 April 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-05-02-0509&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0508" title="From Nathanael Greene, 11 April 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0510" title="From James Slaughter, 11 April 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-05-02-pb-0406">406<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0406.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-05-0509" class="doc">
+
+<h1>From John Skinker</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Boyds Hole Wednesday April 11th. 1781.</td>
+	      </tr>
+      </table>
+</div>
+<p>I received <a href="#TSJN-01-05-0509-kw-0001" title="[explained in note]" id="TSJN-01-05-0509-ks-0001" class="keyword">your Excellencys Letter</a> by Express Thursday morning last directing me to send 114 Men from this County to Williamburg to perform a Tour of duty. Late the same Evening I received a Letter from Col. Stith on Potomack informing me that 3 large Schooners and some smaller Vessels of the Enemy were opposite Hoes Ferry. They came too and about 8 o Clock at night landed at Mr. Garrard Hoes, plunderd his House and what they could not carry away they utterly distroyd. They also took off 4 of his Negros and set fire to his House which the Captain of the gang permitted the Overseer to extinguish. They then proceeded a few Miles up the river to Mr. Robt. Washingtons where the same horrid scene was again renewd with every agrevating circumstance that can be conceivd. They carried off 4 of his Negros and distroyd almost every Article of Furniture that Gentleman was possessd of; they then returnd on board, and the next day landed on the Maryland shore, and proceeded to Mr. Dents where (as we heard a good deal of firing) they were opposed, but without effect as we soon discoverd all that Gentlemans fine buildings in flames. Their next object was the Roman Priests House which they robbd of every thing they could carry off, and then went to Mr. Hansons whom they also plunderd. Their Vessles then returnd down the River and came too off Cedar point. They landed and were opposed by a small party of Militia tho I apprehend without much affect as I am informd they took off most of the Tobacco that was in the Warehouses at that place. Sunday morning they proceeded down the River, and I was in hopes that I should be able to discharge the Militia and comply with your requisition, but before that took place I read an Express from Col. Jno. Washington, informing me that several large Ships were coming up Potomack. In a few hours after we coud distinguish 3 lying at Anchor where they continued as the wind was strong against them til yesterday morning when they got under way and proceeded up the River. They consist of 4 Ships none less than 20 Guns two Brigs and two Tenders. As the wind was fair I do imagine they woud get up as high as Dumfries that Evening. It is generally conjecturd Alexandria is their Object. On their return I am apprehensive we shall receive a visit from them, and I am really sorry to inform your Excellency that not 1 third of my Militia have Arms fit for service. It has never been in <span class="pb" title="page number in print edition" id="TSJN-01-05-02-pb-0407">[407<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0407.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> my power to procure the 150 Guns &amp;c. you sent me an order for on the Managers of the Factory at Fredericksg. As the scituation of the Inhabitants of Potomk. is very alarming and distressing and we have near 30 Miles of County to protect from the depredation of these Pirates, I beg your Excellency and the Council would take the matter under consideration, and Countermand the order for sending 114 Men with Guns (which is impossible to spare) from this County. I am now encampd at this place and shall continue til the ships return down. We are endeavouring to secure the public Tobacco which is very considerable, and I think in great danger, as the Houses are on the edge of the bank, and their Vessels can come within 150 Yards of the shore. I am under the greatest obligation to <a href="#TSJN-01-05-0509-kw-0002" title="[explained in note]" id="TSJN-01-05-0509-ks-0002" class="keyword">Capt. Read and his Troop of Horse</a>, who on my informing him of our scituation immediately Joind and is now with me, and I do expect if the Enemy should land will render us very escential service. I shall be highly obligd to your Excellency to write to me by the return of the Express. I am Sir with great esteem your Excellencys Most Obdt. Hbbl Servt,</p>
+<div class="closer">
+<p class="signed">J. <span class="hi-small-caps" style="font-variant: small-caps;">Skinker</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-05-0509-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); addressed and endorsed. <a id="TSJN-01-05-0509-kw-0001" class="keywordref" title="jump to Your excellencys letter in text" href="#TSJN-01-05-0509-ks-0001">Your excellencys letter</a>: This was <a href="default.xqy?keys=TSJN-print-01-05-02-0330" class="document">TJs letter to the county lieutenants of Orange, &amp;c., 27 Mch. 1781</a> which requested 114 men from King George co., of which Skinker was county lieutenant. <a id="TSJN-01-05-0509-kw-0002" class="keywordref" title="jump to Capt. Read and his troop of horse in text" href="#TSJN-01-05-0509-ks-0002">Capt. Read and his troop of horse</a>: See <a href="default.xqy?keys=TSJN-print-01-05-02-0498" class="document">Edmund Read to TJ, 10 Apr. 1781</a>.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-05-02-0509 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 5 (25 February 178120 May 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0508" title="From Nathanael Greene, 11 April 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0510" title="From James Slaughter, 11 April 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

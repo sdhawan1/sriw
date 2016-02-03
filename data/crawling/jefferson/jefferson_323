@@ -1,0 +1,141 @@
+From John Harvie, 18 [October] 1777
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Harvie, 18 [October] 1777</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-02-02-0028&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1777-10-18-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0027" title="From Lucy Chiswell Nelson, 13 October 1777"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-02-02-0029" title="To Lucy Chiswell Nelson, 24 October 1777"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-02&amp;mode=TOC">Volume 2 (177718 June 1779)</a>&gt; <a href="?keys=TSJN-print-01-02-02&amp;mode=TOC">Documents</a>&gt; From John Harvie, 18 [October] 1777</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-02-02-0028&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0027" title="From Lucy Chiswell Nelson, 13 October 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0029" title="To Lucy Chiswell Nelson, 24 October 1777"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-02-02-pb-0034">34<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0034.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-02-0028" class="doc">
+
+<h1>From John Harvie</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">York Septr. [i.e., October] 18th. 1777</td>
+	      </tr>
+      </table>
+</div>
+<p>This Morning the Inclosed Interesting Intelligence was received by Congress from General Gates. As I am sure you will receive pleasure in reviewing even the Minutia of this great and Glorious Victory I shall make no Apology for sending you a Copy of the several Letters in the Rough dress you see them haveing made it off in a Hurry at the Clerks Table. Gatess Rapid Successes to the Northward does him honour as a Great and deserving Oficer. The British General Clinton some short time since reduced Fort Montgomery on the North River and placed a Strong Garrison in it. However Sanguine Spirits here prophecy his Speedy Evacuation of that post. I wish the Event may Evince the truth of their prediction but as I know nothing of the place I have no Opinion about it. We yet Command the Delaware above Fort Island and the Enemy have been repulsd with some Damage in every Attempt that they have made on our Batterys and little Navy. The Commodore is a Gallant Oficer of whose conduct Congress have expressed their high approbation. The president informd me to day that there are a Body of troops in Motion for Wilm[ing]ton. Probably a few days will bring us good News from that Hospital. General Washington is with[in] 17 Miles of Philadelphia. His design no doubt is on[ce] again to force the British Lines. His troops are Ard[ent] and Spirited therefore we may hope every thing from the[ir] Vigour and Activity. Our <a href="#TSJN-01-02-0028-kw-0001" title="[explained in note]" id="TSJN-01-02-0028-ks-0901" class="keyword">Agent from Martin[ique]</a> writes that he has every reason to expect an Im[medi]ate War in Europe. Pennsylvania is at pres[ent] a dead weight on us. Their Councils and Executi[ve] are puerile weak and Inanimate. They deserve to be D. I have not patience with them, and Yet the[y] think it Matter of Right to Engroce every Of[fice] of trust and profit. I verily think a Majority of them would willingly see us Involvd in the deepest destr[uc]tion. However for their Comfort they have Martial [Law] Suspended over them for 70 Miles around the Cit[y]. This Resolution passd before I came to Con[gress] or I should have had my doubts about [the propriety o]f the Measure. <span class="pb" title="page number in print edition" id="TSJN-01-02-02-pb-0035">[35<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0035.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> As we have no press from whence you might see those things in print I thought it might partly Ease your Solicitude to give you this detail of publick Matters.</p>
+<p>Youl hear of the Dunmore Militias behaviour when Orderd to Camp. Pray do not suffer them to Escape Reprehension, or their Example will be fatal to our Militia. They say they could not be provided on the Road. I enquird at Frederick town as I came down and their pretence is without any kind of foundation. A well Regulated Militia may be our Salvation and Officers who are not Attentive to their duty ought to be broke like Glass and certain I am the Dunmore Feild Officers were not, two of whom are Delegates for that County. As you wanted your Workmen from Philadelphia you are Sensible they cant now be Engaged from that City. This gives me Uneasiness as there is no man on Earth for whom I would Execute a trust with greater pleasure. I have not yet had a very clear distinct View of Congress but have seen and heard enough to Convince me that it is not that Wise Systematic decent Assembly that you knew it two years ago. If I was with you I could enlarge on this Subject but at a distance Sub Silentio (for fear of Accidents) is the best policy. I fervently hope the next Choice of Delegates for our State will be Confind to men of extensive political Knowledge, Steady and Spiritted in their Rights with Capacity Sufficient to penetrate the designs of every Corner of the Continent. Rely on it our Confederacy is not founded on Brotherly Love and Able Statesmen are Surely wanting here. To make room for one of this Character I will with pleasure Resign if you Advise me that it will not be Imputed to Unworthy Motives (but that would restrain me if the Service was as bitter as Gall) for to you who know me so well it is Needless to say I do not possess talents for State Affairs and yet truly I am one of the Board of War without having the Skill in Military affairs of an Orderly Sergeant. Our Worthy president withdraws from Congress in about 10 days. Will you be Surprized if F. L. Lee Esqr. Succeeds him. That he will is the General Opinion at present. I wish in a publick Assembly no Gentleman was fond of high Offices. I have not heard a tittle from my Family since I left it. My wife is certainly Reprehensible for not writeing. Yet perhaps she is Excusible as I never knew her so Negligent before. As she really Merrits every tenderness from me, I feel the Strongest Anxiety to hear that she is well. I kn[ow] she cant be happy in my Absence. I am Dr Sir With the Greatest Sincerity Yrs,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Jno.</span> <span class="hi-small-caps" style="font-variant: small-caps;">Harvie</span></p>
+</div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-02-02-pb-0036">[36<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0036.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-02-0028-sn">
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Enclosures: Copies, in the hand of John Harvie, of Horatio Gates to John Hancock, 12 Oct. 1777, together with the letters enclosed therewith, namely, John Burgoyne to Horatio Gates, 8 Oct. 1777, John Burgoyne to Horatio Gates, 9 Oct. 1777, Horatio Gates to John Burgoyne, 12 Oct. 1777 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: TJ Papers, 3: 3945).</p>
+
+
+   <p style="margin-top: 1em;">There can be no question about the date of the letter, although Harvie wrote Septr., because the letters which he copied and enclosed were read before Congress on 18 Oct. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, D.C., 190437, 34 vols. ]">JCC</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ix</span>, 820). Gates letter to Hancock is a detailed report of his successful encounter with Burgoyne of 710 Oct. and Burgoynes retreat to Saratoga. The enclosure in Gates letter, Burgoyne to Gates of 8 Oct., is a request for protection of the sick and wounded officers abandoned in the British retreat. The letter of Burgoyne to Gates of 9 Oct. requests the safe conduct of Lady Harriet Ackland to her husband, who was wounded and a prisoner of Gates army. Gates reply to Burgoyne of 12 Oct. is a sharp protest at the devastation and cruelty of the retreating British army for whose prisoners Burgoyne asked clemency from the Americans. For a full summary of the events covered in these letters see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Samuel W. Patterson, &lt;i&gt;Horatio Gates&lt;/i&gt;, New York, 1941 ]">Patterson, <span class="hi-italic" style="font-style: italic;">Gates</span></span>, p. 16670. The letter from William Bingham, <a id="TSJN-01-02-0028-kw-0001" class="keywordref" title="jump to agent from Martinique in text" href="#TSJN-01-02-0028-ks-0901">agent from Martinique</a>, was also read and acted upon in Congress on 18 Oct. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, D.C., 190437, 34 vols. ]">JCC</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ix</span>, 8201).</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-02-02-0028 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 2 (177718 June 1779)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0027" title="From Lucy Chiswell Nelson, 13 October 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0029" title="To Lucy Chiswell Nelson, 24 October 1777"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

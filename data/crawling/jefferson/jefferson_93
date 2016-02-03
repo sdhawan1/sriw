@@ -1,0 +1,567 @@
+From Ebenezer Hazard, with Jefferson's MS Memoranda, 23 August 1774
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Ebenezer Hazard, with Jefferson's MS Memoranda, 23 August 1774</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0093&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1774-08-23-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0092" title="Instructions by the Virginia Convention to Their Delegates in Congress, August 1774"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0094" title="Continental Association, 20 October 1774"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; From Ebenezer Hazard, with Jefferson's MS Memoranda, 23 August 1774</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0093&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0092" title="Instructions by the Virginia Convention to Their Delegates in Congress, August 1774"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0094" title="Continental Association, 20 October 1774"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0144">144<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0144.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0093" class="doc">
+
+<h1>From Ebenezer Hazard, with Jeffersons MS Memoranda</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight"><span class="hi-small-caps" style="font-variant: small-caps;">New-York</span>, August 23, 1774.</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-align: left; text-indent: 0;">As the Collection, mentioned in the Proposals annexed, is a Matter of Importance to the Colonies in general, and may answer valuable Purposes, I flatter myself you will think it not unworthy of your Patronage;-and therefore take the Liberty of soliciting your kind Assistance by favouring me with the Use of such suitable Papers, relating to your Colony, as it may be convenient for you to procure.</p>
+<p><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span>, Your most obedient, And very humble Servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Eben</span>. <span class="hi-small-caps" style="font-variant: small-caps;">Hazard</span></p>
+</div>
+<div class="postscript">
+<p style="text-align: left; text-indent: 0;"><span class="hi-small-caps" style="font-variant: small-caps;">When</span> the Conduct of Individuals in a Community is such as to attract public Attention, others are very naturally led to many Inquiries about them; so when civil States rise into Importance, even their earliest History becomes the object of Speculation. From a Principle of Curiosity, many who have but little, or no Connection with the British Colonies in America, are now prying into the Story of their rise and progress, while others wish for a farther Acquaintance with them, from better, though perhaps more interested Motives. The Means of obtaining this Information are not accessible by every Person, and if they were, are so scattered, that more Time would be necessary for collecting them, than would be requisite for reading them after they were collected.</p>
+<p>To remove this Obstruction from the path of Science, and at the same Time to lay the Foundation of a good American History, by preserving from oblivion valuable Materials for that Purpose,</p>
+<p style="text-align: center; text-indent: 0; margin-top: 1em;"><span class="hi-small-caps" style="font-variant: small-caps; font-size: 120%;">it is proposed</span></p>
+<p style="text-align: left; text-indent: 0;">To form a complete Collection of what may be with Propriety stiled,</p>
+<p style="text-align: center; text-indent: 0; margin-top: 1em;"><span class="hi-small-caps" style="font-variant: small-caps; text-transform: lowercase; font-size: 140%; letter-spacing: 0.5em;">American State Papers</span>.</p>
+<p style="margin-top: 1em;">This Collection will begin with the Grant from <span class="hi-italic" style="font-style: italic;">Henry</span> 7th, to <span class="hi-italic" style="font-style: italic;">John Cabot</span>, and his Sons for making Discoveries; and will include every important public Paper (such as Royal Grants, Charters, Acts of Parliament, &amp;c. &amp;c.) relating to America, of which either the original, or <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0145">[145<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0145.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> authentic Copies can be procured, down to the present Time. The History of the STAMP-ACT, and other Acts of the British Parliament for raising a Revenue among us by internal Taxation;-Resolves of the American Assemblies;-Votes of Town Meetings;and such political Pamphlets and other fugitive Pieces as are properly connected with the general Design, and are worthy of Preservation, will also be included; and to the Whole will be added an <span class="hi-small-caps" style="font-variant: small-caps;">Introduction</span>, containing an Account of the Constitution of the different British American Colonies, and a very copious <span class="hi-small-caps" style="font-variant: small-caps;">Index</span>.</p>
+<p>It is supposed that the Whole may be comprised in five Volumes Octavo, and that the Price of each Volume, well bound and lettered, will not exceed One Dollar and an Half.</p>
+<p>The Compilation is already begun, and shall be sent to the Press as soon as it can be got ready, and a sufficient Number of Subscribers can be procured. Every Person must see that this Undertaking is attended with many and great Difficulties; and that the Compiler needs, what the Work if well executed will merit, the friendly Assistance of others. He therefore solicits the public Patronage; and as the Work will not only serve to gratify the Curiosity of the inquisitive, but be eminently useful in much more important Points of View, he begs that Gentlemen who are possessed of proper Materials for the Purpose, will be kind enough to favour him with the Use of them, and they shall be carefully returned.They will be safely forwarded to him, if deposited in the Hands of either of the following Gentlemen, who will also take in Subscriptions, viz.</p>
+<table class="bodytext" style="margin-left: auto; margin-right: auto; margin-top: 1em; margin-bottom: 1em;">
+<tr>
+		<td>Peter Timothy, Charles Town,</td>
+		<td></td>
+		<td>South-Carolina.</td>
+	      </tr>
+<tr>
+		<td>William Davis, Printer, Newbern,</td>
+		<td></td>
+		<td>North-Carolina.</td>
+	      </tr>
+<tr>
+		<td>John Dixon, Post-Master, in</td>
+		<td></td>
+		<td>Williamsburg.</td>
+	      </tr>
+<tr>
+		<td>Catherine Green, and Son,</td>
+		<td></td>
+		<td>Annapolis.</td>
+	      </tr>
+<tr>
+		<td>William and Thomas Bradford,</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">in Philadelphia.</td>
+	      </tr>
+<tr>
+		<td>John Sparhawk,</td>
+	      </tr>
+<tr>
+		<td>Noel and Hazard,</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">in New-York.</td>
+	      </tr>
+<tr>
+		<td>John Holt,</td>
+	      </tr>
+<tr>
+		<td>James Lockwood, Bookseller, New-Haven;</td>
+		<td class="brace" rowspan="4"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 5em; width: 19px;"/></td>
+		<td rowspan="4" style="vertical-align: middle;">Connecticut.</td>
+	      </tr>
+<tr>
+		<td>E. Watson, Printer, Hartford; Timothy</td>
+	      </tr>
+<tr>
+		<td>Green, Printer, New-London; Robertson</td>
+	      </tr>
+<tr>
+		<td>and Trumbull, Norwich,</td>
+	      </tr>
+<tr>
+		<td>John Carter, Printer, Providence;</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">Rhode-Island.</td>
+	      </tr>
+<tr>
+		<td>Solomon Southwick, Newport,</td>
+	      </tr>
+<tr>
+		<td>Isaiah Thomas, Edes and Gill, Boston;</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">Massachusetts-Bay.</td>
+	      </tr>
+<tr>
+		<td>Samuel Hall, Printer, Salem,</td>
+	      </tr>
+<tr>
+		<td>Daniel Fowle, Printer, Portsmouth,</td>
+		<td></td>
+		<td>New-Hampshire.</td>
+	      </tr>
+</table>
+<table class="bodytext" style="margin-left: 1.5em; margin-bottom: 1em;">
+<caption><span class="hi-small-caps" style="font-variant: small-caps; text-transform: lowercase; font-size: 120%;">Subscribers for the book</span><a class="ptr" href="#TSJN-01-01-0093-fn-0001" id="TSJN-01-01-0093-fn-0001-ptr">1</a></caption>
+<tr>
+		<td style="text-align: left; text-indent: 0;">John Walker</td>
+		<td style="text-align: left; text-indent: 0;">Philip Mazzei</td>
+		<td rowspan="2">Jerman Baker. Chesterfield</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">George Gilmer</td>
+		<td style="text-align: left; text-indent: 0;">Thos. Jefferson</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">John Harvie</td>
+		<td style="text-align: left; text-indent: 0;">Charles Bellini</td>
+		<td rowspan="2">Thos. Fleming. Cumberland</td>
+	      </tr>
+<tr>
+		<td rowspan="2">Thos. Millar (Cumberld.)</td>
+		<td rowspan="2">Wm. Fleming Cumd.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">Thomas M. Randolph</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition" id="TSJN-01-01-02-pb-0146" colspan="3"><span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0146">[146<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0146.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">Rolfe Eldridge</td>
+		<td style="text-align: left; text-indent: 0;">Henry Skipwith</td>
+		<td style="text-align: left; text-indent: 0;">Jas. Jones</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">Benj. Harrison</td>
+		<td style="text-align: left; text-indent: 0;">James P. Cocke</td>
+		<td style="text-align: left; text-indent: 0;">Thos. Nelson, jr.</td>
+	      </tr>
+<tr>
+		<td style="text-indent: 1.5em; text-align: left;">Brand.[<span class="hi-italic" style="font-style: italic;">Brandon</span>]</td>
+		<td style="text-align: left; text-indent: 0;">Edm: Randolph</td>
+		<td style="text-align: left; text-indent: 0;">Chas. Lewis</td>
+	      </tr>
+</table>
+<table class="bodytext" style="margin-bottom: 1em;">
+<caption style="font-variant: small-caps; text-transform: lowercase; font-size: 120%;">List of papers for Hazards<br/> proposed collection<a class="ptr" href="#TSJN-01-01-0093-fn-0002" id="TSJN-01-01-0093-fn-0002-ptr">2</a></caption>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1650</td>
+		<td style="text-align: left; text-indent: 0;">A declaration of Lord Willoughby governor of Barbadoes and of his council against an act of parlia commerce with the Barbadoes Virginia, Bermudas, &amp; Antigua.]<a class="ptr" href="#TSJN-01-01-0093-fn-0003" id="TSJN-01-01-0093-fn-0003-ptr">3</a> 4th. vol. Polit. Regist. pa. 2. cited from 4th. vol. Neales hist. of the Puritans, Appendix No. 12.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1769. May. 17.</td>
+		<td style="text-align: left; text-indent: 0;">the petn. of H. B. of Virga. to k.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1772. Apr. 12.</td>
+		<td style="text-align: left; text-indent: 0;">do. see 3d. Salmons Modern hist. the substance of the Grant of Virginia to Sr. Walter Raleigh</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Treaty of Aix la Chapelle</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1713. Apr. 28.</td>
+		<td style="text-align: left; text-indent: 0;">Treaty of Utrecht</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Treaty of Paris</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Capitulation at the taking Quebec.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1763. Oct.</td>
+		<td style="text-align: left; text-indent: 0;">the Kings proclamn. confirming the same.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1764. Dec. 18.</td>
+		<td style="text-align: left; text-indent: 0;">the petn. of Council and H. B. of Virga. to k.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Grants to Ld. Fairfx</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1764. Dec. 18.</td>
+		<td style="text-align: left; text-indent: 0;">Memorial of Council &amp; H. B. to Lds.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Remonstrance of H. B. to Commons.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Treaties with Indians.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Deeds of purchase of Indians</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1765. Oct. 7.</td>
+		<td style="text-align: left; text-indent: 0;">Proceedings of the Congress held at New York</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1765. May. 29.</td>
+		<td style="text-align: left; text-indent: 0;">Resolns. of the house of burgesses of Virga.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1765. Oct. 1.</td>
+		<td style="text-align: left; text-indent: 0;">Representn. of the Lds. Commissnrs. for trade &amp;</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">plantns. touching proceedgs. of Representves. Mass. bay</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1765. Sep. 21.</td>
+		<td style="text-align: left; text-indent: 0;">Resolns. of Assembly of Pennsylva.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1768. Jan. 20.</td>
+		<td style="text-align: left; text-indent: 0;">Petn. of the Representves. of Mass. bay to King.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1768. Apr. 8.</td>
+		<td style="text-align: left; text-indent: 0;">the petn., memorial &amp; remonstr. of Council &amp; H. B. Virga.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1607] Mar. 9.</td>
+		<td style="text-align: left; text-indent: 0;">4 Jac. 1. an ordinance &amp; Constitn. enlarging the Council of the 2. colonies in Virga. &amp; America and augmenting their authority. M.S. No. 1.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1624] Sep. 18</td>
+		<td style="text-align: left; text-indent: 0;">22. Jac. 1. a Commn. to Sr. Fr. Wyatt to be governor &amp; to Fras. West &amp; others to be the council of Virga. M.S.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1634] June 19</td>
+		<td style="text-align: left; text-indent: 0;">10. Car. 1. a Commn. concerning tobacco. M.S.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1682] Nov. 27</td>
+		<td style="text-align: left; text-indent: 0;">34 Car. 2. a Commn. to Thos. Ld. Culpepper to be Lieutt. &amp; Govr. Genl. of Virga. M.S.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1674] Feb. 25</td>
+		<td style="text-align: left; text-indent: 0;">25. Car. 2 a demise of the colony of Virga. to the Earl of Arlington &amp; Ld. Culpeper for 31 years M.S.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[1683] Sep. 28.</td>
+		<td style="text-align: left; text-indent: 0;">35. Car. 2 a Commn. to Ld. Howard of Effingham to be Lieutt. &amp; Govr. Genl. of Virga. M.S.</td>
+	      </tr>
+<tr class="pb_row">
+		<td title="page number in print edition" id="TSJN-01-01-02-pb-0147" colspan="2"><span class="pb center" title="page number in print edition" id="TSJN-01-01-02-pb-0147">[147<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0147.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1606. Apr. 10.</td>
+		<td style="text-align: left; text-indent: 0;">Jac. 1. a grant to Sr. Thos. Gates &amp; others of Virga.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1609 May. 23.</td>
+		<td style="text-align: left; text-indent: 0;">Jac. 1. a charter.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1611/12 Mar. 12</td>
+		<td style="text-align: left; text-indent: 0;">Jac. 1. a charter</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1617.</td>
+		<td style="text-align: left; text-indent: 0;">Jac. [1] a commn. to Sr. Walter Ralegh</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1621. July. 24.</td>
+		<td style="text-align: left; text-indent: 0;">An ordinance &amp; constitution of the Treasurer council &amp; company in England for a council of state &amp; General Assembly. Stith.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1634.</td>
+		<td style="text-align: left; text-indent: 0;">A Commn. to the Archbp. of Cant. &amp; 11 others for governing the American colonies.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1651. Mar. 17.</td>
+		<td style="text-align: left; text-indent: 0;">A Treaty</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1621.</td>
+		<td style="text-align: left; text-indent: 0;">Jac. 1. a grant of Nova Scotia to Sr. Wm. Alexander.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1632.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 1. a grant of Maryld. to Ld. Baltimore.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1664. Mar. 12.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 2 a grant of New York to the D. of York a grant of New Jersey to do.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">a Conveiance of New Jersey by D. of York to Ld.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Berkley &amp; Sr. Geo. Carteret.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">a grant of Delaware counties to D. of Y.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">a conveiance of Delaware counties to Wm. Penn</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1665.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 2. a grant of the country including N. &amp; S.</td>
+	      </tr>
+<tr>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;">Caroln. Georga. &amp; the Floridas to the E. of Clarendon &amp; al.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1681 Mar. 4.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 2. a grant of Pennsylva. to Wm. Penn.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1620. Nov. 3.</td>
+		<td style="text-align: left; text-indent: 0;">a grant of New England to the Council of Plymouth.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1627. Mar. 19.</td>
+		<td style="text-align: left; text-indent: 0;">a grant of Massachusets bay by the Council of Plymouth to Sr. Henry Roswell &amp; others</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1628. Mar. 4.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 1. a confirmn. of the grant of Mass. bay</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1630.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 1. a grant of Connecticut by Council of Plymouth to the E. of Warwick.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1630.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 1. a confirmn. of the same [sd. to be in the <a href="#TSJN-01-01-0093-kw-0001" title="[explained in note]" id="TSJN-01-01-0093-ks-0003" class="keyword">petty bag</a> office in Engld.]<a class="ptr" href="#TSJN-01-01-0093-fn-0003" id="TSJN-01-01-0093-fn-0003-ptr">3</a></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1631. Mar. 19.</td>
+		<td style="text-align: left; text-indent: 0;">a conveiance of Connecticut by the E. of Warwick to Ld. Say &amp; Seal &amp; others. Smiths Examn. of the [Connecticut Claim.]</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1643</td>
+		<td style="text-align: left; text-indent: 0;">Articles of Union &amp; Confederacy entd. into by Massachusets, Plymouth, Connecticut &amp; New Haven. 1 Neale</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1650</td>
+		<td style="text-align: left; text-indent: 0;">a final settlemt. of boundaries the Dutch New Netherlands &amp; Connecticut.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1662. Apr. 23.</td>
+		<td style="text-align: left; text-indent: 0;">Charter of the Colony of Conn. Sms examn. App. 6.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1635. July. 18.</td>
+		<td style="text-align: left; text-indent: 0;">A Commn. from Ld. Say &amp; Seal &amp; others to John Winthrop to be governor of Connecticut. Smith vo. 2</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1644.</td>
+		<td style="text-align: left; text-indent: 0;">Deed from George Fenwick to old Conn. jurisdiction.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1661.</td>
+		<td style="text-align: left; text-indent: 0;">Petn. of the Gen. Ct. at Hartford upon Connecticut for a charter. Smiths examn. &amp;c. App. 4</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1635.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 1. a grant to Duke Hamilton.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1664. Apr. 26.</td>
+		<td style="text-align: left; text-indent: 0;">Car. 2. a commn. to Colo. Nicholas &amp; others to <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0148">[148<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0148.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> settle disputes in N. England. Hutchs hist. Mass. bay. App. pa. 537</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1664. Dec. 1.</td>
+		<td style="text-align: left; text-indent: 0;">determn. of sd. Commrs. of boundary betw. D. of York &amp; Conn. Sms. Exmn. App. 9.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">[ ]<a class="ptr" href="#TSJN-01-01-0093-fn-0004" id="TSJN-01-01-0093-fn-0004-ptr">4</a></td>
+		<td style="text-align: left; text-indent: 0;">a Confirmn. of that boundary by the crown</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1633. July 3.</td>
+		<td style="text-align: left; text-indent: 0;">a petn. of the planters of Virga. agt. the grant to Ld. Baltimore</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1623.</td>
+		<td style="text-align: left; text-indent: 0;">a grant to Sr. Edmond Ployden of New Albion. mentd. Smiths examn. 82.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1732.</td>
+		<td style="text-align: left; text-indent: 0;">Deed of Release by govmt. of Conn. to Govmt. of N.Y.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1664.</td>
+		<td style="text-align: left; text-indent: 0;">New Haven case. Sms. exmn. App. 20.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1688 [abt]<a class="ptr" href="#TSJN-01-01-0093-fn-0003" id="TSJN-01-01-0093-fn-0003-ptr">3</a></td>
+		<td style="text-align: left; text-indent: 0;">papers relating to taking away appeals to H. Burg. of Virga.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1674 (or thereabouts.)</td>
+		<td style="text-align: left; text-indent: 0;">Beverley [ re]monstrances agt. Charles 2 [] Southern Virga. sent to England by Ludwell which thou[gh ] kept dormant till now.<a class="ptr" href="#TSJN-01-01-0093-fn-0005" id="TSJN-01-01-0093-fn-0005-ptr">5</a></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1651/2 Mar. 12.</td>
+		<td style="text-align: left; text-indent: 0;">The treaty betw. the h. of bu[....]<a class="ptr" href="#TSJN-01-01-0093-fn-0006" id="TSJN-01-01-0093-fn-0006-ptr">6</a></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1763.</td>
+		<td style="text-align: left; text-indent: 0;">The ks proclamn. against settling on any lands on the waters westward of the Alleghany.<a class="ptr" href="#TSJN-01-01-0093-fn-0007" id="TSJN-01-01-0093-fn-0007-ptr">7</a></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1680.</td>
+		<td style="text-align: left; text-indent: 0;">Public papers on the Separation of Co[....]<a class="ptr" href="#TSJN-01-01-0093-fn-0008" id="TSJN-01-01-0093-fn-0008-ptr">8</a> <br/>Removal of App [....]<a class="ptr" href="#TSJN-01-01-0093-fn-0009" id="TSJN-01-01-0093-fn-0009-ptr">9</a></td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;">1765. May 29.</td>
+		<td style="text-align: left; text-indent: 0;">The Resolns. of H. B. and [ re]monstrances &amp; Memorials to K. L. &amp; [] time except the Petn. Meml. [] the Petn. of 1769. May. 17. &amp; the Petn. [....]<a class="ptr" href="#TSJN-01-01-0093-fn-0010" id="TSJN-01-01-0093-fn-0010-ptr">10</a></td>
+	      </tr>
+</table>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0093-sn">
+<p>Printed document (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Hazards letter is signed in autograph. Addressed: To Thomas Jefferson Esqr. Virginia. The list of subscribers appears below Hazards letter, and TJs rough list of colonial records appears on blank portions of three different pages of the four-page leaflet.</p>
+  <p>The pioneer efforts of Ebenezer Hazard (17441817), of New York and Philadelphia, in collecting the archival records of the United States resulted in a two-volume compilation entitled <span class="hi-italic" style="font-style: italic;">Historical Collections; Consisting of State Papers  Intended as Materials for an History of the United States</span>, Philadelphia, 17921794. Though officially supported by the Continental Congress, the work suffered a long interruption from Hazards appointment in 1782 as postmaster general, and after the publication of two volumes (containing documents through the year 1664) it was dropped for want of patronage (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Allen Johnson and Dumas Malone, eds., &lt;i&gt;Dictionary of American Biography&lt;/i&gt;, New York, 192836, 20 vols. ]">DAB</span>; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, D.C., 190437, 34 vols. ]">JCC</span>, xi, 682, 7056; Hazards Preface to vol. <span class="hi-small-caps" style="font-variant: small-caps;">i</span>). As one who had a lifelong interest in American history and in the preservation of historical records, TJ responded cordially; see <a href="default.xqy?keys=TSJN-print-01-01-02-0102" class="document">TJ to Hazard, 30 Apr. 1775</a>, and also <a href="default.xqy?keys=TSJN-print-01-19-02-0059" class="document">18 Feb. 1791</a>; and for a documented discussion of TJs important collection of Virginia archival records, acquired not long after he compiled this list, see Kingsbury, <span class="hi-italic" style="font-style: italic;">Records of the Virginia Company of London</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 4154. TJs list of papers to be brought to Hazards attention is actually a set of rough notes of which a portion, without much doubt, is now missing. That he later copied the list in more finished form is evident from his having numbered the items chronologically and then run a line from top to bottom through the entire list. No fair copy has been found, though many of the same entries appear in a list appended to the answer to Query <span class="hi-small-caps" style="font-variant: small-caps;">xxiii</span> in <span class="hi-italic" style="font-style: italic;">Notes on Virginia</span> (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Leicester Ford, ed., &lt;i&gt;The Writings of Thomas Jefferson&lt;/i&gt;, Letterpress Edition, N.Y., 18921899 ]">Ford,</span> <span class="hi-small-caps" style="font-variant: small-caps;">iii</span>, 28395). No attempt has been made to annotate the documents listed, but the principal printed collections consulted by TJ should be given fuller titles. They were: Daniel Neal, <span class="hi-italic" style="font-style: italic;">The History of the Puritans or Protestant Non-Conformists, from the Reformation to the Death of Queen Elizabeth</span>, London, 1732, 4 vol.; William Stith, <span class="hi-italic" style="font-style: italic;">The <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0149">[149<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0149.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> History of the First Discovery and Settlement of Virginia</span>, Williamsburg, 1747; William Smith, <span class="hi-italic" style="font-style: italic;">An Examination of the Connecticut Claim to Lands in Pennsylvania</span>, Philadelphia, 1774; Thomas Hutchinson, <span class="hi-italic" style="font-style: italic;">The History of the Colony of Massachusets-Bay</span> [16281691], Boston, 1764 (completed in 3 vol., 1828); and [Robert Beverley] <span class="hi-italic" style="font-style: italic;">The History and Present State of Virginia</span>, London, 1705. <a id="TSJN-01-01-0093-kw-0001" class="keywordref" title="jump to Petty bag in text" href="#TSJN-01-01-0093-ks-0003">Petty bag</a>: An office formerly belonging to the Common Law jurisdiction of the Court of Chancery, for suits for and against solicitors of that court (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;A New English Dictionary on Historical Principles&lt;/i&gt;, Oxford, 18881933 ]">OED</span>).</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0001-ptr" id="TSJN-01-01-0093-fn-0001">1</a>
+<p>The first six names are in TJs hand; the others are autograph signatures.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0002-ptr" id="TSJN-01-01-0093-fn-0002">2</a>
+<p>Caption supplied. TJ ran a line from top to bottom through the entire list after he had copied it. To facilitate his copying the items in chronological order, he numbered each item in the left-hand margin, but many of the numbers having faded or disappeared in the margin, they are all omitted in the present text. In a few cases where portions of the text are missing, they have been supplied from the list in <span class="hi-italic" style="font-style: italic;">Notes on Virginia</span>. When the year is missing from a date, it has been supplied by the editors, but TJs other omissions are not filled in.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0003-ptr" id="TSJN-01-01-0093-fn-0003">3</a>
+<p>Brackets in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0004-ptr" id="TSJN-01-01-0093-fn-0004">4</a>
+<p>Illegible date.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0005-ptr" id="TSJN-01-01-0093-fn-0005">5</a>
+<p>In the <span class="hi-italic" style="font-style: italic;">Notes on Virginia</span> list, the entry corresponding to this paragraph reads: Remonstrance against the two grants of Charles II. of Northern and Southern Virginia. Mentd. Beverley 65.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0006-ptr" id="TSJN-01-01-0093-fn-0006">6</a>
+<p>Undetermined number of words missing. The articles for the surrender of Virginia to the Commonwealth of England at this time were printed in full from a <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>, in <span class="hi-italic" style="font-style: italic;">Notes on Virginia</span>, q.v. (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Leicester Ford, ed., &lt;i&gt;The Writings of Thomas Jefferson&lt;/i&gt;, Letterpress Edition, N.Y., 18921899 ]">Ford,</span> <span class="hi-small-caps" style="font-variant: small-caps;">iii</span>, 21819).</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0007-ptr" id="TSJN-01-01-0093-fn-0007">7</a>
+<p>The last several words, missing in the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>, are supplied from the list in <span class="hi-italic" style="font-style: italic;">Notes on Virginia.</span></p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0008-ptr" id="TSJN-01-01-0093-fn-0008">8</a>
+<p>Undetermined number of words missing. Presumably the entry refers to the Extracts of proceedings of the committee of trade and plantations; copies of letters, reports, &amp;c. pertaining to the settlement of the Pennsylvania-New York boundary, 16801681, entered in the <span class="hi-italic" style="font-style: italic;">Notes on Virginia</span> list under date of 14 June 1680.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0009-ptr" id="TSJN-01-01-0093-fn-0009">9</a>
+<p>Undetermined number of words missing.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-01-0093-fn-0010-ptr" id="TSJN-01-01-0093-fn-0010">10</a>
+<p>Undetermined number of words missing in the gaps. The Resolutions of 29 May 1765 were those offered by Patrick Henry at the time of his celebrated speech against the Stamp Act; see <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journals of the House of Burgesses&lt;/i&gt; of &lt;i&gt;Virginia, 16191776&lt;/i&gt;, Richmond, 19051915 ]">JHB,</span> 17611765, p. <span class="hi-small-caps" style="font-variant: small-caps;">lxivlxv</span>, and TJs Autobiography (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Leicester Ford, ed., &lt;i&gt;The Writings of Thomas Jefferson&lt;/i&gt;, Letterpress Edition, N.Y., 18921899 ]">Ford,</span> <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 6).</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0093 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0092" title="Instructions by the Virginia Convention to Their Delegates in Congress, August 1774"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0094" title="Continental Association, 20 October 1774"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

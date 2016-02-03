@@ -1,0 +1,164 @@
+From Nathanael Greene, 10 March 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Nathanael Greene, 10 March 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-05-02-0142&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-03-10-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0141" title="From George Wythe, 9 March 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-05-02-0143" title="To Lafayette, 10 March 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-05&amp;mode=TOC">Volume 5 (25 February 178120 May 1781)</a>&gt; <a href="?keys=TSJN-print-01-05-02&amp;mode=TOC">Documents</a>&gt; From Nathanael Greene, 10 March 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-05-02-0142&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0141" title="From George Wythe, 9 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0143" title="To Lafayette, 10 March 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-05-02-pb-0111">111<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0111.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-05-0142" class="doc">
+
+<h1>From Nathanael Greene</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dr. Sir</span></td>
+		<td class="salutationRight">High Rock ford, March 10th 1781.<a class="ptr" href="#TSJN-01-05-0142-fn-0001" id="TSJN-01-05-0142-fn-0001-ptr">1</a></td>
+	      </tr>
+      </table>
+</div>
+<p>I did myself the honor to address your Excellency on the 28th of February. We were soon obliged to change our possition after the departure of my letter by a sudden Manuvre of the Enemy towards this place. A small skirmish happened in consequence of it near Whitesyls Mill; and as they were chiefly rifle-men who engaged them in it, I make no doubt but the Enemy suffered considerably, tho our loss was very trifling.<a class="ptr" href="#TSJN-01-05-0142-fn-0002" id="TSJN-01-05-0142-fn-0002-ptr">2</a> The object of the Enemy in this move, I suppose was to intercept our stores moving in that direction, or to surprise and cut off our Light Infantry from the main Body of the Army then advanced upwards of seven Miles. If it was either, they were disappointed; and they being sensible of it have changed their direction, and have retired<a class="ptr" href="#TSJN-01-05-0142-fn-0003" id="TSJN-01-05-0142-fn-0003-ptr">3</a> towards Gilford Court House.</p>
+<p>My force has never been during any stage of the Campaign equal to any decicive efforts. When the Enemy first took their departure from the Dan, they had every prospect of great reinforcements from the Tories;<a class="ptr" href="#TSJN-01-05-0142-fn-0004" id="TSJN-01-05-0142-fn-0004-ptr">4</a> and I reflected that if they were permitted to roam at large in the State that it would indubitably impress the idea of conquest on the minds of the disaffected and perhaps occasion those who were wavering in their sentiments to take an active and decicive part against us. I instantly determined, as the most effectual measure to prevent it, to advance into the State without waiting for those reinforcements that the spirit of the Virginians seemed to promise me at the time. It was necessary to convince the Carolinians that they were not conquered, and by affording immediate protection to their property<a class="ptr" href="#TSJN-01-05-0142-fn-0005" id="TSJN-01-05-0142-fn-0005-ptr">5</a> engage the continuance of their confidence and friendship. I trust the efforts that have been made have in a great measure had that effect.</p>
+<p>Every Day has filled me with hopes of an augmentation of my <span class="pb" title="page number in print edition" id="TSJN-01-05-02-pb-0112">[112<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0112.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> force;<a class="ptr" href="#TSJN-01-05-0142-fn-0006" id="TSJN-01-05-0142-fn-0006-ptr">6</a> the Militia have flocked in from various quarters,<a class="ptr" href="#TSJN-01-05-0142-fn-0007" id="TSJN-01-05-0142-fn-0007-ptr">7</a> but they come and go in such irregular Bodies that I can make no calculations on the strength of my Army or direct any future operations that can ensure me success.<a class="ptr" href="#TSJN-01-05-0142-fn-0008" id="TSJN-01-05-0142-fn-0008-ptr">8</a> At this time I have not above 8 or 900 of them in the field, 30 of which only are Carolinians. Notwithstanding there have been upwards of 5000 in motion within the course of 4 Weeks.<a class="ptr" href="#TSJN-01-05-0142-fn-0009" id="TSJN-01-05-0142-fn-0009-ptr">9</a> A force fluctuating in this manner can promise but slender hopes of success against an Enemy regulated by discipline and made formidable by the superiority of their numbers.<a class="ptr" href="#TSJN-01-05-0142-fn-0010" id="TSJN-01-05-0142-fn-0010-ptr">10</a> Hitherto I have been obliged to practice that by finesse, which I dare not attempt by force. I know the People have been<a class="ptr" href="#TSJN-01-05-0142-fn-0011" id="TSJN-01-05-0142-fn-0011-ptr">11</a> in anxious suspence waiting the event of a general action, but let the consequence of censure be what it may, nothing shall hurry me into a measure that is not suggested by prudence or connects with it the interest of the Southern department.<a class="ptr" href="#TSJN-01-05-0142-fn-0012" id="TSJN-01-05-0142-fn-0012-ptr">12</a></p>
+<p>General Caswell is on his way with a considerable force of the Carolina Militia, and Colo. Campbell with the Virginia Regulars I expect will be up in a few Days.<a class="ptr" href="#TSJN-01-05-0142-fn-0013" id="TSJN-01-05-0142-fn-0013-ptr">13</a> When this force arrives I trust I shall be able to mark the limits of the Enemies depredations and at least dispose of the Army in such a manner as to encumber them with a number of Wounded Men.<a class="ptr" href="#TSJN-01-05-0142-fn-0014" id="TSJN-01-05-0142-fn-0014-ptr">14</a></p>
+<p>I have been very much disappointed in the reinforcement that I expected from Washington County under Colo. Campbell. Only 60 have joined our Army, whereas I had strong expectations of receiving at least one thousand. I cannot pretend to account for this deficiency or direct the steps necessary to find out the cause.</p>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-05-0142-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William L. Clements Library, University of Michigan, Ann Arbor ]">MiU-C</span>); in the hand of William Pierce, with numerous deletions and corrections; endorsed. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Papers of the Continental Congress ]">PCC</span>, No. 71, <span class="hi-small-caps" style="font-variant: small-caps;">ii</span>), enclosed in <a href="default.xqy?keys=TSJN-print-01-05-02-0232" class="document">TJ to Huntington, 19 Mch.</a> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: Washington Papers), enclosed in <a href="default.xqy?keys=TSJN-print-01-05-02-0239" class="document">TJ to Washington, 19 Mch.</a> <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: TJ Papers). <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ press copy ]">PrC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: TJ Papers); incomplete. <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Henry E. Huntington Library, San Marino, California ]">CSmH</span>). The last is the only one of the several copies listed that agrees with the phraseology of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ William L. Clements Library, University of Michigan, Ann Arbor ]">MiU-C</span>) and therefore must have been copied from it. The three <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr>s and the incomplete <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ press copy ]">PrC</abbr> all agree with each other except for trivial differences in capitalization, &amp;c.; since the text from which these copies derive was the (missing) <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> that came to TJ, it is obvious that Greene made a number of changes in the text after the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> had been completed. Some of these changes are noted below, along with alterations that took place while <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> was being composed. It seems clear from these alterations that Greene used more than ordinary care in drafting the letter. In the following notes all references to <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> should be understood as including all of the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr>s (and the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ press copy ]">PrC</abbr>), except <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Henry E. Huntington Library, San Marino, California ]">CSmH</span>) which agrees with the present text.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0001-ptr" id="TSJN-01-05-0142-fn-0001">1</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: Near the High Rock ford, March 10th. 1781 and has the following caption: Copy of a letter from Genl Greene to Govr Jefferson.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0002-ptr" id="TSJN-01-05-0142-fn-0002">2</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> differs in phraseology of preceding two sentences and omits reference to the loss sustained by Greenes army.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0003-ptr" id="TSJN-01-05-0142-fn-0003">3</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: are now retiring; this change in tense does not mean that <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> was composed after <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr>; see note 13 below.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0004-ptr" id="TSJN-01-05-0142-fn-0004">4</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: from the Tories of Carolina.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0005-ptr" id="TSJN-01-05-0142-fn-0005">5</a>
+<p>Country is deleted in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> and property interlined.</p></div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-05-02-pb-0113">[113<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0113.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0006-ptr" id="TSJN-01-05-0142-fn-0006">6</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: Every Day has given me hopes of being stronger, but I have been as constantly disappointed.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0007-ptr" id="TSJN-01-05-0142-fn-0007">7</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> deletes &amp; seemed to promise everything and <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> adds at this point: and seemed to promise me as much as I could wish; but they soon <span class="hi-italic" style="font-style: italic;">get</span> tired out with difficulties and go and come, &amp;c.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0008-ptr" id="TSJN-01-05-0142-fn-0008">8</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: the means of success.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0009-ptr" id="TSJN-01-05-0142-fn-0009">9</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: a few Weeks.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0010-ptr" id="TSJN-01-05-0142-fn-0010">10</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: A force fluctuating in this Manner can only serve to destroy the Wealth of our Country without promising the most distant hope of success when opposed to an Enemy regulated by discipline, &amp;c.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0011-ptr" id="TSJN-01-05-0142-fn-0011">11</a>
+<p>Deleted in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr>: filled with expectation, &amp; may wonder perhaps that I have not given Cornwallis a blow before this.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0012-ptr" id="TSJN-01-05-0142-fn-0012">12</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads:  the interest of the department which I have the honor to command.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0013-ptr" id="TSJN-01-05-0142-fn-0013">13</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads:  I expect will join the Army tomorrow. It is clear from this change that Greene must have received definite information from Campbell after <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ draft ]">Dft</abbr> was written.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-05-0142-fn-0014-ptr" id="TSJN-01-05-0142-fn-0014">14</a>
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ transcript ]">Tr</abbr> reads: When this force arrives, I am in hopes to dispose of my Troops in such a manner as to be able to encumber the Enemy with a number of wounded Men. Greene must have known that Cornwallis had little means of transporting wounded. Actually, the British commander was obliged after the battle of Guilford Court House to leave about seventy of his critically wounded soldiers under protection of a flag of truce and to commend them to Greenes care (C. L. Ward, <span class="hi-italic" style="font-style: italic;">The Delaware Continentals</span>, Wilmington, 1941, p. 422). Thus what Greene had hoped would be an additional burden for Cornwallis became one for him.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-05-02-0142 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 5 (25 February 178120 May 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0141" title="From George Wythe, 9 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0143" title="To Lafayette, 10 March 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

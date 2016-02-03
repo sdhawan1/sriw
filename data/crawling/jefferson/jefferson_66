@@ -1,0 +1,140 @@
+From Alexander McCaul, 8 July 1772
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Alexander McCaul, 8 July 1772</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0066&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1772-07-08-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0065" title="To Messrs. Inglis and Long, 4 July 1772"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0067" title="To William Wood, 17 July 1772"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; From Alexander McCaul, 8 July 1772</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0066&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0065" title="To Messrs. Inglis and Long, 4 July 1772"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0067" title="To William Wood, 17 July 1772"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0092">92<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0092.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-01-0066" class="doc">
+
+<h1>From Alexander McCaul</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dr</span>. <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Glasgow July 8 1772</td>
+	      </tr>
+      </table>
+</div>
+<p>I received yours of the 7th of Septr. last only the 10th of June last, and where it had been wandering all that time I am at a loss to know, but no doubt you would think me negligent not to answer you in course.</p>
+<p>I have not yet been able to procure for you a Gardiner, but have made application to a friend in the East Country and have little doubt of getting one for you to send you in our own Ship. I Assure you it will always give me pleasure to do you any service, and I am sorry the Misscarriage of a letter should give you the least room to doubt of my readiness to do it.</p>
+<p>I am extreamly much Obliged to you for your kind expressions for my happiness. I am Contented with my present lot, tho in some Measure neglected the proper Season to secure it in one respect, I mean by chusing a proper Partner to sweeten the Cares and anxietys in life that every body more or less have to Struggle with. A Man come to my years and who slaved and toiled twenty long Years in a Virginia Climate had better not meddle with the Matrimonial state, tho I own to you an Old Batchellor makes but an indifferent figure and especially in Scotland where the fair Sex abound in such Plenty. However to drop the Subject with regard to myself it is a state I wish every friend I have may enter into and <a href="#TSJN-01-01-0066-kw-0001" title="[explained in note]" id="TSJN-01-01-0066-ks-0001" class="keyword">by a Virginia Paper</a> I see you are among the Number, in which I wish you All the happiness Your best friends Wish you.</p>
+<p>I Spent two Months of this Spring and Summer in our Neighbour Kingdom where I never was before and was much pleased and delighted with my Jaunt. It is Certainly the finest Country in the known World. You see their fields Cultivated with the utmost care, Covered with a rich Verdure, and abounding with everything to make Glad the heart of Man, the Towns and Villages crowded with Inhabitants, and Industry and its attendant Plenty to be seen every where I past through. Indeed we have hitherto had the finest <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0093">[93<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0093.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Season that has been known these many Years. Your Acquaintance Neill Jamieson and I were together on the whole trip. We Spent a Month in the great City, and a Great City it isthat indeed exhibitd to us a greater Variety, Trade and Commerce carried to its greatest extent, also every refinement in Luxury, every kind of Apetite may there be satiated. We did not stay there long enough to be tired of it, but I imagine a constant repetition of these things would tire any Man. I saw several of our old Virginia friends and on the Change of London you would meet with many faces you had seen before.</p>
+<p>There has been in the course of this last Month a sad revolution among many of the Merchants in both Kingdoms. It has it seems been long a practise with Many to support their Credit, or rather to stretch it further than their Capitals would admitt off by <a href="#TSJN-01-01-0066-kw-0002" title="[explained in note]" id="TSJN-01-01-0066-ks-0002" class="keyword">drawing and redrawing Bills</a>. This the Bank of England saw (for they have every thing in their power) and were resolved to crush it. This they Effectually did by refusing to discount Bills. The Consequence was that many Houses in London esteemd eminent and Wealthy failed and they brot along with them many in Edh. [Edinburgh] and some in this City. We however have escaped pretty well, as there is only one House of any Note failed. However it has thrown a damp on Publick Credit, and it will be some time before it is perfectly restored. Every body of property rejoices that the iniquitous practice of drawing fictitious Bills for the purpose of raising Money is now at an endtho many innocent and Knowing will be much injured. The Publick papers however will give you a distincter Account of this then I can by a letter. It is happy for the Natives of Brittain, they have such a resource as No. America for there, if they happen to be reduced, they may always have bread with Industry. The Virga. Planters may thank their Starrs they have so good a Country to Cultivate, tho many of them are not sensible of the happiness they enjoy.</p>
+<p>It will give me pleasure now and then to hear from you. I beg youll offer my Compliments to all my old friends who enquire for me and believe me to be with sincere regard Dr sir Your Obliged huml servt,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Alexr.</span> Mc <span class="hi-small-caps" style="font-variant: small-caps;">Caul</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-01-0066-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>).</p>
+<p>TJs letter to McCaul of 7 Sep. 1771, requesting that a gardener be sent out, has not been found. <a id="TSJN-01-01-0066-kw-0001" class="keywordref" title="jump to By a Virginia paper in text" href="#TSJN-01-01-0066-ks-0001">By a Virginia paper</a> : In the <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Virginia Gazette&lt;/i&gt; (Williamsburg, 17511780, and Richmond, 17801781). Abbreviations for publishers of the several newspapers of this name, frequently published concurrently, include the following: C &amp; D (Clarkson &amp; Davis), D &amp; H (Dixon &amp; Hunter), D &amp; N (Dixon &amp; Nicolson), P &amp; D (Purdie &amp; Dixon). In all other cases the publisher's name is not abbreviated. ]"><span class="hi-italic" style="font-style: italic;">Va. Gaz.</span></span> (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Virginia Gazette&lt;/i&gt; (Williamsburg, 17511780, and Richmond, 17801781). Abbreviations for publishers of the several newspapers of this name, frequently published concurrently, include the following: C &amp; D (Clarkson &amp; Davis), D &amp; H (Dixon &amp; Hunter), D &amp; N (Dixon &amp; Nicolson), P &amp; D (Purdie &amp; Dixon). In all other cases the publisher's name is not abbreviated. ]">P &amp; D</span>), 2 Jan. 1772, TJs marriage was announced as follows: <span class="hi-italic" style="font-style: italic;">Thomas Jefferson</span>, Esquire, one of the Representatives for Albemarle, to Mrs. <span class="hi-italic" style="font-style: italic;">Martha Skelton</span>, Relict of Mr. <span class="hi-italic" style="font-style: italic;">Bathurst Skelton</span>. On the practice of <a id="TSJN-01-01-0066-kw-0002" class="keywordref" title="jump to drawing and redrawing bills in text" href="#TSJN-01-01-0066-ks-0002">drawing and redrawing bills</a>, we are indebted to Professor Jacob Viner for references to Sir John Clapham, <span class="hi-italic" style="font-style: italic;">The Bank of England, A History</span>, Cambridge, 1945, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 244ff., and Adam Smith, <span class="hi-italic" style="font-style: italic;">Wealth of Nations</span>, ed. G. Cannan, London, 1904, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 292ff.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0066 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-01-02-0065" title="To Messrs. Inglis and Long, 4 July 1772"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0067" title="To William Wood, 17 July 1772"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

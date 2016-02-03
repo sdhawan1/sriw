@@ -1,0 +1,138 @@
+From John Syme, 27 January 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Syme, 27 January 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-04-02-0565&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-01-27-2">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-04-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0564" title="From Arthur Campbell, 27 January 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-04-02-0566" title="From Robert Lawson, 28 January 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-04&amp;mode=TOC">Volume 4 (1 October 178024 February 1781)</a>&gt; <a href="?keys=TSJN-print-01-04-02&amp;mode=TOC">Documents</a>&gt; From John Syme, 27 January 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-04-02-0565&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0564" title="From Arthur Campbell, 27 January 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-04-02-0566" title="From Robert Lawson, 28 January 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-04-02-pb-0458">458<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-04/TSJN-01-04-02-pb-0458.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-04-0569" class="doc">
+
+<h1>From John Syme</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">New Castle 27th Jany 1781.</td>
+	      </tr>
+      </table>
+</div>
+<p>Having Several Matters to lay before your Excellency, I fully intended to Have Waited on You Yesterday; My indisposition prevents me, and I Know not Certainly when I can go Out.</p>
+<p>Reflecting on the Business of Moving the Stores and from a thorough Conviction of being Right, as to Not Water bearing them, I wrote the Inclosd Letter to Mr. Claiborne; He being on a Jorney, I immediatly Communicated the Same Sentiments to Mr. Watkins; <a href="#TSJN-01-04-0569-kw-0001" title="[explained in note]" id="TSJN-01-04-0569-ks-0901" class="keyword">You Have His Answer</a>, by which you Will find it is Necessary, to Confirm what I Have Done, under Considerable Expence. I mean not this to Save Myself Trouble; If it is Desired, I will finish Here, and then proceed to the Same at Cumberland. The Prices of Waggonage and Freight &amp;c. I am at a loss precisely to Ascertain, but Most Surely, the Removal of every bble Corn, Will be upwards of One Hundred Pounds, Under the present Plan, from Cumberland to Richmond. The large guns, More than four Hundred to this Place; How much from Hence to Your Town, or WestHam Cant Say; But Nearly Double what it Would be on my Plan which would loose me storage but Effect it Sooner, by far, than to bring them up this River. My Only Meaning is to transact these things with Propriety.</p>
+<p>In consequence of your Message, by Mr. Granville Smith I sent You Sundry Expresses, which Hope Have been with You ere this, and Could Have furnish More but My Militia Were mostly Out. I Have Received a letter from Genl. Nelson to forward (as I understand it) One Half of the Men of this County to Him. Pray was not the Idea of Your Board only a fourth to remain in Service? I suppose the Same as to the Baron.</p>
+<p>I can Scarcely set up, to Write, which Hope will Apologize for this Scrawl. I Have the Honor to be, Sir, Your Mo: Obedt. Servt,</p>
+<div class="closer">
+<p class="signed">J <span class="hi-small-caps" style="font-variant: small-caps;">Syme</span></p>
+</div>
+</div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-04-02-pb-0459">[459<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-04/TSJN-01-04-02-pb-0459.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div class="docback">
+<div class="note-source" id="TSJN-01-04-0569-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); addressed, in part: By Waggon Master Cawthorn; endorsed. Enclosure: John Syme to William Claiborne, dated New Castle, 24th Jany. 1781 (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>), in which Syme remarked: In the two last Conversations I had with Governor and Council on the Subject of Waggoning the Stores to James River, forwarded to my Care by you, He was Pleasd to Refer them to my Management. I Dare say you will think with me, that it does not quit Cost, to Water Bear Corn, Oats, &amp;c. and be at the Expence of taking out of craft, Storage, and Loading Waggons Here, for Richmond, it being not much farther by Land from Cumberland to that place For the same reasons that Govern as to the Grain, will it not be proper to Carry the Artillery of Every Kind, from Cumberland by Land, as the placing them in, and taking out of Craft, I find both Difficult, and very Expensive.</p>
+<p><a id="TSJN-01-04-0569-kw-0001" class="keywordref" title="jump to You have his [Watkins'] answer in text" href="#TSJN-01-04-0569-ks-0901">You have his [Watkins] answer</a>: Symes letter to Watkins (missing) was acknowledged by John Watkins on the same day in a letter now in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> dated Cumberland 25th. Jany. 1780 [1781]. In commenting on Symes communication, Watkins added: I am at a loss what to say respecting the removal of the Country Stores from this place. I waited on his Excellency the 14th Instant at Richmond and his orders then was to have all the Stores removed to N. Castle with all possible expedition. As he did not ask me any questions respecting the expence attending such removal, I thought it would be forward in me to give my opinion about it. N. Castle I conceive woud be a more secure place than this. But the expences will be great of removing the Stores. A Waggon I suppose would make a trip from this to Richmond nearly as soon as from N. Castle, the distance from hence not being more than 4 Miles farther than from N. Castle. I am also told by the forage master that all the grain at this place will be wanted for the use of our Army below, in a short time. They make use he tells me of 120 barrs. per Week. I have sent about 1900. bus. to them already by Order G. Nelson. It is not my wish that the Country Stores should remain here, unless it should be the pleasure of the executive, for the Stores may be an object, that may induce the Enemy to come this way, and perhaps do me more damage than I may ever be able to repair. These Vessells are now at this place waiting for loads and in the morning I intended to begin to dispatch them. However, I will wait tomorrow for farther Orders and those I would wish to have from the Governor and Councill as I have these orders to deliver the whole. See <a href="default.xqy?keys=TSJN-print-01-04-02-0533" class="document">Nelson to TJ, 22 Jan.</a> and <a href="default.xqy?keys=TSJN-print-01-04-02-0555" class="document">TJs reply, 25 Jan.</a>; also <a href="default.xqy?keys=TSJN-print-01-04-02-0602" class="document">TJ to Syme, 31 Jan.</a>; <a href="default.xqy?keys=TSJN-print-01-04-02-0612" class="document">Syme to TJ, 1 Feb.</a>; and <a href="default.xqy?keys=TSJN-print-01-04-02-0626" class="document">TJ to Syme, 2 Feb.</a></p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-04-02-0565 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 4 (1 October 178024 February 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-04-02-0564" title="From Arthur Campbell, 27 January 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-04-02-0566" title="From Robert Lawson, 28 January 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.52</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

@@ -1,6 +1,11 @@
 
 # Here, I will try to code a web crawler to extract data from John Adams' papers
 
+# run: python crawl0.py > temp_links #(input is temp, do crawl 1)
+# then run: python crawl0.py > jeff_links #(input is temp / temp_jeff recursively)
+#   at final layer, move temp_jeff into jeff_links.
+# finally, run: python crawl0.py #(input is jeff_links, output is several files in folder "jefferson")
+
 from bs4 import BeautifulSoup
 import urllib2
 import re
@@ -25,6 +30,7 @@ def BasicCrawl(urlin):
 
 
 #does a second-run crawl of (Volume) links retrieved in the first run. This time, all the links retrieved should point to the text we want.
+#have to run this [multiple times] until we get to the final layer of links. We will then use ThirdCrawl on this final link layer.
 def SecondCrawl(urlfname, urlbase):
     urls = open(urlfname).read()
     urls = urls.split()
@@ -66,7 +72,7 @@ def ThirdCrawl(urlfname, urlbase, location):
     urlctr = 0
     for u in urls:
         #before doing anything, check if file exists. If not, then skip
-        if ( os.path.isfile(location + 'adams_' + str(urlctr)) ):
+        if ( os.path.isfile(location + 'jefferson_' + str(urlctr)) ):
             print urlctr,
             urlctr += 1
             continue
@@ -84,7 +90,7 @@ def ThirdCrawl(urlfname, urlbase, location):
             continue
 
         if response is not None:
-            f = open(location+'adams_'+str(urlctr), 'w')
+            f = open(location+'jefferson_'+str(urlctr), 'w')
             line0 = (' ').join(linearr[:-1])
             f.write(line0 + '\n')
             f.write( unicode(response, errors = 'ignore') )
@@ -100,12 +106,12 @@ def ThirdCrawl(urlfname, urlbase, location):
 
 #main: call the above functions as necessary.
 
-## First step: basic crawl
-#BasicCrawl('http://rotunda.upress.virginia.edu/founders/default.xqy?keys=ADMS-print-06&mode=TOC')
+## First step: basic crawl (should go into file "temp".
+#BasicCrawl('http://rotunda.upress.virginia.edu/founders/default.xqy?keys=TSJN-print-01&mode=TOC')
 
 ## Second step: crawl the results of step 1 (which have been manually modified and are in the "temp_adams" file)
 urlbase = "http://rotunda.upress.virginia.edu/founders/default.xqy"
-#SecondCrawl("temp_adams", urlbase)
+#SecondCrawl("temp_jeff", urlbase)
 
 ## Third step: crawl the huge list of URLs from step 3 (and eventually store them all in separate files)
-ThirdCrawl("adams_links", urlbase, './adams/')
+ThirdCrawl("jeff_links", urlbase, './jefferson/')

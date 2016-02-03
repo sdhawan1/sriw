@@ -1,0 +1,129 @@
+Editorial Note: The Declaration of Independence
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Editorial Note: The Declaration of Independence</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-01-02-0176-0001&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron&amp;mode=TOC">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-01-02-0176&amp;mode=TOC" title="The Declaration of Independence, [11 June4 July 1776]"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-01-02-0176-0002" title="I. Composition Draft of That Part of the Declaration of Independence containing the Charges against the Crown, 11 June4 July 1776"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-01&amp;mode=TOC">Volume 1 (17601776)</a>&gt; <a href="?keys=TSJN-print-01-01-02&amp;mode=TOC">Documents</a>&gt; <a href="?keys=TSJN-print-01-01-02-0176&amp;mode=TOC">The Declaration of Independence, [11 June4 July 1776]</a>&gt; Editorial Note: The Declaration of Independence</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-01-02-0176-0001&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0176-0002" title="I. Composition Draft of That Part of the Declaration of Independence containing the Charges against the Crown, 11 June4 July 1776"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-01-02-pb-0413">413<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0413.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div class="editorial">
+    
+    <div class="docbody">
+      <h3>The Declaration of Independence<br/><span class="hi-all-small-caps" style="font-variant: small-caps; text-transform: lowercase;">Editorial Note</span></h3>
+<p style="text-align: left; text-indent: 0;">A <span class="hi-small-caps" style="font-variant: small-caps;">full</span> analysis of the many textual changes made in the Declaration of Independence from the time it was drafted by Jefferson to the time of its final adoption by Congress has been made in the following: John H. Hazelton, <span class="hi-italic" style="font-style: italic;">The Declaration of Independence: Its History</span>, N.Y., 1906; Carl Becker, <span class="hi-italic" style="font-style: italic;">The Declaration of Independence. A Study in the History of Political Ideas</span>, N.Y., 1922 and 1942; and Julian P. Boyd, <span class="hi-italic" style="font-style: italic;">The Declaration of Independence: The Evolution of the Text</span>, Princeton, 1945. Nevertheless, the transcendent importance of this charter of national liberties and the recent discovery of additional information respecting Jeffersons drafting of it require special presentation, though this cannot be as detailed and as comprehensive as the studies of Hazelton and others.</p>
+<p>On 15 May 1776 the Virginia Convention unanimously adopted the Resolutions (q.v. under date) instructing its delegates in Congress <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0414">[414<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0414.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> to propose independence; and the consequence was Richard Henry Lees Resolution of Independence, 7 June 1776 (q.v. under its date). On 8 and 10 June Congress considered this Resolution, and on the latter date postponed action on it to 1 July. Since this delay was apparently caused by the desire for unanimity and since the act of independence was a foregone conclusion, Congress decided to avoid further delay by appointing a Committee of Five to draft a declaration that would announce to the world and at the same time justify the act. On 11 June this Committee of Five was appointed, consisting of Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston. The draft of the Declaration agreed upon by the Committee was reported to Congress on 28 June. Congress, sitting as a committee of the whole on 1 July, debated the Lee Resolution for nine hours without interruption; this was the decisive debate but the Resolution was not put to vote by Congress until the following day, when it was adopted. This, however, was not a unanimous vote, since the delegates of New York were bound by their instructions and abstained from voting (they were released by the New York Convention on 9 July). It was for this reason, doubtless, that the Declaration as adopted on 4 July bore the title A Declaration by the Representatives of the United States of America, in General Congress Assembled, whereas the engrossed parchment copy of the Declaration was entitled The Unanimous Declaration of the Thirteen United States of America.</p>
+<p>Jeffersons Declaration was debated on 24 July and was, after considerable revision, adopted on the last day. The question as to whether it was signed on 4 July is discussed in the notes to Jeffersons Notes of Proceedings in the Continental Congress, 7 June to 1 Aug. 1776. On 19 July Congress ordered the Declaration to be engrossed and signed. The signing of the engrossed parchment copy took place on 2 Aug.</p>
+<p>The procedure of the Committee of Five between 11 and 28 June became the subject of some difference of opinion between Adams and Jefferson in 1823. Yet the main outlines are clear and indisputable. The Committee selected Jefferson to prepare a draft. He did so, submitting it first to Adams and then to Franklin. Some of their suggested alterations, if not all, were made in their own handwriting on the draft that Jefferson later endorsed original Rough draught. The Committee itself apparently made few changes, but Congress excised about a fourth of the text, including the famous passage concerning Negro slavery. In all there were eighty-six alterations, made at various stages by Jefferson, by Adams and Franklin, by the Committee of Five, and by Congress. Almost all of these were indicated on the Rough draught, and one minor change was made even after Congress had adopted the final text (Boyd, <span class="hi-italic" style="font-style: italic;">Declaration of Independence</span>, 1945, p. 17). It would be difficult if not impossible to say at what stage or by whom these various changes had been made if it were not for the fact that several contemporary copies of Jeffersons text were made. The earliest and most important of these is the copy in John Adams handwriting, probably made before Jefferson had shown the text to Franklin but after a few minor changes had been effected (this copy is reproduced in Boyd, <span class="hi-italic" style="font-style: italic;">Declaration of Independence</span>,
+  
+  <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0415">[415<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0415.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> together with all known texts in Jeffersons handwriting). Shortly after the adoption of the Declaration, Jefferson made copies of the Rough draught and sent them to distant friends, including Richard Henry Lee, Edmund Pendleton, George Wythe, Philip Mazzei, and probably John Page. With the aid of these copies, the one at an early stage and the others at a later, it has been possible to determine the evolution of the text with more or less precision. Such a detailed analysis will not be attempted here except insofar as it becomes necessary to establish the character and relationships of the first three documents in the present series.</p>
+<p>When Jefferson wrote to Richard Henry Lee on 8 July, enclosing a copy of the Declaration, he described it as conforming to the text as originally framed. The copy that he enclosed, however, was a copy of the Rough draught. In 1823 Jefferson also declared that he had turned to neither book or pamphlet while writing the Declaration (TJ to Madison, 30 Aug. 1823), and that it was not copied from any particular and previous writing (TJ to Henry Lee, 8 May 1825). Despite these statements, Jefferson was misled when he endorsed the most famous and most interesting copy of the Declaration as the original Rough draught. It is small wonder that, nearly half a century after the event, he should have thought it was the original rough draft, for its interlineations, additions, deletions, and marginalia certainly gave it the appearance of being a composition draft. Yet, as Documents I and II in this series prove, the original Rough draught is a fair copy of an earlier text. It would be technically correct to refer to it as the Committee Draft or as the Fair Copy prepared for the Committee; but historians have long since become accustomed to designating it as the Rough Draft and so this time-honored label has been retained, though with the difference that Jeffersons original spelling has been preserved in this series.</p>
+<p>Document I is here referred to as a Composition Draft for a part of the Declaration. It is, of course, the first page of the First Draft of Jeffersons Constitution for Virginia, and it served as a rough draft for that document before being employed in the same capacity for the Declaration of Independence. The notes to Document I of the Virginia Constitution, q.v., and the notes to Document I in this series show that, after Jefferson had copied off the Third Draft of the Virginia Constitution, he returned to the first page of the First Draft and made several additions to the black Catalogue of unprovoked injuries; he also numbered the various paragraphs and rearranged them in such a sequence as he desired them to have in the Declaration of Independence. Not only this, but one alteration was made in both after the latter had been copied. It has long been noticed, of course, that the preamble to the Virginia Constitution and the charges against the crown in the Declaration were very similar and in many cases identical in phraseology; Jefferson himself explained this similarity in 1825 by saying that both having the same object, of justifying our separation from Great Britain, they used necessarily the same materials of justification: and hence their similitude (TJ to Augustus B. Woodward, 3 Apr. 1825). But the identity <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0416">[416<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0416.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> between the two is closer than this implies. The rearrangement of the list of charges was the result of a conscious effort to adapt them to the purposes of the Declaration, not the accidental similarity resulting from a use of the same materials. While it is not correct to say that the Rough draught is an exact copy of this part of the revised first page of the Virginia Constitution, since some verbal discrepancies between the two exist despite the additions and rearrangement, the adaptation of it to the purposes of the Declaration is so clearly indicated, and the two were brought thereby into such close identity, as to justify its designation as a Composition Draft for this particular part of the Declaration (see notes to Document I).</p>
+<p>Document II is only a fragment, but it presents conclusive proof that the Rough draught was copied from an earlier text-copied with exact verbal fidelity, at least in the part here presented, and not merely with close identity as in the case of Document I. In the process of making the Rough draught, however, Jefferson continued to alter his selection of words, effecting changes in both the copy and in the text copied, as he frequently did with writings far less important than the Declaration of Independence.</p>
+<p>Since Document II is a fragment, the only method of ascertaining the text of the Declaration as originally framed is to employ the Adams copy as a means of separating the overlay of corrections, additions, and deletions made by the Committee of Five and by Congress. Some sixteen alterations had been made in the text by the time Adams copied it; these are all indicated in the notes to Document III. Document III, therefore, is the Rough draught of the Declaration approximately as it was when Jefferson had copied it off and was ready to submit it to the Committee of Five.</p>
+<p>The next two stages of the evolution of the text of the Declaration, including both those alterations made by the Committee of Five and those made by Congress (though Jefferson does not differentiate between the two stages), are indicated in Document IV, the text that Jefferson copied for James Madison in 1783 from his Notes of Proceedings in Congress, 7 June to 1 Aug. 1776. This text, given only a brief entry in the present sequence, is printed in its proper place in the Notes of Proceedings (q.v., p. 315). In those Notes Jefferson referred to the text as originally reported (which is incorrect either as referring to his report of a draft to the Committee or as referring to a draft reported by the Committee to Congress) and wrote: the parts struck out by Congress shall be distinguished by a black line drawn under them; &amp; those inserted by them shall be placed in the margin or in a concurrent column. By referring to this text it is possible to see approximately what alterations were made by the Committee of Five and by Congress; but Jeffersons notations were not exact or comprehensive (see Boyd, <span class="hi-italic" style="font-style: italic;">Declaration of Independence</span>, 1945, p. 346).</p>
+<p>Document v is an official text of the Declaration of Independence. Even this, however, requires explanation. Actually there are three texts of the famous document that can properly be referred to as the official text as adopted by Congress. The first of these is the broadside printed <span class="pb" title="page number in print edition" id="TSJN-01-01-02-pb-0417">[417<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-01/TSJN-01-01-02-pb-0417.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> by John Dunlap, probably on the night of 45 July, and wafered into a blank space left for it in the Rough Journal of Congress (same, pl. x), being preceded by the words: The Declaration being again read was agreed to as follows. This printed copy was signed by John Hancock by Order and in Behalf of the Congress and attested by Charles Thomson (M. J. Walsh, Contemporary Broadside Editions of the Declaration of Independence, <span class="hi-italic" style="font-style: italic;">Harvard Library Bulletin</span>, <span class="hi-small-caps" style="font-variant: small-caps;">iii</span> [1949], 3143). The second official text of the Declaration is that in the Corrected Journal of Congress (Hazelton, <span class="hi-italic" style="font-style: italic;">Declaration of Independence</span>, p. 30642). The third is the famous engrossed copy on parchment, signed by the delegates in Congress. These three copies have minute and unimportant variations, and concerning the last Carl Becker wrote that The capitalization and punctuation, following neither previous copies, nor reason, nor the custom of any age known to man, is one of the irremediable evils of life to be accepted with becoming resignation. The present text follows the engrossed and signed parchment copy, though, as with almost all other copies made in the past century, it is derived not directly from the parchment itself but from the copperplate engraving made from it at the direction of Secretary of State John Quincy Adams in 1823 (see note on Document v).</p>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-01-02-0176-0001 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 1 (17601776)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-01-02-0176-0002" title="I. Composition Draft of That Part of the Declaration of Independence containing the Charges against the Crown, 11 June4 July 1776"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

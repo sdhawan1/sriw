@@ -1,0 +1,139 @@
+From Jean Holker, 12 March 1785
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Jean Holker, 12 March 1785</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-08-02-0013&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1785-03-12-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-08-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-08-02-0012" title="John Jay to the American Commissioners, [11] March 1785"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-08-02-0014" title="From Eliza House Trist, 12 March 1785"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-08&amp;mode=TOC">Volume 8 (25 February31 October 1785)</a>&gt; <a href="?keys=TSJN-print-01-08-02&amp;mode=TOC">Documents</a>&gt; From Jean Holker, 12 March 1785</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-08-02-0013&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-08-02-0012" title="John Jay to the American Commissioners, [11] March 1785"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-08-02-0014" title="From Eliza House Trist, 12 March 1785"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-08-02-pb-0022">22<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-08/TSJN-01-08-02-pb-0022.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-08-0013" class="doc">
+
+<h1>From Jean Holker</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Rouen 12 Mars 1785</td>
+	      </tr>
+      </table>
+</div>
+<p>Youl be surprised their is no doubt not having heard from me Since my last, the Reason was that the Vessel on Board your <a href="#TSJN-01-08-0013-kw-0001" title="[explained in note]" id="TSJN-01-08-0013-ks-0001" class="keyword">Box</a>, was only arrived at this port this Morning, and having a favourable occasion to forward it you, I appleyd to Our directure of the farms, to deliver it me which he has don, and send it by my friend Mr. Guilboud who will deliver it, and a letter he has got under my Sons Cover, from the Congres, as I fancy, <a href="#TSJN-01-08-0013-kw-0003" title="[explained in note]" id="TSJN-01-08-0013-ks-0002" class="keyword">for you and my friend Mr. Barcley</a>; but as he is not in paris I fancey, If it is necessary, that my Good friend Doctor Franklin will do the needfull for him. <span class="pb" title="page number in print edition" id="TSJN-01-08-02-pb-0023">[23<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-08/TSJN-01-08-02-pb-0023.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Although I must confes, the affaire is a very disagreeable one indeed.</p>
+<p>I shant need to Enter into any detail, as your letter and my Sons will acquaint you of <a href="#TSJN-01-08-0013-kw-0004" title="[explained in note]" id="TSJN-01-08-0013-ks-0003" class="keyword">the whole affair</a>, and the leters Mr. Guilboud will present you of the transaction, must convince every honest man that my old friend Samuel Wharton is a bad man indeed.</p>
+<p>I am Really sorry for it, as I had the greatest opinion of him, but so it is, and I humble beg youl render Mr. Guilboud every servis in your Power on that head and youl oblige Dear Sir your very humble &amp; Respectful Servant,</p>
+<div class="closer">
+<p class="signed">J <span class="hi-small-caps" style="font-variant: small-caps;">Holker</span></p>
+</div>
+<div class="postscript">
+<p>I am sorry to Inform you, that It is not in the Power of the Directure of the farms to deliver me the <a href="#TSJN-01-08-0013-kw-0002" title="[explained in note]" id="TSJN-01-08-0013-ks-0004" class="keyword">Caise</a>, as all preses or objects of that Nature is visited by the first President here and obliged to be forwarded by water to Paris under an <a href="#TSJN-01-08-0013-kw-0005" title="[explained in note]" id="TSJN-01-08-0013-ks-0005" class="keyword">acque</a> so the caise will part this day in a bote and when it arrives in Paris will be sent to his Excelence Doctor Franklin.</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-08-0013-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Massachusetts Historical Society, Boston ]">MHi</span>); endorsed.</p>
+<p>The <a id="TSJN-01-08-0013-kw-0001" class="keywordref" title="jump to box in text" href="#TSJN-01-08-0013-ks-0001">box</a> or <a id="TSJN-01-08-0013-kw-0002" class="keywordref" title="jump to caise in text" href="#TSJN-01-08-0013-ks-0004">caise</a> contained TJs copying press (<a href="default.xqy?keys=TSJN-print-01-07-02-0417" class="document">see TJ to Holker, 15 Dec. 1784</a>; <a href="default.xqy?keys=TSJN-print-01-07-02-0423" class="document">Holker to TJ, 22</a> and <a href="default.xqy?keys=TSJN-print-01-07-02-0430" class="document">30 Dec. 1784</a>). On 14 Mch. Holker wrote William Temple Franklin: Mr. Guilboud my Pardner in the Manufacture at St. Sever will bring the Caise and Deliver it to Mr. Jefferson, as he has a letter he Received under my sons Cover from Philadelpha, Directed for MM. Jefferson and Mr. Barcley conserning some desagreeable Business that concerns Mr. Samul Wharton and Our hous here. It is needles to Enter into any Detaile, as Mr. Guilboud will doe it, having Mr. Whartons leters to justefy the transaction, but as Mr. Barcley is not in Paris I must Intreat you my good friend to doe the Needfull for him, and youl very much oblige me (Holker to William Temple Franklin, 14 Mch. 1785, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ American Philosophical Society, Philadelphia, Pennsylvania ]">PPAP</span>). The letter that Holker fancied was from Congress <a id="TSJN-01-08-0013-kw-0003" class="keywordref" title="jump to for you and my friend Mr. Barcley in text" href="#TSJN-01-08-0013-ks-0002">for you and my friend Mr. Barcley</a> must have been the covering letter and commission from the Supreme Court of Pennsylvania to TJ and Barclay of 24 Dec. 1784 (see TJs certification of depositions, <a href="default.xqy?keys=TSJN-print-01-08-02-0034" class="document">De St. Pol to TJ, 26 Mch. 1785</a>). Holkers sons letter on <a id="TSJN-01-08-0013-kw-0004" class="keywordref" title="jump to the whole affair in text" href="#TSJN-01-08-0013-ks-0003">the whole affair</a> may have been one addressed to Guillibaud &amp; Cie which reads in part as follows: <span class="foreign" xml:lang="fra">Au milieu de tous mes Soins et de mes embarras en ce pays, je nay point perdu de vue votre reclamation contre Le Sr. Samuel Wharton de cette ville: aprs cent propositions amicales, mais inutiles, je lai traduit devant les tribunaux publics, ou jaurois obtenu Jugement sur sa Personne et ses biens, sil navoit jug  propos de Contester la Copie translate de sa lettre que vous mavs adresse pour former votre titre: Jai donc et oblig de solliciter une Commission Juridique pour enquerir sur les faits, sur les Lieux, que Jay Lhonneur de vous adresser sous ce Couvert, afin que Monsr. Guillebaud puisse la presenter en personne aux Commissaires amricains actuellement  Paris, et faire avec eux le ncessaire: il ny aura pas de mal de Joindre Lattestation sur Serment, de LExtrait des Livres, et la Copie des Lettres du Correspondant dont Le Sr. Wharton a reu les Marchandises  Nantes o LOrient, Lune et Lautre Certifies par les Maires et Echevins des Lieux, comme ayant t faites en leur prsence, et en celle du notaire qui y signera galement; et le tout, pour tre ensuite Lgalis par les Srs. Jefferson et Barclay. Envoys moy, je vous prie, au plutt ces pices, car il ny a pas un instant  perdre pour se nantir avant quune perte totale ne puisse survenir. Je suis actuelement en action Juridique contre notre Sieur Robt. Morris; Le Congrs est intervenu pour solliciter de la Legislature de cet Etat une loi pour faire accelerer le Jugement des Causes pendantes entre lui et moi, sur le chemin public; le <span class="pb" title="page number in print edition" id="TSJN-01-08-02-pb-0024">[24<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-08/TSJN-01-08-02-pb-0024.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> quel entrainera les actions particulieres; Lassemble Gnrale tiendra le mois prochain, de la quelle Jattends avec quelque fondement, Laccomplissement de mes Voeux  cette occasion, dont Jaurai le plaisir de vous instruire dans le tems. Je pourray alors Juger de LEpoque absolue de mon retour, pour le quel Je me suis prpar inutilement depuis plus de deux ans sans pouvoir LEffectuer</span> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: TJ Papers, 17: 2899; it is dated merely 1785 but evidently was written 12 Jan. 1785). Two days later young Holker wrote Guillibaud: <span class="foreign" xml:lang="fra">En addition a Ce que Jai eu lhonneur de Vous mander par ma lettre du 12 sur des consultations ulterieures avec mon conseil, il nous paroitroit Convenable a leffet de lever toutes difficults que Vous fassiez faire une descente Juridique chez Vous pour constater sur le mmorial les offres (faites pour dbiter le Sieur Samuel Wharton de Philadelphie) des marchandises a lui Vendues avec la facture dIcelles, ou que Vous fassiez constater lesdites entres sur Votre Susdit mmorial a la Jurisdiction consulaire, et que sur Icelles et la prodution de la lettre du S[r] Wharton en reponse a Vos lettres quil faudra aussi constater lgalement, ainsi que la dposition des Commis de la maison a Ce Sujet, afin sur le tout dobtenir sentence contre Votre dbiteur, et nous en envoyer les duplicatas aprs les avoir fait legaliser par les maires et echevins et ensuite par Mers. Jefferson et Barclay. II ne serai pas mal non plus [de ] faire certiffier par lesdits Commissaires sur les Copies des Commissions que Vous recevrez par mon entremise quon leur a remis la lettre originale pour etre expedie par eux par les packets boats partant de lorient a ladresse de M. Burd prothonotaire de la Cour Supreme de Pensilvanie a Philadelphie afin que sur larrive des duplicatas Collations on puisse en Solliciter jugement [Lexament] et quon ne puisse le retarder Sous aucun pretexte; observant que la lettre originale et les deux Copies partent par trois packets boats consecutifs et quune des Sentences Consulaires accompagne la lettre originale. Ces formalits sont de rigueur dans la loi anglaise avec tout negociant qui conteste son engagement</span> (Copy of Holker to Guillibaud &amp; Cie., 14 Jan. 1785; <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>: TJ Papers, 12: 1947; endorsed by TJ: Guillebaud et al vs. Wharton.). <a id="TSJN-01-08-0013-kw-0005" class="keywordref" title="jump to acque in text" href="#TSJN-01-08-0013-ks-0005">acque</a>: For acquit  caution, a discharge or receipt.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-08-02-0013 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 8 (25 February31 October 1785)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-08-02-0012" title="John Jay to the American Commissioners, [11] March 1785"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-08-02-0014" title="From Eliza House Trist, 12 March 1785"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

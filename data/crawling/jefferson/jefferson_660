@@ -1,0 +1,807 @@
+Notes and Plans for Western Defense, [23 July 1779 and after]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Notes and Plans for Western Defense, [23 July 1779 and after]</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-03-02-0056&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1779-07-23-2">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0055" title="Orders for Defense of the Western Frontier, 23 July 1779"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-03-02-0057" title="To George Washington, 23 July 1779"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-03&amp;mode=TOC">Volume 3 (18 June 177930 September 1780)</a>&gt; <a href="?keys=TSJN-print-01-03-02&amp;mode=TOC">Documents</a>&gt; Notes and Plans for Western Defense, [23 July 1779 and after]</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-03-02-0056&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0055" title="Orders for Defense of the Western Frontier, 23 July 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0057" title="To George Washington, 23 July 1779"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-03-02-pb-0052">52<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0052.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-03-0056" class="doc">
+
+<h1>Notes and Plans for Western Defense</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationRight">[23 July 1779 and after]</td>
+	      </tr>
+      </table>
+</div>
+<p style="text-align: left; text-indent: 0;">Plan for regimenting &amp; stationing the two Western battalions.</p>
+<table class="bodytext">
+<tr>
+	      <td style="text-align: left; text-indent: 0;">Joseph Crocket &amp; James Knox<br/>Lt. Colonels commandants</td>
+	      <td class="brace" rowspan="5"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 6.5em; width: 21px;"/></td>
+	      <td rowspan="5" style="vertical-align: middle;">appointed by the Council</td>
+	    </tr>
+<tr>
+	      <td style="text-align: left; text-indent: 0;">George Walls, Robert Powell. Majors.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: left; text-indent: 0;">William Cherry, Samuel Gill. Captains.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: left; text-indent: 0;">Thomas Walls, Peter Moore. Ensigns.</td>
+	    </tr>
+</table>
+<span class="pb center" title="page number in print edition" id="TSJN-01-03-02-pb-0053">[53<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0053.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<table class="bodytext">
+<tr>
+	      <td style="text-align: center; text-indent: 0; vertical-align: middle;"><span class="hi-italic" style="font-style: italic;">no. of men supposed they will raise</span></td>
+	      <td></td>
+	      <td colspan="3" style="text-align: center; text-indent: 0; vertical-align: middle;"><span class="hi-italic" style="font-style: italic;">Officers to be recommended by the feild officers of the respective countries</span></td>
+	      <td style="text-align: center; text-indent: 0; vertical-align: middle;"><span class="hi-italic" style="font-style: italic;">Destination</span>.</td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td>Yohogania.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">40.</td>
+	      <td>Monongalia.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">12.</td>
+	      <td>Ohio.</td>
+	      <td class="dots" style=""></td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td>Kentuckey</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">41.</td>
+	      <td>Hampshire</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">44.</td>
+	      <td>Berkeley</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">41.</td>
+	      <td>Frederick.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">37.</td>
+	      <td>Shenandoah.</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">21.</td>
+	      <td>Rockingham.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">25.</td>
+	      <td>Rockbridge.</td>
+	      <td>a Captain.</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">31.</td>
+	      <td>Botetourt.</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">76.</td>
+	      <td>Loudoun.</td>
+	      <td>a Captain</td>
+	      <td>a Lieutenant.</td>
+	      <td>two Ensigns.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">45.</td>
+	      <td>Fauquier.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">69.</td>
+	      <td>Culpepper.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td>two Ensigns.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">24.</td>
+	      <td>Orange.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant</td>
+	      <td>an Ensign.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;"><span class="hi-border-top" style="border-top: 1px solid black;">506</span></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td>NORTH<br/>WESTERN<br/>POSTS</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">32.</td>
+	      <td>Fairfax</td>
+	      <td>a Captain.</td>
+	      <td></td>
+	      <td></td>
+	      <td rowspan="8" style="width: 14%;">for such stations on <br/>Northwestern frontier <br/>as shall be recommended <br/>by Col. Matthews, Abr. Hite <br/>&amp; Duval, who are to <br/>meet at Shenandoah <br/>C. H. Aug. 31. one <br/>of the captains &amp; <br/>both ensigns appointed <br/>by council <br/>to be of this division.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">31.</td>
+	      <td>Prince Willm.</td>
+	      <td>a Captain.</td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">28.</td>
+	      <td>Louisa.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">22.</td>
+	      <td>Goochland.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">12.</td>
+	      <td>Fluvanna.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">36.</td>
+	      <td>Albemarle</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">61.</td>
+	      <td>Augusta.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">244 | 22.</span></td>
+	      <td>Greenbriar</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td></td>
+	      <td>SOUTH<br/>WESTERN<br/>POSTS</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">38.</td>
+	      <td>Washington.</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	      <td rowspan="12" style="width: 14%;">for such stations on <br/>South Western frontier <br/>as shall be recommended <br/>by Genl. Lewis, Colo. Fleming <br/>&amp; Wm. Christian, <br/>who are to meet at Botett. C. <br/>H. Aug. 31. one of <br/>the captains appointed <br/>by council <br/>to be of this division.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">25.</td>
+	      <td>Montgomery.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">32.</td>
+	      <td>Henry.</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">29.</td>
+	      <td>Pittsylvania.</td>
+	      <td>a Captain.</td>
+	      <td class="dots" style=""></td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">61.</td>
+	      <td>Bedford.</td>
+	      <td>a Captain.</td>
+	      <td>a Lieutenant.</td>
+	      <td>an Ensign.</td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">24.</td>
+	      <td>Amherst.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">25.</td>
+	      <td>Buckingham.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;"><span class="hi-border-bottom" style="border-bottom: 1px solid black;">253 | 19</span></td>
+	      <td>Cumberland.</td>
+	      <td class="dots" style=""></td>
+	      <td>a Lieutenant.</td>
+	      <td></td>
+	    </tr>
+<tr>
+	      <td style="text-align: right;">497</td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+</table>
+<span class="pb center" title="page number in print edition" id="TSJN-01-03-02-pb-0054">[54<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0054.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+  <div>
+    <h3>Plan for regimenting and stationing one of the Western battalions</h3>
+
+  
+  <table class="bodytext" cellpadding="3">
+    <colgroup style="border-right:1px solid black"></colgroup>
+    <colgroup style="border-right:1px solid black; padding-left:1em;"></colgroup>
+    <colgroup style="border-right:1px solid black"></colgroup>
+    <colgroup span="3" style="border-right:1px solid black"></colgroup>
+    <colgroup span="3" style="border-right:1px solid black"></colgroup>
+    <colgroup span="2" style="border-right:1px solid black"></colgroup>
+    <tr style="font-style: italic; border-bottom: 1px solid black; border-top: 1px solid black;">
+		<td style="white-space: nowrap; text-align: center; text-indent: 0;">Stations on the Ohio</td>
+		<td style="white-space: nowrap; text-align: center; text-indent: 0;">No. of men<br/>proposed</td>
+		<td style="white-space: nowrap; text-align: center; text-indent: 0;">from what <br/>counties</td>
+		<td colspan="3" style="text-align: center; text-indent: 0;">Officers from each county</td>
+		<td colspan="3" style="text-align: center; text-indent: 0; white-space: nowrap;">No. supposed<br/>each county<br/>will raise</td>
+		<td colspan="2" style="text-align: center; text-indent: 0; white-space: nowrap;">Actual<br/>strength<br/>of the post</td>
+		<td style="white-space: nowrap; text-align: center; text-indent: 0; white-space: nowrap;">Feild officers<br/>to be stationed.</td>
+	      </tr>
+    <tr>
+		<td rowspan="5" style="white-space: nowrap;">Fish creek</td>
+		<td rowspan="5" style="text-align: center; text-indent: 0;">75.</td>
+		<td>Fairfax</td>
+		<td style="white-space: nowrap;">aCaptain</td>
+		<td>.......</td>
+		<td>.......</td>
+		<td>32</td>
+		<td rowspan="2" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">32.</td>
+		<td rowspan="5" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 6.5em; width: 21px;"/></td>
+		<td rowspan="5" style="vertical-align: middle;">75</td>
+		<td rowspan="5"></td>
+	      </tr>
+    <tr>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">* an Ensign</td>
+		<td>. .</td>
+	      </tr>
+    <tr>
+		<td style="white-space: nowrap;">Prince William</td>
+		<td style="white-space: nowrap;">aCaptain</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>31.</td>
+		<td rowspan="3" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+		<td></td>
+	      </tr>
+    <tr>
+		<td>Fluvanna</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">aLieutenant</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>12</td>
+		<td style="vertical-align: middle;">43</td>
+	      </tr>
+    <tr>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">*an Ensign</td>
+		<td>. .</td>
+		<td>. .</td>
+	      </tr>
+    
+    <tr style="border-top: 1px solid black;">
+		<td>Little Kanhaway.</td>
+		<td style="text-align: center; text-indent: 0;">75.</td>
+		<td>Augusta</td>
+		<td>aCaptain.</td>
+		<td>aLieutenant.</td>
+		<td>an Ensign</td>
+		<td colspan="2" style="white-space: nowrap;">. . .</td>
+		<td>61.</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">75.</td>
+		<td rowspan="2"></td>
+	      </tr>
+    <tr>
+		<td></td>
+		<td></td>
+		<td>Louisa.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aLieutenant.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td colspan="2" style="white-space: nowrap;">. . .</td>
+		<td>14</td>
+	      </tr>
+    <tr style="border-top: 1px solid black;">
+		<td rowspan="5">Fort Randolph.</td>
+		<td rowspan="5" style="text-align: center; text-indent: 0;">100.</td>
+		<td>Albemarle</td>
+		<td>aCaptain.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>an Ensign.</td>
+		<td>36.</td>
+		<td rowspan="2" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">58.</td>
+		<td rowspan="5" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 6.5em; width: 21px;"/></td>
+		<td rowspan="5" style="vertical-align: middle;">94</td>
+		<td rowspan="5">Lieut. Col.<br/>Commdt.<br/>Crocket.</td>
+	      </tr>
+    <tr>
+		<td>Green Briar</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aLieutenant.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>22</td>
+	      </tr>
+    <tr>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>*aCaptain.</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td rowspan="3" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 3.5em; width: 17px;"/></td>
+		<td rowspan="3" style="vertical-align: middle;">36</td>
+	      </tr>
+    <tr>
+		<td>Goochland.</td>
+		<td></td>
+		<td>aLieutenant.</td>
+		<td></td>
+		<td>22.</td>
+	      </tr>
+    <tr>
+		<td>Louisa.</td>
+		<td></td>
+		<td></td>
+		<td>an Ensign.</td>
+		<td>14</td>
+	      </tr>
+    <tr style="border-top: 1px solid black;">
+		<td>Guiandot<a class="ptr" href="#TSJN-01-03-0056-fn-0001" id="TSJN-01-03-0056-fn-0001-ptr">1</a></td>
+		<td rowspan="5" style="text-align: center; text-indent: 0;">50.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">*aCaptain</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td></td>
+		<td rowspan="5" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 6.5em; width: 21px;"/></td>
+		<td rowspan="5" style="vertical-align: middle;">50.</td>
+		<td rowspan="5"></td>
+		<td rowspan="5" style="vertical-align: middle;">50.</td>
+		<td rowspan="5"></td>
+	      </tr>
+    <tr>
+		<td>Sioto</td>
+		<td>Bedford</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>11.</td>
+	      </tr>
+    <tr>
+		<td rowspan="3"></td>
+		<td>Cumberland</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>7.</td>
+	      </tr>
+    <tr>
+		<td>Buckingham</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aCaptain.</td>
+		<td>7.</td>
+	      </tr>
+    <tr>
+		<td>Montgomery.</td>
+		<td>7.</td>
+		<td>aLieutenant</td>
+		<td>an Ensign</td>
+		<td>25.</td>
+	      </tr>
+    <tr style="border-bottom: 1px solid black; border-top: 1px solid black;">
+		<td style="white-space: nowrap;">Big Sandy river<br/>Great Salt lick</td>
+		<td style="text-align: center; text-indent: 0;">50.</td>
+		<td>Bedford</td>
+		<td>aCaptain.</td>
+		<td>aLieutenant</td>
+		<td>an Ensign</td>
+		<td colspan="3" style="text-align: center; text-indent: 0;">50.</td>
+		<td colspan="2" style="text-align: center; text-indent: 0;">50.</td>
+		<td></td>
+	      </tr>
+    <tr>
+		<td rowspan="4">Licking creek<br/>Kentucky</td>
+		<td rowspan="4" style="text-align: center; text-indent: 0;">100.</td>
+		<td>Henry.</td>
+		<td>aCaptain.</td>
+		<td>aCaptain.</td>
+		<td>an Ensign.</td>
+		<td>32.</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">50.</td>
+		<td rowspan="4" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 5em; width: 19px;"/></td>
+		<td rowspan="4" style="vertical-align: middle;">103</td>
+		<td rowspan="4">a Major.</td>
+	      </tr>
+    <tr>
+		<td>Buckingham</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aLieutenant</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>18.</td>
+	      </tr>
+    <tr>
+		<td>Pittsylvania</td>
+		<td>aCaptain.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>an Ensign</td>
+		<td>29.</td>
+		<td rowspan="2" class="brace"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">53.</td>
+	      </tr>
+    <tr>
+		<td>Amherst.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aLieutenant.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>24</td>
+	      </tr>
+    <tr style="border-top: 1px solid black;">
+		<td>Martins cabbin</td>
+		<td></td>
+		<td></td>
+		<td colspan="3"></td>
+		<td colspan="3"></td>
+		<td colspan="2"></td>
+		<td></td>
+	      </tr>
+    <tr>
+		<td>in Powels valley</td>
+		<td rowspan="2" style="text-align: center; text-indent: 0;">50.</td>
+		<td>Washington</td>
+		<td>aCaptain.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>an Ensign</td>
+		<td>38.</td>
+		<td class="brace" rowspan="2"><img src="images/brace-close-trans.png" alt="}" class="brace" style="height: 2em; width: 14px;"/></td>
+		<td rowspan="2" style="vertical-align: middle;">50</td>
+		<td colspan="2" rowspan="3" style="vertical-align: middle; text-align: center; text-indent: 0;">50.</td>
+	      </tr>
+    <tr>
+		<td><br/>Falls of the Ohio.</td>
+		<td>Cumberland.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>aLieutenant.</td>
+		<td style="white-space: nowrap;">. . . . . . .</td>
+		<td>12</td>
+	      </tr>
+  </table>
+    </div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-03-02-pb-0055">[55<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0055.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div><table class="bodytext">
+<tr>
+		<td style="text-align: left; text-indent: 0;">Pittsburgh</td>
+		<td></td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Big Buffalo lick</span></td>
+		<td>390.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>to Logstown.</span></td>
+		<td>18.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Large islands</span></td>
+		<td>410.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Beaver cr.</span></td>
+		<td>29 </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Little Miamis.</span></td>
+		<td>492.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Little do.</span></td>
+		<td>42.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Licking cr.</span></td>
+		<td>500.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Yellow cr.</span></td>
+		<td>52.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Gr. Miamis</span></td>
+		<td>527 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Mingstown</span></td>
+		<td>71 </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Elephant bones</span></td>
+		<td>560 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Two creeks (Weeling).</span></td>
+		<td>72 </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Kentucke riv.</span></td>
+		<td>604 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Long creek (Fishg cr.)</span></td>
+		<td>123 </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Falls of the Ohio</span></td>
+		<td>682</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>end of do.</span></td>
+		<td>139</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Low country begins</span></td>
+		<td>837 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Muskingham riv.</span></td>
+		<td>168.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Beginng of 5 islands</span></td>
+		<td>960.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>L. Kanhawa riv.</span></td>
+		<td>182. </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Wabache</span></td>
+		<td>999 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Hockhocking riv.</span></td>
+		<td>186.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Big rock &amp; cavern</span></td>
+		<td>1062 </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Gr. Kanhaway</span></td>
+		<td>266 </td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Shawanis riv.</span></td>
+		<td>1094. </td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Yandsto</span></td>
+		<td>308.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Cherokee riv.</span></td>
+		<td>1107.</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>B. Sandy cr.</span></td>
+		<td>321.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Fort Mansiack</span></td>
+		<td>1118</td>
+	      </tr>
+<tr>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Sioto</span></td>
+		<td>366.</td>
+		<td style="text-align: left; text-indent: 0;" class="dot-leader"><span>Mouth of Ohio</span></td>
+		<td>1164.</td>
+	      </tr>
+</table>
+<p>Lindsay says an intermediate post at Lawrences creek 54 miles below Sioto and about 75 above Licking creek would be most essential. the principal war path crosses there from the Shawanese Wiandots &amp; Northern Indians in general, and it is the only way a waggon road can be got from Kentucke up the Ohio.</p></div>
+<div><h3>A state of the Western posts &amp; garrisons recommended by Col. Fleming</h3>
+  <pre>
+Augusta        Tygers valley. on the headwaters of    60   | Augusta     61
+                 Cheat &amp; the waters of little               |
+                 Canhaway.                                  |
+               Head of Green bryar    -  -  -          40   |
+Greenbriar.    Fort Randolph. on Ohio at mouth              |
+                 Gr. Kanhaway                         200.  |
+               Kellys on the Gr. Kanhaway 20.    }         |
+                 m. abov. mouth of Elk.           }         | Greenbriar  22
+               Little meadows. on waters of Gr.   }         |
+                 briar abt 30. or 40. mi. from    }   100   |
+                 warm springs, more to Northward  }         |
+               Sinks on Gr. Kanhaway opposite     }         |
+                 mouth Bluestone.                 }         |
+Montgomery     Head of Guyandot                   }         | Montgomery  25
+               Culbertsons bottom. at mouth of   }   100   |
+                 Bluestone                        }         |
+Washington     Sandy river                        }         | Washington  38
+               Powels valley. it is the valley   }   100   |
+                 betw. Kentucke &amp; Clinch      }             |
+                 or                               }         |
+               Blackmores. is on Clinch 60. mi.            |
+                 above its mouth.<a class="ptr" href="#TSJN-01-03-0056-fn-0002" id="TSJN-01-03-0056-fn-0002-ptr">2</a>                         |</pre>
+</div>
+</div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-03-02-pb-0056">[56<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0056.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div class="docback">
+<div class="note-source" id="TSJN-01-03-0056-sn">
+  <p>Two tabular <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscripts ]">MSS</abbr> and 2 pages of <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> notes (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>); entirely in TJs hand; undated. In <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> there are 2 other pages of notes and estimates by TJ relative to the raising and stationing of the western battalions; these were written partly on the verso of TJs amendment to the draft <a href="default.xqy?keys=TSJN-print-01-03-02-0055" class="document">Orders for Defense of the Western Frontier, preceding</a>, and partly on the verso of his <a href="default.xqy?keys=TSJN-print-01-03-02-0069" class="document">draft letter to William Preston, 7 Aug. 1779</a>. Since, with the exception noted below, the notes in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span> include no matter not found in the present Notes and Plans, they are omitted here.</p>
+<p>The data here compiled with TJs customary care obviously implement the Order of Council of 23 July 1779 and are therefore printed under this date. However, substantial portions of them must have been set down during the fall after TJ had received advice from Fleming and Lewis; <a href="default.xqy?keys=TSJN-print-01-03-02-0089" class="document">see their letter to him of 31 Aug. 1779</a>.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-03-0056-fn-0001-ptr" id="TSJN-01-03-0056-fn-0001">1</a><p>This place, like Big Sandy river and Licking creek below, was enclosed by TJ in rectangular lines in the <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr>. The significance of the asterisks in this table is not clear, but they may represent the commissions that had been taken up.</p></div>
+<div class="footnote"><a class="note-ref" href="#TSJN-01-03-0056-fn-0002-ptr" id="TSJN-01-03-0056-fn-0002">2</a><p>At the end of the fragmentary notes in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>, mentioned in the descriptive note above, TJ wrote: I am to direct the feild officers of each county for the 1st. Western battalion to recommend officers in proportion to the men they furnish as nearly as can be, so as to make up a compleat set of captains and subalterns for one battalion.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-03-02-0056 [accessed 29 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 3 (18 June 177930 September 1780)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0055" title="Orders for Defense of the Western Frontier, 23 July 1779"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0057" title="To George Washington, 23 July 1779"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

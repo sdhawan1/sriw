@@ -1,0 +1,136 @@
+From James Innes, 30 March 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From James Innes, 30 March 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-05-02-0380&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-03-30-15">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-05-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0379" title="From Daniel L. Hylton, with Jefferson's Instructions to William Davies, 30 March 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-05-02-0381" title="From Thomas Jones, 30 March 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-05&amp;mode=TOC">Volume 5 (25 February 178120 May 1781)</a>&gt; <a href="?keys=TSJN-print-01-05-02&amp;mode=TOC">Documents</a>&gt; From James Innes, 30 March 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-05-02-0380&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0379" title="From Daniel L. Hylton, with Jefferson's Instructions to William Davies, 30 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0381" title="From Thomas Jones, 30 March 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-05-02-pb-0293">293<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0293.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-05-0380" class="doc">
+
+<h1>From James Innes</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">York Garrison. March 30th 1781.</td>
+	      </tr>
+      </table>
+</div>
+<p>In the action of the 8th Inst: between a party of the Elizabeth City Militia and a Detachment of the british army under the command of Colo. Dundass, Colo. Curle was made a prisoner. He was taken gallantly leading on a handful of resolute troops to oppose six times their number, notwithstanding such Disparity the Enemy were obliged to abandon the cattle and horses they had collected, and retired rather loosers than gainers by their Enterprize. Arnold proposes to exchange Colo. Curle for Elligood. I will not presume to advize your Excellency on this Subject, but will only take Liberty to remark that to my knowledge Curle was the very life and soul of his county, and that I believe his liberation would be of more importance to the public weal than the Detention of ten thousand such traitors as Elligood. I have the honor to be respectfully</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Jas</span>: <span class="hi-small-caps" style="font-variant: small-caps;">Innes</span> Colo:</p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-05-0380-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); addressed, in part: [By] Mr. Armistead (presumably Moss Armistead, who was the bearer of Innes letter to Steuben described below); endorsed by TJ: Col. Innes.</p>
+<p>Immediately after the action in which Col. Curle and others were captured, Innes appealed to Steuben and pointed out the good consequences Colo. Curles immediate exchange would produce to the Commonweal. Whatever hope Innes and Armistead (who had two relatives among the captured) may have entertained from this appeal, it was completely wiped out by Steubens explosive reply of the next day which contained a severe reprimand based on the fact that Innes letter had been dated at York Garrison. Whatever tallents you may possess, Steuben wrote, I must desire an obedience to the orders I have or shall give. Your staying at York after receiving my positive orders to march to the Vicinity of Half Way house is extremely surprizing to me. As I expect the strictest obedience to <span class="pb" title="page number in print edition" id="TSJN-01-05-02-pb-0294">[294<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-05/TSJN-01-05-02-pb-0294.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> be paid to my orders, so those you give you must see put in execution. About the proposed exchange of Curie, Steuben was equally surprised, <span class="foreign" xml:lang="fra">tandis que depuis le 1 de Mars vous avez mon ordre possitif que <span class="hi-italic" style="font-style: italic;">tout intercourse</span> avec lEnnemi soit absolument prohib.  I vous repete encore mon ordre de marcher demain   <span class="foreign" xml:lang="eng">Half-Way house</span> et de suivre votre instruction</span> (Innes to Steuben, 10 Mch.; Steuben to Innes, 11 Mch. Of the latter there is a draft in French and an unfinished English text which ends with the quotation given; both are in <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New-York Historical Society, New York City ]">NHi</span>). Innes replied on 13 Mch. protesting against the injustice of Steubens charges, but apparently he made no further effort at this time to effect an exchange. There can scarcely be any doubt that Steubens feeling against Innes at this time was complicated by their relations in The Affair of Westover; see Appendix <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, Vol. 5. An account of the engagement in which Curie was captured appeared in <span class="hi-italic" style="font-style: italic;">Va. Gaz</span>. (<span class="hi-small-caps" style="font-variant: small-caps;">d</span> &amp; <span class="hi-small-caps" style="font-variant: small-caps;">n</span>), 10 Mch., in part as follows: In the morning of the 7th instant, a party of the British consisting of about 300 men, under the command of Col. Dundas, came over from Portsmouth to Newportnews in 13 flat bottomed boats.  About 40 militia being collected at a place called the race paths (about 8 miles from Hampton) fired upon them, and killed a Lieutenant Salisbury of the Charon, and two others, and took five or six prisoners. Col. Dundas had his horse shot under him. Our loss is Col. Mallory and five others killed, and one wounded. Col. Curle, and William and Robert Armistead taken prisoners. Immediately after this engagementperhaps independent of Innes effortsome of those taken prisoner appealed to the General Assembly. Their petition was drawn up and carried to Richmond with incredible speed, being presented to the House of Delegates on the day following the skirmish. The signers pointed out that they were members of the Elizabeth City militia, that they had opposed the enemy in an attack  upon the Town of Hampton and being unsupported by the Militia of the adjacent counties were made Prisoners by them, and discharged on Parole, and that according to TJs proclamation of 19 Jan. 1781 they would be liable to certain penalties unless relieved by the legislature. The petition was referred to a committee of eight, of whom Patrick Henry and John Taylor of Caroline were members. This committee reported two resolutions the following day: (1) that so much  as relates to William Hawkins, Pennel Crook, Robert Armistead, John Paul, Samuel Ship, John Banks, William Gooch, Francis Ballard, William Cunningham, Richard Burt, John Seymour, William Harper, Howard Skinner, Michael Counsel, Armiger Webb is reasonable, and that the petitioners ought to be considerd as prisoners of war, and that the Governor be desired to have them exchanged for any prisoners which now are or may hereafter fall into our hands; (2) that the Governor be desired to appoint Commissioners to inquire into the conduct of Robert Bright, George Latimer, Thomas Latimer, Thomas Allen, George Hope, William Dunn and William Armistead others of the  Petitioners and  report of their proceedings to the next Session of the Assembly. These resolutions were ordered to lie on the table. But on 13 Mch. the House took the matter under consideration again, amended the first resolution by inserting the name Wilson Curl before that of Armiger Webb, and adopted both resolutions. Patrick Henry carried the resolutions to the Senate, but that body offered several amendments which were not agreed to by the House. Both the Senate and House stood firm and the resolutions failed. However, on the next to the last day of the session the House passed a general resolution condemning the enemys practice of issuing paroles to Citizens not taken in Arms, but found pursuing their domestic employments and the Senate readily agreed thereto; TJ immediately forwarded a copy of this resolution to the commanding officer of the British forces at Portsmouth (see <a href="default.xqy?keys=TSJN-print-01-05-02-0300" class="document">his letter of 24 Mch. 1781</a> and note there which quotes the resolution in full; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journal of the House of Delegates of the Commonwealth of Virginia&lt;/i&gt; (cited by session and date of publication) ]">JHD</span>, Mch. 1781, Va. State Libr., <span class="hi-italic" style="font-style: italic;">Bull.</span>, 1928, p. 15, 19, 25, 38, 39, 44, 45, 49). The failure of this appeal to the legislature no doubt prompted Innes, Weedon, and others to appeal to TJ and the Council to authorize Curles exchange. Apparently also the names of prisoners referred to in <a href="default.xqy?keys=TSJN-print-01-05-02-0421" class="document">Weedons letter to TJ of 2 Apr. 1781</a> may be equated with those named in the above resolutions.</p>
+<p>See <a href="default.xqy?keys=TSJN-print-01-05-02-0421" class="document">Weedon to TJ, 2 Apr.</a>; <a href="default.xqy?keys=TSJN-print-01-05-02-0448" class="document">TJ to Weedon, 4 Apr.</a>; <a href="default.xqy?keys=TSJN-print-01-05-02-0463" class="document">TJ to Steuben, 6 Apr.</a>; also, for an earlier proposal to exchange Elligood for Warneck, see <a href="default.xqy?keys=TSJN-print-01-04-02-0785" class="document">Steuben to TJ, 15 Feb.</a>, and <a href="default.xqy?keys=TSJN-print-01-04-02-0817" class="document">TJs reply of 17 Feb.</a></p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-05-02-0380 [accessed 30 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 5 (25 February 178120 May 1781)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-05-02-0379" title="From Daniel L. Hylton, with Jefferson's Instructions to William Davies, 30 March 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-05-02-0381" title="From Thomas Jones, 30 March 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

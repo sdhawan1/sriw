@@ -1,0 +1,126 @@
+From James Callaway, 4 June 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From James Callaway, 4 June 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-06-02-0077&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-06-04-3">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0076" title="From the Virginia Delegates in Congress, [3? June 1781]"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-06-02-0078" title="From Arthur Campbell, 4 June 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-06&amp;mode=TOC">Volume 6 (21 May 17811 March 1784)</a>&gt; <a href="?keys=TSJN-print-01-06-02&amp;mode=TOC">Documents</a>&gt; From James Callaway, 4 June 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-06-02-0077&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0076" title="From the Virginia Delegates in Congress, [3? June 1781]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0078" title="From Arthur Campbell, 4 June 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-06-02-pb-0077">77<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0077.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-06-0077" class="docsummary">
+      
+      <h1>From James Callaway</h1>
+      
+      <div class="docbody">
+        <p><span class="hi-italic" style="font-style: italic;">Bedford, 4 June 1781</span>. Has not been able to send two companies of militia from the county in response to the instructions of 8 May. Those who have marched are a part of those who have just finished serving three months at Portsmouth; has assured them they will be relieved in six weeks and hopes the executive will approve; these men are generally poor  their Subsistance depending Totally upon their own Labour. It has been impossible to get into the field any of the militia subjected to six-month service by court-martial; part of those brought in Broke Jail, and Others Escaped from their Guards. These Disaffected and Disobedient Wretches stay much together and are very troublesome; Near forty of the Enlistments that were made in this County last Summer for Eighteen Months, have long since Deserted and are Secreted by them. Encloses a militia return and asks for new blank commissions.</p>
+      </div>
+      <div class="docback">
+        <div class="note-source" id="TSJN-01-06-0077-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); 3 p.; addressed to TJ favr. of Mr. Innis.; endorsed. Enclosure not found.</p>
+          <p>See <a href="default.xqy?keys=TSJN-print-01-06-02-0001" class="document">Callaway to TJ, 21 May 1781</a>. The last letters written by TJ in his official capacity as Governor were dated 3 June. Letters known to have been addressed to him after that date which were of an official nature, and which were obviously handled by Col. William Fleming or Thomas Nelson, have been summarized or listed in this edition because they do not properly belong to TJs correspondence and in most cases were never in his hands. Exceptions will be made, however, in such cases as those in which the context indicates that the writer, unaware that TJ had left the governorship, conveyed information to or requested advice from TJ himself.</p>
+          <p>For a recent and dependable account of TJs retirement from the governorship, see Malone, <span class="hi-italic" style="font-style: italic;">Jefferson</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, ch. <span class="hi-small-caps" style="font-variant: small-caps;">xxv</span>, in which, however, the traditional overemphasis upon the extent of the collapse of state government is moderately repeated; TJs speech to Ducoigne and his letter to Washington of 28 May, to say nothing of the continued functioning of such important agencies as the war office, indicate that the state of moribundity of government was far from being as total as sometimes indicated. Indeed, the sudden raids on Charlottesville and Point of Fork appear to have obscured the concurrent massing of aids whose foundation had been laid in weeks of previous effort, not only on the part of TJs administration but also on the part of the Continental Board of War, the <span class="pb" title="page number in print edition" id="TSJN-01-06-02-pb-0078">[78<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0078.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Virginia delegates in Congress, and others. Gottschalk notes this, but indicates that the Credit for this burst of energy was due to the new governor of Virginia [Nelson], but not entirely, for the initial steps had been taken even while Jefferson was still governor (Gottschalk, <span class="hi-italic" style="font-style: italic;">Lafayette and the Close of the American Revolution</span>, p. 250). The fact is, however, that the last days of TJs administration and the first weeks of Nelsons have been generally juxtaposed in the minds of historians and public alike as evidence of weakness of the former and strength of the latter (see <span class="hi-italic" style="font-style: italic;">Virginia Cavalcade</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span> [1951], No. 2, p. 402, for a typical representation of the popular view). But even after Cornwallis had turned and begun his retreat, William Davies wrote from Richmond such a comment about the Executive as he had not had occasion previously to express: The enemys light troops are at Petersburg, the Marquis at Holts forge, and the executive at this place without a guard, an express or a single vidette. I think we shall be swept off one of these days. I see nothing in the world to prevent it. There is nobody here knows where the Governor is, nor have we heard the least tittle from him or about him since he left Charlottesville. I hardly know how to account for it (Davies to Steuben, 12 July 1781, <span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ New-York Historical Society, New York City ]">NHi</span>). Even with Tarletons men in Charlottesville and Simcoes at Point of Fork, Davies had not felt as unprotected or as isolated from other parts of government as he did a month after Nelsons election. TJs last few months and Nelsons first few weeks stand in need of reappraisal.</p>
+          <p>Malone correctly points out that TJ would have guarded himself better against later controversy if he had produced a formal statement of his unwillingness to serve longer (<span class="hi-italic" style="font-style: italic;">Jefferson</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 354). There is no evidence that he did so and the exact date of his exit from office can be established only inferentially. For some time he had been giving notice of his intention of retiring, as in his letters to Page of 22 Sep. and 20 Oct. 1780, and to Marbois, 4 Mch. 1781. But these were private communications. Perhaps he regarded no formal statement as necessary, for, as he wrote Washington on 28 May 1781, A few days will bring to me that period of relief which the constitution has prepared for those oppressed with the labours of my office, and a long declared resolution of relinquishing it to abler hands has prepared my way for retirement to a private station. Some significance attaches to the fact that Girardin, in printing this letter, adds a footnote to the effect that Mr. Jeffersons term of office expired on the last day of May, since TJ advised Girardin and corrected parts of his <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> (Burk-Girardin, <span class="hi-italic" style="font-style: italic;">Hist. of Va.</span>, <span class="hi-small-caps" style="font-variant: small-caps;">iv</span>, 493). But it is apparent that, at the time, TJ regarded the period of relief which the Constitution has prepared as beginning for him on 2 June, for he had taken office on that date in 1779 and had been reelected the same date in 1780 (see Vols. <a href="default.xqy?keys=TSJN-print-01-02-02-0112" class="document">2: 277</a> and <a href="default.xqy?keys=TSJN-print-01-03-02-0476" class="document">3: 410</a>). The House of Delegates resolved on 30 May 1781 to proceed on Saturday next (2 June) to ballot for governor and the Senate was informed of this; when the day came, however, action was postponed to Monday, 4 June. TJ continued to function as Governor on Sunday, 3 June, as indicated in the letters written that day. These actions apparently constitute his final acts as Executive and he himself certainly regarded Sunday, 3 June 1781, as his last day in office; on 9 June 1781 he referred to the alarm on the day succeeding my exit from office (Tarletons dragoons appeared early on the morning of 4 June). See also <a href="default.xqy?keys=TSJN-print-01-06-02-0162" class="document">TJ to Marbois, 24 Mch. 1782</a>: I retired from office in the month of June last and was obliged by the movements of the enemy to retire from my house at the same time. Benjamin Harrison, as Speaker of the House and as guest at Monticello until Tarletons raid, was entitled on public and private grounds to know TJs mind on the subject better than anyone else except the Governor himself. On 8 June 1781 Harrison wrote to Joseph Jones: We have now no Executive in the State. For want of a Senate the governor will act no more, and the remainder of the council will not get together. I hope we shall set these matters right next week (<span class="hi-italic" style="font-style: italic;">Letters of Joseph Jones</span>, ed. W. C. <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Paul Leicester Ford, ed.,&lt;i&gt;The Writings of Thomas Jefferson,&lt;/i&gt;Letterpress Edition, N.Y., 18921899 ]">Ford,</span> 1889, p. 83; this letter was sent by Harrison from Staunton express to Jones at Philadelphia, who copied it in his of 20 June to Washington). This significant letter may indicate that TJ had been approached by Harrison, at least informally, <span class="hi-italic" style="font-style: italic;">after</span> Tarletons raid and asked to serve in the interim, for the Senate had been in session on 2 June. It apparently did not meet again until sometime between 8 June, when Harrison wrote, and 12 June, when Nelson was elected Governor (<span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ &lt;i&gt;Journal of the House of Delegates of the Commonwealth of Virginia&lt;/i&gt; (cited by session and date of publication) ]">JHD</span>, May 1781, 1828 edn., p. 10, 11, 15). No Senate <span class="pb" title="page number in print edition" id="TSJN-01-06-02-pb-0079">[79<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0079.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> journal for this session is known to be extant either in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ manuscript (arbitrarily applied to most documents other than letters) ]">MS</abbr> or printed form, but it has been stated that TJ was nominated in the Senate and received some votes there (Eckenrode, <span class="hi-italic" style="font-style: italic;">Revolution in Virginia</span>, p. 227 and Henry, <span class="hi-italic" style="font-style: italic;">Henry</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ii</span>, 143, both cited by Malone, <span class="hi-italic" style="font-style: italic;">Jefferson</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 360; while the Constitution of 1776 required both Houses to elect the Governor by joint ballot, it also stipulated that this ballot was to be made in each House separately). Whether this is fact or not, the explanation for Harrisons statement may be that TJ, who certainly regarded his term of office at an end and he himself reduced by constitutional requirement to private status, felt that he could not continue to act even in the interim without formal validation by both houses, even though he had been willing to act on Sunday and for one extra day beyond his legal term. This was a natural as well as a legal position to take, for while TJ was barred from exercising the Executive powers, those powers could be exercised by one or more continuing members of the Councilwhich, of course, is precisely what happened when William Fleming acted as Executive in the interim between 7 and 12 June 1781.</p>
+          <p>Richard Henry Lee, in his letter to Washington, 12 June 1781, stated that TJ had resigned (Malone, <span class="hi-italic" style="font-style: italic;">Jefferson,</span> <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 358), but there is no evidence to support this. The statement of Madison in a letter to Mazzei, 7 July 1781, is both succinct and accurate: Mr. Jeffersons year having expired, he declined a reelection, and General Nelson has taken his place (Madison, <span class="hi-italic" style="font-style: italic;">Writings</span>, ed. Hunt, I, 143). Had Tarleton delayed his raid only twenty-four hours, TJ would in all likelihood have been spared the charge that he had abandoned the government whereas, as Malone has well said, it would be nearer the truth to say that the government abandoned him (<span class="hi-italic" style="font-style: italic;">Jefferson</span>, <span class="hi-small-caps" style="font-variant: small-caps;">i</span>, 358).</p></div>
+      </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-06-02-0077 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 6 (21 May 17811 March 1784)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0076" title="From the Virginia Delegates in Congress, [3? June 1781]"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0078" title="From Arthur Campbell, 4 June 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

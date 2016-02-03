@@ -1,0 +1,186 @@
+From John Sullivan, with Memoranda on the Moose, 22 June 1784
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Sullivan, with Memoranda on the Moose, 22 June 1784</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-07-02-0259&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1784-06-22-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-07-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0258" title="From John Trumbull, 21 June 1784"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-07-02-0260" title="To David Humphreys, 27 June 1784"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-07&amp;mode=TOC">Volume 7 (2 March 178425 February 1785)</a>&gt; <a href="?keys=TSJN-print-01-07-02&amp;mode=TOC">Documents</a>&gt; From John Sullivan, with Memoranda on the Moose, 22 June 1784</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-07-02-0259&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0258" title="From John Trumbull, 21 June 1784"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-07-02-0260" title="To David Humphreys, 27 June 1784"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-07-02-pb-0317">317<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0317.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-07-0270" class="doc">
+
+<h1>From John Sullivan, with Memoranda on the Moose</h1>
+
+<div class="docbody">
+<div class="letter">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		  <td class="salutationRight">Durham New Hampshire June 22. 1784</td>
+		</tr>
+      </table>
+</div>
+<p>I was some time since honored with your favor of the 27th of April and postponed my answer in order to obtain Mr. Dores answer to your Queries respecting the Moose. I now inclose you Mr. Hasseys answer to my Letter with answers to your Queries <span class="pb" title="page number in print edition" id="TSJN-01-07-02-pb-0318">[318<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0318.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> taken by him from Mr. Dore and the other Hunters in that Quarter. I also send you answers from Gilbert Warren a famous hunter in the province of Main. He once took a pair of those Animals alive and sold them to Governor Wentworth, who sent them to the Marquiss of Rockingham. I have conversed with him in person and he assures me that there are no Grey Moose except females though the Buck is not always Black, yet is ever Darker than the Doe and sometimes almost Black which is never the Case with the Doe. I have procured from the head of the province of Main a Large pair of Mooses horns and a pr. of the Calibous, together with a pair of our Largest Deers horns and will send them to Philadelphia agreably to your directions by the first vessel that sails from hence. This will Demonstrate the great difference between these Animals. The Caribous horns are much smaller than either and differently formed. His hoofs and his manner of Living differs so much from the Moose that it cannot be supposed that they are the same Animal. I fear I shall not be able to obtain the skeletons of a Moose untill the next winter though if I had seasonably known that General Whipple would not have done it I should have procured one last Winter. I am convinced that the Elk <a href="#TSJN-01-07-0270-kw-0001" title="[explained in note]" id="TSJN-01-07-0270-ks-0001" class="keyword">the Kenne</a> and the Deer are the same Animal Though the two former are of the Larger Size and more Especially the first.</p>
+<p>I congratulate Your Excellency on your Late appointment, and more sincerly wish that the success of your Endeavors while in that important office may equal the zeal which you have ever shown in the Cause of your Country.</p>
+<p>Permit me to assure you that, the permission which your Excellency has given me of keeping up a correspondence affords me the highest pleasure and while on my part I make use of the Licence I beg you to believe that a Line from Your Excellency will at all times be deemed an honor. I have the honor to be with the most perfect Esteem &amp; respect Your Excellencys most obedient &amp; very humble servant,</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Jno Sullivan</span></p>
+</div>
+<div class="postscript">
+<p>P.S. I was informed that the shortness of the Moose Neck and the Length of his Legs were such that he could not feed upon Grass or even drink without wading into the water which occasioned in the answers some observations upon that subject as I had mentioned it in my Letter to Mr. Hassey and requested him to inform me respecting the truth of it. J:S:</p>
+</div>
+</div>
+<span class="pb center" title="page number in print edition" id="TSJN-01-07-02-pb-0319">[319<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0319.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>
+<div class="enclosure">
+<h3><span class="hi-all-small-caps" style="font-variant: small-caps; text-transform: lowercase;">Enclosure I</span><br/> Isaac Hasey to John Sullivan, together with<br/> Memoranda on the Moose</h3>
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		  <td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		</tr>
+      </table>
+</div>
+<p>A Pardon for your Freedom in applying to me for Answers to certain Queries I shall readily grant Sensible that I Stand in much more Need of one from you for not Sending them myself immediately. I feel the utmost Readiness to gratify my good Friends. I paid Attention to your Request directly. I depended upon a certain Gentleman to furnish you with Answers. I conclude he did not do it by your asking me whether I had Thot upon the Subject of Your Letter. I have Now inclosed you Answers and Some Account of the Moose Elk and Caribou. I believe it to be nearly Just, collected from Persons who have been well acquainted with those Creatures by your extreamly oblidged Most Obedient and very humble Servant,</p>
+<p style="text-align: right;"><span class="hi-small-caps" style="font-variant: small-caps;">Isaac Hasey</span></p>
+<p>The black Moose divides the Hoofs, the Caribou has a Solid and flat Hoof. The Savages call this Creature Cattivoo the Eastern Hunters call him the Shoveler from the Manner of his pawing away the Snow in Winter in order to get at Moss and Roots which he lives upon. In Size he is about middle way between the Moose and Deer has flat and forked Horns not so long but rather more Spreading than Deer.</p>
+<p>The black and grey Moose differ only in Colour. The grey Moose and Elk are very difrent from the Caribou and from each other. The Elk nearly resembles the Deer; is Taller, some say as tall as an Horse and very Swift. Moose Elk and Deer have divided Hoofs, have no Hair upon the under Parts of their Hoofs, only between them by means of which their Tracks are scented by Dogs in Pursuit of them.</p>
+<p>The Black Moose when full grown is about Ten Feet high Eight Feet in Circumference where largest and of proportionable Length with a Tail 3 or 4 Inches long curling upwards. Upon a Trot which is the common Gate of a Moose tis supposed that he will go Eight Miles in an Hour. He makes no more ratling with his Hoofs than an Ox would in runing.</p>
+<p>Hunters Say they never observed that a Moose Sweat but only lolld or dripd at the Tongue like a Dog.</p>
+<p>They Shed their Horns in Month of Jany: they begin to Sprout in March and get to be about a Foot long in April.</p>
+<p>Their Horns are palmated and Forked and Sometimes so Spreading as to have Eight Feet between their Extremities as a Gentleman told me Who found a Pair of very large Horns on an Head between two Small maple Trees which joind at their Roots and gradualy widened upwards. Between these, as he was browsing upon them, he Sliped his Head in Such a Manner that he coud not free himself and so lost his Life. The Doe never has any Horns. She commonly brings forth two Young ones at a Time.</p>
+<p>Their Food is Browse of any kind in Winter and any Kind of Leaves in Summer tho the Shortness of their Necks and length of their legs woud not prevent their Eating Grass did they Choose it nor hinder them from drinking without wading into the water. There is a Small Tree or <span class="pb" title="page number in print edition" id="TSJN-01-07-02-pb-0320">[320<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-07/TSJN-01-07-02-pb-0320.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Bush with us commonly called Moose Wood. The Extremities of the Limbs are of a pulpous nature. Of these the Moose may eat occasionally but are not confind to them.</p>
+<p>Travelers and Hunters tell me they have not Seen Moose further Southward than Hudsons River.</p>
+<p>They have been tamed but are utterly unfit for any kind of domestic Service.</p>
+<p>Hunters from Shapleigh or Washington or Limerick coud procure the Skeleton or Horns of a Moose without Much Difficulty.</p>
+</div>
+<div class="enclosure">
+<h3><span class="hi-all-small-caps" style="font-variant: small-caps; text-transform: lowercase;">Enclosure II</span></h3>
+<p style="text-align: center; text-indent: 0;">Gilbert Warrens Replies to Questions concerning the Moose</p>
+<ul class="simple">
+	      <li>1. Is not the Carribou and the Black-Moose one and the same Animal?<br/> No. The Carribou is between a Moose and Deer.</li>
+	      <li>2. Is not the Grey-moose and the Elk one and the same animal? and<br/> quite different from the former? They are very different Animals.</li>
+	      <li>3. What is the height of the Moose? Eighteen hands.</li>
+	      <li>4. What is the difference between the black and the grey Moose? The<br/> black is the Male and grey the female of the same species.<br/> Have they a solid or cloven hoof? Cloven.</li>
+	      <li>5. Do their feet make a loud ratling as they run? They do.</li>
+	      <li>6. Is the under part of their hoof covered with hair? It is not.</li>
+	      <li>7. Are they a swift animal? Not very swift.</li>
+	      <li>8. Do they sweat when hard run or only drip at the tongue? They do<br/> not sweat.</li>
+	      <li>9. At what season do they shed their horns? In November.<br/> And when recover them? In May.</li>
+	      <li>10. Has the Doe horns as well as the Buck? No.</li>
+	      <li>11. How many young does she produce at a time? Two.</li>
+	      <li>13. [<span class="hi-italic" style="font-style: italic;">sic</span>] How far southward are they known? I know not.</li>
+	      <li>14. Have they ever been tamed and used for any purpose? They have<br/> been tamed, but not used. I have seen a young one suck a Cow as<br/> gently and kindly as her calf.</li>
+	      <li>15. Are the horns of the Elk Palmated, viz. flatted at the top, or are<br/> they round and pointed? Flattened at the top.</li>
+	      <li>16. Has the Elk always or ever a white spot a foot in diameter round the<br/> root of the Tail? I never saw one.</li>
+	    </ul>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-07-0270-sn">
+<p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>); addressed: His Excellency Thomas Jefferson Esqr. Virginia. To the Care of Mr Samuel House in Philadelphia; postmarked: Portsmouth June 29; endorsed by Samuel House: Recd. 9th. July 1784 (see <a href="default.xqy?keys=TSJN-print-01-07-02-0294" class="document">Samuel House to TJ, 10 Aug. 1784</a>); endorsed by TJ: Sullivan Genl. Noted in <abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Jefferson's Summary Journal of Letters written and received ]">SJL</abbr> as received 24 Oct. 1784. Enclosures (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>): (1) Letter of Isaac Hasey to Sullivan and memoranda concerning the moose, both in Haseys hand, endorsed by Sullivan: Revd Mr Hasseys answers collected from Jonathan Dore and other hunters; (2) queries with replies by Gilbert Warren, both in Sullivans hand, endorsed by Sullivan: The above answers are from Gilbert Warren.</p>
+<p><a id="TSJN-01-07-0270-kw-0001" class="keywordref" title="jump to The Kenne in text" href="#TSJN-01-07-0270-ks-0001">The Kenne</a>: The Alaska or Kenai moose is one of the two American species, measuring as high as 7 feet to the hump and weighing up to 1800 pounds.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-07-02-0259 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 7 (2 March 178425 February 1785)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-07-02-0258" title="From John Trumbull, 21 June 1784"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-07-02-0260" title="To David Humphreys, 27 June 1784"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

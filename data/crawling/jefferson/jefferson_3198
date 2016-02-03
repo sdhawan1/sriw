@@ -1,0 +1,137 @@
+From Nathanael Greene, 27 June 1781
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Nathanael Greene, 27 June 1781</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-06-02-0099&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1781-06-27-2">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-06-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0098" title="From Lafayette, 26 June 1781"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-06-02-0100" title="From Nathanael Greene, 27 [29?] June 1781"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-06&amp;mode=TOC">Volume 6 (21 May 17811 March 1784)</a>&gt; <a href="?keys=TSJN-print-01-06-02&amp;mode=TOC">Documents</a>&gt; From Nathanael Greene, 27 June 1781</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-06-02-0099&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0098" title="From Lafayette, 26 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0100" title="From Nathanael Greene, 27 [29?] June 1781"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-06-02-pb-0101">101<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0101.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-06-0099" class="doc">
+      
+      <h1>From Nathanael Greene</h1>
+      
+      <div class="docbody">
+        <div class="opener">
+          <table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Camp near the Cross Roads between Broad river and the Catawba June 27. 1781.</td>
+	      </tr>
+      </table>
+        </div>
+        <p>The tardiness, and finally the countermanding the Militia ordered to join this army has been attended with the most mortifying and disagreeable consequences. Had they taken the field in time and in force we should have compleated the reduction of all the enemys out posts in this Country; and for want of which we have been obliged to raise the seige of 96 after having closely beseiged it for upwards of twenty days and when four days would have compleated its reduction. For want of the Militia the approaches went on slow and the seige was rendered bloody and tedious. My force has been unequal to the operations we had before us, but necessity obliged me to persevere, tho under every disadvantage; and we should have been finally successfull had not the enemy recieved a large reinforcement at Charlestown generally agreed to amount to 2000 Men, which enabled them to march out and raise the seige. The place might have been taken ten days sooner if our force had been equal to the labor necessary to facilitate its reduction. <span class="pb" title="page number in print edition" id="TSJN-01-06-02-pb-0102">[102<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0102.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Every post the enemy held either in S. Carolina or Georgia have been taken or evacuated except Charlestown, Savannah, and Ninety six, and our success would have been compleat had our force been equal to the plan. However I hope the operations this way will be accompanied with many advantages. Certain it is, the enemy were about to detach from this quarter to Lord Cornwallis a greater force than we have had operating here. The reduction of their posts, destruction of the stores, their loss in killed, wounded and prisoners together with the increase of our friends and the decline of theirs are matters highly injurious to the enemys interest and favourable for ours. And the operations would have been rendered still more so had the militia come forward agreeable to my application and your first order.</p>
+        <p>The high respect which I ever wish to pay to the prerogatives of every State induces me to question with all due deference the propriety of your Excellencys order for countermanding the militia which were directed to join this Army. No general plan can ever be undertaken with safety where partial orders may interrupt its progress; nor is it consistant with the common interest that local motives should influence measures for the benefit of a part to the prejudice of the whole. I conceive it to be the prerogative of a Governor to order the force belonging to a State as he may think necessary for the protection of its inhabitants. But those that are ordered out upon the Continental establishment are only subject to the orders of their Officers. Without this just and necessary distinction there would be endless confusion and ruinous disappointments. I only mention these things to avoid a misunderstanding in future. I have no wish for command further than the interest and happiness of the people are concerned, and I hope every body is convinced of this from my zeal to promote the common safety of the good people of these Southern States. I feel for the circumstances of Virginia, and if I had been supported here in time, I should have been there before this with a great part of our Cavalry. But though I have not had it in my power to join the army, I hope your Legislature are convinced that I have left nothing unattempted to afford you all possible protection. You may remember in some of my former letters that I had solicited the Commander in Chief for the return of the Marquis with his detachment to the Southward from a persuasion you would be oppressed, and I have great reason to believe it had the desired effect. The moment I got intelligence that Lord Cornwallis was moving Northwardly I gave orders for the Marquis to halt and take the Command in Virginia and to detain <span class="pb" title="page number in print edition" id="TSJN-01-06-02-pb-0103">[103<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-06/TSJN-01-06-02-pb-0103.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> the Pensylvania Line and all the Virginia drafts. With this force aided by the militia I was in hopes the Marquis would have been able to have kept the enemy from over running the State.</p>
+        <p>The importance of Cavalry and the consequences that might follow the want of it, your Excellency will do me the justice to say, I early and earnestly endeavoured to impress upon your Legislature, and they must blame themselves if they experience any extraordinary calamities for the want of it. You would have been in a tolerable situation had your Cavalry been sufficiently augmented, and the last reinforcement from N. York had not arrived. This gave the enemy such a decided superiority that there appears nothing left but to avoid a misfortune untill reinforcements can be got from the Northward. I have the highest opinion of the abilities of the Marquis and his zeal, and flatter myself that nothing will be left unattempted to give all the protection to the States that his force will admit. Your militia are numerous and formidable and I hope if Genl. Morgan is out with them, they will be usefull. Tho Virginia is oppressed she is not a frontier State to the Southward, which would have been the case had I not moved this way, and all the force in North and South Carolina and Georgia would have been lost. Besides the disagreeable impression it would have made upon the northern States to see those to the Southward over run. To divide the enemys force as much as possible I have ever considered as favourable to our purposes, as it enables us to employ a greater body of Militia and to more advantage.</p>
+        <p>My heart is with you, and I only lament that the cross-incidents in this quarter have prevented hitherto my pursuing my inclinations that way.</p>
+        <p>I have the honor to be with great respect Your Excellencys Most Obedient Humble Servant,</p>
+        <div class="closer">
+          <p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Nath</span> <span class="hi-small-caps" style="font-variant: small-caps;">Greene</span></p>
+        </div>
+      </div>
+      <div class="docback">
+        <div class="note-source" id="TSJN-01-06-0099-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); at foot of text: His Excellency Governor Jefferson; endorsed.</p></div>
+      </div>
+    </div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-06-02-0099 [accessed 01 Dec 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 6 (21 May 17811 March 1784)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-06-02-0098" title="From Lafayette, 26 June 1781"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-06-02-0100" title="From Nathanael Greene, 27 [29?] June 1781"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 140.180.254.104</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

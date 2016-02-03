@@ -1,0 +1,139 @@
+From Richard Henry Lee, 25 August 1777
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From Richard Henry Lee, 25 August 1777</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-02-02-0024&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1770-1777-08-25-1">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-02-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0023" title="To John Adams, 21 August 1777"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-02-02-0025" title="List of British Prisoners and Their Quarters in Albemarle County, [25 September 1777]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-02&amp;mode=TOC">Volume 2 (177718 June 1779)</a>&gt; <a href="?keys=TSJN-print-01-02-02&amp;mode=TOC">Documents</a>&gt; From Richard Henry Lee, 25 August 1777</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-02-02-0024&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0023" title="To John Adams, 21 August 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0025" title="List of British Prisoners and Their Quarters in Albemarle County, [25 September 1777]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-02-02-pb-0029">29<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0029.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-02-0024" class="doc">
+
+<h1>From Richard Henry Lee</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Dear</span> <span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Phila. August 25. 1777</td>
+	      </tr>
+      </table>
+</div>
+<p>It will not perhaps be disagreeable to you in your retirement, sometimes to hear the events of war, and how in other respects we proceed in the arduous business we are engaged in. Since the loss of Ticonderoga (into the cause of which, and the conduct of the commanding Officers, Congress have ordered inquiry to be made) and Gen. Burgoynes speedy march to Fort Edward, our affairs in that quarter begin to wear a favorable appearance. In addition to Burgoynes force, another Body of Men came down the Mohock river, by way of Oswego, and laid seige to Fort Stanwix, or Schuyler, as it is now called. At this place a battle ensued with the Tryon County Militia, in which the enemy were driven from the ground with the loss of more than 200 Indians and several regulars. Colo. Willet making a Sally from the Fort did great injury to the enemy and took from them a great quantity of baggage with 2 or 3 field pieces. However, the Militia having lost many Men in this Action and their best officers having been killed or wounded, they retired and left the enemy to return and lay Seige to Fort Schuyler, which the Garrison was bravely defending, when Gen. Arnold was detatched with a body of men to relieve the place. We expect every day to hear of his success. To the northward of this, in the N. Hampshire grants, Gen. Stark with 2000 Militia attacked Colo. Baum and 1500 Regular Troops behind works, and with Cannon. The consequence you will find in the <a href="#TSJN-01-02-0024-kw-0001" title="[explained in note]" id="TSJN-01-02-0024-ks-0001" class="keyword">inclosed Hand bill</a>. This was an important victory, well timed, and will probably occasion Mr. Burgoyne to retire very quickly. If he does not, I can venture to <span class="hi-italic" style="font-style: italic;">Augur</span> his destruction. He is at Saratoga and Fort Edward, with our main Army a few miles in his Front at the mouth of Mohock river. I expect Generals Lincoln and Arnold will presently be in his rear, after which, his chance of returning will be very small. Gen. Gates has joined the Northern Army and now commands in that quarter. Putnam with 5000 men commands on the heights of <span class="pb" title="page number in print edition" id="TSJN-01-02-02-pb-0030">[30<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0030.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> Hudsons river above N. York, in which place Gen. Clinton is left with about 3000 men. After Gen. Howe had long raised the curiosity of this part of the world, to know what could be his view in embarking his Army and coasting it for 5 weeks in a most oppressively hot season; at length, he appears at the very head of Chesapeake Bay where he remains with more than 200 sail of Vessels. His Troops not yet landed that we know of, but imagine they were put on shore yesterday. We are left yet to guess his Object. It may be supposed either for this City, or to conduct a line from Chesapeake to Newcastle and thereby inclose a large tract of Country between that Bay, Delaware, and the Sea. Let his plan be what it may, Gen. Washington, with a gallant Army is gone to enter a Caveat. The General with his Army passed thro this City yesterday, and they made a fine appearance. To aid the Army, and make the business secure, Congress has called for Militia from this State, Delaware, Maryland, and the Northern Counties of Virginia. Should Gen. Howe venture to enter the Country against this force, I think his ruin will be sure, notwithstanding we are told his Master depends on the desperate efforts that Generals Howe and Cornwallis must make to redeem their Bankrupt honor. So, we learn from France, the King of England hath said. We have no reason to suppose, from our foreign intelligence that a war in Europe will immediately take place, but that every preparation for it is making remains without doubt; and in the mean time we shall surely receive most substantial Aid from our friends there. The fleet of France grows stronger daily, and with it, the spirit of the Court rises, as appears by the answer made to Lord Stormont when he told the french Minister that the peace cannot continue long if N. America continued to draw supplies from France. <span class="hi-italic" style="font-style: italic;">Nous ne desirons pas la guerre, et nous ne le craignons pas.</span> In truth, every art of falsehood and fraud has been practised to prevent a war there, but it seems clear that this will not <span class="hi-italic" style="font-style: italic;">long</span> prevail. Dr. Lee is returned from Spain and is gone to the Prussian Court. That Monarch is fond of commerce and is desirous of being acquainted with the whole nature of ours. He is offended with the Court of London, and has no reason to fear its resentment. We have good reason to expect considerable advantage from his friendship. If our funds fail us not, and our Union continues, no cause was ever safer than ours. To prevent the former, most extensive and vigorous taxes should immediately take place. The sum in circulation is immense and no corrective can be applied but Taxation, nor was there ever a time when the vast plenty of money rendered that business more easy. <span class="pb" title="page number in print edition" id="TSJN-01-02-02-pb-0031">[31<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-02/TSJN-01-02-02-pb-0031.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> The Loan Office, with that, will I believe answer, and upon the success of our funds will probably depend the Unity of our exertions. The Confederation goes on but slowly, occasioned by the immensity of business created by the war. But I find our right to our Charter bounds, as stated by our Act of Government will be strongly contested. The Charter of 1609 it is said has been vacated, and that no transfer of that Charter right can be shewn from the Company to the people of Virginia. That therefore the ungranted lands were the property of the Crown, and being taken from it by common exertions, must become common Stock. Will you be so kind as favor me with your reasons and authorities in support of our right? I am with great regard &amp; esteem, dear Sir Your most affectionate and obedient [Servt.],</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">Richard</span> <span class="hi-small-caps" style="font-variant: small-caps;">Henry lee</span></p>
+</div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-02-0024-sn">
+
+   <p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Congress ]">DLC</span>). Addressed: Thomas Jefferson esquire in Albemarle County Virginia. Free R. H. Lee. Enclosure missing.</p>
+
+
+   <p>The <a id="TSJN-01-02-0024-kw-0001" class="keywordref" title="jump to inclosed hand bill in text" href="#TSJN-01-02-0024-ks-0001">inclosed hand bill</a> was published by order of Congress, 22 Aug., reproducing a letter of General Schuyler of 18 Aug. with an account of General Starks victory and General Burgoynes instructions to Lt. Col. Baum (Evans 15686; <span class="ref-st" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Worthington C. Ford and others, eds., &lt;i&gt;Journals of the Continental Congress, 17741789&lt;/i&gt;, Washington, D.C., 190437, 34 vols. ]">JCC</span>, <span class="hi-small-caps" style="font-variant: small-caps;">ix</span>, 1086).</p>
+</div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-02-02-0024 [accessed 28 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 2 (177718 June 1779)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-02-02-0023" title="To John Adams, 21 August 1777"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-02-02-0025" title="List of British Prisoners and Their Quarters in Albemarle County, [25 September 1777]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>

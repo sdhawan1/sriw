@@ -1,0 +1,142 @@
+From John Dodge, 1 August 1780
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>From John Dodge, 1 August 1780</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="CSS/epoch_styles.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/autocomplete.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/FGEA.css"/>
+    <meta name="robots" content="index, nofollow"/>
+    <!-- publication-specific CSS follows -->
+    <link rel="stylesheet" type="text/css" href="CSS/TSJN.css"/>
+    <!-- conditional stylesheets follow -->
+    <link rel="stylesheet" type="text/css" href="CSS/Production.css"/>
+    <script type="text/javascript" src="/javascript/boxover.js" xml:space="preserve"></script>
+    <script type="text/javascript" src="javascript/note-functions.js" xml:space="preserve"></script>
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="CSS/MSIE.css"/>
+    <script src="/ie8/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16314176-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 
+    'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+    'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body class="TSJN" id="body-top"><div class="header"><div id="splashLink"><a href="TSJN.html"></a></div><div class="header-logo">
+    <a href="http://www.upress.virginia.edu/rotunda/" title="Rotunda gateway">
+      <img class="logo" src="images/img-logo-trans.png" alt="Rotunda gateway"/>
+    </a>
+  </div><div class="header-menu"><a class="selected" href="default.xqy?keys=TSJN-info-entry">Entry</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-about">About</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-search">Search</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-prefs">Preferences</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-log-out">LogOut</a><span class="star"></span><a href="default.xqy?keys=TSJN-info-entry-help" title="General/navigation help">help</a></div><div class="header-nav"><div class="header-switch" id="hs1">
+            <span class="header-switch">Publication</span><form class="publ" action="">
+	    <fieldset class="compass">
+                <select title="Choose publication" size="1" id="publ" onchange="window.location.href=document.getElementById('publ').value;">
+		<option value="default.xqy?keys=FGEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-weight:bold;">FOUNDERS (ALL)</option>
+		<option value="default.xqy?keys=ADMS-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Adams</option>
+		<option value="default.xqy?keys=ARHN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Hamilton</option>
+		<option value="default.xqy?keys=TSJN-info-entry" selected="selected" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Jefferson</option>
+		<option value="default.xqy?keys=JKSN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Andrew Jackson</option>
+		<option value="default.xqy?keys=JNJY-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Jay</option>
+		<option value="default.xqy?keys=DYMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">DolleyMadison</option>
+		<option value="default.xqy?keys=JSMN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">James Madison</option>
+		<option value="default.xqy?keys=JNML-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">John Marshall</option>
+		<option value="default.xqy?keys=GEWN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Washington</option>
+		<option value="default.xqy?keys=PIHO-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Pinckney-Horry</option>
+		<option value="default.xqy?keys=RNCN-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Ratification</option>
+		<option value="default.xqy?keys=FOEA-info-entry" style="-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px">Early Access</option>
+	      </select>
+              </fieldset>
+	  </form></div><div class="header-switch" id="hs2"><span class="header-switch">View</span><a href="default.xqy?keys=TSJN-print-01-03-02-0601&amp;mode=deref" class="selected">Contents</a><a href="default.xqy?keys=TSJN-chron-1780-1780-08-01-3">Chronology</a><a href="default.xqy?keys=TSJN-index&amp;mode=TOC">Index</a><a href="default.xqy?keys=TSJN-search-1&amp;mode=TOC">Search Results</a></div><div class="header-comp"><table class="compass">
+          <tr class="R1">
+	      <td class="cx1"></td>
+	      <td class="cx2"><a class="point-up" href="?keys=TSJN-print-01-03-02&amp;mode=TOC" title="Documents"></a></td>
+	      <td class="cx3"></td>
+	    </tr>
+          <tr class="R2">
+	      <td class="cx4"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0600" title="To James Callaway, 1 August 1780"></a></td>
+	      <td class="cx5"></td>
+	      <td class="cx6"><a class="point-next" href="?keys=TSJN-print-01-03-02-0602" title="To Charles Lynch, 1 August [1780]"></a></td>
+	    </tr>
+          <tr class="R3">
+	      <td class="cx7"></td>
+	      <td class="cx8"></td>
+	      <td class="cx9"></td>
+	    </tr>
+        </table></div><div class="header-trail" style="font-size: 12px"><div title="trail"><a href="?keys=FGEA-print&amp;mode=TOC">The Founding Era Collection</a>&gt; <a href="?keys=TSJN-print&amp;mode=TOC">The Papers of Thomas Jefferson</a>&gt; <a href="?keys=TSJN-print-01&amp;mode=TOC">Main Series</a>&gt; <a href="?keys=TSJN-print-01-03&amp;mode=TOC">Volume 3 (18 June 177930 September 1780)</a>&gt; <a href="?keys=TSJN-print-01-03-02&amp;mode=TOC">Documents</a>&gt; From John Dodge, 1 August 1780</div></div></div></div><div class="body-norm entry"><div class="printable-document"><a href="/founders/default.xqy?keys=TSJN-print-01-03-02-0601&amp;printable=yes" style="font-weight:normal"><img style="border:0; vertical-align:text-bottom;" src="/img-ML/document-print.png" alt=""/> printable version</a><div class="header-arrows"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0600" title="To James Callaway, 1 August 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0602" title="To Charles Lynch, 1 August [1780]"></a></div></div><form style="display:inline" action="Utilities/goto-page-in-current-volume.xqy">
+	  <div style="display:inline-block; width: 150px; float:right; padding-top:5px;font-family:sans-serif">Go to page:  
+      <input type="text" name="page" size="4" maxlength="5" style="cursor:help; background-color:#FFFFF0" title="enter a page number in current volume"/>
+      </div>
+	</form></div><span class="pb doctop" title="page number in print edition" id="TSJN-01-03-02-pb-0520">520<a style="padding-left: 5px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0520.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a></span><div id="TSJN-01-03-0601" class="doc">
+
+<h1>From John Dodge</h1>
+
+<div class="docbody">
+<div class="opener">
+<table class="salutationBlock">
+        <tr>
+		<td class="salutationLeft"><span class="hi-small-caps" style="font-variant: small-caps;">Sir</span></td>
+		<td class="salutationRight">Fort Jefferson 1st. August 1780.</td>
+	      </tr>
+      </table>
+</div>
+<p>I think it my indispensible duty to lay before you a true state of our situation in this Country since my arrival which probably may throw some lights on the various reports which may reach you through channels not so well acquainted with its real wants as I am.</p>
+<p>On my arrival at the falls of ohio Colo. John Todd gave me instructions to proceed to Kaskaskies in order to take charge of the goods when arrived which were purchased by Mr. Lindsay for this department with farther orders to divide them into two parcels one of which for the troops, and the other to be disposed of to our friendly indian allies, considering it better to sell them on reasonable [terms] than dispose of them in gifts. Horses and ammunition being articles much wanted for the troops I contracted for and received a quantity of lead and some horses before the arrival of the goods and having discretionary powers was constrained to accept of orders drawn on me for provisions which could not otherwise be obtained. Since the goods came into my hands, the troops and Inhabitants at this place not having received the expected supplies from Government, and being well assured that without some timely releif the fort and settlement must be evacuated, I was also constrained at divers times to issue quantities of the goods intended to be disposed of to our indian allies in order to furnish them with the means of subsistance. The few troops that are now here are too inconsiderable to guard themselves nor are the inhabitants much <span class="pb" title="page number in print edition" id="TSJN-01-03-02-pb-0521">[521<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0521.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span> better, notwithstanding they remain in great spirits in expectation of releif from Government and have with great bravery defeated a very large party of savages who made a regular attack on the village at day break on the morning of the 17th ulto. Colo. Clark has divided his few men in the best manner possible so as to preserve the Country. The apprehension of a large body of the enemy in motion from detroit towards the falls of ohio has called him there with what men he could well spare from this country, before he had well breathed after the fatigue of an expedition up the Missisippi, and Colo Crockett not arriving with either men or provisions as was expected, has really involved both the troops and settlers in much distress, and greatly damped the spirits of industry in the latter which till lately was so conspicuous. I see no other alternative from the present appearance of our affairs but that the few goods I have left after supplying the troops must all go for the purchase of provisions to keep this settlement from breaking up, and how I shall ever support my credit, or acquit myself of the obligations I have bound myself under to those of whom I have made purchases for the troops before the arrival of the Goods I know not. Our credit is become so weak among the French inhabitants our own and the spaniards on the opposite side of the missisippi that one dollars worth of provision or other supplies cannot be had from them without prompt payment were it to save the whole country. By which you will perceive that without a constant and full supply of Goods in this quarter to answer the exigencies of Government nothing can ever be well effected but in a very contracted manner.</p>
+<p>I observe that the distance the settlers who come in general to this country have to travel impoverishes them in a great degree. They come at the expence of their all in full hopes and expectations of being assisted by Government. Were these hopes cherished and supplies of necessaries of all kinds furnished them in the manner of the neighboring spaniards to be paid in produce such as might answer for the troops or for exportation many good consequences would be attendant. Emigrants on such encouragement would flock to us in numbers instead of submitting to the spanish yoke. The principal part of their new settlements would join us. All those from the Natchez in particular only wait the encouraging invitation to remove themselves and their properties to our settlement, preferring the mildness of our laws to the rigours of the [Spanish] which they detest notwithstanding their great offers. Such encouragement would be a spur to industry which would never die. The <span class="pb" title="page number in print edition" id="TSJN-01-03-02-pb-0522">[522<a style="padding-left: 0px" onclick="window.open('/img-document-get.xqy?image=TSJN/Pages/TSJN-01-03/TSJN-01-03-02-pb-0522.jpg', 'pageImage', 'scrollbars=1,resizable=1'); return false" onkeypress="this.onclick();" tabindex="0" title="Click to view image of page from print edition"><img src="/img-ML/page-icon.gif" width="18" height="20" style="vertical-align:middle;" alt="page icon"/></a>]</span>troops in a little time would be solely furnished in provisions by our settlers and in process of time a valuable trade might be opened with the overplus. These hints I beg leave to offer to your own better judgment conscious that if they are worthy of notice you will direct their proper uses.<a class="ptr" href="#TSJN-01-03-0601-fn-0001" id="TSJN-01-03-0601-fn-0001-ptr">1</a></p>
+<p>I have got a party of the friendly savages of the Kaskaskie tribe to hunt and scout for us. They are of singular service as the provisions in store are totally exhausted, and indeed their hunting tho it may afford an useful yet is a very precarious supply.</p>
+<p>As to the general disposition of those indians in alliance with us, it appears at present to be very peaceable, but as poverty is always subject to temptation, I fear their good intentions may be seduced by those who have it more in their power to supply their wants being well convinced of the necessity of having proper supplys for them which will not only keep them in our interest, but even afford us a very beneficial traffic.</p>
+<p>The bearer of this travels to the falls of ohio thro the wood. I am uncertain what the fate of my letter will be as I know he has a dangerous and tedious journey before him. However by the next opportunity I shall do myself the honor of writing your Excellency a few more of my observations, begging leave once more to remark the necessity of keeping at all [times] full supplies of goods in this remote quarter in order to forward the service of Government, encourage the settlement of the frontiers, supply our troops with necessaries, provision &amp;c. and finally open a very profitable and extensive trade in little time.</p>
+<p>Forgive the freedom of my remarks which you will please to do me the honor to correct.</p>
+<p>I have the honor to be Your excellencys Most obedient and most humble Ser[vant],</p>
+<div class="closer">
+<p class="signed"><span class="hi-small-caps" style="font-variant: small-caps;">John Dodge</span></p>
+</div>
+<div class="postscript"><p style="text-indent: 1.5em; text-align: left;">* Should your Excellency concur with me in [this] opinion I think some person who understood the circumstances of this country and the goods [necessary?] for this purpose ought to be sent on the occasion to purchase them. And as I purpose attending on Government as soon as the Goods on hand are disposed of which will be very soon, I shall be very happy in rendering any services in my power which your Excellency may think proper to entrust to my management.</p></div>
+</div>
+<div class="docback">
+<div class="note-source" id="TSJN-01-03-0601-sn"><p><abbr title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ recipient's copy ]">RC</abbr> (<span class="ref-rep" title="fade=[ on ] fadespeed=[0.1] windowlock=[on] cssbody=[ boxover ] header=[]  body=[ Library of Virginia, Richmond ]">Vi</span>); endorsed: Mr. Dodge Augt. 1st 1780.</p></div>
+<div id="fn" class="footnote"><a class="note-ref" href="#TSJN-01-03-0601-fn-0001-ptr" id="TSJN-01-03-0601-fn-0001">1</a><p>The passage marked by an asterisk, for which there is no corresponding asterisk in the text, may have been intended as a postscript pertaining to the foregoing paragraph.</p></div>
+</div>
+</div><div class="citation_box"><div><span class="bold">Cite as: </span> 
+      <span class="italic">The Papers of Thomas Jefferson Digital Edition,</span>
+      ed. Barbara B. Oberg and J. Jefferson Looney.
+      Charlottesville: University of Virginia Press, Rotunda, 20082015. 
+    </div><div>
+                  <span class="bold">Canonic URL: </span> http://rotunda.upress.virginia.edu/founders/TSJN-01-03-02-0601 [accessed 29 Nov 2015]
+                </div><div>
+                    <span class="bold">Original source: </span> Main Series, Volume 3 (18 June 177930 September 1780)
+                  </div></div></div><div class="footer"><div class="footer-nav"><div class="header-comp-C1"><a class="point-prev" href="?keys=TSJN-print-01-03-02-0600" title="To James Callaway, 1 August 1780"></a></div><div class="header-comp-C2"></div><div class="header-comp-C3"><a class="point-next" href="?keys=TSJN-print-01-03-02-0602" title="To Charles Lynch, 1 August [1780]"></a></div>
+</div><div class="footer-publ">
+    <p style="font-size: 110%; margin-bottom:4px;">Access provided for:
+    <span style=" color:#2D72A3; font-weight:bold;">Princeton University</span></p>
+  The Papers of Thomas Jefferson Digital Edition<br/>
+    <a href="http://www.upress.virginia.edu/">The University of Virginia Press</a>
+  <br/>Copyright  20092015 by the Rector and Visitors of the
+    University of Virginia<br/>
+    <a href="default.xqy?keys=FGEA-info-remote&amp;ref=file-copyright">Additional copyright notices</a>
+    
+    <a href="http://www.virginia.edu/copyright.html#privacy">Privacy Policy</a>
+    
+    <a href="mailto:rotunda-upress@virginia.edu">
+    Feedback and Support</a>
+    <a href="/bug-report.xqy" onclick="bugWindow = window.open('/bug-report.xqy', 'BugReport', 'resizable=yes,scrollbars=yes,titlebar=yes,location=yes,width=700,height=650'); bugWindow.focus(); return false;">Report a Bug or Error</a><br/>ISBN 978-0-8139-2711-4<br/><span class="user">User  princeton logged in from IP address 128.112.66.66</span><br/>
+    <span class="italic">Rotunda editions were established by generous
+    grants from the <br/> Andrew W. Mellon Foundation and the <br/>
+    Presidents Office of the University of Virginia</span>
+  <br/></div></div></body>
+</html>
