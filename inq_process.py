@@ -27,7 +27,7 @@ for i in range(1, numrows):
     #cell 3 should correspond to "negative" outlook
     
     n = sheet.cell(i, 3).value.encode('utf8', 'ignore')
-    if not (p == ''):
+    if not (n == ''):
         negwds += [word.lower()]
 
 #print poswds
